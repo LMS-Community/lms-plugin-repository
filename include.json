@@ -1,0 +1,104 @@
+{
+	"repositories": [
+		"http://adhawkins.github.io/SimpleLibraryViews/repo.xml",
+		"http://daduke.org/dl/lms-wefunk/repo.xml",
+		"http://github.com/bossanova808/repository.squeeze.bossanova808/raw/master/staging/repo.xml",
+		"http://marcoc1712.it/downloads/repository.xml",
+		"http://mjohnen.bplaced.net/repo/repo.xml",
+		"http://pluginrepository.penguinlovesmusic.de/pluginrepo.xml",
+		"http://ralph.irving.sdf.org/edo/edo-repo.xml",
+		"http://server.vijge.net/static/squeezebox/repo.xml",
+		"http://slimscrobbler.sourceforge.net/repository.xml",
+		"http://superdatetimewu.sourceforge.net/CC_JL_repo.xml",
+		"http://triodeplugins.herger.net/repo.xml",
+		"http://www.dabdig.co.uk/slimserver-rep/repo.xml",
+		"http://www.erspearson.com/xAP/Slim/Updates.xml",
+		"http://www.gwendesign.com/sc/repo/repo.xml",
+		"http://www.herger.net/slim-plugins/repo.xml",
+		"http://www.hickinbottom.com/sc-plugins/repo.xml",
+		"http://www.radiofeeds.co.uk/mypicks/repo.xml",
+		"http://www.spicefly.com/media/scube4x/install.xml",
+		"http://www.stagessound.de/bluegaspode.xml",
+		"https://benklaas.com/fontreplacer/repo.xml",
+		"https://bitflip.net/slim/repo.xml",
+		"https://erland.github.io/squeezebox-downloads/repositories/latest.xml",
+		"https://foobarjo.org/LMS/foobarjo-stable.xml",
+		"https://master.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml",
+		"https://netcologne.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml",
+		"https://netcologne.dl.sourceforge.net/project/sdt-weather-com/repo.xml",
+		"https://raw.githubusercontent.com/aesculus/denonavpcontrol/master/repo.xml",
+		"https://raw.githubusercontent.com/CDrummond/lms-material/master/public.xml",
+		"https://raw.githubusercontent.com/terual/DSDPlayer/master/repo.xml",
+		"https://tuxreborn.netlify.com/slim/slim7/repodata.xml",
+		"https://www.neversimple.eu/LMS/repodata.xml"
+	],
+	"disabled": [
+		"http://grebrown-projects.googlecode.com/svn/repo.xml",
+		"http://www.koldware.net/SlimStuff/repodata.xml",
+		"http://www.whizziwig.com/static/squeezecloud/public.xml",
+		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
+		"http://richiezed.com/squeezefamily/repo.xml",
+		"http://mrw-plugins.googlecode.com/svn/trunk/repo.xml",
+		"http://mrthreeplates.googlecode.com/svn/LMS-plugins/repo.xml",
+		"http://mdmplugins.googlecode.com/svn/trunk/repo.xml",
+		"http://squeezecenter-seeqpod.googlecode.com/svn/trunk/repodata.xml",
+		"http://triodeplugins.googlecode.com/svn/trunk/repo.xml",
+		"http://kdfplugins.googlecode.com/svn/trunk/repo.xml",
+		"http://weathertime.googlecode.com/svn/trunk/repo.xml",
+		"http://ampache-squeezecenter.googlecode.com/svn/tags/repo.xml"
+	],
+	"title": [
+		{
+			"lang": "CS",
+			"content": "Jiné pluginy třetích stran"
+		},
+		{
+			"lang": "DA",
+			"content": "Udvidelsesmoduler fra tredjepart"
+		},
+		{
+			"lang": "DE",
+			"content": "Plugins von Drittanbietern"
+		},
+		{
+			"lang": "EN",
+			"content": "3rd party plugins"
+		},
+		{
+			"lang": "ES",
+			"content": "Complementos de terceros"
+		},
+		{
+			"lang": "FI",
+			"content": "Valmistajien laajennukset"
+		},
+		{
+			"lang": "FR",
+			"content": "Plugins tiers"
+		},
+		{
+			"lang": "IT",
+			"content": "Plugin di terzi"
+		},
+		{
+			"lang": "NL",
+			"content": "Plug-ins van derden"
+		},
+		{
+			"lang": "NO",
+			"content": "Tredjeparts plugin-moduler"
+		},
+		{
+			"lang": "PL",
+			"content": "Pozostałe dodatki innych firm"
+		},
+		{
+			"lang": "RU",
+			"content": "Другие подключаемые модули сторонних изготовителей"
+		},
+		{
+			"lang": "SV",
+			"content": "Tillägg från tredje part"
+		}
+	]
+}
