@@ -857,7 +857,7 @@
       <title lang="EN">Reliable HTTP</title>
     </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="067b0e104335a02242853afa4fcabd6c1523bd03" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-2.zip" version="5.11.2">
-      <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
+      <desc lang="EN">Displays local time, date, weather, sports, and stock information.
 			(5.11.2) - Documented variable %G for Moon Phase description on Settings--&gt;Player--&gt;SDT page.
 			           Added DE ES and NL translations for weather period &quot;Currently&quot;.</desc>
       <title lang="EN">SuperDateTime</title>
