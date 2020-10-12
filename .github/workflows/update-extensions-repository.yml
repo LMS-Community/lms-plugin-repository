@@ -1,0 +1,41 @@
+name: Update LMS Plugin Repository
+
+on:
+  schedule:
+    - cron: "06 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  merge:
+    name: Update plugin repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install depedencies
+        run: sudo apt-get install libjson-perl libxml-simple-perl
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Merge repository files
+        id: merge
+        run: |
+          perl buildrepo.pl
+          echo "::set-output name=LMS_REPO_DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')"
+
+      - name: Push Changes (if needed and reasonable)
+        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < 10 && steps.merge.outputs.LMS_REPO_DIFF_VALUE != 0
+        run: |
+          git config user.name "LMS Extensions Repository Updater"
+          git config user.email "noreply-extensions-updater@logitech.com"
+          git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
+          git push
+
+      - name: Create Pull Request (if needed)
+        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE >= 10
+        uses: peter-evans/create-pull-request@v3
+        with:
+          branch: autoupdate
+          # base: master
+          delete-branch: true
+          title: "LMS Extensions Repository Update: ${{ github.sha }}"
+          commit-message: "LMS Extensions Repository Update: ${{ github.sha }}"

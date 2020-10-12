@@ -5,7 +5,7 @@ use strict;
 use JSON;
 use LWP::UserAgent;
 use XML::Simple;
-use Data::Dumper;
+#use Data::Dumper;
 
 use constant INCLUDE_FILE => 'include.json';
 use constant REPO_FILE    => 'extensions.xml';
