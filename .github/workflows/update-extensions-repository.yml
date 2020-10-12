@@ -20,14 +20,14 @@ jobs:
         id: threshold
         run: echo "LMS_REPO_DIFF_VALUE=$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')" >> $GITHUB_ENV
       - name: Commit changes
-        if: LMS_REPO_DIFF_VALUE > 10
+        if: $LMS_REPO_DIFF_VALUE > 10
         run: |
           git config user.name "LMS Extensions Repository Updater""
           git config user.email "noreply-extensions-updater@logitech.com"
           git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
           git push
       - name: no change
-        if: LMS_REPO_DIFF_VALUE <= 10
+        if: $LMS_REPO_DIFF_VALUE <= 10
         run: |
-          echo ${{ LMS_REPO_DIFF_VALUE }}
+          echo $LMS_REPO_DIFF_VALUE
           git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }'
