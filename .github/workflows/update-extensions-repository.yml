@@ -18,16 +18,16 @@ jobs:
         run: perl buildrepo.pl
       - name: Calculate diff threshold
         id: threshold
-        run: echo ::set-env name=DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')
+        run: echo "LMS_REPO_DIFF_VALUE=$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')" >> $GITHUB_ENV
       - name: Commit changes
-        if: steps.threshold.outputs.DIFF_VALUE > 10
+        if: STATE_LMS_REPO_DIFF_VALUE > 10
         run: |
           git config user.name "LMS Extensions Repository Updater""
           git config user.email "noreply-extensions-updater@logitech.com"
           git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
           git push
       - name: no change
-        if: steps.threshold.outputs.DIFF_VALUE <= 10
+        if: STATE_LMS_REPO_DIFF_VALUE <= 10
         run: |
-          echo ${{ steps.threshold.outputs.DIFF_VALUE }}
+          echo ${{ STATE_LMS_REPO_DIFF_VALUE }}
           git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }'
