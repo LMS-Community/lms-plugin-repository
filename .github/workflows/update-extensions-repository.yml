@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install depedencies
-        run: sudo apt-get install libjson-perl
+        run: sudo apt-get install libjson-perl libxml-simple-perl
       - name: Checkout
         uses: actions/checkout@v2
       - name: Merge repository files
