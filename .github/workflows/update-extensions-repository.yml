@@ -1,7 +1,9 @@
-name: Update LMS plugin repository
+name: Update LMS Plugin Repository
+
 on:
   schedule:
-      - cron: "06 23 * * *"
+    - cron: "06 23 * * *"
+  workflow_dispatch:
 
 jobs:
     merge:
