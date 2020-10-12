@@ -2,7 +2,7 @@ name: Update LMS Plugin Repository
 
 on:
   schedule:
-    - cron: "06 23 * * *"
+    - cron: "06 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         run: echo "::set-output name=LMS_REPO_DIFF_VALUE=$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')"
 
       - name: Push Changes (if possible)
-        if: steps.outputs.threshold.LMS_REPO_DIFF_VALUE > 10
+        if: steps.outputs.threshold.LMS_REPO_DIFF_VALUE > 10 && steps.outputs.threshold.LMS_REPO_DIFF_VALUE > 0
         run: |
           git config user.name "LMS Extensions Repository Updater"
           git config user.email "noreply-extensions-updater@logitech.com"
@@ -34,5 +34,5 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           branch: autoupdate
-          title: "LMS Extensions Repository Update: ${{ github.ref }}"
-          commit-message: "LMS Extensions Repository Update: ${{ github.ref }}"
+          title: "LMS Extensions Repository Update: ${{ github.sha }}"
+          commit-message: "LMS Extensions Repository Update: ${{ github.sha }}"
