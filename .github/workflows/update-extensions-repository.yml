@@ -32,3 +32,6 @@ jobs:
       - name: Create Pull Request (if needed)
         if: steps.outputs.threshold.LMS_REPO_DIFF_VALUE <= 10
         uses: peter-evans/create-pull-request@v3
+        with:
+          title: "LMS Extensions Repository Update: ${GITHUB_SHA}"
+          commit-message: "LMS Extensions Repository Update: ${GITHUB_SHA}"
