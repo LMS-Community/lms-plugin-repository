@@ -18,20 +18,19 @@ jobs:
         run: perl buildrepo.pl
       - name: Calculate diff threshold
         id: threshold
-        run: echo "LMS_REPO_DIFF_VALUE=$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')" >> $GITHUB_ENV
-      - name: Commit changes
-        # if: $LMS_REPO_DIFF_VALUE > 10
+        # run: echo "LMS_REPO_DIFF_VALUE=$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')" >> $GITHUB_ENV
+        run: echo "::set-output name=LMS_REPO_DIFF_VALUE=$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')"
+      - name: Push Changes
+        if: steps.outputs.threshold.LMS_REPO_DIFF_VALUE > 10
         run: |
-          if [ "$LMS_REPO_DIFF_VALUE" -gt "10" ]; then
+          # if [ "$LMS_REPO_DIFF_VALUE" -gt "10" ]; then
             git config user.name "LMS Extensions Repository Updater"
             git config user.email "noreply-extensions-updater@logitech.com"
             git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
             git push
-          fi
-      - name: no change
-        # if: $LMS_REPO_DIFF_VALUE <= 10
-        run: |
-          if [ "$LMS_REPO_DIFF_VALUE" -le 10 ]; then
-            echo $LMS_REPO_DIFF_VALUE
-            git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }'
-          fi
+          # else
+
+          # fi
+      - name: Create Pull Request
+        if: steps.outputs.threshold.LMS_REPO_DIFF_VALUE <= 10
+        run: echo ${{ steps.outputs.threshold.LMS_REPO_DIFF_VALUE }}
