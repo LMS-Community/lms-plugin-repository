@@ -1,0 +1,29 @@
+name: Update LMS plugin repository
+on:
+  schedule:
+      - cron: "06 23 * * *"
+
+jobs:
+    merge:
+      name: Update plugin repository
+      runs-on: ubuntu-latest
+      steps:
+          - name: Checkout
+            uses: actions/checkout@v2
+          - name: Merge repository files
+            run: perl buildrepo.pl
+          - name: Calculate diff threshold
+            id: threshold
+            run: echo ::set-env name=DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')
+          - name: Commit changes
+            if: ${{ steps.threshold.outputs.DIFF_VALUE > 10 }}
+            run: |
+              git config user.name "LMS Extensions Repository Updater""
+              git config user.email "noreply-extensions-updater@logitech.com"
+              git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
+              git push
+          - name: no change
+            if: ${{ steps.threshold.outputs.DIFF_VALUE <= 10 }}
+            run: |
+              echo ${{ steps.threshold.outputs.DIFF_VALUE }}
+              git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }'
