@@ -25,10 +25,14 @@ jobs:
       - name: Push Changes (if needed and reasonable)
         if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < 10
         run: |
-          git config user.name "LMS Extensions Repository Updater"
-          git config user.email "noreply-extensions-updater@logitech.com"
-          git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
-          git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo No changes to commit
+          else
+            git config user.name "LMS Extensions Repository Updater"
+            git config user.email "noreply-extensions-updater@logitech.com"
+            git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
+            git push
+          fi
 
       - name: Create Pull Request (if needed)
         if: steps.merge.outputs.LMS_REPO_DIFF_VALUE >= 10
