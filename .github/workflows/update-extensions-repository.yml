@@ -23,7 +23,7 @@ jobs:
           echo "::set-output name=LMS_REPO_DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')"
 
       - name: Push Changes (if needed and reasonable)
-        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < 10 && steps.merge.outputs.LMS_REPO_DIFF_VALUE != 0
+        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < 10
         run: |
           git config user.name "LMS Extensions Repository Updater"
           git config user.email "noreply-extensions-updater@logitech.com"
