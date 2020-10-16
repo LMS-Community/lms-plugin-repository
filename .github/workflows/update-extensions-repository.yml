@@ -5,6 +5,9 @@ on:
     - cron: "06 */6 * * *"
   workflow_dispatch:
 
+env:
+  MAX_REMOVAL_DIFF: 3
+
 jobs:
   merge:
     name: Update plugin repository
@@ -23,7 +26,7 @@ jobs:
           echo "::set-output name=LMS_REPO_DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')"
 
       - name: Push Changes (if needed and reasonable)
-        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < 10
+        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < env.MAX_REMOVAL_DIFF
         run: |
           if [ -z "$(git status --porcelain)" ]; then
             echo No changes to commit
@@ -35,7 +38,7 @@ jobs:
           fi
 
       - name: Create Pull Request (if needed)
-        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE >= 10
+        if: steps.merge.outputs.LMS_REPO_DIFF_VALUE >= env.MAX_REMOVAL_DIFF
         uses: peter-evans/create-pull-request@v3
         with:
           branch: autoupdate
