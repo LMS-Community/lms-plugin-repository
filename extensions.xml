@@ -865,13 +865,13 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
+    <plugin name="DSDPlayer" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="bebdc4f8dad9381a03867ca11470017f2a6c40fd" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.06/DSDPlayer-1.06.zip" version="1.06">
+      <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
+      <title lang="EN">DSDPlayer</title>
+    </plugin>
     <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="e4a16857792811f113d03ba447e7d93f7b3a6aca" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_2_0.zip" version="2.0">
       <desc lang="EN">This plugin will control a network ready Denon AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the Denon device on/off, adjust and synchronize the volumes, and set the Denon audio modes. Settings in each player.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
-    </plugin>
-    <plugin name="DSDPlayer" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="bebdc4f8dad9381a03867ca11470017f2a6c40fd" url="https://github.com/terual/DSDPlayer/releases/download/1.06/DSDPlayer-1.06.zip" version="1.06">
-      <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
-      <title lang="EN">DSDPlayer</title>
     </plugin>
     <plugin name="AllQuiet" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/AllQuiet.html" maxTarget="8.*" minTarget="7.0" sha="9e27094ff2ee80e17123681ec6e3ae350afc36d2" url="https://tuxreborn.netlify.app/slim/slim7/AllQuiet/AllQuiet-2.1.14.zip" version="2.1.14">
       <changes lang="EN">2.1.14: allow use in LMS 8.* (untested); 2.1.13: new repository URL; 2.1.12: display message on Radio &amp; Touch screens if paused by AllQuiet; 2.1.10: squelch deprecation warnings in 7.4, support --noweb; 2.1.9: change to new numbering scheme; 7a9: fix pause API call bug</changes>
