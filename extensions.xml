@@ -44,14 +44,6 @@
       <desc lang="EN">Demonstration Applet for JiveLite Applet Installer</desc>
       <title lang="EN">JiveLite Demo Applet</title>
     </applet>
-    <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="7.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
-      <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
-      <title lang="EN">Headphone Switcher</title>
-    </applet>
-    <applet name="Weather" creator="bluegaspode / Stefan Hansel" maxTarget="7.*" minTarget="7.0" url="http://www.stagessound.de/squeeze/Weather.zip" version="1.4">
-      <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
-      <title lang="EN">Weather Forecast</title>
-    </applet>
     <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="7.*" minTarget="7.3" sha="622cd1c113973ab5f1143ecc6343988baa0da3fb" url="http://downloads.nixda.ch/FontReplacer-1.3.zip" version="1.3">
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
