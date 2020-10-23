@@ -345,10 +345,10 @@
     </plugin>
     <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4f1f43003cb3c3b386b1d400dc9ba85f732f9380" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.4.zip" version="0.2.4">
       <changes lang="EN">
-				- Add France Musique OpÃ©ra
+				- Add France Musique Opéra
 			</changes>
       <changes lang="FR">
-				- ajouter France Musique OpÃ©ra
+				- ajouter France Musique Opéra
 			</changes>
       <desc lang="EN">Radio France programme and track information</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique</desc>
