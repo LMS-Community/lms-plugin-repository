@@ -343,12 +343,12 @@
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="91314363735e0b34113331096f6f0626001f2b09" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.3.zip" version="0.2.3">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4f1f43003cb3c3b386b1d400dc9ba85f732f9380" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.4.zip" version="0.2.4">
       <changes lang="EN">
-				- Add France Musique La Baroque
+				- Add France Musique OpÃ©ra
 			</changes>
       <changes lang="FR">
-				- ajouter France Musique la Baroque
+				- ajouter France Musique OpÃ©ra
 			</changes>
       <desc lang="EN">Radio France programme and track information</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique</desc>
@@ -852,7 +852,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="0977a2aa589657b41babd15470fa0aa6b812720d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.112.0.zip" version="0.112.0">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="da3db8e13e54283ab9443e42caf756661d55860c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.112.1.zip" version="0.112.1">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
