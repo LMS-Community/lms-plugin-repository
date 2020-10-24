@@ -865,7 +865,7 @@
 			(5.11.3) - Fixed NFL scores for 2020 season.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="92520ce829c299d0e9f26acad5f7f11d8dc7eae5" url="https://github.com/CDrummond/lms-material/releases/download/1.9.1/lms-material-1.9.1.zip" version="1.9.1">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="92f5965ed7a4ffc8cf32056d38de8c1a29f73a60" url="https://github.com/CDrummond/lms-material/releases/download/2.0.0/lms-material-2.0.0.zip" version="2.0.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
