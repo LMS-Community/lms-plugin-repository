@@ -49,7 +49,7 @@ for my $url (sort @{$includes->{repositories}}) {
 			$content =~ s/^\s+|\s+$//g;
 		}
 	} else {
-		$content = $resp->content;
+		$content = $resp->decoded_content;
 	}
 
 	if ($content) {
