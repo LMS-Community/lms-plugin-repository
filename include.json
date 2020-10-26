@@ -10,7 +10,6 @@
 		"http://server.vijge.net/static/squeezebox/repo.xml",
 		"http://slimscrobbler.sourceforge.net/repository.xml",
 		"http://superdatetimewu.sourceforge.net/CC_JL_repo.xml",
-		"http://triodeplugins.herger.net/repo.xml",
 		"http://www.dabdig.co.uk/slimserver-rep/repo.xml",
 		"http://www.erspearson.com/xAP/Slim/Updates.xml",
 		"http://www.gwendesign.com/sc/repo/repo.xml",
@@ -46,6 +45,7 @@
 		"http://mdmplugins.googlecode.com/svn/trunk/repo.xml",
 		"http://squeezecenter-seeqpod.googlecode.com/svn/trunk/repodata.xml",
 		"http://triodeplugins.googlecode.com/svn/trunk/repo.xml",
+		"http://triodeplugins.herger.net/repo.xml",
 		"http://kdfplugins.googlecode.com/svn/trunk/repo.xml",
 		"http://weathertime.googlecode.com/svn/trunk/repo.xml",
 		"http://ampache-squeezecenter.googlecode.com/svn/tags/repo.xml"

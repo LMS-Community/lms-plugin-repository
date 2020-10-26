@@ -24,26 +24,6 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="RetroBrowser" maxTarget="7.3.*" minTarget="7.3" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/RetroBrowser-1.0.zip" version="1.0">
-      <desc lang="EN">Emulate the Squeezebox graphics user interface on your Squeezebox Controller/SqueezePlay</desc>
-      <title lang="EN">Retro Browser</title>
-    </applet>
-    <applet name="BBCRadio" creator="Triode" email="triode1@btinternet.com" maxTarget="7.*" minTarget="7.5.0.8430" sha="81888621ae827e3702f32069388ec3ff359af982" target="baby|fab4|squeezeplay" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeapplets/BBCRadio-v1.16.zip" version="1.16">
-      <desc lang="EN">Listen to BBC Radio live and listen again streams on your Squeezebox.  Live radio and the last 7 days of BBC national, regional and local radio from the UK.</desc>
-      <title lang="EN">BBC Radio</title>
-    </applet>
-    <applet name="EnhancedDigitalOutput" creator="Triode" email="triode1@btinternet.com" maxTarget="7.*" minTarget="7.7" sha="a6af0db8c14e15120abca94d20d824974bb3179c" target="fab4" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeapplets/EnhancedDigitalOutput-v0.8.zip" version="0.8">
-      <desc lang="EN">Support for external USB Dacs and up to 192kHz sampling rates with the digital output.  Note: this app will install a custom linux kernel.  It will also disable analog when using usb/digital out.</desc>
-      <title lang="EN">Enhanced Digital Output</title>
-    </applet>
-    <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeapplets/DisplayOff-v0.1.zip" version="0.1">
-      <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
-      <title lang="EN">Display Off</title>
-    </applet>
-    <applet name="DemoApplet" maxTarget="0.*" minTarget="0.1" sha="2acea8b940396f8b60738f310b5dc8be5e398d2b" target="jivelite" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeapplets/DemoApplet-v0.1.zip" version="0.1">
-      <desc lang="EN">Demonstration Applet for JiveLite Applet Installer</desc>
-      <title lang="EN">JiveLite Demo Applet</title>
-    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="7.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -290,58 +270,6 @@
       <changes lang="EN" />
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
-    </plugin>
-    <plugin name="BBCiPlayer" creator="Triode" email="triode1@btinternet.com" maxTarget="*" minTarget="7.4" sha="37ed1e479b110934f64b3eed5eff1c026b523d82" url="http://triodeplugins.herger.net/BBCiPlayer-v1.3.1alpha3.zip" version="1.3.1alpha3">
-      <desc lang="EN">Listen to BBC iPlayer Live and Listen Again Radio streams.  Supports the highest quality streams available from the BBC for your location.  Users outside the UK are now able to receive restricted bitrate versions of all of the content available to UK users.  This includes listen again recordings of the last 7 days of BBC National, Regional and Local Radio from the UK.</desc>
-      <title lang="EN">BBCiPlayer</title>
-    </plugin>
-    <plugin name="InfoBrowserSlimForums" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.3" sha="d19aa92554f19aaaa89a12a341919024958708b1" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/InfoBrowserSlimForums-v1.1.zip" version="1.1">
-      <desc lang="EN">InfoBrowser Addon for reading the latest posts on Slim Devices Forums</desc>
-      <title lang="EN">Slim Forums</title>
-    </plugin>
-    <plugin name="InfoBrowserBBC" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.3" sha="bf9c404fd34864864fd63bcb0c22a8964ece0dc6" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/InfoBrowserBBC-1.2.zip" version="1.2">
-      <desc lang="EN">InfoBrowser Addon for reading BBC News and Sports pages</desc>
-      <title lang="EN">BBC News and Sport</title>
-    </plugin>
-    <plugin name="InfoBrowserTvGuideCoUk" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.3" sha="719ab6bcb33d90b724b873348df925cc2f344b6b" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/InfoBrowserTvGuideCoUk-1.0.zip" version="1.0">
-      <desc lang="EN">InfoBrowser Addon for reading UK TV listings from TvGuide.co.uk</desc>
-      <title lang="EN">TvGuide.co.uk</title>
-    </plugin>
-    <plugin name="SigGen" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.3" sha="e6867a6ff30fc021e5fd2beea856913a49bae320" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/SigGen-1.2.zip" version="1.2">
-      <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
-      <title lang="EN">Signal Generator</title>
-    </plugin>
-    <plugin name="SwitchPlayer" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.3" sha="bb9e3ceb37c44db9e23e9c20cfde93636f7a25f4" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/SwitchPlayer-v0.3.zip" version="0.3">
-      <desc lang="EN">Switch Player allows you to transfer the currently playing playlist from one player to another as you move between rooms.  It ensures the new player is powered on, transfers the current playlist and playing song or remote stream to the new player and then turns off the old player.</desc>
-      <title lang="EN">Switch Player</title>
-    </plugin>
-    <plugin name="JazzFM" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.5" sha="0d22a0cf4a1a13fbf8e9f526348d5a1226128244" url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/triodeplugins/JazzFM-v0.3.zip" version="0.3">
-      <desc lang="EN">Listen to Live and Audio on Demand streams from JazzFM.  Requires the BBCiPlayer plugin to also be installed.</desc>
-      <title lang="EN">JazzFM</title>
-    </plugin>
-    <plugin name="LocalPlayer" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.5" sha="cccd272fc78a76c430d0a5e53d97503a2d8a5403" target="unix" url="http://triodeplugins.herger.net/LocalPlayer-linux-v1.6.5.zip" version="1.6.5">
-      <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
-      <title lang="EN">Local Player</title>
-    </plugin>
-    <plugin name="LocalPlayer" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.5" sha="3f9bf6d6beac9759133a0f8dee4732acfae55f07" target="win" url="http://triodeplugins.herger.net/LocalPlayer-windows-v1.6.5.zip" version="1.6.5">
-      <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
-      <title lang="EN">Local Player</title>
-    </plugin>
-    <plugin name="LocalPlayer" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.5" sha="13be83a21cd22933d5b7357a10e41832d1fbd629" target="mac" url="http://triodeplugins.herger.net/LocalPlayer-mac-v1.6.5.zip" version="1.6.5">
-      <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
-      <title lang="EN">Local Player</title>
-    </plugin>
-    <plugin name="DSDPlayer" creator="Kimmo, Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="297c15519af8ea649f38a69e51c2ec742a577aae" target="unix" url="http://triodeplugins.herger.net/DSDPlayer-linux-v1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
-      <title lang="EN">DSDPlayer</title>
-    </plugin>
-    <plugin name="DSDPlayer" creator="Kimmo, Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="f27f4d5e0c67ca5a9bcee751037044b4a6690ac3" target="windows" url="http://triodeplugins.herger.net/DSDPlayer-windows-v1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
-      <title lang="EN">DSDPlayer</title>
-    </plugin>
-    <plugin name="DSDPlayer" creator="Kimmo, Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="4b39f12a9ff4c18fa71878731f7a8db90fe435cb" target="mac" url="http://triodeplugins.herger.net/DSDPlayer-mac-v1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
-      <title lang="EN">DSDPlayer</title>
     </plugin>
     <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4f1f43003cb3c3b386b1d400dc9ba85f732f9380" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.4.zip" version="0.2.4">
       <changes lang="EN">
