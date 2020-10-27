@@ -32,6 +32,7 @@
 		"https://raw.githubusercontent.com/LMS-Community/plugin-LocalPlayer/master/repo.xml",
 		"https://raw.githubusercontent.com/LMS-Community/plugin-SigGen/master/repo.xml",
 		"https://tuxreborn.netlify.com/slim/slim7/repodata.xml",
+		"http://plugins.expectingtofly.co.uk/stablerepo.xml",
 		"https://www.neversimple.eu/LMS/repodata.xml"
 	],
 	"disabled": [
