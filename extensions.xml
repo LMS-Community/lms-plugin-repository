@@ -254,12 +254,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="expectingtofly" link="http://plugins.expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="b7106d3f4a63c716b99d6743428cc6917eeda4fd" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_1_0_0.zip" version="1.0.0">
+    <plugin name="BBCSounds" creator="expectingtofly" link="http://plugins.expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="cfcceff8847032138d0abebf675b353fd6671a4c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_1_1_0.zip" version="1.1.0">
       <desc lang="EN">BBC Sounds as a Plugin.  Includes the following BBC Sounds facilities : Search; My Sounds (with subscribe and bookmark); Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories;  REQUIRES BBC IPlayer Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="expectingtofly" link="http://plugins.expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="cf7673c440fa18cdbbd585fad83b9920f55d4d78" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_1_0_0.zip" version="1.0.0">
-      <desc lang="EN">Times Radio 7 Day Catchup</desc>
+      <desc lang="EN">Times Radio (UK) 7 Day Catchup</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
     <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="0cdbddaa60f42cf0962c595564e5ce5d4eec7fa4" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.3.0.zip" version="0.3.0">
