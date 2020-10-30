@@ -254,7 +254,7 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="expectingtofly" link="http://plugins.expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="cfcceff8847032138d0abebf675b353fd6671a4c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_1_1_0.zip" version="1.1.0">
+    <plugin name="BBCSounds" creator="expectingtofly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="cfcceff8847032138d0abebf675b353fd6671a4c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_1_1_0.zip" version="1.1.0">
       <desc lang="EN">BBC Sounds as a Plugin.  Includes the following BBC Sounds facilities : Search; My Sounds (with subscribe and bookmark); Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories;  REQUIRES BBC IPlayer Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
