@@ -255,7 +255,7 @@
       <title lang="EN">Phil's Libraries</title>
     </plugin>
     <plugin name="BBCSounds" creator="expectingtofly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="cfcceff8847032138d0abebf675b353fd6671a4c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_1_1_0.zip" version="1.1.0">
-      <desc lang="EN">BBC Sounds as a Plugin.  Includes the following BBC Sounds facilities : Search; My Sounds (with subscribe and bookmark); Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories;  REQUIRES BBC IPlayer Plugin</desc>
+      <desc lang="EN">BBC Sounds as a Plugin.  Includes the following BBC Sounds facilities : Search; My Sounds (with subscribe and bookmark); Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories;  REQUIRES BBC IPlayer Plugin version 1.6 or higher</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="expectingtofly" link="http://plugins.expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="cf7673c440fa18cdbbd585fad83b9920f55d4d78" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_1_0_0.zip" version="1.0.0">
@@ -772,7 +772,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="a74ab458ddea3fde1bfdf866cd9084d4828f7040" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.124.0.zip" version="0.124.0">
+    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="853579a4421b32f03eb57450bdfbc95af03e6810" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.124.1.zip" version="0.124.1">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
