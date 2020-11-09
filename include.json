@@ -34,7 +34,8 @@
 		"https://tuxreborn.netlify.com/slim/slim7/repodata.xml",
 		"http://plugins.expectingtofly.co.uk/stablerepo.xml",
 		"https://raw.githubusercontent.com/doctorjames/AutoRescan/master/repo.xml",
-		"https://www.neversimple.eu/LMS/repodata.xml"
+		"https://www.neversimple.eu/LMS/repodata.xml",
+		"https://downloads.sourceforge.net/project/sdt-weather-com/repo.xml"
 	],
 	"disabled": [
 		"http://grebrown-projects.googlecode.com/svn/repo.xml",
