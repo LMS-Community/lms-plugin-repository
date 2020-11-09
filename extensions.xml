@@ -792,9 +792,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="61e7bd8045fce6c597fea817273a166bffd6e7d2" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-3.zip" version="5.11.3">
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="15ce9b71a62b9bab8c0bc72753b711b5814be4ec" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-4.zip" version="5.11.4">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.3) - Fixed NFL scores for 2020 season.</desc>
+			(5.11.4) - Fixed detection of active NFL games.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="fb6b0420f88362c124c6959090991e0bb6573a40" url="https://github.com/CDrummond/lms-material/releases/download/2.0.2/lms-material-2.0.2.zip" version="2.0.2">
