@@ -258,8 +258,8 @@
       <desc lang="EN">BBC Sounds as a Plugin.  Includes the following BBC Sounds features : Search; My Sounds (with subscribe and bookmark); Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="TimesRadio" creator="expectingtofly" link="http://plugins.expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="cf7673c440fa18cdbbd585fad83b9920f55d4d78" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_1_0_0.zip" version="1.0.0">
-      <desc lang="EN">Times Radio (UK) 7 Day Catchup</desc>
+    <plugin name="TimesRadio" creator="expectingtofly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="14bcb9950c43affeab23c06c50800ca4485ec2a1" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_0_0.zip" version="2.0.0">
+      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
     <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="0cdbddaa60f42cf0962c595564e5ce5d4eec7fa4" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.3.0.zip" version="0.3.0">
