@@ -413,7 +413,7 @@
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
-    <plugin name="SpottyAARCH64Bin" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="e6d4132e73afcaf8ee80d84f738ab6cc28fe7eab" target="unix" url="http://www.herger.net/_data/SpottyAARCH64Bin-0.30.0.zip" version="0.30.0">
+    <plugin name="SpottyAARCH64Bin" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="151d7f1644fd853be14e88bcf3266fdae3e2241c" target="unix" url="http://www.herger.net/_data/SpottyAARCH64Bin-0.30.2.zip" version="0.30.2">
       <desc lang="EN">Spotty Helper Application for ARMv8/aarch64 based systems. Well known products include Pine64, Rock64, AllWinner A64 SoC based devices, some Synology NAS models.</desc>
       <title lang="EN">Spotty Helper Application for ARMv8/aarch64 architecture</title>
     </plugin>
