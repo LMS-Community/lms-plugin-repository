@@ -409,7 +409,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.1: simplify access to &quot;Home&quot; menu - no web token required. v4.4.3: fix browsing Weekly Discovery playlist." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="0f6e1f241b5f9252559047272d5f45df64eb423a" url="http://downloads.nixda.ch/Spotty-4.4.3.zip" version="4.4.3">
+    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.1: simplify access to &quot;Home&quot; menu - no web token required. v4.4.3: fix browsing Weekly Discovery playlist. v4.4.4: fix playlists hierarchy when there's no playlist in a folder." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="92e6cdf9cf582a1e36fba8223745bc94ad7323a5" url="http://downloads.nixda.ch/Spotty-4.4.4.zip" version="4.4.4">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
