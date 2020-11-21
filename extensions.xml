@@ -254,8 +254,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="71f628791eb7fcd51db8994d6118a9b2b757fe46" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_1_1.zip" version="2.1.1">
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (New 2.1.0 Global Search,  Unsubscribe.  2.1.1 bugfix for world service)</desc>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="7f525dd7b03eef7465ebdb73e659804f0abadad4" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_5_0.zip" version="2.5.0">
+      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (New 2.5.0 Seekable Live Streams)</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="14bcb9950c43affeab23c06c50800ca4485ec2a1" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_0_0.zip" version="2.0.0">
