@@ -788,7 +788,7 @@
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
-    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="1fed354792eb138a7e739768e28f49f6d01a50f9" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.zip" version="0.18">
+    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="41f33ffedc9c9175daee801289ae64d1c6f04ddc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.1.zip" version="0.18.1">
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
