@@ -254,8 +254,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="0ac9e40a0df5e98154f80a188eb7a2a83d0ed3be" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_6_0.zip" version="2.6.0">
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (NEW 2.6.0 &quot;Now Playing&quot; track data on live and catch-up  2.5.0 Seekable Live Streams)</desc>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="eddad44f4a19951df01d3c207254adba44eb603d" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_6_5.zip" version="2.6.5">
+      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (NEW 2.6.5 Improved Category Browsing, track data and Spotty integration 2.6.0 &quot;Now Playing&quot; track data on live and catch-up  2.5.0 Seekable Live Streams)</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="14bcb9950c43affeab23c06c50800ca4485ec2a1" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_0_0.zip" version="2.0.0">
