@@ -784,11 +784,11 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="f8cde75d535ab70534da3c1226c8f5c6fe9fcc29" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.112.2.zip" version="0.112.2">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="575f44f5ecdda648449a2fb8e6df0684630ecbe7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.120.0.zip" version="0.120.0">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
-    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="41f33ffedc9c9175daee801289ae64d1c6f04ddc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.1.zip" version="0.18.1">
+    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="e584c1a20929c714acc9ff6cf0d4a7d81be1a066" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.1.zip" version="0.18.1">
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
