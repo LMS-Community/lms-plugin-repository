@@ -784,7 +784,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="26b8dfa16e59709b0ab8a9e5e00d55be9815262b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.120.3.zip" version="0.120.3">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="968b45bfa90ec0c417361c9aa9f7e0791d59d36b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.120.5.zip" version="0.120.5">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -797,7 +797,7 @@
 			(5.11.4) - Fixed detection of active NFL games.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="fb6b0420f88362c124c6959090991e0bb6573a40" url="https://github.com/CDrummond/lms-material/releases/download/2.0.2/lms-material-2.0.2.zip" version="2.0.2">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="24d1c78062b634ced97e98c3483bc5619c86b9bc" url="https://github.com/CDrummond/lms-material/releases/download/2.1.0/lms-material-2.1.0.zip" version="2.1.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
