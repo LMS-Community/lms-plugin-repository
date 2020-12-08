@@ -8,6 +8,18 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
+    <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
+      <changes lang="EN">Initial Release.</changes>
+      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
+      <title lang="EN">CustomClock</title>
+    </applet>
+    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
+      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
+                        </changes>
+      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
+                        </desc>
+      <title lang="EN">License Manager</title>
+    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="7.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -257,6 +269,11 @@
     <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" maxTarget="*" minTarget="7.5" sha="8988ee415e4a633a141dcdfa7ded0e72952cbdaa" url="http://danielvijge.github.io/SqueezeCloud/SqueezeCloud-0.10.0.zip" version="0.10.0">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
+    </plugin>
+    <plugin name="SqueezeScrobbler" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
+      <changes lang="EN" />
+      <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
+      <title lang="EN">SqueezeScrobbler</title>
     </plugin>
     <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4f1f43003cb3c3b386b1d400dc9ba85f732f9380" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.4.zip" version="0.2.4">
       <changes lang="EN">
@@ -755,7 +772,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="33f775aa4a4e3710b84e7a92249673a5aae6c45f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.126.1.zip" version="0.126.1">
+    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="b6f5e46f83f768943a25d8f9987eefd3da3b2d9f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.126.2.zip" version="0.126.2">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
@@ -767,7 +784,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="66a17ac2b962e0878f416bf37480ac62cb228a7d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.201.0.zip" version="0.201.0">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="838d6cdd0b046f43305840ac705e9379fbbf24ac" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.202.0.zip" version="0.202.0">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
