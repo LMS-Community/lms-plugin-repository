@@ -254,8 +254,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin" maxTarget="8.*" minTarget="7.9" sha="77961464d12bb6ca2fd43cbe499a02bc20ccfea2" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_7_0.zip" version="2.7.0">
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (NEW 2.7.0 Tracklists and bbc url compatability 2.6.7 Added new preference options 2.6.5 Improved Category Browsing, track data and Spotty integration)</desc>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="c596bf12ab914b3e65f6508ad787e732127c96c5" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_7_1.zip" version="2.7.1">
+      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (NEW 2.7.1 Bugfixes  2.7.0 Tracklists and bbc url compatability 2.6.5 Improved Category Browsing, track data and Spotty integration)</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="d26f3b81d24f3e23623690bf9b947201d2c7f1fb" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_0_2.zip" version="2.0.2">
@@ -440,34 +440,6 @@
       <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen Gerät weiterspielen.</desc>
       <title lang="EN">Music Walk With Me</title>
       <title lang="DE">Musik marschier mit mir</title>
-    </plugin>
-    <plugin name="LazySearch2" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.3+" minTarget="7.3" sha="a45bb0ee7e80e0eb9f01560e2eed7ccc3c6f2dc0" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.2.zip" version="3.5.2">
-      <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
-      <title lang="EN">LazySearch2</title>
-    </plugin>
-    <plugin name="LazySearch2" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.4+" minTarget="7.4" sha="3f468de94ee53f8a7fc7e7ce52a4f05a10bd59fe" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.3.zip" version="3.5.3">
-      <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
-      <title lang="EN">LazySearch2</title>
-    </plugin>
-    <plugin name="LazySearch2" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.5+" minTarget="7.5" sha="ab731de74841aa968f27070fded15304512e82db" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.6.zip" version="3.5.6">
-      <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
-      <title lang="EN">LazySearch2</title>
-    </plugin>
-    <plugin name="LazySearch2" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.9+" minTarget="7.6" sha="2d1d47507ff55790374b5ac2af48f7a921996262" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.5.zip" version="3.6.5">
-      <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
-      <title lang="EN">LazySearch2</title>
-    </plugin>
-    <plugin name="LazySearch2" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.0+" minTarget="7.6" sha="ca33644f5d6b3d58360f984e6e61e32cd3b4bd33" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.6.zip" version="3.6.6">
-      <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
-      <title lang="EN">LazySearch2</title>
-    </plugin>
-    <plugin name="AutoRescan" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/autorescan" maxTarget="7.5+" minTarget="7.3" sha="0216e7d946c5f9457301d56712b11476f68d84f3" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.1.zip" version="1.1">
-      <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
-      <title lang="EN">AutoRescan</title>
-    </plugin>
-    <plugin name="AutoRescan" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
-      <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
-      <title lang="EN">AutoRescan</title>
     </plugin>
     <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="8f2a58fdfce7f306b2d4ba29f7b6a863cd63081f" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS.zip" version="1.02">
       <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ streams. We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
