@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<extensions>
+	<details>
+		<title lang="DE">&lt;span style=&quot;color:red&quot;&gt;Nicht unterstützte Erweiterungen - dies sind Erweiterungen, welche von ihren Autoren nicht mehr unterstützt werden. Sie können Logitech Media Server potentiell schaden! Benutzung auf eigene Verantwortung!&lt;/span&gt;</title>
+		<title lang="EN">&lt;span style=&quot;color:red&quot;&gt;Unsupported Plugins - these extensions are NOT supported by their authors any more and can potentially break your Logitech Media Server! Use at your own risk!&lt;/span&gt;</title>
+	</details>
+
+	<plugins>
+		<plugin name="TrackStat" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="8.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
+			<changes lang="EN">- Available for free, no longer requires a license</changes>
+			<desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
+			<title lang="EN">TrackStat</title>
+		</plugin>
+	</plugins>
+</extensions>
