@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <extensions>
 	<details>
-		<title lang="DE">Nicht unterstützte Erweiterungen - dies sind Erweiterungen, welche von ihren Autoren nicht mehr unterstützt werden. Sie können Logitech Media Server potentiell schaden! Benutzung auf eigene Verantwortung!</title>
-		<title lang="EN">Unsupported Plugins - these extensions are NOT supported by their authors any more and can potentially break your Logitech Media Server! Use at your own risk!</title>
+		<title lang="DE">&lt;span style=&quot;color:red&quot;&gt;Nicht unterstützte Erweiterungen - dies sind Erweiterungen, welche von ihren Autoren nicht mehr unterstützt werden. Sie können Logitech Media Server potentiell schaden! Benutzung auf eigene Verantwortung!&lt;/span&gt;</title>
+		<title lang="EN">&lt;span style=&quot;color:red&quot;&gt;Unsupported Plugins - these extensions are NOT supported by their authors any more and can potentially break your Logitech Media Server! Use at your own risk!&lt;/span&gt;</title>
 	</details>
 
 	<plugins>
