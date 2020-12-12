@@ -797,7 +797,7 @@
 			(5.11.5) - Added rounding to nearest 5% for % chance of precipitation.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="24d1c78062b634ced97e98c3483bc5619c86b9bc" url="https://github.com/CDrummond/lms-material/releases/download/2.1.0/lms-material-2.1.0.zip" version="2.1.0">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="4288be3fe9371323d886195163059ee361374d5f" url="https://github.com/CDrummond/lms-material/releases/download/2.1.1/lms-material-2.1.1.zip" version="2.1.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
