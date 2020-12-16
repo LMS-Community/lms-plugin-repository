@@ -8,6 +8,18 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
+    <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
+      <changes lang="EN">Initial Release.</changes>
+      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
+      <title lang="EN">CustomClock</title>
+    </applet>
+    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
+      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
+                        </changes>
+      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
+                        </desc>
+      <title lang="EN">License Manager</title>
+    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="7.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -756,7 +768,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="a5213b32f0d42357129fd13606046c7b5642c40e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.44.5.zip" version="1.44.5">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="2d42c9493ea2f27cdd3b15da7047d1e2c76466a4" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.44.6.zip" version="1.44.6">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -768,7 +780,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="8ec7f565601df4d7ec42a8b6f5bbf1d14384d3ef" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.44.5.zip" version="1.44.5">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="7a0f10c45f9b7db9ab8cae8a6506dd5b6afe3786" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.44.6.zip" version="1.44.6">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
