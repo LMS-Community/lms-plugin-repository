@@ -98,14 +98,6 @@
     <title lang="SV">Tillägg från tredje part</title>
   </details>
   <patches>
-    <patch name="KolossosOvalVUMeter" creator="Original Images by Arie Kool" maxTarget="*" minTarget="7.5" target="fab4" url="http://ralph.irving.sdf.org/edo/KolossosOvalVUMeter-1.0.zip" version="1.0">
-      <desc lang="EN">piCorePlayer Joggler skin Oval VU resized for touch.</desc>
-      <title lang="EN">Kolossos Oval VU for touch</title>
-    </patch>
-    <patch name="RandomAlbumsTopOfList" creator="Ralph Irving" maxTarget="*" minTarget="7.7" sha="c9683f1e64a9a292bd927209cda0c37a00738aa2" target="baby|fab4" url="http://ralph.irving.sdf.org/extensions/RandomAlbums.patch" version="1.0">
-      <desc lang="EN">Force jive to forget the menu position for Random Albums.</desc>
-      <title lang="EN">Random Albums Position Reset</title>
-    </patch>
     <patch name="ReduceBrightness" creator="Daniel Vijge" maxTarget="*" minTarget="7.5" sha="0d48a72a5ae95f92f9851b09b35e2d493103cc20" target="fab4" url="http://server.vijge.net/static/squeezebox/ReduceBrightness-fab4-1.3.patch" version="1.3">
       <desc lang="EN">Reduce brightness when the screensaver is active</desc>
       <title lang="EN">Reduce Screensaver Brightness</title>
@@ -812,6 +804,10 @@
     <plugin name="AutoRescan" creator="James Marsh; Stuart Hickinbottom" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
+    </plugin>
+    <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="24a0f06b55f480c93e4708f7b5ccf9806ca6840e" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.2/plugin-CommunityFirmware-0.0.2.zip" version="0.0.2">
+      <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
+      <title lang="EN">Community Firmware</title>
     </plugin>
     <plugin name="AllQuiet" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/AllQuiet.html" maxTarget="8.*" minTarget="7.0" sha="9e27094ff2ee80e17123681ec6e3ae350afc36d2" url="https://tuxreborn.netlify.app/slim/slim7/AllQuiet/AllQuiet-2.1.14.zip" version="2.1.14">
       <changes lang="EN">2.1.14: allow use in LMS 8.* (untested); 2.1.13: new repository URL; 2.1.12: display message on Radio &amp; Touch screens if paused by AllQuiet; 2.1.10: squelch deprecation warnings in 7.4, support --noweb; 2.1.9: change to new numbering scheme; 7a9: fix pause API call bug</changes>
