@@ -8,18 +8,6 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
-    <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
-      <changes lang="EN">Initial Release.</changes>
-      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
-      <title lang="EN">CustomClock</title>
-    </applet>
-    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
-      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
-                        </changes>
-      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
-                        </desc>
-      <title lang="EN">License Manager</title>
-    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="7.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -254,8 +242,9 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="dd67129255b8b194088a846b7cd4cafcd9d7c3c6" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_7_2.zip" version="2.7.2">
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. (NEW 2.7.2 Track Info Preferences, Bugfixes;  2.7.0 Tracklists and bbc url compatability)</desc>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="18dd580705ef1be3ad9fa9a7e4a3d9c56f77fc18" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_8_0.zip" version="2.8.0">
+      <changes lang="EN">2.8.0 Synopses on Play Menu; Track Info preferences; Tracklist on Info Menu</changes>
+      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="d26f3b81d24f3e23623690bf9b947201d2c7f1fb" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_0_2.zip" version="2.0.2">
@@ -269,11 +258,6 @@
     <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" maxTarget="*" minTarget="7.5" sha="8988ee415e4a633a141dcdfa7ded0e72952cbdaa" url="http://danielvijge.github.io/SqueezeCloud/SqueezeCloud-0.10.0.zip" version="0.10.0">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
-    </plugin>
-    <plugin name="SqueezeScrobbler" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
-      <changes lang="EN" />
-      <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
-      <title lang="EN">SqueezeScrobbler</title>
     </plugin>
     <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4f1f43003cb3c3b386b1d400dc9ba85f732f9380" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.4.zip" version="0.2.4">
       <changes lang="EN">
