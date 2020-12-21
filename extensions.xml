@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="18dd580705ef1be3ad9fa9a7e4a3d9c56f77fc18" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_8_0.zip" version="2.8.0">
-      <changes lang="EN">2.8.0 Synopses on Play Menu; Track Info preferences; Tracklist on Info Menu</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="70f4645909d11501657156712ad1ac0e3338af43" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_8_1.zip" version="2.8.1">
+      <changes lang="EN">2.8.1 Synopsis on Play Menu; Track Info preferences; Tracklist on Info Menu</changes>
       <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -749,7 +749,7 @@
       <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
       <title lang="EN">Switch Player (Groups compatible)</title>
     </plugin>
-    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="c677a765f772a3f0eed2017b0b9ade4ba6fe716e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.2.zip" version="0.20.2">
+    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="657cc646cdc2e38ad5584f51e53035efa77e1857" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.5.zip" version="0.20.5">
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
