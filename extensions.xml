@@ -749,7 +749,7 @@
       <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
       <title lang="EN">Switch Player (Groups compatible)</title>
     </plugin>
-    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="a6b37d2f681f8ddb8c1cbe7e97e3428b01b9e7db" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.1.zip" version="0.20.1">
+    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="c677a765f772a3f0eed2017b0b9ade4ba6fe716e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.2.zip" version="0.20.2">
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
