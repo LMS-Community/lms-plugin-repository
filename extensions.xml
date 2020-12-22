@@ -785,9 +785,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="cfa7bf36a82846d9711ed3de134def633465cfb8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-5.zip" version="5.11.5">
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="a1c53d7a46bd33ea1b7fdc87c7cdb25a919ab004" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-6.zip" version="5.11.6">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.5) - Added rounding to nearest 5% for % chance of precipitation.</desc>
+			(5.11.6) - Corrected logic in code for rounded chance of precipitation that caused values to be blanked in certain cases.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="634c24b8886ba6ec933b4a169c57013297368d6a" url="https://github.com/CDrummond/lms-material/releases/download/2.1.2/lms-material-2.1.2.zip" version="2.1.2">
