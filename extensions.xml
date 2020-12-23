@@ -470,7 +470,7 @@
       <desc lang="EN">Travel through your music Library using MusicIPs recommendations. Features Include Filter, Genre, Artist and Recipe Mixing, Trackstat Integration, Artist Blocking, Genre Blocking, Custom Track Weighting Routines, Coming Up Next Display, Sleep Mode, Volume Fade and lots more.  See www.spicefly.com for Details and Change Log.</desc>
       <title lang="EN">Spicefly SugarCube</title>
     </plugin>
-    <plugin name="PowerSave" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.4" sha="ed69512f5e5db2861d31ea41dda446a4e1a38ecd" url="http://bitflip.net/slim/plugins/powersave/7.4/PowerSave-7.4.zip" version="7.4">
+    <plugin name="PowerSave" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://bitflip.net/slim/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
       <desc lang="EN">Power off your squeezebox after a certain amount of time (idle or otherwise)</desc>
       <title lang="EN">PowerSave</title>
     </plugin>
