@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="aac13673ea2c6780781b27de3f99831f95c1c14d" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_8_2.zip" version="2.8.2">
-      <changes lang="EN">NEW 2.8.2 Fix for Synopsis on Material Skin 2.8.1 Synopsis on Play Menu; Track Info preferences; Tracklist on Info Menu</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="89df2687646a2f895869c95c188879817ba8a3c4" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_9_0.zip" version="2.9.0">
+      <changes lang="EN">NEW 2.9.0 Recent programmes available as live rewind, plus other minor improvements. 2.8.1 Synopsis on Play Menu; Track Info preferences; Tracklist on Info Menu</changes>
       <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
