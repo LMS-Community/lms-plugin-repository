@@ -761,7 +761,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="2d42c9493ea2f27cdd3b15da7047d1e2c76466a4" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.44.6.zip" version="1.44.6">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="51ef32d51f1b9b153d02295adf58c1a27c088df4" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.45.0.zip" version="1.45.0">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -773,7 +773,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="7a0f10c45f9b7db9ab8cae8a6506dd5b6afe3786" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.44.6.zip" version="1.44.6">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="036909eb6412c9e55b255281f2f52d3c46cf3874" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.45.0.zip" version="1.45.0">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
