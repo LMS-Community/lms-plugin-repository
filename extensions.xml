@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="89df2687646a2f895869c95c188879817ba8a3c4" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_9_0.zip" version="2.9.0">
-      <changes lang="EN">NEW 2.9.0 Recent programmes available as live rewind, plus other minor improvements. 2.8.1 Synopsis on Play Menu; Track Info preferences; Tracklist on Info Menu</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="91b1aed8f1128b0713f8be220a0c1a45c9a4e94f" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_9_1.zip" version="2.9.1">
+      <changes lang="EN">NEW 2.9.1 Bugfix 2.9.0 Recent programmes available as live rewind, plus other minor improvements.</changes>
       <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -331,8 +331,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="13fd20c1f64887ef6c9afcdcb47cd4c651d27c8b" url="http://www.herger.net/_data/Bandcamp-1.8.3.zip" version="1.8.3">
-      <changes lang="EN">v1.8.0: add support for &quot;Tune In to...&quot; in LMS8. Allows you to paste an album URL to play it back. - thanks mavit! v1.8.2: fix compatibility with latest changes on bandcamp.com</changes>
+    <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="e6dfd26d1c360181a6654f71374d49ae490d953a" url="http://www.herger.net/_data/Bandcamp-1.8.4.zip" version="1.8.4">
+      <changes lang="EN">v1.8.0: add support for &quot;Tune In to...&quot; in LMS8. Allows you to paste an album URL to play it back. - thanks mavit! v1.8.4: don't crash when search history fails to load</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
