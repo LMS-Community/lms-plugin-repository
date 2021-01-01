@@ -669,6 +669,11 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
+    <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+      <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
+      <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
+      <title lang="EN">Database Query</title>
+    </plugin>
     <plugin name="NPRRadio" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=51002" maxTarget="*" minTarget="7.3" sha="ed0f352f445bfce75014f2bc856d13fa0d8a2b32" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/NPRRadiov103.ZIP" version="1.03">
       <desc lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a &quot;play all items&quot; which will create a playlist of all the segments in the program.
 				v1.03 fixes a bug with Play All on Squeezeplay devices in 7.6 onwards</desc>
