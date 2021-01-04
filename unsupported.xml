@@ -6,31 +6,31 @@
 	</details>
 
 	<plugins>
-		<plugin name="CustomBrowse" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Custom_Browse_plugin" maxTarget="7.*" minTarget="7.4.0" sha="209f65c1fac52a5abac98bd17b04c54c3132f4dc" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-custombrowse&amp;filename=CustomBrowse-2.15.676.zip" version="2.15.676">
+		<plugin name="CustomBrowse" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Custom_Browse_plugin" maxTarget="8.*" minTarget="7.4.0" sha="209f65c1fac52a5abac98bd17b04c54c3132f4dc" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-custombrowse&amp;filename=CustomBrowse-2.15.676.zip" version="2.15.676">
 			<changes lang="EN">- Available for free, no longer requires a license
 				- Compatible with LMS 7.9
 			</changes>
 			<desc lang="EN">Makes it possible to customize the structure, contents and sorting of the browse menus on the Squeezebox. A new browse menu is configured as a xml file containing the structure and SQL-statements. Please note that Custom Browse needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
 			<title lang="EN">Custom Browse</title>
 		</plugin>
-		<plugin name="CustomClockHelper" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Custom_Clock_applet" maxTarget="7.*" minTarget="7.4.0" sha="3f0d6ea666b5d37e85899411ea65784f94b0021c" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.11.94.zip" version="2.11.94">
+		<plugin name="CustomClockHelper" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Custom_Clock_applet" maxTarget="8.*" minTarget="7.4.0" sha="3f0d6ea666b5d37e85899411ea65784f94b0021c" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.11.94.zip" version="2.11.94">
 			<changes lang="EN">- Available for free, no longer requires a license</changes>
 			<desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
 			<title lang="EN">Custom Clock Helper</title>
 		</plugin>
-		<plugin name="CustomScan" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Custom_Scan_plugin" maxTarget="7.*" minTarget="7.4.0" sha="9eaca05d640f42d5843f54a8280c8e1a5e85eac6" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.10.51.zip" version="2.10.51">
+		<plugin name="CustomScan" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Custom_Scan_plugin" maxTarget="8.*" minTarget="7.4.0" sha="9eaca05d640f42d5843f54a8280c8e1a5e85eac6" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.10.51.zip" version="2.10.51">
 			<changes lang="EN">- Available for free, no longer requires a license
 				- Compatible with LMS 7.9
 			</changes>
 			<desc lang="EN">Make it easier to develop modules that retreive additional information about artist, album, tracks from somehere. If used together with Custom Browse plugin, the included scanning modules for LastFM and custom tags makes it possible to browse music by LastFM tags or by a custom tag. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
 			<title lang="EN">Custom Scan</title>
 		</plugin>
-		<plugin name="DynamicPlayList" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Dynamic_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="0c8b9a0728a09dca35efe51e87a5a8f773236545" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-dynamicplaylist&amp;filename=DynamicPlayList-2.10.247.zip" version="2.10.247">
+		<plugin name="DynamicPlayList" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Dynamic_Playlist_plugin" maxTarget="8.*" minTarget="7.4.0" sha="0c8b9a0728a09dca35efe51e87a5a8f773236545" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-dynamicplaylist&amp;filename=DynamicPlayList-2.10.247.zip" version="2.10.247">
 			<changes lang="EN">- Available for free, no longer requires a license</changes>
 			<desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
 			<title lang="EN">Dynamic Playlist</title>
 		</plugin>
-		<plugin name="SQLPlayList" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="33b402200260f4111d37235484e5d54fdbec7ae8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip" version="2.6.272">
+		<plugin name="SQLPlayList" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="8.*" minTarget="7.4.0" sha="33b402200260f4111d37235484e5d54fdbec7ae8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip" version="2.6.272">
 			<changes lang="EN">- Available for free, no longer requires a license
 				- Compatible with LMS 7.9
 			</changes>
