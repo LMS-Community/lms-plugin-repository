@@ -246,16 +246,6 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="b625e1059519a1016d492713fdcf837bf1b1bf0c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_10_0.zip" version="2.10.0">
-      <changes lang="EN">NEW 2.10.0 Search History;  Preferences Overhaul  2.9.0 Recent programmes available as live rewind;</changes>
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
-      <title lang="EN">BBC Sounds</title>
-    </plugin>
-    <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="94a9aff12456caf6017104e63d3ec49a7580523b" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_0.zip" version="2.1.0">
-      <changes lang="EN">NEW 2.1.0  Added user preference option to place in the &quot;Radio&quot; menu</changes>
-      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
-      <title lang="EN">Times Radio</title>
-    </plugin>
     <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="0cdbddaa60f42cf0962c595564e5ce5d4eec7fa4" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.3.0.zip" version="0.3.0">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
@@ -779,7 +769,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="036909eb6412c9e55b255281f2f52d3c46cf3874" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.45.0.zip" version="1.45.0">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="d32f809f41868db12446649303fccca2ef65bf30" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.46.0.zip" version="1.46.0">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -791,9 +781,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="21b8970da52702afcca432e0d0c650b5b7908b6a" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-7.zip" version="5.11.7">
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="51617f4855c15a73c2535b2562e7b8c85d1dad78" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-8.zip" version="5.11.8">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.7) - Adds Feels-like temperature for wunderground weather stations. - Thanks @peterw</desc>
+			(5.11.8) - Adjusted wunderground to pull precision JSON data.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="55b10f2217bd69b9bb84599a9670dbec3b47d665" url="https://github.com/CDrummond/lms-material/releases/download/2.1.3/lms-material-2.1.3.zip" version="2.1.3">
