@@ -791,9 +791,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="51617f4855c15a73c2535b2562e7b8c85d1dad78" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-8.zip" version="5.11.8">
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="519294b1b09648f4b4016b79fd3cbbc3bd0177fe" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-9.zip" version="5.11.9">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.8) - Adjusted wunderground to pull precision JSON data.</desc>
+			(5.11.9) - Added selection for air-pressure units to be displayed in Extras menu.  Improved language localization.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="55b10f2217bd69b9bb84599a9670dbec3b47d665" url="https://github.com/CDrummond/lms-material/releases/download/2.1.3/lms-material-2.1.3.zip" version="2.1.3">
