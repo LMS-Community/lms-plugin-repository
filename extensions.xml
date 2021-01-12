@@ -767,7 +767,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="39f1c23cdfb4bde2c591ff5cd6730085ade1aaf7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.45.1.zip" version="1.45.1">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="b5c4cd656e4a847ed10bb80bdaabfedf505ea0cd" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.45.3.zip" version="1.45.3">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -775,11 +775,11 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="2bdcd73ff2aeff3c09aa1667aae24547bf2aa686" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.50.6.zip" version="0.4.50.6">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="8d002f89b1d41718d02e45af1282655034066dce" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.50.8.zip" version="0.4.50.8">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="c1fd363e91f16cd8f48f379f569d9226f8fd2c8a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.46.1.zip" version="1.46.1">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="0eafa652c8bcc536ea4a81042c5830c246e09951" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.46.3.zip" version="1.46.3">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -791,9 +791,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="519294b1b09648f4b4016b79fd3cbbc3bd0177fe" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-9.zip" version="5.11.9">
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="1db56bcf456f527ce42e876119c0fa09efc17bb0" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-10.zip" version="5.11.10">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.9) - Added selection for air-pressure units to be displayed in Extras menu.  Improved language localization.</desc>
+			(5.11.10) - Improvements to German language translation.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="55b10f2217bd69b9bb84599a9670dbec3b47d665" url="https://github.com/CDrummond/lms-material/releases/download/2.1.3/lms-material-2.1.3.zip" version="2.1.3">
