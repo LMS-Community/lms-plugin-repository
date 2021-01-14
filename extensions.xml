@@ -256,7 +256,7 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="0cdbddaa60f42cf0962c595564e5ce5d4eec7fa4" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.3.0.zip" version="0.3.0">
+    <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="a7e58eabb5c4ab01952dbb293fd8d3b8aacc657c" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.4.zip" version="0.4">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
@@ -747,7 +747,7 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="228d3be984554cb731727ebd76a22596fb230f36" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.13.1.zip" version="0.13.1">
+    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="af91d7bbeb699e6205d9313a6d52ad06fd6ea648" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.1.zip" version="0.14.1">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
