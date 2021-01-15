@@ -30,6 +30,12 @@
 			<desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
 			<title lang="EN">Dynamic Playlist</title>
 		</plugin>
+		<plugin name="MultiLibrary" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/Multi_Library_plugin" maxTarget="8.*" minTarget="7.4.0" sha="d3ba9b0c40ca7893719939a3703425736759ab2d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-multilibrary&amp;filename=MultiLibrary-2.8.168.zip" version="2.8.168">
+			<changes lang="EN">- Available for free, no longer requires a license
+				</changes>
+			<desc lang="EN">Makes it possible to divide your SqueezeCenter library into different sub libraries, requires Custom Browse plugin to be able to browse the sub libraries. Please note that Multi Library needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
+			<title lang="EN">Multi Library</title>
+		</plugin>
 		<plugin name="SQLPlayList" creator="Unsupported" email="" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="8.*" minTarget="7.4.0" sha="33b402200260f4111d37235484e5d54fdbec7ae8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip" version="2.6.272">
 			<changes lang="EN">- Available for free, no longer requires a license
 				- Compatible with LMS 7.9
