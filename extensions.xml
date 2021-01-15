@@ -775,11 +775,11 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="8d002f89b1d41718d02e45af1282655034066dce" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.50.8.zip" version="0.4.50.8">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="e64b1d53107344b6d4d6d278a5b0dbb0261fa00d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.50.10.zip" version="0.4.50.10">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="0eafa652c8bcc536ea4a81042c5830c246e09951" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.46.3.zip" version="1.46.3">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="4ceca3f47b4f9ac125675f917e65f60ff6c37838" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.46.4.zip" version="1.46.4">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -791,9 +791,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="1db56bcf456f527ce42e876119c0fa09efc17bb0" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-10.zip" version="5.11.10">
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="add32ee4b3a9e5604ac27baf575965b7ef040819" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-11.zip" version="5.11.11">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.10) - Improvements to German language translation.</desc>
+			(5.11.11) - Fix to upcoming game times for NHL games.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="e612464b0feded00ad0c9c90d278fb4182f900f7" url="https://raw.githubusercontent.com/AF-1/lms-misc/main/repo/plugins/RatingsLight-1.0.2.zip" version="1.0.2">
