@@ -246,16 +246,6 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="99e51e52d927131f37d5e5a3f6d1029eba9ec5a3" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_11_0.zip" version="2.11.0">
-      <changes lang="EN">NEW 2.11.0 Fully flexible options for display when playing.  2.10.0 Search History;  Preferences Overhaul</changes>
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
-      <title lang="EN">BBC Sounds</title>
-    </plugin>
-    <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="94a9aff12456caf6017104e63d3ec49a7580523b" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_0.zip" version="2.1.0">
-      <changes lang="EN">NEW 2.1.0  Added user preference option to place in the &quot;Radio&quot; menu</changes>
-      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
-      <title lang="EN">Times Radio</title>
-    </plugin>
     <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="a7e58eabb5c4ab01952dbb293fd8d3b8aacc657c" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.4.zip" version="0.4">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
