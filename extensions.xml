@@ -391,7 +391,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="2.0.0: support for LMS8's library integration. v2.4.0: allow playing of Qobuz web links. v2.4.4: fix seeking in FLAC streams on ip3k players (LMS8 only). v2.4.5: fix disc grouping for multi-disc sets." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="41db2c8d54960372e95f6799c9545ae0ec0d4198" url="http://www.herger.net/_data/Qobuz-2.4.5.zip" version="2.4.5">
+    <plugin name="Qobuz" changes="v2.4.0: allow playing of Qobuz web links. v2.4.6: Add support for LMS 8.2's artist normalization." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="88d9f5473290b77a1b5d109583a0c99a4e522b15" url="http://www.herger.net/_data/Qobuz-2.4.6.zip" version="2.4.6">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
@@ -403,7 +403,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.6: Expire tokens when custom client ID is registered." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="0b538103e82e8f7a47a05125f31d9376bbceaab0" url="http://downloads.nixda.ch/Spotty-4.4.6.zip" version="4.4.6">
+    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.7: Add support for LMS 8.2's artist normalization. Fix cleanup preference." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="8ab308896d96d941b7757b067763190af43d30ef" url="http://downloads.nixda.ch/Spotty-4.4.7.zip" version="4.4.7">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
