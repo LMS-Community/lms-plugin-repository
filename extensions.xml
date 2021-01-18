@@ -783,7 +783,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="5da7dff5f5d1e6d99d2724a8ed3fc63f1358963f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.203.0.zip" version="0.203.0">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="775c349f4673fb7bd89703a6c708d35327a0cc20" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.203.2.zip" version="0.203.2">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -792,8 +792,8 @@
       <title lang="EN">Reliable HTTP</title>
     </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="add32ee4b3a9e5604ac27baf575965b7ef040819" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-11.zip" version="5.11.11">
-      <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
-			(5.11.11) - Fix to upcoming game times for NHL games.</desc>
+      <changes lang="EN">(5.11.11) - Fix to upcoming game times for NHL games.</changes>
+      <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="e612464b0feded00ad0c9c90d278fb4182f900f7" url="https://raw.githubusercontent.com/AF-1/lms-misc/main/repo/plugins/RatingsLight-1.0.2.zip" version="1.0.2">
