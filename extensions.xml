@@ -292,9 +292,9 @@
       <desc lang="EN">ABC Australia programme and track information</desc>
       <title lang="EN">ABC Australia</title>
     </plugin>
-    <plugin name="CBCCanada" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="32eafeacd599ad68d272b30278c40de543d808af" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanada-0.0.4.zip" version="0.0.4">
+    <plugin name="CBCCanada" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e844df83f0444df88186025be433e1400d11d71d" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanada-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
-				- Shorten plugin name
+				- Add alternative stream URL for matching CBC Music Eastern
 			</changes>
       <desc lang="EN">CBC Canada programme and track information</desc>
       <title lang="EN">CBC Canada</title>
