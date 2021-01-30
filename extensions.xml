@@ -704,7 +704,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="12ef1562288b7ac66a965b5dca3c4c44bb551100" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.49.0.zip" version="1.49.0">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="71269e20d916262ba8215d7456572c4f2cbbb148" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.49.1.zip" version="1.49.1">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -712,11 +712,11 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="506bad7515d78eaf525cab781e33f4866f0b04e8" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.52.0.zip" version="0.4.52.0">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="c402516f3ff48bc5267b78c8dba80c1904fdb351" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.52.1.zip" version="0.4.52.1">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="058748dca72fed698c5e63b0f5e5fce3b23003bf" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.49.0.zip" version="1.49.0">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="c3f5a49de6897baff7accb6f923b502e8a915f3b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.49.1.zip" version="1.49.1">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
