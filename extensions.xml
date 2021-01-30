@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="b4c8c5f5db91b5fc99f87e453ccea7ad87b3ce81" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_13_1.zip" version="2.13.1">
-      <changes lang="EN">NEW 2.13.1 Menu Improvements; Bookmark from context menu 2.12.0 Streaming improvements (HTTPS streaming) </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="ad47fdb52daff1c68cd91b40f8cb97b0b5e9bcac" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_13_2.zip" version="2.13.2">
+      <changes lang="EN">NEW 2:13.2 Material Skin Icon compatability +  streaming bugfix; 2.13.1 Menu Improvements; Bookmark from context menu; 2.12.0 Streaming improvements (HTTPS streaming) </changes>
       <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -800,7 +800,7 @@
       <desc lang="EN">Set, display, import and export track ratings (with and without plugins/apps). Skip (un-)rated tracks with CustomSkip. Browse rated tracks by artist or genre.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="55b10f2217bd69b9bb84599a9670dbec3b47d665" url="https://github.com/CDrummond/lms-material/releases/download/2.1.3/lms-material-2.1.3.zip" version="2.1.3">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="4cfaa9b1c8107e800f43019d5bb7798c9df25049" url="https://github.com/CDrummond/lms-material/releases/download/2.2.1/lms-material-2.2.1.zip" version="2.2.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
