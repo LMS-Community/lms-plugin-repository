@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="ad47fdb52daff1c68cd91b40f8cb97b0b5e9bcac" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_13_2.zip" version="2.13.2">
-      <changes lang="EN">NEW 2:13.2 Material Skin Icon compatability +  streaming bugfix; 2.13.1 Menu Improvements; Bookmark from context menu; 2.12.0 Streaming improvements (HTTPS streaming) </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="689d77ddf0a60b0f7c75da42e3aca170e3385961" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_13_3.zip" version="2.13.3">
+      <changes lang="EN">NEW 2.13.3 Icon improvements 2.13.2 Material Skin Icon compatability +  streaming bugfix; 2.13.1 Menu Improvements; Bookmark from context menu; 2.12.0 Streaming improvements (HTTPS streaming) </changes>
       <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
