@@ -796,8 +796,8 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.7" sha="355361217609c25639302432a2c4c990f9d42d40" url="https://raw.githubusercontent.com/AF-1/lms-misc/main/repo/plugins/RatingsLight-1.2.2.zip" version="1.2.2">
-      <desc lang="EN">Set, display, import and export track ratings (with and without plugins/apps). Skip (un-)rated tracks with CustomSkip. Browse rated tracks by artist or genre.</desc>
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.7" sha="ef09aefae5984b5f174705288cde868d2d77db82" url="https://raw.githubusercontent.com/AF-1/lms-misc/main/repo/plugins/RatingsLight-1.3.0.zip" version="1.3.0">
+      <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Display, import and export track ratings. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip. Browse rated tracks by artist or genre.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="b709583fa1174e262eb3fbd4d2329ed9dfbd47aa" url="https://github.com/CDrummond/lms-material/releases/download/2.2.2/lms-material-2.2.2.zip" version="2.2.2">
