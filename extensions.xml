@@ -800,7 +800,7 @@
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Display, import and export track ratings. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip. Browse rated tracks by artist or genre.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="b709583fa1174e262eb3fbd4d2329ed9dfbd47aa" url="https://github.com/CDrummond/lms-material/releases/download/2.2.2/lms-material-2.2.2.zip" version="2.2.2">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="bc7800b0037d8e819f7c8162738b9cee6186de50" url="https://github.com/CDrummond/lms-material/releases/download/2.2.3/lms-material-2.2.3.zip" version="2.2.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
