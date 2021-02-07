@@ -683,11 +683,6 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
-    <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
-      <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
-      <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-      <title lang="EN">Database Query</title>
-    </plugin>
     <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="af91d7bbeb699e6205d9313a6d52ad06fd6ea648" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.1.zip" version="0.14.1">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
@@ -708,7 +703,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="6061d43b642339110bb127b5957467e9c8f0adfa" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.49.2.zip" version="1.49.2">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="dfcaf484ef1531ef1ca1b5d02a93616a6796e03f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.49.4.zip" version="1.49.4">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -720,7 +715,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="c3f5a49de6897baff7accb6f923b502e8a915f3b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.49.1.zip" version="1.49.1">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="c408a340bc6db638a0fa8fee9aacfb2f9b67f8cb" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.49.3.zip" version="1.49.3">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -731,6 +726,11 @@
     <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="e584c1a20929c714acc9ff6cf0d4a7d81be1a066" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.1.zip" version="0.18.1">
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
+    </plugin>
+    <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+      <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
+      <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
+      <title lang="EN">Database Query</title>
     </plugin>
     <plugin name="NPRRadio" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=51002" maxTarget="*" minTarget="7.3" sha="ed0f352f445bfce75014f2bc856d13fa0d8a2b32" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/NPRRadiov103.ZIP" version="1.03">
       <desc lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a &quot;play all items&quot; which will create a playlist of all the segments in the program.
@@ -835,6 +835,10 @@
     <plugin name="AutoRescan" creator="James Marsh; Stuart Hickinbottom" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
+    </plugin>
+    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="35eefe9b62439ea7077f8c789965e82a48a9a84f" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.2.zip" version="0.2">
+      <desc lang="EN">Use remote buttons to rate songs</desc>
+      <title lang="EN">Rating Buttons</title>
     </plugin>
     <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="24a0f06b55f480c93e4708f7b5ccf9806ca6840e" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.2/plugin-CommunityFirmware-0.0.2.zip" version="0.0.2">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
