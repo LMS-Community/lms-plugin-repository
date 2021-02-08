@@ -795,8 +795,8 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="add32ee4b3a9e5604ac27baf575965b7ef040819" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-11.zip" version="5.11.11">
-      <changes lang="EN">(5.11.11) - Fix to upcoming game times for NHL games.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="725e2a59592b3aa39d2f0dfbb07361477bf2f21b" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-12.zip" version="5.11.12">
+      <changes lang="EN">(5.11.12) - Added setting to shorten display names for professional sports teams.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
