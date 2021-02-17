@@ -246,9 +246,9 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="cff4888d8de256ae5bfcad157d646c9097787e94" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_13_4.zip" version="2.13.4">
-      <changes lang="EN">NEW 2.13.4 Misc improvements 2.13.3 Icon improvements 2.13.2 Material Skin Icon compatability +  streaming bugfix; 2.13.1 Menu Improvements; Bookmark from context menu;</changes>
-      <desc lang="EN">BBC Sounds as a Plugin.  Features : Search; My Sounds (with subscribe and bookmark); Seekable Live Streams; Daily Picks;  30 Days Station Listen again schedules; Featured podcasts; Categories. </desc>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="4258a4d93a7779e410f320085c8549e0a90b1fe1" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_13_5.zip" version="2.13.5">
+      <changes lang="EN">NEW 2.13.5 Minor bugfix 2.13.2 Material Skin Icon compatability +  streaming bugfix; 2.13.1 Menu Improvements; Bookmark from context menu;</changes>
+      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="94a9aff12456caf6017104e63d3ec49a7580523b" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_0.zip" version="2.1.0">
@@ -779,7 +779,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="c402516f3ff48bc5267b78c8dba80c1904fdb351" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.52.1.zip" version="0.4.52.1">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="5b9817d7b6559bd119179d64f9afcf369b340e36" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.52.2.zip" version="0.4.52.2">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
