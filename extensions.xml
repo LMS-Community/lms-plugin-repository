@@ -251,6 +251,10 @@
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
+    <plugin name="VirginRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="5b274dffaaaddf2e71411d0a15f3bc736872a483" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_0.zip" version="1.0.0">
+      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
+      <title lang="EN">Virgin Radio (UK)</title>
+    </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="94a9aff12456caf6017104e63d3ec49a7580523b" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_0.zip" version="2.1.0">
       <changes lang="EN">NEW 2.1.0  Added user preference option to place in the &quot;Radio&quot; menu</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
@@ -800,7 +804,7 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.7" sha="bf1e9a372fdf4f2845aea30306e2c2fe19194544" url="https://raw.githubusercontent.com/AF-1/lms-misc/main/repo/plugins/RatingsLight-1.4.2.zip" version="1.4.2">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.7" sha="1cc57d04268e5557150c6566b028bc7b9589c809" url="https://raw.githubusercontent.com/AF-1/lms-misc/main/repo/plugins/RatingsLight-1.4.3.zip" version="1.4.3">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist and/or log file. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
