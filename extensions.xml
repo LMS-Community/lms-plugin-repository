@@ -292,11 +292,11 @@
       <desc lang="EN">ABC Australia programme and track information</desc>
       <title lang="EN">ABC Australia</title>
     </plugin>
-    <plugin name="CBCCanada" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e844df83f0444df88186025be433e1400d11d71d" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanada-0.0.5.zip" version="0.0.5">
+    <plugin name="CBCCanada" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="3595f774bde6e06d5fef9465bf93f71bcbbd105c" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanada-0.0.6.zip" version="0.0.6">
       <changes lang="EN">
-				- Add alternative stream URL for matching CBC Music Eastern
+				- Handle issue where CBC data shows first track playing before programme scheduled start
 			</changes>
-      <desc lang="EN">CBC Canada programme and track information</desc>
+      <desc lang="EN">CBC Canada programme and track info</desc>
       <title lang="EN">CBC Canada</title>
     </plugin>
     <plugin name="CBCCanadaFrancais" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9c918011488b12d865e196087a544790c7d67ac9" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.4.zip" version="0.0.4">
@@ -306,7 +306,7 @@
       <changes lang="FR">
 				- Raccourcir le nom du plugin
 			</changes>
-      <desc lang="EN">CBC Radio-Canada Français programme and track information</desc>
+      <desc lang="EN">CBC Radio-Canada Français programme and track info</desc>
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
