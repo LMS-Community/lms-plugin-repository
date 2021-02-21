@@ -784,7 +784,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="5b9817d7b6559bd119179d64f9afcf369b340e36" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.52.2.zip" version="0.4.52.2">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="ccdb9e2d0c212d70052b1d9cddb7dce872465510" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.53.0.zip" version="0.4.53.0">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
@@ -833,7 +833,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="3d5c8a3519d5b6838d7f6bb403bb620ee469f07d" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_2_1.zip" version="2.1">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="3d5c8a3519d5b6838d7f6bb403bb620ee469f07d" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_2_2.zip" version="2.1">
       <desc lang="EN">This plugin will control a network ready Denon AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the Denon device on/off, adjust and synchronize the volumes, and set the Denon audio modes. Settings in each player.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
