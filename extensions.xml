@@ -251,8 +251,8 @@
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="f7f8fc289d620a64a894a6b2ee96fcb1b35c00a0" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_3.zip" version="1.0.3">
-      <changes lang="EN">1.0.3 Bugfix 1.0.2 Fix for meta data on some OS;  1.0.1 minor fixes</changes>
+    <plugin name="VirginRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="cca3bc59a589015a2b4273235718db81a49c2582" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_4.zip" version="1.0.4">
+      <changes lang="EN">1.0.4 Material Icon + bugfix</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
