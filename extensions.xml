@@ -408,7 +408,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.7: Add support for LMS 8.2's artist normalization. Fix cleanup preference." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="8ab308896d96d941b7757b067763190af43d30ef" url="http://downloads.nixda.ch/Spotty-4.4.7.zip" version="4.4.7">
+    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.8: Get all tracks of an album if the album has more than 50 tracks.." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="f09df5755bf42c9728d8bb54cfd575052fe2757d" url="http://downloads.nixda.ch/Spotty-4.4.8.zip" version="4.4.8">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
