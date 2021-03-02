@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="3725bf61df1096e597feee96a5bef7a4b971dc85" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_14_0.zip" version="2.14.0">
-      <changes lang="EN">NEW 2.14.0 Bookmark and Subscribe from &quot;Now Playing&quot; buttons</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="d127d719ceff678c3e21177da58f202fedfa2087" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_14_2.zip" version="2.14.2">
+      <changes lang="EN">NEW 2.14.2 Streaming improvements for the Radio Community Firmware AAC decoder  2.14.0 Bookmark and Subscribe from &quot;Now Playing&quot; buttons</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
