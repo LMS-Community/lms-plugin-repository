@@ -752,7 +752,7 @@
       <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
       <title lang="EN">iHeart Radio - v1.2</title>
     </plugin>
-    <plugin name="RadioNet" creator="bpa" maxTarget="*" minTarget="7.9" sha="1830064cf0c765b3285f5ba037a604a8a2cc7474" url="https://bpa-code.github.io/bpaplugins/RadioNet-V1_3.ZIP" version="1.3">
+    <plugin name="RadioNet" creator="bpa" maxTarget="*" minTarget="7.9" sha="b11415d944a5f61b69da9dcf43f9deaa09a424fb" url="https://bpa-code.github.io/bpaplugins/RadioNet-V1_4.ZIP" version="1.4">
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
@@ -810,7 +810,7 @@
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="fb7b0d74a8290a171f32bb461bf5524e6358755e" url="https://github.com/CDrummond/lms-material/releases/download/2.3.1/lms-material-2.3.1.zip" version="2.3.1">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="348a6570fca03d945dc9976a9e8dd53920e9e74f" url="https://github.com/CDrummond/lms-material/releases/download/2.3.2/lms-material-2.3.2.zip" version="2.3.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
