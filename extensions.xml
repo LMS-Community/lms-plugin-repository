@@ -693,11 +693,6 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="NPRRadio" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=51002" maxTarget="*" minTarget="7.3" sha="ed0f352f445bfce75014f2bc856d13fa0d8a2b32" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/NPRRadiov103.ZIP" version="1.03">
-      <desc lang="EN">NPR Plugin to make it easy to find and play popular NPR prgrams. A plugin also makes it easier to listen to complete NPR Radio. Each program menu (e.g. Morning Edition, All things considered etc.) will list the program sgements which can be played separately. For each program, there is a &quot;play all items&quot; which will create a playlist of all the segments in the program.
-				v1.03 fixes a bug with Play All on Squeezeplay devices in 7.6 onwards</desc>
-      <title lang="EN">NPR Radio</title>
-    </plugin>
     <plugin name="SharkPlay" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="007ab351a55cd9e7e31cc9d2a4a647108d442111" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-linux-102.ZIP" version="1.2">
       <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
       <title lang="EN">SharkPlay</title>
@@ -810,7 +805,7 @@
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="348a6570fca03d945dc9976a9e8dd53920e9e74f" url="https://github.com/CDrummond/lms-material/releases/download/2.3.2/lms-material-2.3.2.zip" version="2.3.2">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="b73247d125366b5cf3e7bbd8000c6d803b5ce24d" url="https://github.com/CDrummond/lms-material/releases/download/2.3.3/lms-material-2.3.3.zip" version="2.3.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
