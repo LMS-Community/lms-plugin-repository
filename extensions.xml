@@ -274,15 +274,15 @@
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4f1f43003cb3c3b386b1d400dc9ba85f732f9380" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.2.4.zip" version="0.2.4">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="3b17a6d4d36f2b5ee5ebf94cf44dae9059403069" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.3.5.zip" version="0.3.5">
       <changes lang="EN">
-				- Add France Musique Opéra
+				- Add On Demand programmes
 			</changes>
       <changes lang="FR">
-				- ajouter France Musique Opéra
+				- Ajouter des émissions à la demande
 			</changes>
-      <desc lang="EN">Radio France programme and track information</desc>
-      <desc lang="FR">Radio France - info sur le programme et morceau de musique</desc>
+      <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
+      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
     <plugin name="KCRW" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="a997e9285f17b429e3a43b91cc3873071c1f1cf2" url="http://www.dabdig.co.uk/slimserver-rep/KCRW-0.1.9.zip" version="0.1.9">
@@ -311,7 +311,8 @@
       <changes lang="FR">
 				- Raccourcir le nom du plugin
 			</changes>
-      <desc lang="EN">CBC Radio-Canada Français programme and track info</desc>
+      <desc lang="EN">CBC Radio-Canada Français programme and track infoffrance
+			</desc>
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
