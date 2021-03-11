@@ -110,6 +110,10 @@
     <title lang="SV">Tillägg från tredje part</title>
   </details>
   <patches>
+    <patch name="ReduceBrightness" creator="Daniel Vijge" maxTarget="*" minTarget="7.5" sha="5dc87832c65c6431a0f7867557b17b03443130e4" target="fab4" url="http://server.vijge.net/static/squeezebox/ReduceBrightness-fab4-1.3.patch" version="1.3">
+      <desc lang="EN">Reduce brightness when the screensaver is active</desc>
+      <title lang="EN">Reduce Screensaver Brightness</title>
+    </patch>
     <patch name="VersionComparisonFix" creator="Michael Herger" email="slim@herger.net" maxTarget="7.7" minTarget="7.7" sha="502f20ed043ca48682add2016f48af927b9a369d" target="baby" url="http://www.herger.net/_data/SlimServer-0.3.lua.patch" version="0.3">
       <desc lang="EN">Fixes the version comparison which is broken in Radio firmware 7.7.x. This issue leads to the Radio refusing to connect to LMS 8.</desc>
       <title lang="EN">Version Comparison Fix</title>
@@ -768,7 +772,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="b510ae75d021413b18d3020545e555d5337625e0" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.49.11.zip" version="1.49.11">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="702fd53e0704142b5b6846e27cd71311ec799fa5" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.49.12.zip" version="1.49.12">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -780,7 +784,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="153697661341c76666eda4d9bb2bcf57fd9a2e6e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.49.11.zip" version="1.49.11">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="9fb75e8e9092fbd45f7dd4d9532961d20ea36f5a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.49.12.zip" version="1.49.12">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
