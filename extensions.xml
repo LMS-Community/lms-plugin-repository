@@ -838,7 +838,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="fe432d919fe58d3a98afcd6c6d099f5047a6937c" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.4.zip" version="0.4">
+    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="ec397f9fb663037db9a729e711a9c3819c64f305" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.5.zip" version="0.5">
       <desc lang="EN">Use remote buttons to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
