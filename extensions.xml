@@ -802,7 +802,7 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.7" sha="462c1e075dfd861f5cb5954b40dfa66034ef4577" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.7.3/lms-ratingslight-1.7.3.zip" version="1.7.3">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.7" sha="977a66cf918e1577dac8b3c7376a5eee365f4399" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.0/lms-ratingslight-1.8.0.zip" version="1.8.0">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -838,7 +838,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="ec397f9fb663037db9a729e711a9c3819c64f305" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.5.zip" version="0.5">
+    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="f057aad53935e5fc624385bd2f6311dc9dcadfda" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.6.zip" version="0.6">
       <desc lang="EN">Use remote buttons to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
