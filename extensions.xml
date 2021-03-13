@@ -802,7 +802,7 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="24b48c9e1d1d91bd9bf98385799c18c502f178d2" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.2/lms-ratingslight-1.8.2.zip" version="1.8.2">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="6d2c7d6f8a28d68a299b9daf1b1968743b97e068" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.3/lms-ratingslight-1.8.3.zip" version="1.8.3">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
