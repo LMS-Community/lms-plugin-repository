@@ -802,11 +802,11 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="233c4036980f076dca641339bc385bcc79946c4a" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.4/lms-ratingslight-1.8.4.zip" version="1.8.4">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="9e085d309d966b538d96ef55729c8ac5def3db6c" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.5/lms-ratingslight-1.8.5.zip" version="1.8.5">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="b73247d125366b5cf3e7bbd8000c6d803b5ce24d" url="https://github.com/CDrummond/lms-material/releases/download/2.3.3/lms-material-2.3.3.zip" version="2.3.3">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="2fe1c1a087a2f75e9974c49440ebdd48c547f91c" url="https://github.com/CDrummond/lms-material/releases/download/2.3.4/lms-material-2.3.4.zip" version="2.3.4">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
