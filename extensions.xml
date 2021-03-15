@@ -796,9 +796,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="8595666a7908ef2b05ef1ede22ea8eff2851b643" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-13.zip" version="5.11.13">
-      <changes lang="EN">(5.11.13) - Fixed detection of games for MLB sports scores.  Added forecasted wind speeds.
-			New macro variables:mi/hr = %!w, km/hr = %!W, kt/hr = %!q, m/s = %!Q</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="e1fdfa57c394b4874dae32a1f660ae4515d91227" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-14.zip" version="5.11.14">
+      <changes lang="EN">(5.11.14) - Fixed forecasted wind speed for periods C,1,2,3.  Added forecasted wind speed for 10-day forecast.
+			Access forecast wind speed using these macro variables: mi/hr = %!w, km/hr = %!W, kt = %!q, m/s = %!Q</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
