@@ -365,8 +365,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Top The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f6e02396576bf4455d9aefbc5250fc5bbf62fb60" url="http://www.herger.net/_data/MusicArtistInfo-1.6.29.zip" version="1.6.29">
-      <changes lang="EN">v1.6.0: rewrite links in local HTML files; optionally store placeholder files for missing artist artwork. v1.6.29: fix album review parsing.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="57ffafe0cb2a826ebaea57de64a0ea8f18db1ee1" url="http://www.herger.net/_data/MusicArtistInfo-1.7.0.zip" version="1.7.0">
+      <changes lang="EN">v1.7.0: optionally look up genres for online tracks.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -788,7 +788,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="3b4c46f68d8f7af25167153d49cad35162da5364" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.203.4.zip" version="0.203.4">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="a692af37e3db7463a60753c90d5fd2a036f57d3c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.204.0.zip" version="0.204.0">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
