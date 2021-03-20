@@ -788,7 +788,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="80c543810e331045d0833c92071fd8760c546f78" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.204.1.zip" version="0.204.1">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="28a0267eb5dbdcec7958bb54618062120ef56eb4" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.0.zip" version="0.205.0">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
