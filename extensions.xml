@@ -752,7 +752,7 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="af91d7bbeb699e6205d9313a6d52ad06fd6ea648" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.1.zip" version="0.14.1">
+    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="26e2363bd4effa737929d507f76151f6581e1e4c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.3.zip" version="0.14.3">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
@@ -788,7 +788,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="a692af37e3db7463a60753c90d5fd2a036f57d3c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.204.0.zip" version="0.204.0">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="80c543810e331045d0833c92071fd8760c546f78" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.204.1.zip" version="0.204.1">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -802,7 +802,7 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="9e085d309d966b538d96ef55729c8ac5def3db6c" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.5/lms-ratingslight-1.8.5.zip" version="1.8.5">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="dfc7139b9e88291fd0ec975c8cb307a0e3da5a2a" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.6/lms-ratingslight-1.8.6.zip" version="1.8.6">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
