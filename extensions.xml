@@ -806,7 +806,7 @@
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="2fe1c1a087a2f75e9974c49440ebdd48c547f91c" url="https://github.com/CDrummond/lms-material/releases/download/2.3.4/lms-material-2.3.4.zip" version="2.3.4">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="37b8cea45babf5c31eea3f8ae19baa3c25bac876" url="https://github.com/CDrummond/lms-material/releases/download/2.3.5/lms-material-2.3.5.zip" version="2.3.5">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
