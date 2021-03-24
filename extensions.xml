@@ -804,9 +804,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="e1fdfa57c394b4874dae32a1f660ae4515d91227" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-14.zip" version="5.11.14">
-      <changes lang="EN">(5.11.14) - Fixed forecasted wind speed for periods C,1,2,3.  Added forecasted wind speed for 10-day forecast.
-			Access forecast wind speed using these macro variables: mi/hr = %!w, km/hr = %!W, kt = %!q, m/s = %!Q</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="7f98a7fb109a09e8c912f904864aaebb11127af9" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-15.zip" version="5.11.15">
+      <changes lang="EN">(5.11.15) - Added to option to disable visualizer when SDT is active.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
