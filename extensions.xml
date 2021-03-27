@@ -261,14 +261,6 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge" maxTarget="*" minTarget="7.5" sha="a7e58eabb5c4ab01952dbb293fd8d3b8aacc657c" url="http://danielvijge.github.io/lms_mixcloud/lms_mixcloud-0.4.zip" version="0.4">
-      <desc lang="EN">Play music from Mixcloud</desc>
-      <title lang="EN">Mixcloud</title>
-    </plugin>
-    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" maxTarget="*" minTarget="7.5" sha="8988ee415e4a633a141dcdfa7ded0e72952cbdaa" url="http://danielvijge.github.io/SqueezeCloud/SqueezeCloud-0.10.0.zip" version="0.10.0">
-      <desc lang="EN">Browse, search and play urls from soundcloud</desc>
-      <title lang="EN">SqueezeCloud</title>
-    </plugin>
     <plugin name="SqueezeScrobbler" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
       <changes lang="EN" />
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
@@ -322,6 +314,10 @@
 			</changes>
       <desc lang="EN">RTE programme information</desc>
       <title lang="EN">RTE</title>
+    </plugin>
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8bc8aa3ec42c6c2cbbd32039ec3a706e4b39de45" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.1.zip" version="0.0.1">
+      <desc lang="EN">Programme and track information for Planet Radio / Bauer Media</desc>
+      <title lang="EN">Planet Radio</title>
     </plugin>
     <plugin name="xAP" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
       <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
