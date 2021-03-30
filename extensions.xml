@@ -246,8 +246,8 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="d127d719ceff678c3e21177da58f202fedfa2087" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_14_2.zip" version="2.14.2">
-      <changes lang="EN">NEW 2.14.2 Streaming improvements for the Radio Community Firmware AAC decoder  2.14.0 Bookmark and Subscribe from &quot;Now Playing&quot; buttons</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="b25dbae6f5433a4f901572782801cd52c33e617e" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_15_0.zip" version="2.15.0">
+      <changes lang="EN">NEW 2.15.0 NEW Option to make programme item in menu playable without requirement to enter into sub-menu</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
