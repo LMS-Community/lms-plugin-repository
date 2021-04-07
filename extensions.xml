@@ -28,7 +28,7 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
-    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="7.*" minTarget="7.3" sha="622cd1c113973ab5f1143ecc6343988baa0da3fb" url="http://downloads.nixda.ch/FontReplacer-1.3.zip" version="1.3">
+    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="622cd1c113973ab5f1143ecc6343988baa0da3fb" url="http://downloads.nixda.ch/FontReplacer-1.4.zip" version="1.4">
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
     </applet>
