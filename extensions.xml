@@ -28,7 +28,7 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
-    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="622cd1c113973ab5f1143ecc6343988baa0da3fb" url="http://downloads.nixda.ch/FontReplacer-1.4.zip" version="1.4">
+    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="622cd1c113973ab5f1143ecc6343988baa0da3fb" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
     </applet>
@@ -412,7 +412,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.8: Get all tracks of an album if the album has more than 50 tracks.." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="f09df5755bf42c9728d8bb54cfd575052fe2757d" url="http://downloads.nixda.ch/Spotty-4.4.8.zip" version="4.4.8">
+    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.9: Re-enable Ogg direct streaming. Don't import non-playable playlist tracks (thanks jepege!)." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="5957787e1037b57589e44a9fa2d3befe1cbb8d0f" url="http://downloads.nixda.ch/Spotty-4.4.9.zip" version="4.4.9">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
