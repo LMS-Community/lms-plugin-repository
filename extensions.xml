@@ -28,7 +28,7 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
-    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="622cd1c113973ab5f1143ecc6343988baa0da3fb" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
+    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
     </applet>
@@ -261,7 +261,8 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="7a157a81dd80bf57d15f896789b4e9c6c154a609" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_0_1.zip" version="1.0.1">
+    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="7ae7943e86f6bfdb38d99987809b51830c2f95a4" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_0_2.zip" version="1.0.2">
+      <changes lang="EN">1.0.2 Minor bug fix</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
@@ -811,12 +812,13 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="7f98a7fb109a09e8c912f904864aaebb11127af9" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-15.zip" version="5.11.15">
-      <changes lang="EN">(5.11.15) - Added to option to disable visualizer when SDT is active.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="c9be7f4135075112571289246a893898d01e3787" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-16.zip" version="5.11.16">
+      <changes lang="EN">(5.11.16) - Added space between wind direction and wind speed.  Added macro variables for Wind Speed without wind direction.
+			Compass directions and month names are now adjusted based on language selection.  Various formatting changes to Extras-&gt;SDT menus.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="0b007996c072d3e2136d2d293246fbf57bc3b090" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.7/lms-ratingslight-1.8.7.zip" version="1.8.7">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="1fd4ee8268fe722c3a4e76ec4d812ed7df21e78f" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.8/lms-ratingslight-1.8.8.zip" version="1.8.8">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -848,7 +850,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="0ada39f0020d14e8b0521d3af3255db599011b92" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_3_0.zip" version="3.0">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="d9334f1b099a14f28a3e9eca502abd56f3bbfb43" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_0.zip" version="4.0">
       <desc lang="EN">This plugin will control a network ready Denon AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the Denon device on/off, adjust and synchronize the volumes, and set the Denon audio modes. Settings in each player.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
@@ -1012,6 +1014,10 @@
       <changes lang="EN">2.1.20: allow use in LMS 8.* (untested); 2.1.17: no longer migrate very old prefs (fixes crash in LMS 7.9); 2.1.15: fixed volume &amp; unmuting in 7.4/Radio; 2.1.14: more 7.4 fixes, new approach for Radio and Touch; 2.1.12: initial fixes for 7.4, but do NOT try to lock or cap the volume of a Touch or Radio (or Controller)!</changes>
       <desc lang="EN">Allows you to lock the analog and digital output levels of any Squeezebox, Transporter, or SliMP3. Can either prevent any changes in volume, or simply set a maximum volume. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">VolumeLock</title>
+    </plugin>
+    <plugin name="TVH" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="e3dca113027d936c7f111ef20841a9341afe279a" url="https://tvh.codechimp.org/tvh-1.3.31.zip" version="1.3.31">
+      <desc lang="EN">TVHeadend Radio Plugin for Logitech Media Server</desc>
+      <title lang="EN">TVH</title>
     </plugin>
     <plugin name="SpottyBinFreeBSD" creator="Richard Herman" email="richard@neversimple.eu" maxTarget="*" minTarget="7.7" sha="a70b4d9303ec3cdbf96f8c9af91ce8a6a54630c4" target="unix" url="https://www.neversimple.eu/LMS/SpottyBinFreeBSD-0.35.0.zip" version="0.35.0">
       <desc lang="EN">Spotty Helper Application for FreeBSD 11. This plug-in requires the Spotty plugin.</desc>
