@@ -41,7 +41,8 @@
 		"http://plugins.expectingtofly.co.uk/stablerepo.xml",
 		"https://raw.githubusercontent.com/doctorjames/AutoRescan/master/repo.xml",
 		"https://www.neversimple.eu/LMS/repodata.xml",
-		"https://mspertus.github.io/lms-downloads/repo.xml"
+		"https://mspertus.github.io/lms-downloads/repo.xml",
+		"https://tvh.codechimp.org/repo.xml"
 	],
 	"disabled": [
 		"http://grebrown-projects.googlecode.com/svn/repo.xml",
