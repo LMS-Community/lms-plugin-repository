@@ -320,11 +320,12 @@
       <desc lang="EN">RTE programme information</desc>
       <title lang="EN">RTE</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e1ebef59f2db9038f98a28c40e3eef4ad721541a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.2a.zip" version="0.0.2a">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e870232be81bd6922eb0d96ac763c1a35ef2a56f" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.2.zip" version="0.0.2">
       <changes lang="EN">
-				- Temporary change for handling UK summertime
+				- Add access to On Demand (scheduled) content including podcasts and boxsets
+				- Improve handling of DST by using worldtimeapi.org service
 			</changes>
-      <desc lang="EN">Programme and track information for Planet Radio / Bauer Media</desc>
+      <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
     <plugin name="xAP" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
