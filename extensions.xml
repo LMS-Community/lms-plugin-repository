@@ -702,9 +702,10 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
-    <plugin name="ARDAudiothek" creator="Max Zimmermann" maxTarget="*" sha="29e59c5e4b759e4b1c0ae63581d54587fcce4a7f" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.0.0.zip" version="1.0.0">
+    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="f6f71b3ba7221e4853b1147793a005f590be642b" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.1.0.zip" version="1.1.0">
+      <changes lang="EN">v1.1.0: Added GPLv3 license. Playlists can now be added as favorites. Reduced cache TTL to one hour.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
-      <title lang="EN">ARD Audiothek Plugin</title>
+      <title lang="EN">ARD Audiothek</title>
     </plugin>
     <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
