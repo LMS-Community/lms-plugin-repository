@@ -478,8 +478,9 @@
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="8f2a58fdfce7f306b2d4ba29f7b6a863cd63081f" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS.zip" version="1.02">
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ streams. We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
+    <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
+      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
+      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
       <title lang="EN">RadioFeeds UK and Ireland</title>
     </plugin>
     <plugin name="SugarCube" creator="Charles Parker" email="abuse@spicefly.com" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="7555fb987b7c6c0673ea7dfc1b53b9398ec81b6c" url="http://www.spicefly.com/media/scube5x/SugarCube5.22.zip" version="5.22">
