@@ -499,7 +499,7 @@
       <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://bitflip.net/slim/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
       <title lang="EN">QuickAccess</title>
     </plugin>
-    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="8988ee415e4a633a141dcdfa7ded0e72952cbdaa" url="http://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.10.0.zip" version="0.10.0">
+    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="f76ccbde749ec199171aed49227c5f9a5d9a3466" url="http://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.11.zip" version="0.11">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
     </plugin>
