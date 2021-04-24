@@ -677,7 +677,7 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="1fd4ee8268fe722c3a4e76ec4d812ed7df21e78f" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.8.8/lms-ratingslight-1.8.8.zip" version="1.8.8">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="a2d8084e87b0a6183687f8893086229071adb49d" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.0/lms-ratingslight-1.9.0.zip" version="1.9.0">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
