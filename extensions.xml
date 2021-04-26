@@ -635,7 +635,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="db27e4b2d5d9f5f8c06a5fe71f2c1f70df0c3225" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.53.1.zip" version="0.4.53.1">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="847a875ece558a5234071bd2c6061fab59c7dc27" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.53.2.zip" version="0.4.53.2">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
@@ -647,7 +647,7 @@
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
-    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="e584c1a20929c714acc9ff6cf0d4a7d81be1a066" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.1.zip" version="0.18.1">
+    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="2bc58ca164d0d7589e0c34a1da25beeeba32b54a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip" version="0.18.2">
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
