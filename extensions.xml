@@ -276,9 +276,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="RTE" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="0a08733d571cf86527dc53359b22a847b632f702" url="http://www.dabdig.co.uk/slimserver-rep/RTE-0.0.4.zip" version="0.0.4">
+    <plugin name="RTE" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="37a412f1d7c9e43b22791329b56d802e5a3a236f" url="http://www.dabdig.co.uk/slimserver-rep/RTE-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
-				- Add an extra stream matching URL
+				- Use worldtimeapi.org to help with DST handling
 			</changes>
       <desc lang="EN">RTE programme information</desc>
       <title lang="EN">RTE</title>
