@@ -883,8 +883,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="e6dfd26d1c360181a6654f71374d49ae490d953a" url="http://www.herger.net/_data/Bandcamp-1.8.4.zip" version="1.8.4">
-      <changes lang="EN">v1.8.0: add support for &quot;Tune In to...&quot; in LMS8. Allows you to paste an album URL to play it back. - thanks mavit! v1.8.4: don't crash when search history fails to load</changes>
+    <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="6781d6a5907611edbf5ad7d42f76849d2a6f15eb" url="http://www.herger.net/_data/Bandcamp-1.8.5.zip" version="1.8.5">
+      <changes lang="EN">v1.8.0: add support for &quot;Tune In to...&quot; in LMS8. Allows you to paste an album URL to play it back. - thanks mavit! v1.8.5: Fix search result parsing.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
