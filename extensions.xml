@@ -717,8 +717,8 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="f057aad53935e5fc624385bd2f6311dc9dcadfda" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.6.zip" version="0.6">
-      <desc lang="EN">Use remote buttons to rate songs on Squeezebox Classic, Boom and Transporter</desc>
+    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="2c8b698ab71d8f28c038784460f9dad5aa2ccfc8" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.7.zip" version="0.7">
+      <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
     <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="24a0f06b55f480c93e4708f7b5ccf9806ca6840e" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.2/plugin-CommunityFirmware-0.0.2.zip" version="0.0.2">
