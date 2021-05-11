@@ -657,6 +657,26 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
+    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="a7436d8f6cbfb9b27a8070fb9e2c26a8f1c68b03" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_17_1.zip" version="2.17.1">
+      <changes lang="EN">2.17.1 Backout of info menu link; 2.16.1 Station highlights menu and rearranged schedule menu</changes>
+      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
+      <title lang="EN">BBC Sounds</title>
+    </plugin>
+    <plugin name="VirginRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="cca3bc59a589015a2b4273235718db81a49c2582" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_4.zip" version="1.0.4">
+      <changes lang="EN">1.0.4 Material Icon + bugfix</changes>
+      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
+      <title lang="EN">Virgin Radio (UK)</title>
+    </plugin>
+    <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="1da34edcd184dd56d7ece9e5652736fbf27245ae" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_5.zip" version="2.1.5">
+      <changes lang="EN">NEW 2.1.5  Bugfixes - Seeking for AOD + Material Icon compatability</changes>
+      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
+      <title lang="EN">Times Radio</title>
+    </plugin>
+    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="7ae7943e86f6bfdb38d99987809b51830c2f95a4" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_0_2.zip" version="1.0.2">
+      <changes lang="EN">1.0.2 Minor bug fix</changes>
+      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
+      <title lang="EN">Global Player (UK)</title>
+    </plugin>
     <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="ec6bfc52aee3d398c47c091e97f0d4a5436f483f" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.1/lms-ratingslight-1.9.1.zip" version="1.9.1">
       <desc lang="EN">Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
