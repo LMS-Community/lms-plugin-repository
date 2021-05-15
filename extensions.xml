@@ -283,10 +283,9 @@
       <desc lang="EN">RTE programme information</desc>
       <title lang="EN">RTE</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e870232be81bd6922eb0d96ac763c1a35ef2a56f" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.2.zip" version="0.0.2">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="acc26f85dab809f3946a0f6a6e086ad7cce75d90" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.3.zip" version="0.0.3">
       <changes lang="EN">
-				- Add access to On Demand (scheduled) content including podcasts and boxsets
-				- Improve handling of DST by using worldtimeapi.org service
+				- Correct matching of stream URLs that had resulted in some unsupported stations being partially matched
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
