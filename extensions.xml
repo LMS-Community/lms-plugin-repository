@@ -832,8 +832,8 @@
       <desc lang="EN">Plugin to provide &quot;squeezecli:&quot; and &quot;squeezexec:&quot; protocol handlers so actions can be embedded in playlists.</desc>
       <title lang="EN">SqueezeCLI Handler</title>
     </plugin>
-    <plugin name="StatusFirst" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/StatusFirst.html" maxTarget="8.*" minTarget="7.0" sha="23b9e67c7bea3996eac7f28bd3b055b42876a8b6" url="https://tuxreborn.netlify.app/slim/slim7/StatusFirst/StatusFirst-2.1.8.zip" version="2.1.8">
-      <changes lang="EN">2.1.8: allow use in LMS 8.* (untested); 2.1.6: no longer migrate old server prefs (fixes LMS 7.9 crash); 2.1.5: tested with 7.4 and Radio</changes>
+    <plugin name="StatusFirst" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/StatusFirst.html" maxTarget="8.*" minTarget="7.0" sha="7799fe7d212abe4638c5e865d2007cb30da7c912" url="https://tuxreborn.netlify.app/slim/slim7/StatusFirst/StatusFirst-2.1.9.zip" version="2.1.9">
+      <changes lang="EN">2.1.9: fix popups for Jive-based players like Radio; 2.1.8: allow use in LMS 8.* (untested); 2.1.6: no longer migrate old server prefs (fixes LMS 7.9 crash); 2.1.5: tested with 7.4 and Radio</changes>
       <desc lang="EN">Allows you to configure each player so it will display the current setting when you use the Sleep, Shuffle, Repeat, or volume keys on its remote control once, and only change the setting on subsequent button presses. Volume key behavio change does not work on Radio or Touch. (Boom,  Classic, Radio, Slimp3, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">StatusFirst</title>
     </plugin>
