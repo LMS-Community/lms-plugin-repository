@@ -556,21 +556,15 @@
       <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
       <title lang="EN">SharkPlay</title>
     </plugin>
-    <plugin name="CDplayer" changes="- 1.10 Update to fix playback in PCM
-				- 1.09 Update to replace use of Amazon by Musicbrainz for cover art. Also use update APIs
-                                - Change to remove use of deprecated feature for Perl 5.24" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="3b2cf4b81f7d2e84b0ba9c9025e97234ddda5bfd" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/CDplayer-osx-v110.ZIP" version="1.10">
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="CDplayer" changes="- 1.10 Update to fix playback in PCM
-				- 1.09 Update to replace use of Amazon by Musicbrainz for cover art. Also use update APIs
-                                - Change to remove use of deprecated feature for Perl 5.24" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="c59fe0e308e5f07d75220fb98bcf43b51b98723f" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/CDplayer-windows-v110.ZIP" version="1.10">
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Includes CDDA2WAV and associated DLLs.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="CDplayer" changes="- 1.10 Update to fix playback in PCM
-				- 1.09 Update to replace use of Amazon by Musicbrainz for cover art. Also use update APIs
-                                - Change to remove use of deprecated feature for Perl 5.24" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="71cbee396fafc36f1107b32c2e1125813ddd011d" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/CDplayer-linux-v110.ZIP" version="1.10">
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
