@@ -600,7 +600,7 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="80572eb1c9c75eaad63e422ed058d0407472dc85" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.5.zip" version="0.14.5">
+    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="ad356cd6df2ad1c04c32846314c42590ec5f50da" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.6.zip" version="0.14.6">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
