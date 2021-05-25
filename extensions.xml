@@ -628,11 +628,11 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="fae70d1cd5a25986370851e2d97dad4a82fd5fc4" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.60.0.zip" version="0.4.60.0">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="fa1ad741eb8779a38c315f4dfc33c469f15ca5da" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.60.1.zip" version="0.4.60.1">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="05437e1b46e355f5208d52b89fe47f0ee9fa7fc2" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.50.1.zip" version="1.50.1">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="2e833971562c7bf4f2a1953c1a39cee3d42f99bb" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.50.2.zip" version="1.50.2">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
