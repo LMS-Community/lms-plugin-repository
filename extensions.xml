@@ -632,7 +632,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="d5b2a3ff6343eefe6731480ea0a47c0e853c450b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.60.0.zip" version="1.60.0">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="9223c245999b04caa7da372a21a612ab28ae9e6e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.60.0.zip" version="1.60.0">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
