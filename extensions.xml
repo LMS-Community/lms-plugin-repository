@@ -650,22 +650,22 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="a942cbc15712d74f69668c8399d701f9f92d633b" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_17_3.zip" version="2.17.3">
-      <changes lang="EN">NEW 2.17.3 &quot;Rewound&quot; indicator for paused/rewound live radio</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="3a742fc709787a34e08ab7bdfeed5511f3a8f130" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_18_0.zip" version="2.18.0">
+      <changes lang="EN">NEW 2.18.0 Subscribe/Unsubcribe context menu for series/podcasts; 2.17.3 &quot;Rewound&quot; indicator for paused/rewound live radio</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="cca3bc59a589015a2b4273235718db81a49c2582" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_4.zip" version="1.0.4">
+    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="cca3bc59a589015a2b4273235718db81a49c2582" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_4.zip" version="1.0.4">
       <changes lang="EN">1.0.4 Material Icon + bugfix</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="1da34edcd184dd56d7ece9e5652736fbf27245ae" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_5.zip" version="2.1.5">
+    <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="1da34edcd184dd56d7ece9e5652736fbf27245ae" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_5.zip" version="2.1.5">
       <changes lang="EN">NEW 2.1.5  Bugfixes - Seeking for AOD + Material Icon compatability</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="7ae7943e86f6bfdb38d99987809b51830c2f95a4" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_0_2.zip" version="1.0.2">
+    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="7ae7943e86f6bfdb38d99987809b51830c2f95a4" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_0_2.zip" version="1.0.2">
       <changes lang="EN">1.0.2 Minor bug fix</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
