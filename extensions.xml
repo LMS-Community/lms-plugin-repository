@@ -620,7 +620,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="9899bf185b85863c5541aa6fb799a5ae0b3e50a1" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.61.0.zip" version="1.61.0">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="293bb83decac7e38aa3f238c4a88168fe4b67402" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.62.0.zip" version="1.62.0">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -632,7 +632,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="1482577634955a9a5707c937ae17cec92d54e10e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.61.0.zip" version="1.61.0">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="a39278f522cf860eaca5521ef4d26d953058a21f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.62.0.zip" version="1.62.0">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -714,7 +714,7 @@
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
-    <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="24a0f06b55f480c93e4708f7b5ccf9806ca6840e" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.2/plugin-CommunityFirmware-0.0.2.zip" version="0.0.2">
+    <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="d2512fa310d76f7fa01138306ad82cb8de56837e" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.3/plugin-CommunityFirmware-0.0.3.zip" version="0.0.3">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
