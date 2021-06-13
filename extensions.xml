@@ -530,10 +530,6 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
-    <plugin name="XSqueezeDisplay" creator="bossanova808" email="bossanova808@gmail.com" maxTarget="*" minTarget="7.7" sha="d8610a90537699b489c8451804bd6db455cdc410" url="http://github.com/bossanova808/repository.squeeze.bossanova808/raw/master/downloads/XSqueezeDisplay/XSqueezeDisplay-0.9.9.zip" version="0.9.9">
-      <desc lang="EN">Display Kodi (XBMC) Now Playing info on a Squeezebox SB2/3/Classic display.</desc>
-      <title lang="EN">XSqueezeDisplay</title>
-    </plugin>
     <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="f6f71b3ba7221e4853b1147793a005f590be642b" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.1.0.zip" version="1.1.0">
       <changes lang="EN">v1.1.0: Added GPLv3 license. Playlists can now be added as favorites. Reduced cache TTL to one hour.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
@@ -620,7 +616,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="293bb83decac7e38aa3f238c4a88168fe4b67402" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.62.0.zip" version="1.62.0">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="0210aafeb9fcc528a3338c8e467c1b08326f465c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.62.2.zip" version="1.62.2">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
