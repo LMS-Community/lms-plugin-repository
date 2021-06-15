@@ -872,8 +872,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="10b5e9ac14950d87b4de9e9b516982279c5b9016" url="http://www.herger.net/_data/Bandcamp-1.8.6.zip" version="1.8.6">
-      <changes lang="EN">v1.8.0: add support for &quot;Tune In to...&quot; in LMS8. Allows you to paste an album URL to play it back. - thanks mavit! v1.8.6: Fix search result and URL lookup parsing.</changes>
+    <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="f59226871f4a1523944bbfe79b837bbd2005b54f" url="http://www.herger.net/_data/Bandcamp-1.9.0.zip" version="1.9.0">
+      <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
@@ -1011,7 +1011,7 @@
       <desc lang="EN">Spotty Helper Application for FreeBSD 11. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for FreeBSD 11</title>
     </plugin>
-    <plugin name="SugarCube" creator="Charles Parker" email="abuse@spicefly.com" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="7555fb987b7c6c0673ea7dfc1b53b9398ec81b6c" url="http://www.spicefly.com/media/scube5x/SugarCube5.22.zip" version="5.22">
+    <plugin name="SugarCube" creator="Charles Parker" email="abuse@spicefly.com" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
       <desc lang="EN">Travel through your music Library using MusicIPs recommendations. Features Include Filter, Genre, Artist and Recipe Mixing, Trackstat Integration, Artist Blocking, Genre Blocking, Custom Track Weighting Routines, Coming Up Next Display, Sleep Mode, Volume Fade and lots more.  See www.spicefly.com for Details and Change Log.</desc>
       <title lang="EN">Spicefly SugarCube</title>
     </plugin>
