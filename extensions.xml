@@ -943,7 +943,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.4.0: Let user decide what account's library to import. Give access to &quot;Home&quot; menu. v4.4.9: Re-enable Ogg direct streaming. Don't import non-playable playlist tracks (thanks jepege!)." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="5957787e1037b57589e44a9fa2d3befe1cbb8d0f" url="http://downloads.nixda.ch/Spotty-4.4.9.zip" version="4.4.9">
+    <plugin name="Spotty" changes="v4.5.0: Improved Ogg Direct mode (thanks philippe44!), add support for Autoplay, add a note about multi user setup with custom client ID." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="13cd4a4c5e1a4e38992a6dd704658103092cc6d0" url="http://downloads.nixda.ch/Spotty-4.5.0.zip" version="4.5.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
