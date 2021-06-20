@@ -670,12 +670,12 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="10a365eea57f619b808e2dd37c9d0657a496827a" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.3/lms-ratingslight-1.9.3.zip" version="1.9.3">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="a7036ef727bab82712610cc57df5f28d291052f8" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.4/lms-ratingslight-1.9.4.zip" version="1.9.4">
       <desc lang="EN">A plugin that takes care of rating your local tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Browse rated tracks by artist or genre. Keep track of your recently rated songs with a dedicated playlist or log file. Show (more) rated tracks by an artist or in an album. Supports &quot;Don't Stop The Music&quot;. Includes ratings-based smart playlists for DynamicPlaylists. Skip (un-)rated tracks with CustomSkip.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" maxTarget="*" minTarget="7.9" sha="49e82dd7c8028c2a4c253c24f0a5b25dec12f3b7" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.0.4/lms-usecommenttaginfo-1.0.4.zip" version="1.0.4">
-      <desc lang="EN">This plugin allows you to include extra information in the song details page based on (key)words in comment tags.</desc>
+    <plugin name="UseCommentTagInfo" creator="AF" maxTarget="*" minTarget="7.9" sha="3ee6d42f19af6176f8d3e55c014cd194714f79be" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.2.2/lms-usecommenttaginfo-1.2.2.zip" version="1.2.2">
+      <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus, skip songs with CustomSkip.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="d799a3c48f2a2deb1212ce33a25186ec135ad5a0" url="https://github.com/CDrummond/lms-material/releases/download/2.4.6/lms-material-2.4.6.zip" version="2.4.6">
