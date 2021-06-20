@@ -596,6 +596,10 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
+    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="15aaae7e909fcf19b75ad8b96d91131fd208a745" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.1.zip" version="0.1">
+      <desc lang="EN">Add providers to podcast</desc>
+      <title lang="EN">Podcast Extensions</title>
+    </plugin>
     <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="ad356cd6df2ad1c04c32846314c42590ec5f50da" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.6.zip" version="0.14.6">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
