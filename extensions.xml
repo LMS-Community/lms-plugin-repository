@@ -959,6 +959,10 @@
       <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6/7 based systems. Use these if your installation used to work pre Spotty 2.8.0, but stopped with the most recent helpers. Please note that these legacy versions come with certain limitations, eg. cannot stream OGG directly to your player.</desc>
       <title lang="EN">Spotty Legacy Helper Application for ARMv6/7 architecture</title>
     </plugin>
+    <plugin name="SpottyARMPi0Bin" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="23776e5447818c17021b5fe87f8fe993d8fb0e7c" target="unix" url="http://www.herger.net/_data/SpottyARMPi0Bin-0.35.0.zip" version="0.35.0">
+      <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6 based Raspberry Pi systems (0/1). Use these if your installation used to work pre Spotty 4.5.0, but stopped with the most recent helpers.</desc>
+      <title lang="EN">Spotty Helper Application for Raspberry Pi Zero/1st Generation</title>
+    </plugin>
     <plugin name="TimeSpeller" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/TimeSpeller/" maxTarget="*" minTarget="7.0" sha="f0f3af71130b8333e633fc84003f017094e1be23" url="http://www.herger.net/_data/TimeSpeller-1.6a.zip" version="1.6">
       <title lang="DE">Zeit in Worten</title>
       <title lang="EN">Date and Spelled time</title>
