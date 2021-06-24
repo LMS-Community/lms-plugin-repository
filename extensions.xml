@@ -596,7 +596,7 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
-    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="f3b65768930cc713ae26863a112e546edff56476" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.6.zip" version="0.6">
+    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="7382db5864d1df19893bb292168d7119dfe7fd4b" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.7.zip" version="0.7">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
