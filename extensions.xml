@@ -947,7 +947,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.5.0: Improved Ogg Direct mode (thanks philippe44!), add support for Autoplay, add a note about multi user setup with custom client ID. v4.5.1: Fix fetching tokens. v4.5.2: Fix distortion when transcoding with replaygain enabled." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="ed7f24e77503310d6b2945224818f92c2047977f" url="http://downloads.nixda.ch/Spotty-4.5.2.zip" version="4.5.2">
+    <plugin name="Spotty" changes="v4.5.0: Improved Ogg Direct mode (thanks philippe44!), add support for Autoplay, add a note about multi user setup with custom client ID. v4.5.2: Fix distortion when transcoding with replaygain enabled. v4.5.3: Fix blocking token fetching." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="2bf0d5f35c95a6d3d2a91f09b7cd5c4df874433a" url="http://downloads.nixda.ch/Spotty-4.5.3.zip" version="4.5.3">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
