@@ -650,8 +650,8 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="3a742fc709787a34e08ab7bdfeed5511f3a8f130" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_18_0.zip" version="2.18.0">
-      <changes lang="EN">NEW 2.18.0 Subscribe/Unsubcribe context menu for series/podcasts; 2.17.3 &quot;Rewound&quot; indicator for paused/rewound live radio</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="59802bb269a457cf2d2a0679f32416478ba9f552" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_18_1.zip" version="2.18.1">
+      <changes lang="EN">NEW 2.18.1 Bugfix (menu paging on &quot;My Sounds&quot;); 2.18.0 Subscribe/Unsubcribe context menu for series/podcasts</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
