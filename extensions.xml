@@ -678,7 +678,7 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus, skip songs with CustomSkip.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="4a7603618be6b1cb026044ce1be548b2505ed7e9" url="https://github.com/CDrummond/lms-material/releases/download/2.5.0/lms-material-2.5.0.zip" version="2.5.0">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="f0e97b958b703415329114102e5ea0f6f3ee6d57" url="https://github.com/CDrummond/lms-material/releases/download/2.5.1/lms-material-2.5.1.zip" version="2.5.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
