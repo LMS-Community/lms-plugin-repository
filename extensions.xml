@@ -600,7 +600,7 @@
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="ad356cd6df2ad1c04c32846314c42590ec5f50da" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.14.6.zip" version="0.14.6">
+    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="bc92ea48306bb140439f02f76af4a90ed1b95382" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.15.0.zip" version="0.15.0">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
@@ -624,7 +624,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="d3f968be1d52b71dc7f42708075c01c30cef62ea" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.142.0.zip" version="0.142.0">
+    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="4587a179995d20c25503990aa9960406237a10ac" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.142.1.zip" version="0.142.1">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
