@@ -678,8 +678,8 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus, skip songs with CustomSkip.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" maxTarget="*" minTarget="7.9" sha="fbf5278402c0932c639f2467de0bccb076f796d3" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.2/lms-visualstatistics-1.0.2.zip" version="1.0.2">
-      <desc lang="EN">Have a look at your library statistics with charts. Makes them look better but not more interesting.</desc>
+    <plugin name="VisualStatistics" creator="AF" maxTarget="*" minTarget="7.9" sha="d6f6e940b2064cb07eadab4eaf5f630b44455058" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.4/lms-visualstatistics-1.0.4.zip" version="1.0.4">
+      <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="21651178282afa379e7c7f6dea4f3a7b8f98c0cd" url="https://github.com/CDrummond/lms-material/releases/download/2.6.0/lms-material-2.6.0.zip" version="2.6.0">
