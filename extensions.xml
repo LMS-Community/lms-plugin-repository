@@ -632,7 +632,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="2c13483586ce1d552c70952c7761a3caf4d4e526" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.64.1.zip" version="1.64.1">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="0e70feb3bbefaa4fb3f8020ffd62b40c5dd9d216" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.64.2.zip" version="1.64.2">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -654,11 +654,6 @@
       <changes lang="EN">NEW 2.19.0 New Podcasts and Music menus + Bugfixes</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
-    </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="cca3bc59a589015a2b4273235718db81a49c2582" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_1_0_4.zip" version="1.0.4">
-      <changes lang="EN">1.0.4 Material Icon + bugfix</changes>
-      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
-      <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
     <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="1da34edcd184dd56d7ece9e5652736fbf27245ae" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_5.zip" version="2.1.5">
       <changes lang="EN">NEW 2.1.5  Bugfixes - Seeking for AOD + Material Icon compatability</changes>
@@ -706,7 +701,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="f9a6f9ee16dcd424ab1449b13185e2dcbc2261b6" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_1.zip" version="4.1">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="dd9408f3d15b8aab02480f9064e61e30a92d4c5f" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_2.zip" version="4.2">
       <desc lang="EN">This plugin will control a network ready Denon AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the Denon device on/off, adjust and synchronize the volumes, and set the Denon audio modes. Settings in each player.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
