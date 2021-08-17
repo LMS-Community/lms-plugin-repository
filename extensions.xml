@@ -300,11 +300,6 @@
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
     </plugin>
-    <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
-      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
-      <title lang="EN">RadioFeeds UK and Ireland</title>
-    </plugin>
     <plugin name="SimpleLibraryViews" creator="Andy Hawkins" email="andy@gently.org.uk" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9" sha="4fc52b334f7668bfa0123076560afa30fe1794ec" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.0.0.zip" version="1.0.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
@@ -620,7 +615,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="3f4485e34e86c7e1e44cf60b24d5238dbaee245d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.64.1.zip" version="1.64.1">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="16d443abc6fa2462079de9ac9d6782c52bcfb350" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.70.0.zip" version="1.70.0">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -632,7 +627,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="0e70feb3bbefaa4fb3f8020ffd62b40c5dd9d216" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.64.2.zip" version="1.64.2">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="59915d45e7edf7cc82888d8ff33190e9914445e0" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.70.0.zip" version="1.70.0">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
