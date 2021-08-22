@@ -612,7 +612,7 @@
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="6fae98339c2a7d1dc12d7ed8d0a48670604354cc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.61.0.zip" version="0.61.0">
+    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="69f90d953a5d87529b8e5d48714a83d0002249cf" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.61.1.zip" version="0.61.1">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
@@ -632,7 +632,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="59915d45e7edf7cc82888d8ff33190e9914445e0" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.70.0.zip" version="1.70.0">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="a6436ef89c8d78baf0e88f26cc7b59379c1adf7a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.70.1.zip" version="1.70.1">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
