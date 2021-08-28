@@ -682,7 +682,7 @@
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="7b2024818d3a4e3868fd270acfb8ef4ddaf2878f" url="https://github.com/CDrummond/lms-material/releases/download/2.6.1/lms-material-2.6.1.zip" version="2.6.1">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="a1212e0d72e5f0f7883867ec0b68ea39efcacbcc" url="https://github.com/CDrummond/lms-material/releases/download/2.6.2/lms-material-2.6.2.zip" version="2.6.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
