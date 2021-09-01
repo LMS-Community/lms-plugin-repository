@@ -670,11 +670,11 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="13ab2f253968ec7d06880d08bd109f0be953a0ac" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.7/lms-ratingslight-1.9.7.zip" version="1.9.7">
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="41243191a5dd976c51e9a0cc488f0cc2248ddcea" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.8/lms-ratingslight-1.9.8.zip" version="1.9.8">
       <desc lang="EN">A plugin that takes care of rating your local tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. One click to show (more) rated tracks by an artist or in an album from the context menu/song details page. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" maxTarget="*" minTarget="7.9" sha="8b873f82a7127bbe6585422bc8f261e4c399f905" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.2.6/lms-usecommenttaginfo-1.2.6.zip" version="1.2.6">
+    <plugin name="UseCommentTagInfo" creator="AF" maxTarget="*" minTarget="7.9" sha="0561369d57379396c9651d98b90b25e169b0c52f" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.2.7lms-usecommenttaginfo-1.2.7.zip" version="1.2.7">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
