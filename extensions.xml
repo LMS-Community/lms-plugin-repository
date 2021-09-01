@@ -650,8 +650,8 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="6ab2c30210259dddf3ff3eec893eaa69e0109e8c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_20_0.zip" version="2.20.0">
-      <changes lang="EN">NEW 2.20.0 Favourite Podcasts/series and &quot;My Sounds&quot; in LMS 8.2.0</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="09beed9bcb9be533a127fa816a4c0cccd79dace3" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_20_1.zip" version="2.20.1">
+      <changes lang="EN">NEW 2.20.1 Fix Favourite capability in Material + Jive controllers; 2.20.0 Favourite Podcasts/series and &quot;My Sounds&quot; in LMS 8.2.0</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
