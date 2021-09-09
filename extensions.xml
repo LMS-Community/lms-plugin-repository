@@ -326,7 +326,7 @@
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
     </plugin>
-    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="f76ccbde749ec199171aed49227c5f9a5d9a3466" url="http://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.11.zip" version="0.11">
+    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="9f0120b2bfdcbac03d9a729b422973015d7f6cc4" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.12.zip" version="0.12">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
     </plugin>
