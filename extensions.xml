@@ -915,8 +915,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Top The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="bc51b0e6decad933a2c8253a6d38a93b629e5794" url="http://www.herger.net/_data/MusicArtistInfo-1.7.1.zip" version="1.7.1">
-      <changes lang="EN">v1.7.0: optionally look up genres for online tracks. v1.7.1: return to caching by contributor ID, but clean up behind to get rid of stale entries in the cache file.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="12926410eae42870053af81bb0335491f8384d3c" url="http://www.herger.net/_data/MusicArtistInfo-1.7.2.zip" version="1.7.2">
+      <changes lang="EN">v1.7.0: optionally look up genres for online tracks. v1.7.2: Fix Album Review parsing.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
