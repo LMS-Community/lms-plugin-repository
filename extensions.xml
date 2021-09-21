@@ -612,7 +612,7 @@
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="69f90d953a5d87529b8e5d48714a83d0002249cf" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.61.1.zip" version="0.61.1">
+    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="ba02592403824771eff4a57be5727b055868f629" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.70.3.zip" version="0.70.3">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
@@ -620,7 +620,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="16d443abc6fa2462079de9ac9d6782c52bcfb350" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.70.0.zip" version="1.70.0">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="9925a856a6ad246dea33c06218e9544e1baf4b23" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.71.0.zip" version="1.71.0">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
