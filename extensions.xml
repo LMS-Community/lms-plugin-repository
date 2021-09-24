@@ -670,17 +670,21 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="6f32c42dc98ff4348d331783a03a9b0635ac6b2f" url="https://github.com/AF-1/lms-ratingslight/releases/download/1.9.9/lms-ratingslight-1.9.9.zip" version="1.9.9">
-      <desc lang="EN">A plugin that takes care of rating your local tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. One click to show (more) rated tracks by an artist or in an album from the context menu/song details page. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
+    <plugin name="RatingsLight" creator="AF" maxTarget="*" minTarget="7.9" sha="d0f6cd20942b1543f9a3c48267b94402f42d090f" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.0/lms-ratingslight-2.0.0.zip" version="2.0.0">
+      <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (webUI and context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" maxTarget="*" minTarget="7.9" sha="d7953c738bce0796d85a4970abf6edfb46e67453" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.2.8/lms-usecommenttaginfo-1.2.8.zip" version="1.2.8">
+    <plugin name="UseCommentTagInfo" creator="AF" maxTarget="*" minTarget="7.9" sha="37d67cb3781bb2e32b1c2bd211884fc3a4857bf3" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.2.9/lms-usecommenttaginfo-1.2.9.zip" version="1.2.9">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" maxTarget="*" minTarget="7.9" sha="316229b8ebaf042da7aec198fac2816b91d94228" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.6/lms-visualstatistics-1.0.6.zip" version="1.0.6">
+    <plugin name="VisualStatistics" creator="AF" maxTarget="*" minTarget="7.9" sha="4ac615fad35e701db319d73f5a50dbb7487c7593" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.8/lms-visualstatistics-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
+    </plugin>
+    <plugin name="DynamicPlayList" creator="AF" maxTarget="*" minTarget="7.9" sha="716488ca62a79f695168cabd74af7e3a891a3147" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.1.7/lms-dynamicplaylists-3.1.7.zip" version="3.1.7">
+      <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. In addition you can now use your own custom dynamic playlist definitions directly in this plugin, you don't need other plugins for that anymore. Please uninstall v2.x before installing v3.x. More information on the github page.</desc>
+      <title lang="EN">Dynamic Playlists</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="43a8f864a74f2ae7696ce8194a715a4906bdd527" url="https://github.com/CDrummond/lms-material/releases/download/2.6.3/lms-material-2.6.3.zip" version="2.6.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
