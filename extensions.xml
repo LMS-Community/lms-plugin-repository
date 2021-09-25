@@ -674,7 +674,7 @@
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (webUI and context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="37d67cb3781bb2e32b1c2bd211884fc3a4857bf3" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.2.9/lms-usecommenttaginfo-1.2.9.zip" version="1.2.9">
+    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="8de8fb97e8e18dad8bbf95cc25d100850a16c8f5" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.0/lms-usecommenttaginfo-1.3.0.zip" version="1.3.0">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
