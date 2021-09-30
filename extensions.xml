@@ -683,11 +683,11 @@
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (webUI and context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="905c12b421c99a472833ca71a26df7f859e4dbf3" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.1/lms-usecommenttaginfo-1.3.1.zip" version="1.3.1">
+    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="fc0d207ce99b8c53135c3408d3249d60e77bdbf6" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.2/lms-usecommenttaginfo-1.3.2.zip" version="1.3.2">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="4ac615fad35e701db319d73f5a50dbb7487c7593" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.8/lms-visualstatistics-1.0.8.zip" version="1.0.8">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="26d419d7bfc228be55fa9ee8d0adc15e37074f86" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.9/lms-visualstatistics-1.0.9.zip" version="1.0.9">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
