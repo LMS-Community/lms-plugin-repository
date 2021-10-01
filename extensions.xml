@@ -290,9 +290,9 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="371ccc2c399039d04e2fa7450cca542d93294157" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.5.zip" version="0.0.5">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="2dc170b0b1c24256e660786946cf55750b72bf16" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.6.zip" version="0.0.6">
       <changes lang="EN">
-				- No longer a beta, perhaps should be a gamma
+				- Add the Cesky rozhlas station - Pohoda - launched 1-Oct-2021
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
@@ -659,8 +659,8 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="db71c412fdb60dbcee20d18428de7d6338dc06fb" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_20_4.zip" version="2.20.4">
-      <changes lang="EN">NEW 2.20.4 Bugfixes - Audio Scrobbling type compatability plus improvements to meta data change signalling 2.20.0 Favourite Podcasts/series and &quot;My Sounds&quot; in LMS 8.2.0</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="b90722a9e24e373086f676f2abf2af689319f1d1" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_20_6.zip" version="2.20.6">
+      <changes lang="EN">NEW 2.20.6 Minor Bugfix 2.20.4 Bugfixes - Audio Scrobbling type compatability plus improvements to meta data change signalling 2.20.0 Favourite Podcasts/series and &quot;My Sounds&quot; in LMS 8.2.0</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
