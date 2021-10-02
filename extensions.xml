@@ -296,7 +296,7 @@
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
-					 Juke Radio, Nova.fr (France), Cesky rozhlas  (rozhlas.cz), Naim Radio, KlassikRadio.de</desc>
+					 Juke Radio, Nova.fr (France), Cesky rozhlas (rozhlas.cz), Naim Radio, KlassikRadio.de</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="xAP" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
@@ -605,7 +605,7 @@
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
-    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="531e1a806c6985a65828d4b1d92acc2f4689eb48" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.10.zip" version="0.10">
+    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="b1e011fe7da62668f79f910798f0435e0f0d2b61" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.22.zip" version="0.22">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
@@ -621,7 +621,7 @@
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="ba02592403824771eff4a57be5727b055868f629" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.70.3.zip" version="0.70.3">
+    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="63c44ea630d8d85f2bec63d2c9194f2eef48f6c5" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.71.0.zip" version="0.71.0">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
@@ -637,7 +637,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="07d0fed99dcc2fa25c2ac8c428a0c35b20b3e245" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.62.1.zip" version="0.4.62.1">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="651f0c917d85ad033ceaf775297d82e4a352289b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.62.2.zip" version="0.4.62.2">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
@@ -645,7 +645,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="28a0267eb5dbdcec7958bb54618062120ef56eb4" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.0.zip" version="0.205.0">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="29ed88b3a817ee89281d91d305c475d6bab37328" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.1.zip" version="0.205.1">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -734,6 +734,10 @@
     <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="f7d5f912672ec5705faa5748dd9e0af2d46a57c4" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.7/plugin-CommunityFirmware-0.0.7.zip" version="0.0.7">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
+    </plugin>
+    <plugin name="SqueezeESP32" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="3209d93e2b02c1c9161572977f03c93938272b30" url="http://github.com/sle118/squeezelite-esp32/raw/master-cmake/plugin/SqueezeESP32.zip" version="0.351">
+      <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
+      <title lang="EN">SqueezeESP32</title>
     </plugin>
     <plugin name="AllQuiet" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/AllQuiet.html" maxTarget="8.*" minTarget="7.0" sha="9e27094ff2ee80e17123681ec6e3ae350afc36d2" url="https://tuxreborn.netlify.app/slim/slim7/AllQuiet/AllQuiet-2.1.14.zip" version="2.1.14">
       <changes lang="EN">2.1.14: allow use in LMS 8.* (untested); 2.1.13: new repository URL; 2.1.12: display message on Radio &amp; Touch screens if paused by AllQuiet; 2.1.10: squelch deprecation warnings in 7.4, support --noweb; 2.1.9: change to new numbering scheme; 7a9: fix pause API call bug</changes>
