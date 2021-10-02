@@ -26,6 +26,7 @@
 		"https://foobarjo.org/LMS/foobarjo-stable.xml",
 		"https://netcologne.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml",
 		"https://netcologne.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml",
+		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-cmake/plugin/repo.xml",
 		"https://netcologne.dl.sourceforge.net/project/sdt-weather-com/repo.xml",
 		"https://raw.githubusercontent.com/aesculus/denonavpcontrol/master/repo.xml",
 		"https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/public.xml",
