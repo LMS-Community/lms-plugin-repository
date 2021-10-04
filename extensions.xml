@@ -539,8 +539,8 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
-    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="f6f71b3ba7221e4853b1147793a005f590be642b" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.1.0.zip" version="1.1.0">
-      <changes lang="EN">v1.1.0: Added GPLv3 license. Playlists can now be added as favorites. Reduced cache TTL to one hour.</changes>
+    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="8fcd20de838b5ebfc744024c3427842f5daf5f15" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.2.0.zip" version="1.2.0">
+      <changes lang="EN">v1.2.0: The plugin now uses the GraphQL backend of the ARD Audiothek.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
@@ -605,7 +605,7 @@
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
-    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="b1e011fe7da62668f79f910798f0435e0f0d2b61" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.22.zip" version="0.22">
+    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="9e7548f970c9b0ba202bbd75190462cbed3cd9bf" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.zip" version="0.23">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
