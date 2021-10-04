@@ -539,8 +539,8 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
-    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="8fcd20de838b5ebfc744024c3427842f5daf5f15" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.2.0.zip" version="1.2.0">
-      <changes lang="EN">v1.2.0: The plugin now uses the GraphQL backend of the ARD Audiothek.</changes>
+    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="f09a8cc13a4c4f40f7109568c411581389ed9026" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.2.1.zip" version="1.2.1">
+      <changes lang="EN">v1.2.0: The plugin now uses the GraphQL backend of the ARD Audiothek. v1.2.1: favorite playlists load meta data</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
