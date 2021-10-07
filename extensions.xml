@@ -687,7 +687,7 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="26d419d7bfc228be55fa9ee8d0adc15e37074f86" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.0.9/lms-visualstatistics-1.0.9.zip" version="1.0.9">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="d2ec748dd320175511feba219bd7b6068b8e8291" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.1.0/lms-visualstatistics-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
@@ -727,7 +727,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="2c8b698ab71d8f28c038784460f9dad5aa2ccfc8" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.7.zip" version="0.7">
+    <plugin name="RatingButtons" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="34c0665185631023e00e619b260b4301e5cc19f3" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.8.zip" version="0.8">
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
