@@ -687,15 +687,15 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="4caa9348a6faf89664acdf943b43cdc5b234945f" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.1.1/lms-visualstatistics-1.1.1.zip" version="1.1.1">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="89c1d15764a7f36a84672834d44e2ace354bb0e9" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.1.3/lms-visualstatistics-1.1.3.zip" version="1.1.3">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlayList" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="716488ca62a79f695168cabd74af7e3a891a3147" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.1.7/lms-dynamicplaylists-3.1.7.zip" version="3.1.7">
-      <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. In addition you can now use your own custom dynamic playlist definitions directly in this plugin, you don't need other plugins for that anymore. Please uninstall v2.x before installing v3.x. More information on the github page.</desc>
+    <plugin name="DynamicPlayList" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="3033d853ec00e13a45f380914d6698696833f652" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.2.0/lms-dynamicplaylists-3.2.0.zip" version="3.2.0">
+      <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. In addition you can now use your own custom dynamic playlist definitions directly in this plugin, you don't need other plugins for that anymore. More information on the github page.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="43a8f864a74f2ae7696ce8194a715a4906bdd527" url="https://github.com/CDrummond/lms-material/releases/download/2.6.3/lms-material-2.6.3.zip" version="2.6.3">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="49d14c3a2cf24f6db86223df13bacc64f7f2f397" url="https://github.com/CDrummond/lms-material/releases/download/2.7.0/lms-material-2.7.0.zip" version="2.7.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
