@@ -290,19 +290,17 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="c9f33fd10386203afe225d7b7cd2621757c87176" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.7.zip" version="0.0.7">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4fdf02234d57cb4da077e0a24ce91e8ee671130d" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.8.zip" version="0.0.8">
       <changes lang="EN">
-				- Add coverart for RadioBlues Flac and Mother Earth Radio
-				- Add Caroline Flashback - artist, track and album name
-				- Add Radio Espace (France / Lyon) and the related AllZIC Radio
-				- For Cesky rozhlas - add more stations and some extra streams for the pre-existing stations - thanks mipa87
-				- Add Linn Radio (album name in addition to what LMS already showed) - their cover art is broken so disabled for now
-				- Allow broadcasters to be suppressed from menu and Now Playing info - requires restart when changing
+				- Add Somehow Jazz (artist and title only)
+				- Add Frequence3 - add coverart (not always present)
+				- Show cover art for Linn Radio stations (temporary work around until they fix things)
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
 					 Juke Radio, Nova.fr (France), Cesky rozhlas (rozhlas.cz), Linn Radio, Naim Radio, KlassikRadio.de,
-					 RadioBlues Flac, Mother Earth Radio, Caroline Flashback, Radio Espace (Lyon, France), AllZIC Radio</desc>
+					 RadioBlues Flac, Mother Earth Radio, Caroline Flashback, Radio Espace (Lyon, France), AllZIC Radio,
+					 Somehow Jazz, Frequence3</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="xAP" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
