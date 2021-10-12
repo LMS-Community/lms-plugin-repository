@@ -9,7 +9,7 @@ This allows maintainers to manage the central file without the need to clone thi
 ## `buildrepo.pl` - the worker script
 
 `buildrepo.pl` is the work horse. It reads `include.json` and fetches all repository files found in there.
-As the resolt of this action it saves an updated extensions.xml file.
+As the result of this action it saves an updated extensions.xml file.
 
 ## `include.json` - the repository of repositories
 
