@@ -43,6 +43,7 @@
 		"https://raw.githubusercontent.com/doctorjames/AutoRescan/master/repo.xml",
 		"https://www.neversimple.eu/LMS/repodata.xml",
 		"https://mspertus.github.io/lms-downloads/repo.xml",
+		"http://www.hashsum.org/LMS/repo.xml",
 		"https://tvh.codechimp.org/repo.xml"
 	],
 	"disabled": [
