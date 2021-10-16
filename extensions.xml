@@ -311,6 +311,10 @@
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
     </plugin>
+    <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="45f696dafa6299a6685252c90e56bb56e400d53e" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.1.0.zip" version="1.1.0">
+      <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
+      <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
+    </plugin>
     <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
       <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
       <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
@@ -697,7 +701,7 @@
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. In addition you can now use your own custom dynamic playlist definitions directly in this plugin, you don't need other plugins for that anymore. More information on the github page.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="49d14c3a2cf24f6db86223df13bacc64f7f2f397" url="https://github.com/CDrummond/lms-material/releases/download/2.7.0/lms-material-2.7.0.zip" version="2.7.0">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="468f363e06985b3d7f02df14c25c090f146bbcf2" url="https://github.com/CDrummond/lms-material/releases/download/2.7.1/lms-material-2.7.1.zip" version="2.7.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
