@@ -683,7 +683,7 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="7ce0939fcd1206782a5e4e5cc11210d290db852d" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.2/lms-ratingslight-2.0.2.zip" version="2.0.2">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="46920fe38b7e2aca0d9b51d375a18ed1fd6c720c" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.3/lms-ratingslight-2.0.3.zip" version="2.0.3">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (webUI and context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -695,7 +695,7 @@
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlayList" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="3033d853ec00e13a45f380914d6698696833f652" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.2.0/lms-dynamicplaylists-3.2.0.zip" version="3.2.0">
+    <plugin name="DynamicPlayList" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="dcdef9810a4352706b4d360dbc79da5b16dd4c6f" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.2.1/lms-dynamicplaylists-3.2.1.zip" version="3.2.1">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. In addition you can now use your own custom dynamic playlist definitions directly in this plugin, you don't need other plugins for that anymore. More information on the github page.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
