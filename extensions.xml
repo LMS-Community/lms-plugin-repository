@@ -960,7 +960,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.4.0: allow playing of Qobuz web links. v2.4.10: put works before the individual tracks. Updated French translations (thanks Franck!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="755e337a6a3094903a20a3984c618b68b4bd608e" url="http://www.herger.net/_data/Qobuz-2.4.10.zip" version="2.4.10">
+    <plugin name="Qobuz" changes="v2.4.0: allow playing of Qobuz web links. v2.4.10: put works before the individual tracks. Updated French translations (thanks Franck!). v2.4.11: revert the works/tracks change." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="2d51531749a1bbdeb1899740ca742be4fa98006e" url="http://www.herger.net/_data/Qobuz-2.4.11.zip" version="2.4.11">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
