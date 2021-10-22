@@ -695,10 +695,6 @@
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlayList" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="dcdef9810a4352706b4d360dbc79da5b16dd4c6a" url="https://github.com/AF-1/lms-dynamicplaylists" version="3.2.2">
-      <desc lang="EN">THIS IS NOT AN UPDATE!!! PLEASE READ, this is just an announcement: Dynamic Playlists v3+ will no longer be available in the LMS main repo. If you want to keep getting updates please add the repo url from the github page. If you're using Dynamic Playlists v2 don't worry, you can't accidentally (auto-)update anymore. I'll take down this message in a couple of weeks. Thank you for your understanding.</desc>
-      <title lang="EN">Dynamic Playlists</title>
-    </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="468f363e06985b3d7f02df14c25c090f146bbcf2" url="https://github.com/CDrummond/lms-material/releases/download/2.7.1/lms-material-2.7.1.zip" version="2.7.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
