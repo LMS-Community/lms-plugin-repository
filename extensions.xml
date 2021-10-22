@@ -931,8 +931,8 @@
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
-    <plugin name="LastMix" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="817caef6dc6aad9ff6b11a569f2fcc1a08aa3fd3" url="http://www.herger.net/_data/LastMix-2.0.0.zip" version="2.0.0">
-      <changes lang="EN">v2.0.0 - add protocol handler and CLI support to start a mix based on Last.fm tags.</changes>
+    <plugin name="LastMix" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="136e7498091f50d92dc04dda4c8a24e5c289042b" url="http://www.herger.net/_data/LastMix-2.0.1.zip" version="2.0.1">
+      <changes lang="EN">v2.0.0 - add protocol handler and CLI support to start a mix based on Last.fm tags. v2.0.1 - string changes to reflect the fact that &quot;My Music&quot; can be local AND online music.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Top The Music support using Last.fm.</title>
     </plugin>
