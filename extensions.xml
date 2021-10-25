@@ -663,8 +663,8 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="c4da04f38426919ee062bbcba13663076a9cff90" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_21_0.zip" version="2.21.0">
-      <changes lang="EN">NEW Station schedule available from more info menu on live radio; Improved track meta data handling plus other minor improvements. </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="43c8ac84f619308494c435bfd2b0375ed68a3c3c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_21_1.zip" version="2.21.1">
+      <changes lang="EN">NEW 2.21.1 Minor Bugfix; 2.21.0 Station schedule available from more info menu on live radio; Improved track meta data handling plus other minor improvements. </changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
