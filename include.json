@@ -24,7 +24,7 @@
 		"https://bitflip.net/slim/repo.xml",
 		"https://erland.github.io/squeezebox-downloads/repositories/latest.xml",
 		"https://foobarjo.org/LMS/foobarjo-stable.xml",
-		"https://master.dl.sourceforge.net/project/bpaplugins/bpapluginsrepo.xml?viasf=1",
+		"https://master.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml?viasf=1",
 		"https://master.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml?viasf=1",
 		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-cmake/plugin/repo.xml",
 		"https://master.dl.sourceforge.net/project/sdt-weather-com/repo.xml?viasf=1",

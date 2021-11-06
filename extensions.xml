@@ -279,7 +279,7 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e90284b0e38ba546ff5adfd5eebb081c38d38d99" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.12.zip" version="0.0.12">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="689b3187fac3bb84a72451d32b107e14ccc45dc5" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.12.zip" version="0.0.12">
       <changes lang="EN">
 				- Add RTE (Ireland) as a migration from previous dedicated plugin. Note - programme name and image only
 			</changes>
@@ -534,11 +534,6 @@
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
-    <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
-      <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
-      <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-      <title lang="EN">Database Query</title>
-    </plugin>
     <plugin name="SharkPlay" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="007ab351a55cd9e7e31cc9d2a4a647108d442111" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-linux-102.ZIP" version="1.2">
       <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
       <title lang="EN">SharkPlay</title>
@@ -645,6 +640,11 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
+    <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+      <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
+      <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
+      <title lang="EN">Database Query</title>
+    </plugin>
     <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="43c8ac84f619308494c435bfd2b0375ed68a3c3c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_21_1.zip" version="2.21.1">
       <changes lang="EN">NEW 2.21.1 Minor Bugfix; 2.21.0 Station schedule available from more info menu on live radio; Improved track meta data handling plus other minor improvements. </changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
@@ -676,10 +676,6 @@
     <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="f1a34ef5d0122beb576f8dcc7a15624c40348912" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.0/lms-visualstatistics-1.2.0.zip" version="1.2.0">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
-    </plugin>
-    <plugin name="DynamicPlayList" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="73bfd7231200a7b6005831061b6c51f6d1841be9" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.2.5/lms-dynamicplaylists-3.2.5.zip" version="3.2.5">
-      <desc lang="EN">LAST UPDATE in LMS main repository. Very soon Dynamic Playlists version 3+ will be removed from the LMS main repository for good. If you want to get future updates please add the github repository url to LMS &gt; Settings &gt; Plugins. More information in Home Menu &gt; Dynamic Playlists and on github: https://github.com/AF-1/lms-dynamicplaylists#using-repo-url</desc>
-      <title lang="EN">Dynamic Playlists</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="eb14f6802c32c58a94086688e7d7e67ba02271d1" url="https://github.com/CDrummond/lms-material/releases/download/2.7.2/lms-material-2.7.2.zip" version="2.7.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
@@ -887,11 +883,6 @@
       <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
-    </plugin>
-    <plugin name="IRBlaster" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
-      <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
-      <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
-      <title lang="EN">IR Blaster</title>
     </plugin>
     <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="f59226871f4a1523944bbfe79b837bbd2005b54f" url="http://www.herger.net/_data/Bandcamp-1.9.0.zip" version="1.9.0">
       <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;.</changes>
