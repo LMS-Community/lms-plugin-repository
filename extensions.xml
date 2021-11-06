@@ -272,13 +272,6 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="RTE" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="37a412f1d7c9e43b22791329b56d802e5a3a236f" url="http://www.dabdig.co.uk/slimserver-rep/RTE-0.0.5.zip" version="0.0.5">
-      <changes lang="EN">
-				- Use worldtimeapi.org to help with DST handling
-			</changes>
-      <desc lang="EN">RTE programme information</desc>
-      <title lang="EN">RTE</title>
-    </plugin>
     <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="acc26f85dab809f3946a0f6a6e086ad7cce75d90" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.3.zip" version="0.0.3">
       <changes lang="EN">
 				- Correct matching of stream URLs that had resulted in some unsupported stations being partially matched
@@ -286,17 +279,16 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="46dfc8e4bcedf7c453e8cc5c3f59ed6e67dd969c" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.11.zip" version="0.0.11">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e90284b0e38ba546ff5adfd5eebb081c38d38d99" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.12.zip" version="0.0.12">
       <changes lang="EN">
-				- Correct the &quot;Hide Duration&quot; capability
-				- Explicitly set current_title as used by other applications - but still some related oddities
-				- Add Supla Finland as a migration from previous dedicated plugin
+				- Add RTE (Ireland) as a migration from previous dedicated plugin. Note - programme name and image only
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
-					 Juke Radio, Nova.fr (France), Cesky rozhlas (rozhlas.cz), Linn Radio, Naim Radio, KlassikRadio.de,
-					 RadioBlues Flac, Mother Earth Radio, Caroline Flashback, Radio Espace (Lyon, France), AllZIC Radio,
-					 Somehow Jazz, Frequence3, Europa Radio Jazz, ZOG, St. Louis Classic Rock, Supla (Finland)</desc>
+					 AllZIC Radio, Caroline Flashback, Cesky rozhlas (rozhlas.cz), Europa Radio Jazz, Frequence3,
+					 Juke Radio, KlassikRadio.de, Linn Radio, Mother Earth Radio, Naim Radio, Nova.fr (France),
+					 RadioBlues Flac, Radio Espace (Lyon, France), RTE (Ireland), Somehow Jazz, St. Louis Classic Rock,
+					 Supla (Finland), ZOG</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="45f696dafa6299a6685252c90e56bb56e400d53e" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.1.0.zip" version="1.1.0">
