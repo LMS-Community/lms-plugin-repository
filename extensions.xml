@@ -645,8 +645,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="43c8ac84f619308494c435bfd2b0375ed68a3c3c" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_21_1.zip" version="2.21.1">
-      <changes lang="EN">NEW 2.21.1 Minor Bugfix; 2.21.0 Station schedule available from more info menu on live radio; Improved track meta data handling plus other minor improvements. </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="4fb55bc3186d54a3b4edf924aa486ff09448d4bf" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_21_2.zip" version="2.21.2">
+      <changes lang="EN">NEW 2.21.2 Bugfix and minor improvements; 2.21.0 Station schedule available from more info menu on live radio; Improved track meta data handling plus other minor improvements. </changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -676,6 +676,14 @@
     <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="f1a34ef5d0122beb576f8dcc7a15624c40348912" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.0/lms-visualstatistics-1.2.0.zip" version="1.2.0">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
+    </plugin>
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="f2978c3afecda0040ef58c354b9082fcc2e04789" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.3.1/lms-dynamicplaylists-3.3.1.zip" version="3.3.1">
+      <desc lang="EN">PLEASE READ: Dynamic Playlists 3 uses a different name now. Please *uninstall* any *previous* version of Dynamic Playlists *3* BEFORE installing this version. The &quot;More Info&quot; link points to the FAQ. Sorry for the inconvenience.</desc>
+      <title lang="EN">Dynamic Playlists 3</title>
+    </plugin>
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="9a50f48b03d786cf75e4eb71ca5f70f3b88dc2a8" url="https://github.com/AF-1/lms-customskip/releases/download/3.0.2/lms-customskip-3.0.2.zip" version="3.0.2">
+      <desc lang="EN">Custom Skip v3 lets you define client-specific filter sets with rules for when tracks should be skipped. The &quot;More Info&quot; link points to the FAQ.</desc>
+      <title lang="EN">Custom Skip 3</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="eb14f6802c32c58a94086688e7d7e67ba02271d1" url="https://github.com/CDrummond/lms-material/releases/download/2.7.2/lms-material-2.7.2.zip" version="2.7.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
