@@ -665,7 +665,7 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="14ca9778454007528f8186edbc31528fecd49c2d" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.6/lms-ratingslight-2.0.6.zip" version="2.0.6">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="e836491bb32e2d8ef410da66c48c0a7e04a4363c" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.7/lms-ratingslight-2.0.7.zip" version="2.0.7">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (webUI and context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -673,11 +673,11 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="f1a34ef5d0122beb576f8dcc7a15624c40348912" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.0/lms-visualstatistics-1.2.0.zip" version="1.2.0">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="02ab1a68e2d3cfc47e455874cf579c83da2695bf" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.1/lms-visualstatistics-1.2.1.zip" version="1.2.1">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="f2978c3afecda0040ef58c354b9082fcc2e04789" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.3.1/lms-dynamicplaylists-3.3.1.zip" version="3.3.1">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="6be25e35c54234b8fbb78ea682662c06f2371df7" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.3.2/lms-dynamicplaylists-3.3.2.zip" version="3.3.2">
       <desc lang="EN">PLEASE READ: Dynamic Playlists 3 uses a different name now. Please *uninstall* any *previous* version of Dynamic Playlists *3* BEFORE installing this version. The &quot;More Info&quot; link points to the FAQ. Sorry for the inconvenience.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
