@@ -29,7 +29,7 @@
 		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-cmake/plugin/repo.xml",
 		"https://master.dl.sourceforge.net/project/sdt-weather-com/repo.xml?viasf=1",
 		"https://raw.githubusercontent.com/aesculus/denonavpcontrol/master/repo.xml",
-		"https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/public.xml",
+		"https://raw.githubusercontent.com/AF-1/sobras/main/repos/lms/public.xml",
 		"https://raw.githubusercontent.com/CDrummond/lms-material/master/public.xml",
 		"https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/repo.xml",
 		"https://raw.githubusercontent.com/LMS-Community/plugin-DSDPlayer/master/repo.xml",
