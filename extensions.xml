@@ -677,7 +677,7 @@
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="6be25e35c54234b8fbb78ea682662c06f2371df7" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.3.2/lms-dynamicplaylists-3.3.2.zip" version="3.3.2">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="52b37b4d39306205f5096b22ff30dd187ab7df0e" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.3.3/lms-dynamicplaylists-3.3.3.zip" version="3.3.3">
       <desc lang="EN">PLEASE READ: Dynamic Playlists 3 uses a different name now. Please *uninstall* any *previous* version of Dynamic Playlists *3* BEFORE installing this version. The &quot;More Info&quot; link points to the FAQ. Sorry for the inconvenience.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
