@@ -972,10 +972,6 @@
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
-    <plugin name="SpottyAARCH64Bin" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="151d7f1644fd853be14e88bcf3266fdae3e2241c" target="unix" url="http://www.herger.net/_data/SpottyAARCH64Bin-0.30.2.zip" version="0.30.2">
-      <desc lang="EN">Spotty Helper Application for ARMv8/aarch64 based systems. Well known products include Pine64, Rock64, AllWinner A64 SoC based devices, some Synology NAS models.</desc>
-      <title lang="EN">Spotty Helper Application for ARMv8/aarch64 architecture</title>
-    </plugin>
     <plugin name="SpottyARMLegacyBin" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="5e07206e7c0b9b36baa765b375ea93f9466ec50a" target="unix" url="http://www.herger.net/_data/SpottyARMLegacyBin-0.12.0.zip" version="0.12.0">
       <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6/7 based systems. Use these if your installation used to work pre Spotty 2.8.0, but stopped with the most recent helpers. Please note that these legacy versions come with certain limitations, eg. cannot stream OGG directly to your player.</desc>
       <title lang="EN">Spotty Legacy Helper Application for ARMv6/7 architecture</title>
