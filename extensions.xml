@@ -634,9 +634,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="c9be7f4135075112571289246a893898d01e3787" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-16.zip" version="5.11.16">
-      <changes lang="EN">(5.11.16) - Added space between wind direction and wind speed.  Added macro variables for Wind Speed without wind direction.
-			Compass directions and month names are now adjusted based on language selection.  Various formatting changes to Extras-&gt;SDT menus.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="468d7352fd1e41eaa5b137470167206573b1fc10" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-17.zip" version="5.11.17">
+      <changes lang="EN">(5.11.17) - Fixed SDT icon display in Extras menu on Jive/Jivelite platforms.   Added Swedish translations.
+			</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
