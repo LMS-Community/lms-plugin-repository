@@ -28,10 +28,6 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
-    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
-      <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
-      <title lang="EN">Font Replacer</title>
-    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -279,15 +275,17 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="689b3187fac3bb84a72451d32b107e14ccc45dc5" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.12.zip" version="0.0.12">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="1cfe6a75f91da63e8c4742fd61956f05596d21ed" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.13.zip" version="0.0.13">
       <changes lang="EN">
-				- Add RTE (Ireland) as a migration from previous dedicated plugin. Note - programme name and image only
+				- Add Radio Swiss - Classic, Pop and Jazz
+				- Mother Earth Radio started putting UTF8 BOM at start of data so strip it
+				- KlassikRadio.de changed their station ids which stopped matching of songs
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
 					 AllZIC Radio, Caroline Flashback, Cesky rozhlas (rozhlas.cz), Europa Radio Jazz, Frequence3,
 					 Juke Radio, KlassikRadio.de, Linn Radio, Mother Earth Radio, Naim Radio, Nova.fr (France),
-					 RadioBlues Flac, Radio Espace (Lyon, France), RTE (Ireland), Somehow Jazz, St. Louis Classic Rock,
+					 RadioBlues Flac, Radio Espace (Lyon, France), Radio Swiss, RTE (Ireland), Somehow Jazz, St. Louis Classic Rock,
 					 Supla (Finland), ZOG</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
