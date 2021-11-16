@@ -279,7 +279,7 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4841834f193d6266883eeabfe751108206bd33fc" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.14.zip" version="0.0.14">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="c0739dc1652b716f63c8d582649f6ce2e3fd0871" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.14.zip" version="0.0.14">
       <changes lang="EN">
 				- Extend the stream URL regex for KlassikRadio.de to show 2 more stations (Beats Radio Live and Klassik Radio Live)
 				- Upgrade MotherEarth.de images if they are 100x100 to 400x400
