@@ -684,7 +684,7 @@
       <desc lang="EN">PLEASE READ: Dynamic Playlists 3 uses a different name now. Please *uninstall* any *previous* version of Dynamic Playlists *3* BEFORE installing this version. The &quot;More Info&quot; link points to the FAQ. Sorry for the inconvenience.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="8dd3b5b8643edad506e3f00024876d51711216e4" url="https://github.com/AF-1/lms-customskip/releases/download/3.0.3/lms-customskip-3.0.3.zip" version="3.0.3">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="9c71cb0a8fec9ec924b992f29c1633cd844515c7" url="https://github.com/AF-1/lms-customskip/releases/download/3.0.4/lms-customskip-3.0.4.zip" version="3.0.4">
       <desc lang="EN">Custom Skip v3 lets you define client-specific filter sets with rules for when tracks should be skipped. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
