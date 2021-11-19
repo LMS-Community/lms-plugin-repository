@@ -279,12 +279,10 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="3cb5d5d713771734e4fd60756a9d429a7303bb42" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.14.zip" version="0.0.14">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="665c8e65165e2544d980e6c85141cc7a8caa0ea7" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.15.zip" version="0.0.15">
       <changes lang="EN">
-				- Extend the stream URL regex for KlassikRadio.de to show 2 more stations (Beats Radio Live and Klassik Radio Live)
-				- Upgrade MotherEarth.de images if they are 100x100 to 400x400
-				- Remove a use of regex qr because it causes problems on Perl version up to 5.19.4 (as used by LMS on MAC)
-				- Moved stationdata into own subdirectory
+				- Add Jazz24.org with cover art and album
+				- Mother Earth Radio - new Flac stream URL and revised metadata feed now with album name
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
