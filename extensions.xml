@@ -279,14 +279,17 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="665c8e65165e2544d980e6c85141cc7a8caa0ea7" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.15.zip" version="0.0.15">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="d27e752f89a12c42c97b2aef11fb4fcee48f7d57" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.16.zip" version="0.0.16">
       <changes lang="EN">
-				- Add Jazz24.org with cover art and album
-				- Mother Earth Radio - new Flac stream URL and revised metadata feed now with album name
+				- Add experimental cover art search for some stations that do not have any
+				- Add Dandelion Radio - rewrites artist name to extract programme name
+				- Add FSK - only shows programme name
+				- For Europa Radio Jazz - strip from the end of the title the optional trailing record speed indicator (33RPM etc)
+				- For Europa Radio Jazz - show programme name (e.g. live Jazz in the morning where there are no song details)
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
-					 AllZIC Radio, Caroline Flashback, Cesky rozhlas (rozhlas.cz), Europa Radio Jazz, Frequence3,
+					 AllZIC Radio, Caroline Flashback, Cesky rozhlas (rozhlas.cz), Dandelion Radio, Europa Radio Jazz, Frequence3, FSK,
 					 Juke Radio, KlassikRadio.de, Linn Radio, Mother Earth Radio, Naim Radio, Nova.fr (France),
 					 RadioBlues Flac, Radio Espace (Lyon, France), Radio Swiss, RTE (Ireland), Somehow Jazz, St. Louis Classic Rock,
 					 Supla (Finland), ZOG</desc>
