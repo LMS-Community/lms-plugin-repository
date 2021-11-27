@@ -682,7 +682,14 @@
       <title lang="EN">Visual Statistics</title>
     </plugin>
     <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="52b37b4d39306205f5096b22ff30dd187ab7df0e" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.3.3/lms-dynamicplaylists-3.3.3.zip" version="3.3.3">
-      <desc lang="EN">PLEASE READ: Dynamic Playlists 3 uses a different name now. Please *uninstall* any *previous* version of Dynamic Playlists *3* BEFORE installing this version. The &quot;More Info&quot; link points to the FAQ. Sorry for the inconvenience.</desc>
+      <desc i="dynamic playlists" lang="EN">
+        <b>use your own custom dynamic playlist</b>
+        <b>directly</b>
+        <content>This plugin lets you play continuous music mixes based on selection criteria defined in so-called </content>
+        <content>. Comes with a number of ready-to-use dynamic playlists and new playlist parameters. In addition you can now </content>
+        <content> definitions </content>
+        <content> in DPL without any other intermediary plugins. Please read the FAQ (&quot;More Info&quot; link).</content>
+      </desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
     <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="9c71cb0a8fec9ec924b992f29c1633cd844515c7" url="https://github.com/AF-1/lms-customskip/releases/download/3.0.4/lms-customskip-3.0.4.zip" version="3.0.4">
