@@ -279,18 +279,18 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="d27e752f89a12c42c97b2aef11fb4fcee48f7d57" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.16.zip" version="0.0.16">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="0ad9b57208e2143ed10a94fb376e88f7f3d1f1c4" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.17.zip" version="0.0.17">
       <changes lang="EN">
-				- Add experimental cover art search for some stations that do not have any
-				- Add Dandelion Radio - rewrites artist name to extract programme name
-				- Add FSK - only shows programme name
-				- For Europa Radio Jazz - strip from the end of the title the optional trailing record speed indicator (33RPM etc)
-				- For Europa Radio Jazz - show programme name (e.g. live Jazz in the morning where there are no song details)
+				- Add Offshore Music Radio
+				- Add PiratenRadio.ch
+				- For Europa Radio Jazz change some of the logo matching and string stripping
+				- Handle Icecast bug in json status generation
+				- Allzic Thema Summer becomes Allzic Noel and also enabled CoverSearch to try to fill occasional missing artwork
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations.
 					 Currently includes:
 					 AllZIC Radio, Caroline Flashback, Cesky rozhlas (rozhlas.cz), Dandelion Radio, Europa Radio Jazz, Frequence3, FSK,
-					 Juke Radio, KlassikRadio.de, Linn Radio, Mother Earth Radio, Naim Radio, Nova.fr (France),
+					 Juke Radio, KlassikRadio.de, Linn Radio, Mother Earth Radio, Naim Radio, Nova.fr (France), Offshore Music Radio, PiratenRadio.ch,
 					 RadioBlues Flac, Radio Espace (Lyon, France), Radio Swiss, RTE (Ireland), Somehow Jazz, St. Louis Classic Rock,
 					 Supla (Finland), ZOG</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -614,7 +614,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="adb5d26c2fcee068948121240fe6473bbe0b1044" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.80.2.zip" version="1.80.2">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="8ee5104a16ef5ac9488ec31d15f4067e4e217e2e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.80.3.zip" version="1.80.3">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -626,7 +626,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="5a9bc0d5427a6e9459f0c357428616ef2e9d01ca" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.80.2.zip" version="1.80.2">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="feadb04102cf94f02af788605188d08ae55b4ba2" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.80.3.zip" version="1.80.3">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
