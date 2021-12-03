@@ -928,13 +928,13 @@
     </plugin>
     <plugin name="Gallery" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/Gallery/" maxTarget="*" minTarget="7.5" sha="687f0085fb1f62da840477cfcf4fe263bab944d1" url="http://www.herger.net/_data/Gallery-1.2.2.zip" version="1.2.2">
       <desc lang="EN">Browse photos stored on your computer with your Squeezebox Touch, Radio or Controller. Easily use photos as screensavers, organized in favourites. PLEASE NOTE: Image handling requires a lot of performance. Don't run this plugin on a low-power NAS if you're not willing to be very patient...</desc>
-      <desc lang="DE">Betrachte Photos, welche auf deinem Computer gespeichert sind, mit Squeezebox Touch, Radio oder Controller. Verwende die Bilder als Bildschirmschoner, in Favoriten organisiert. ACHTUNG: Bildverarbeitung benötigt starke Rechner. Installiere dieses Plugin nicht auf schwachrüstigen NAS Geräten, falls du nicht sehr geduldig bist...</desc>
+      <desc lang="DE">Betrachte Photos, welche auf deinem Computer gespeichert sind, mit Squeezebox Touch, Radio oder Controller. Verwende die Bilder als Bildschirmschoner, in Favoriten organisiert. ACHTUNG: Bildverarbeitung benÃ¶tigt starke Rechner. Installiere dieses Plugin nicht auf schwachrÃ¼stigen NAS GerÃ¤ten, falls du nicht sehr geduldig bist...</desc>
       <title lang="EN">Picture Gallery</title>
       <title lang="DE">Bildergalerie</title>
     </plugin>
     <plugin name="IgnoreDirREManager" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="http://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
       <desc lang="EN">Set a regular expression to ignore files and folders when scanning or browsing folders.</desc>
-      <desc lang="DE">Schliesse Dateien und Ordner mittels Regulärer Ausdrücke beim Durchsuchen der Musik aus.</desc>
+      <desc lang="DE">Schliesse Dateien und Ordner mittels RegulÃ¤rer AusdrÃ¼cke beim Durchsuchen der Musik aus.</desc>
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
@@ -955,7 +955,7 @@
     </plugin>
     <plugin name="NoSetup" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="http://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
       <desc lang="EN">This plugins allows you to disable access to the settings pages from the Squeezebox Server's web interface.</desc>
-      <desc lang="DE">Mit diesem Plugin können Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
+      <desc lang="DE">Mit diesem Plugin kÃ¶nnen Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
       <title lang="EN">Enable/disable access to server settings</title>
       <title lang="DE">Einstellungen aus-/einblenden</title>
     </plugin>
@@ -1000,14 +1000,14 @@
     </plugin>
     <plugin name="MHCPAN" creator="Michael Herger" email="slim@herger.net" maxTarget="7.2" minTarget="7.0" sha="c930cf57e5814c55680098f3bcfad4e03a4138e3" target="win" url="http://www.herger.net/_data/MHCPAN.zip" version="0.1">
       <desc lang="EN">Some perl modules for Windows that are required by some of my plugins (Meteo, AlbumReview, Biography)</desc>
-      <desc lang="DE">Perl-Module für Windows, die für einige meiner Plugins benötigt werden (Meteo, AlbumReview, Biography)</desc>
+      <desc lang="DE">Perl-Module fÃ¼r Windows, die fÃ¼r einige meiner Plugins benÃ¶tigt werden (Meteo, AlbumReview, Biography)</desc>
       <title lang="EN">CPAN Modules (Windows)</title>
       <title lang="DE">CPAN Module (Windows)</title>
     </plugin>
     <plugin name="WalkWithMe" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.6" sha="bfcf681a723a3e0289c71937808957bd661d1784" url="http://www.herger.net/_data/WalkWithMe-1.1.1.zip" version="1.1.1">
       <changes lang="EN">1.1.0: add option to grab a playlist form another player, rather than pushing it; try to improve behaviour when moving a RandomPlay list. v1.1.1: add CLI support</changes>
       <desc lang="EN">Continue your listening on a different player - easily.</desc>
-      <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen Gerät weiterspielen.</desc>
+      <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen GerÃ¤t weiterspielen.</desc>
       <title lang="EN">Music Walk With Me</title>
       <title lang="DE">Musik marschier mit mir</title>
     </plugin>
