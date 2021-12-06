@@ -669,11 +669,11 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="e836491bb32e2d8ef410da66c48c0a7e04a4363c" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.7/lms-ratingslight-2.0.7.zip" version="2.0.7">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="5e6eb4f3e408bbb25f0d4417fed38391c3f12287" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.8/lms-ratingslight-2.0.8.zip" version="2.0.8">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (webUI and context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="8e914d3794bb18441f6a9abc8ddbeec2acd076da" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.5/lms-usecommenttaginfo-1.3.5.zip" version="1.3.5">
+    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="e1637b200f4123dbbd9b4d426b3380fc22fb376a" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.6/lms-usecommenttaginfo-1.3.6.zip" version="1.3.6">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
@@ -681,7 +681,7 @@
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="501bb5ce98d8314193c65433dfa9e77af8f894ec" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.1/lms-dynamicplaylists-3.4.1.zip" version="3.4.1">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="69ad459b0b2037bb6cf0f92c8015652d6c789605" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.2/lms-dynamicplaylists-3.4.2.zip" version="3.4.2">
       <desc i="dynamic playlists" lang="EN">
         <b>use your own custom dynamic playlist</b>
         <b>directly</b>
