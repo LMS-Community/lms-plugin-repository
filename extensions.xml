@@ -308,18 +308,6 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
-    <plugin name="PowerSave" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://bitflip.net/slim/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
-      <desc lang="EN">Power off your squeezebox after a certain amount of time (idle or otherwise)</desc>
-      <title lang="EN">PowerSave</title>
-    </plugin>
-    <plugin name="DirectPlay" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.0" sha="b3b27559c72d514729914189a99df78ffebd28e3" url="http://bitflip.net/slim/plugins/DirectPlay/7.0a2/DirectPlay.zip" version="7.0a2">
-      <desc lang="EN">Play albums, artists or songs directly by database ID</desc>
-      <title lang="EN">DirectPlay</title>
-    </plugin>
-    <plugin name="QuickAccess" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.0" sha="d2b80a4f9cb717115ee2413dae4a46d18e924a00" url="http://bitflip.net/slim/plugins/quickaccess/7.3/QuickAccess_7_3.zip" version="7.3">
-      <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://bitflip.net/slim/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
-      <title lang="EN">QuickAccess</title>
-    </plugin>
     <plugin name="Wefunk" creator="Christian Herzog" email="daduke@daduke.org" link="http://daduke.org/linux/lmswefunk.html" maxTarget="*" minTarget="7.6" sha="150843f6ec3414d9d7fab27c6a2764ef0f4016e6" url="http://daduke.org/dl/lms-wefunk/wefunk-0.3.3.zip" version="0.3.3">
       <changes lang="EN">fix playback for shows &gt; 999</changes>
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
@@ -533,6 +521,18 @@
       <changes lang="EN">v1.2.0: The plugin now uses the GraphQL backend of the ARD Audiothek. v1.2.1: favorite playlists load meta data</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
+    </plugin>
+    <plugin name="PowerSave" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://jasonholtzapple.github.io/slimdevices/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
+      <desc lang="EN">Power off your squeezebox after a certain amount of time (idle or otherwise)</desc>
+      <title lang="EN">PowerSave</title>
+    </plugin>
+    <plugin name="DirectPlay" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.0" sha="b3b27559c72d514729914189a99df78ffebd28e3" url="http://jasonholtzapple.github.io/slimdevices/plugins/DirectPlay/7.0a2/DirectPlay.zip" version="7.0a2">
+      <desc lang="EN">Play albums, artists or songs directly by database ID</desc>
+      <title lang="EN">DirectPlay</title>
+    </plugin>
+    <plugin name="QuickAccess" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.0" sha="d2b80a4f9cb717115ee2413dae4a46d18e924a00" url="http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/QuickAccess_7_3.zip" version="7.3">
+      <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
+      <title lang="EN">QuickAccess</title>
     </plugin>
     <plugin name="C3PO" creator="marcoc1712" email="marcoc1712@gmail.com" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
