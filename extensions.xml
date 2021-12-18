@@ -686,7 +686,7 @@
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="69ad459b0b2037bb6cf0f92c8015652d6c789605" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.2/lms-dynamicplaylists-3.4.2.zip" version="3.4.2">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="df44acc9ba97433978e6c64ebd045b7a7c3bac47" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.3/lms-dynamicplaylists-3.4.3.zip" version="3.4.3">
       <desc i="dynamic playlists" lang="EN">
         <b>use your own custom dynamic playlist</b>
         <b>directly</b>
@@ -725,7 +725,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="0e213828cfa1aa45cfe72cde731ac742e3f06984" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_3_2.zip" version="4.3.2">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="45d330db347cfcfa9bed73d5a4ed82d77c699a59" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_3_3.zip" version="4.3.3">
       <desc lang="EN">This plugin will control a network ready Denon AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the Denon device on/off, adjust and synchronize the volumes, and set the Denon audio modes. Settings in each player.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
