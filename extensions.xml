@@ -984,7 +984,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.6.0: Add sorting options for Albums/Artists/Songs. Fix volume normalization. v4.6.1: Disable Ogg direct when volume normalization is enabled. Suppress initial volume change on connecting. v4.6.2: try to fix resume, added French translations, only add TMPDIR once." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="89c019df25a2622f320b190d7f27c98b4e28cfeb" url="http://downloads.nixda.ch/Spotty-4.6.2.zip" version="4.6.2">
+    <plugin name="Spotty" changes="v4.7.0: Add sorting options for playlist tracks. Add new binary for armhf to support Pi0." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="f693e1e099d8fd39e1a467ccf1998daa55c03605" url="http://downloads.nixda.ch/Spotty-4.7.0.zip" version="4.7.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
