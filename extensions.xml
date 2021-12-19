@@ -701,7 +701,7 @@
       <desc lang="EN">Custom Skip v3 lets you define client-specific filter sets with rules for when tracks should be skipped. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="b817569fcc82d77d52f32e477dfa5583fa21e8df" url="https://github.com/CDrummond/lms-material/releases/download/2.7.3/lms-material-2.7.3.zip" version="2.7.3">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="7fbfe2f9f4dfe86b97f25e01d5a1c17a432f9bdd" url="https://github.com/CDrummond/lms-material/releases/download/2.8.0/lms-material-2.8.0.zip" version="2.8.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -984,7 +984,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.7.0: Add sorting options for playlist tracks. Add new binary for armhf to support Pi0." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="f693e1e099d8fd39e1a467ccf1998daa55c03605" url="http://downloads.nixda.ch/Spotty-4.7.0.zip" version="4.7.0">
+    <plugin name="Spotty" changes="v4.7.0: Add sorting options for playlist tracks. Add new binary for armhf to support Pi0. v4.7.1: fix Windows compatibility." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="8257827f3142bbb8b54279df387b89e22818a415" url="http://downloads.nixda.ch/Spotty-4.7.1.zip" version="4.7.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
