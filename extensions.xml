@@ -234,12 +234,16 @@
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4da164a38ce2e6d6e1643d266e2b7afd1f9e003f" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.3.6.zip" version="0.3.6">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="00af3c7716c9b14c5b508b79c5f6af7540b6d2cc" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.3.7.zip" version="0.3.7">
       <changes lang="EN">
-				- Restore metadata for music stations
+				- After changes at RadioFrance needed to adjust things to collect the programme name.
+				- More work needed to collect programme description and icon from a different location.
+				- Also - correction for FIP Groove HLS URL ( thanks @Atmis )
 			</changes>
       <changes lang="FR">
-				- Restaurer les métadonnées des stations de musique
+				- Après des changements à RadioFrance, il a fallu ajuster les choses pour récupérer le nom du programme.
+				- Plus de travail nécessaire pour collecter la description et l'icône du programme à partir d'un emplacement différent.
+				- Aussi - correction pour l'URL FIP Groove HLS ( merci @Atmis )
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
