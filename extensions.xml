@@ -234,7 +234,7 @@
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="F29BE1A23EA61268CC05191671D82B2B2F3656D9" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.0.zip" version="0.4.0">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="f29be1a23ea61268cc05191671d82b2b2f3656d9" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.0.zip" version="0.4.0">
       <changes lang="EN">
 				- Restore programme details for Now Playing on all stations
 			</changes>
