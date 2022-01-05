@@ -674,7 +674,7 @@
       <desc lang="EN">UK Radio Player - UK Radio in one place.</desc>
       <title lang="EN">UK Radio Player</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="5e6eb4f3e408bbb25f0d4417fed38391c3f12287" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.8/lms-ratingslight-2.0.8.zip" version="2.0.8">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="8ca9f7cfd27c8ac4329585a4d65e6e7ed3854f73" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.10/lms-ratingslight-2.0.10.zip" version="2.0.10">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
