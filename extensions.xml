@@ -649,18 +649,18 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="c6b81fe8a82c774780545c99fde5ca229fe41339" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_22_0.zip" version="2.22.0">
-      <changes lang="EN">NEW 2.22.0 'Next Expisodes' menu now available from the &quot;more&quot; info context menu + Improvements to live current track display </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="065b9013b306df7eac6064afd5b1f86859253808" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_23_0.zip" version="2.23.0">
+      <changes lang="EN">NEW 2.23.0 Support for Radio Favourites Plugin</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="dace3b3abe82b340742d59a4ef837a0e0db38ebb" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_0_1.zip" version="2.0.1">
-      <changes lang="EN">2.0.1 Improved current playing track info display</changes>
+    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="2652f39dce2ed563f15cd9523f3c1a6b834cb9c8" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_1_0.zip" version="2.1.0">
+      <changes lang="EN">NEW 2.1.0 Support for Radio Favourites Plugin</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 5 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="1da34edcd184dd56d7ece9e5652736fbf27245ae" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_1_5.zip" version="2.1.5">
-      <changes lang="EN">NEW 2.1.5  Bugfixes - Seeking for AOD + Material Icon compatability</changes>
+    <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="781fa87825c1d6b507b4ff6fc3907f818421bdc2" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_2_0.zip" version="2.2.0">
+      <changes lang="EN">NEW 2.2.0 Support for Radio Favourites Plugin</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
@@ -669,10 +669,14 @@
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="UKRadioPlayer" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="e6d81f794c4ecefe6c3b785d3ed090f9e4361775" url="http://plugins.expectingtofly.co.uk/UKRadioPlayerPlugin_1_0_1.zip" version="1.0.1">
-      <changes lang="EN">NEW 1.0.1 Fixed issue on BBC Live Stations playing in BBC Sounds</changes>
+    <plugin name="UKRadioPlayer" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="dd07bd09005b798f0836dfbeacde5adf3bcd5b55" url="http://plugins.expectingtofly.co.uk/UKRadioPlayerPlugin_1_1_0.zip" version="1.1.0">
+      <changes lang="EN">NEW 1.1.0 Support for Radio Favourites Plugin</changes>
       <desc lang="EN">UK Radio Player - UK Radio in one place.</desc>
       <title lang="EN">UK Radio Player</title>
+    </plugin>
+    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="8.*" minTarget="7.9" sha="79551217f84b711d1db855a1e0a242ec7414bada" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_0_1.zip" version="1.0.1">
+      <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
+      <title lang="EN">Radio Favourites</title>
     </plugin>
     <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="8ca9f7cfd27c8ac4329585a4d65e6e7ed3854f73" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.10/lms-ratingslight-2.0.10.zip" version="2.0.10">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
