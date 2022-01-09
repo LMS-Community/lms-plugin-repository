@@ -279,20 +279,13 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="0ad9b57208e2143ed10a94fb376e88f7f3d1f1c4" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.17.zip" version="0.0.17">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9d4ce231e6ea51cc253327aa25692e9c202d223f" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.18.zip" version="0.0.18">
       <changes lang="EN">
-				- Add Offshore Music Radio
-				- Add PiratenRadio.ch
-				- For Europa Radio Jazz change some of the logo matching and string stripping
-				- Handle Icecast bug in json status generation
-				- Allzic Thema Summer becomes Allzic Noel and also enabled CoverSearch to try to fill occasional missing artwork
+				- Add Supla Kantri and update stream URLs for all of the Supla stations
+				- Add Radio Swiss AACplus stream links for Jazz and Pop
+				- Add JB Radio2
 			</changes>
-      <desc lang="EN">Programme and track information for a variety of radio stations.
-					 Currently includes:
-					 AllZIC Radio, Caroline Flashback, Cesky rozhlas (rozhlas.cz), Dandelion Radio, Europa Radio Jazz, Frequence3, FSK,
-					 Juke Radio, KlassikRadio.de, Linn Radio, Mother Earth Radio, Naim Radio, Nova.fr (France), Offshore Music Radio, PiratenRadio.ch,
-					 RadioBlues Flac, Radio Espace (Lyon, France), Radio Swiss, RTE (Ireland), Somehow Jazz, St. Louis Classic Rock,
-					 Supla (Finland), ZOG</desc>
+      <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="45f696dafa6299a6685252c90e56bb56e400d53e" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.1.0.zip" version="1.1.0">
