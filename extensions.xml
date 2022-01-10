@@ -667,7 +667,8 @@
       <desc lang="EN">UK Radio Player - UK Radio in one place.</desc>
       <title lang="EN">UK Radio Player</title>
     </plugin>
-    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="8.*" minTarget="7.9" sha="79551217f84b711d1db855a1e0a242ec7414bada" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_0_1.zip" version="1.0.1">
+    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="8.*" minTarget="7.9" sha="40c5c5ebac828a44e355be2595eeca4e51110427" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_1_0.zip" version="1.1.0">
+      <changes lang="EN">1.1.0 Minor Bugfixes and performance improvements</changes>
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
