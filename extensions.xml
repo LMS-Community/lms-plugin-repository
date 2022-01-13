@@ -680,8 +680,9 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="02ab1a68e2d3cfc47e455874cf579c83da2695bf" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.1/lms-visualstatistics-1.2.1.zip" version="1.2.1">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="5af97ba24dd2a1bcc73eb46c88c689e15fef4c67" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.2/lms-visualstatistics-1.2.2.zip" version="1.2.2">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
+      <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
     <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="df44acc9ba97433978e6c64ebd045b7a7c3bac47" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.3/lms-dynamicplaylists-3.4.3.zip" version="3.4.3">
