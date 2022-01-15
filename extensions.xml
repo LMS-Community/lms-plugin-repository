@@ -8,6 +8,18 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
+    <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
+      <changes lang="EN">Initial Release.</changes>
+      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
+      <title lang="EN">CustomClock</title>
+    </applet>
+    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
+      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
+                        </changes>
+      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
+                        </desc>
+      <title lang="EN">License Manager</title>
+    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="8.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -216,6 +228,11 @@
     <plugin name="PhilsLibraries" creator="Philip Meyer" email="phil@hergest.demon.co.uk" maxTarget="*" minTarget="7.9.0" sha="6b0bf3fb5c9c89b50f62c6bac650326aea427eb5" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PhilsLibraries0.1.zip" version="0.1">
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
+    </plugin>
+    <plugin name="SqueezeScrobbler" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
+      <changes lang="EN" />
+      <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
+      <title lang="EN">SqueezeScrobbler</title>
     </plugin>
     <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="f29be1a23ea61268cc05191671d82b2b2f3656d9" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.0.zip" version="0.4.0">
       <changes lang="EN">
@@ -509,6 +526,112 @@
     <plugin name="C3PO" creator="marcoc1712" email="marcoc1712@gmail.com" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
+    </plugin>
+    <plugin name="SharkPlay" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="007ab351a55cd9e7e31cc9d2a4a647108d442111" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-linux-102.ZIP" version="1.2">
+      <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
+      <title lang="EN">SharkPlay</title>
+    </plugin>
+    <plugin name="SharkPlay" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="cd98ba0de84200a6118c338e8c725a2feda23130" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-win-102.ZIP" version="1.2">
+      <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
+      <title lang="EN">SharkPlay</title>
+    </plugin>
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
+      <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
+      <title lang="EN">CDplayer</title>
+    </plugin>
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
+      <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Includes CDDA2WAV and associated DLLs.</desc>
+      <title lang="EN">CDplayer</title>
+    </plugin>
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
+      <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
+      <title lang="EN">CDplayer</title>
+    </plugin>
+    <plugin name="WaveInput" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
+      <desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through LogitechMediaServer</desc>
+      <title lang="EN">WaveInput</title>
+    </plugin>
+    <plugin name="WaveInput" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
+      <desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through LogitechMediaServer. Default setup uses ALSA but OSS also works.</desc>
+      <title lang="EN">WaveInput</title>
+    </plugin>
+    <plugin name="PlayWMA" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+      <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
+      <title lang="EN">PlayWMA</title>
+    </plugin>
+    <plugin name="PlayWMA" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+      <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
+      <title lang="EN">PlayWMA</title>
+    </plugin>
+    <plugin name="PlayHLS" creator="bpa" maxTarget="*" minTarget="7.3" sha="beb7982842ccc67c464c85d75c6be7f6bdd22294" target="mac|unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSLinux-v101.ZIP" version="1.01">
+      <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
+      <title lang="EN">PlayHLS</title>
+    </plugin>
+    <plugin name="PlayHLS" creator="bpa" maxTarget="*" minTarget="7.3" sha="ebd592bb819fb0c7463995eb998295ca68527888" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSWin-v101.ZIP" version="1.01">
+      <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
+      <title lang="EN">PlayHLS</title>
+    </plugin>
+    <plugin name="iHeartRadio" creator="bpa" email="baltontwo@eircom.com" maxTarget="*" minTarget="7.7" sha="50865b3b4367ce7d975e3d850ba646c6bab2e1f6" url="http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v102.ZIP" version="1.2.0">
+      <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
+      <title lang="EN">iHeart Radio - v1.2</title>
+    </plugin>
+    <plugin name="RadioNet" creator="bpa" maxTarget="*" minTarget="7.9" sha="a6a8c2c1b3c449dd46cf1f3eaf10a4a491fe73c0" url="https://bpa-code.github.io/bpaplugins/RadioNet-V2_1.ZIP" version="2.1">
+      <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
+      <title lang="EN">RadioNet</title>
+    </plugin>
+    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="9e7548f970c9b0ba202bbd75190462cbed3cd9bf" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.zip" version="0.23">
+      <desc lang="EN">Add providers to podcast</desc>
+      <title lang="EN">Podcast Extensions</title>
+    </plugin>
+    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="bc92ea48306bb140439f02f76af4a90ed1b95382" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.15.0.zip" version="0.15.0">
+      <desc lang="EN">on-the-fly group creation</desc>
+      <title lang="EN">Group Players</title>
+    </plugin>
+    <plugin name="SwitchGroupPlayer" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/SwitchGroupPlayer" maxTarget="*" minTarget="7.5" sha="a80c3acfbab212ad68b96251658214bf2c9d5e59" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/SwitchGroupPlayer-0.4.zip" version="0.4">
+      <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
+      <title lang="EN">Switch Player (Groups compatible)</title>
+    </plugin>
+    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
+      <desc lang="EN">Play Canal+ video</desc>
+      <title lang="EN">CPlus</title>
+    </plugin>
+    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="63c44ea630d8d85f2bec63d2c9194f2eef48f6c5" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.71.0.zip" version="0.71.0">
+      <desc lang="EN">Play FranceTelevisions video</desc>
+      <title lang="EN">FranceTV</title>
+    </plugin>
+    <plugin name="LCI" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="8e233ac16e83772599b0107fb9fe75c1b70fb890" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.9.0.zip" version="0.9.0">
+      <desc lang="EN">Play LCI/TF1 video</desc>
+      <title lang="EN">LCI</title>
+    </plugin>
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="225b8616a319a8b5bf0da2c21fcb8c37d1912f91" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.81.0.zip" version="1.81.0">
+      <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
+      <title lang="EN">UPnP/DLNA bridge</title>
+    </plugin>
+    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="9307cc087a6b8fd65eb30572134b4d71373dd851" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.143.0.zip" version="0.143.0">
+      <desc lang="EN">Play YouTube video</desc>
+      <title lang="EN">YouTube</title>
+    </plugin>
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="a6029596c04ea09f06bdcbee08c16defe6203f6a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.62.3.zip" version="0.4.62.3">
+      <desc lang="EN">Use AirPlay devices in LMS</desc>
+      <title lang="EN">AirPlay bridge</title>
+    </plugin>
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="0a427736e1e4ce9239c56446c9fd06c8658872c2" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.81.1.zip" version="1.81.1">
+      <desc lang="EN">Use Chromecast devices in LMS</desc>
+      <title lang="EN">Chromecast bridge</title>
+    </plugin>
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="29ed88b3a817ee89281d91d305c475d6bab37328" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.1.zip" version="0.205.1">
+      <desc lang="EN">Airtunes for LMS (with Windows)</desc>
+      <title lang="EN">ShairTunes2 (fork)</title>
+    </plugin>
+    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="2bc58ca164d0d7589e0c34a1da25beeeba32b54a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip" version="0.18.2">
+      <desc lang="EN">Reliable HTTP connection for LMS</desc>
+      <title lang="EN">Reliable HTTP</title>
+    </plugin>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="8c1267e105867cf490d37d99a12fdcf966f8c4e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-18.zip" version="5.11.18">
+      <changes lang="EN">(5.11.18) - Fixed issues with data collection from weathe.com.  Added wind gusts.
+			</changes>
+      <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
+      <title lang="EN">SuperDateTime</title>
     </plugin>
     <plugin name="DatabaseQuery" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
