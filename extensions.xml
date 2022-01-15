@@ -628,8 +628,7 @@
       <title lang="EN">Reliable HTTP</title>
     </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="8c1267e105867cf490d37d99a12fdcf966f8c4e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-18.zip" version="5.11.18">
-      <changes lang="EN">(5.11.18) - Fixed issues with data collection from weathe.com.  Added wind gusts.
-			</changes>
+      <changes lang="EN">(5.11.18) - Fixed issues with data collection from weather.com.  Added wind gusts.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
