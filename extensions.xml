@@ -662,8 +662,8 @@
       <desc lang="EN">UK Radio Player - UK Radio in one place.</desc>
       <title lang="EN">UK Radio Player</title>
     </plugin>
-    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="8.*" minTarget="7.9" sha="67ff78729068312af0f6732b593ac33f6a5cbbfe" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_1_2.zip" version="1.1.2">
-      <changes lang="EN">New 1.1.2 Fix problem with deleting favourites</changes>
+    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="8.*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
+      <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
@@ -675,8 +675,9 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="cc2489ab1c46e8ec4a8c936dc8e53e0ba8cc460a" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.3/lms-visualstatistics-1.2.3.zip" version="1.2.3">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="a2ef6273a355ba31db22630ba39a778d4aa03dae" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.4/lms-visualstatistics-1.2.4.zip" version="1.2.4">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
+      <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
