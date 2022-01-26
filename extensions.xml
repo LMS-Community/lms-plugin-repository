@@ -997,8 +997,8 @@
       <title lang="EN">CPAN Modules (Windows)</title>
       <title lang="DE">CPAN Module (Windows)</title>
     </plugin>
-    <plugin name="WalkWithMe" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.6" sha="4d278ca48c2c227ae421ae703944bc7d5edb5f41" url="http://www.herger.net/_data/WalkWithMe-1.1.2.zip" version="1.1.2">
-      <changes lang="EN">1.1.0: add option to grab a playlist form another player, rather than pushing it; try to improve behaviour when moving a RandomPlay list. v1.1.1: add CLI support. v1.1.2: improved French translation; sort players by name</changes>
+    <plugin name="WalkWithMe" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.6" sha="df3505b60cb582a36734bc9a0d4741176b898af1" url="http://www.herger.net/_data/WalkWithMe-1.1.3.zip" version="1.1.3">
+      <changes lang="EN">1.1.0: add option to grab a playlist form another player, rather than pushing it; try to improve behaviour when moving a RandomPlay list. v1.1.1: add CLI support. v1.1.2: improved French translation. v1.1.3: sort players by name</changes>
       <desc lang="EN">Continue your listening on a different player - easily.</desc>
       <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen Gerät weiterspielen.</desc>
       <title lang="EN">Music Walk With Me</title>
