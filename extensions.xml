@@ -603,7 +603,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="da2c44f48e5d0dea9b04105cfa550e275f57bcd9" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.81.3.zip" version="1.81.3">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="1a1b6d8a970c62305dd1e5a47d47b9a2d76cf73b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.82.1.zip" version="1.82.1">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -637,8 +637,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="00b895611f344b9188609ba235a9c2b35b85c6c4" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_23_1.zip" version="2.23.1">
-      <changes lang="EN">NEW 2.23.1 Minor bugfixes; 2.23.0 Support for Radio Favourites Plugin</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="84171baf2adb26936e7ed870d159643aa50bed7d" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_23_2.zip" version="2.23.2">
+      <changes lang="EN">NEW 2.23.2 Improve signin experience + bugfixes 2.23.0 Support for Radio Favourites Plugin</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -667,11 +667,11 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="8ca9f7cfd27c8ac4329585a4d65e6e7ed3854f73" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.10/lms-ratingslight-2.0.10.zip" version="2.0.10">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="f7c4233836903b999b5670deb2da23e5b2ef05b6" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.0.11/lms-ratingslight-2.0.11.zip" version="2.0.11">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from comment tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="e1637b200f4123dbbd9b4d426b3380fc22fb376a" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.6/lms-usecommenttaginfo-1.3.6.zip" version="1.3.6">
+    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="fb6e1437e7941f5c95712b0af2b43cabe364b6e5" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.7/lms-usecommenttaginfo-1.3.7.zip" version="1.3.7">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
