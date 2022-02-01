@@ -506,8 +506,8 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="d9d716acc7c878bbeb85b6ebcc13dfb2da11312c" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.2.2.zip" version="1.2.2">
-      <changes lang="EN">v1.2.0: The plugin now uses the GraphQL backend of the ARD Audiothek. v1.2.1: favorite playlists load meta data v1.2.2: increased max items shown and bug fixes</changes>
+    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="65199457d6bccae5dafae4b0027a622f20def958" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.2.3.zip" version="1.2.3">
+      <changes lang="EN">v1.2.0: The plugin now uses the GraphQL backend of the ARD Audiothek. v1.2.1: favorite playlists load meta data v1.2.2: increased max items shown and bug fixes v1.2.3: sort programset episodes like in the AT</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
