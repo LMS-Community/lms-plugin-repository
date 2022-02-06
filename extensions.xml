@@ -627,8 +627,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="8c1267e105867cf490d37d99a12fdcf966f8c4e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-18.zip" version="5.11.18">
-      <changes lang="EN">(5.11.18) - Fixed issues with data collection from weather.com.  Added wind gusts.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="4bf745196f08fa0773cd44ca16a8ef066a6a9fb0" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-19.zip" version="5.11.19">
+      <changes lang="EN">(5.11.19) - Fixed College Sports Logos. Fixed Average and Record Temps. Added French Translations.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
