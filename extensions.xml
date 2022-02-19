@@ -579,6 +579,10 @@
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
+    <plugin name="Accuradio" creator="bpa" maxTarget="*" minTarget="8.3" sha="4059f87bdc867f858963433ccf3341ae87ba821c" url="https://bpa-code.github.io/bpaplugins/Accuradio-V1_0.ZIP" version="1.0">
+      <desc lang="EN">Accuradio - provides access to Accuradio streams</desc>
+      <title lang="EN">Accuradio V1.*</title>
+    </plugin>
     <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="9e7548f970c9b0ba202bbd75190462cbed3cd9bf" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.zip" version="0.23">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
