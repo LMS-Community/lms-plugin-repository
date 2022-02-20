@@ -693,7 +693,7 @@
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="66463e0a7cc358c236f15c23e6d1cfc5b59430a6" url="https://github.com/CDrummond/lms-material/releases/download/2.9.0/lms-material-2.9.0.zip" version="2.9.0">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="1ed5f378db9d5bd5fb3b528e5ba1caec45aaee87" url="https://github.com/CDrummond/lms-material/releases/download/2.9.1/lms-material-2.9.1.zip" version="2.9.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
