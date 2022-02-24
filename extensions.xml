@@ -631,8 +631,10 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="a8ec2ce328990c4553f43f3f2160a54ef75c6029" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-20.zip" version="5.11.20">
-      <changes lang="EN">(5.11.20) - Updated URL for retrieving geolocation. Updated URL for Stock data. Added macro variables for WU observation time and refresh time.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="713bb5153e08dcf6150ab41da0e972bb61a98291" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-21.zip" version="5.11.21">
+      <changes lang="EN">(5.11.20) - Updated URL for retrieving geolocation. Updated URL for Stock data. 
+			Added macro variables for WU observation time and refresh time.
+			(5.11.21) - Fixed bug preventing Stocks from displaying in the Extras-&gt;SDT menu.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
