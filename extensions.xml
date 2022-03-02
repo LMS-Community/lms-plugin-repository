@@ -279,11 +279,19 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9d4ce231e6ea51cc253327aa25692e9c202d223f" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.18.zip" version="0.0.18">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="33aad5ee8a17b3b2b81dec563fac6768961dea96" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.19.zip" version="0.0.19">
       <changes lang="EN">
-				- Add Supla Kantri and update stream URLs for all of the Supla stations
-				- Add Radio Swiss AACplus stream links for Jazz and Pop
-				- Add JB Radio2
+				- Add KUTX and KNKX (NPR stations)
+				- Add SpoonRadio (Rock stations from Switzerland)
+				- Add CherieFM (France) and their 30+ themed channels
+				- Added more EspaceRadio Group (France) stations, 
+				- each under own top level menu, many of which have their own sub-channels - JazzRadio.fr, Alpes1, M Radio, Generations, La Radio Plus, La Radio Plus Alpes Du Sud, ODS, RVA, Virage, Durance (although they have a problem with their data at present), Nice.
+				- Add OUIfm (France) and its 20 themed rock channels using experimental way to specify path to data
+				- Add Tropiques FM (France) and its 11 themed channels ... although they have problems with song metadata accuracy and character set
+				- Add KCRW (migrated from previous stand-alone plugin)
+				- For Cesky Rozhlas ... add regional stations and some new stream URLs and new logos for all - thanks user mipa87
+				- Add RTL Bel and Contact and their related webradio stations
+				- Add RTBF stations
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
