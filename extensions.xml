@@ -986,7 +986,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="2b6c1a6f000b929a51f2914e5e55b32ecc97ba8e" url="http://downloads.nixda.ch/Spotty-4.8.0.zip" version="4.8.0">
+    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.1: add workaround for failing local Spotify APs." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="64756ec8ae827a65332c19ba3530483ff5423823" url="http://downloads.nixda.ch/Spotty-4.8.1.zip" version="4.8.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
