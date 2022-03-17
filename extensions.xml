@@ -699,7 +699,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="df44acc9ba97433978e6c64ebd045b7a7c3bac47" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.3/lms-dynamicplaylists-3.4.3.zip" version="3.4.3">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="886200633015640838f7f7b521a34a106e5164d2" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.4/lms-dynamicplaylists-3.4.4.zip" version="3.4.4">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists and new playlist parameters. In addition you can now use your own custom dynamic playlist definitions directly in DPL without intermediary plugins. Please read the FAQ (&quot;More Info&quot; link).</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
