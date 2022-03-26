@@ -643,10 +643,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="713bb5153e08dcf6150ab41da0e972bb61a98291" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-21.zip" version="5.11.21">
-      <changes lang="EN">(5.11.20) - Updated URL for retrieving geolocation. Updated URL for Stock data. 
-			Added macro variables for WU observation time and refresh time.
-			(5.11.21) - Fixed bug preventing Stocks from displaying in the Extras-&gt;SDT menu.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="a84dc5e94797580d9456ace38066fb95ef60f6a2" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-22.zip" version="5.11.22">
+      <changes lang="EN">(5.11.22) - Updated to correctly handle Cleveland's MLB team name change.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
