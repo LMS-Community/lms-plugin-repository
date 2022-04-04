@@ -644,8 +644,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="c63d8d4af21640d46f945e4daf5d08cff75f8c1e" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_24_0.zip" version="2.24.0">
-      <changes lang="EN">NEW 2.24.0 Skip back to previous programmes on live radio with '&lt;&lt;' and '&gt;&gt;'</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="81ae197a0aa7abf20fccc3a4eb5b04719df264ce" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_24_1.zip" version="2.24.1">
+      <changes lang="EN">NEW 2.24.1 Updated icons to new BBC Sounds Branding;   2.24.0 Skip back to previous programmes on live radio with '&lt;&lt;' and '&gt;&gt;'</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
