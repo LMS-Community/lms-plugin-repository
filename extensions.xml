@@ -305,7 +305,7 @@
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
     </plugin>
-    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="4702082d5d02a481a558fa3a916222c6e86fb324" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.13.zip" version="0.13">
+    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="385b5f9323bb8cb9c69ebb2ed57765c4225db0b3" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.14.zip" version="0.14">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
     </plugin>
@@ -644,8 +644,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="81ae197a0aa7abf20fccc3a4eb5b04719df264ce" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_24_1.zip" version="2.24.1">
-      <changes lang="EN">NEW 2.24.1 Updated icons to new BBC Sounds Branding;   2.24.0 Skip back to previous programmes on live radio with '&lt;&lt;' and '&gt;&gt;'</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="c5d030ca714339edfb606d765f466d800bb70239" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_24_2.zip" version="2.24.2">
+      <changes lang="EN">NEW 2.24.2 Updated icons to new BBC Sounds Branding;   2.24.0 Skip back to previous programmes on live radio with '&lt;&lt;' and '&gt;&gt;'</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
