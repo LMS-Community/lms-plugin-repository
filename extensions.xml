@@ -272,9 +272,10 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="acc26f85dab809f3946a0f6a6e086ad7cce75d90" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.3.zip" version="0.0.3">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="12212519b91df42a02d5309db5e0add1321b6f4a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
-				- Correct matching of stream URLs that had resulted in some unsupported stations being partially matched
+				- Add support for Premium streams
+				- Handle Bauer changing of requirements for non-premium streams
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
