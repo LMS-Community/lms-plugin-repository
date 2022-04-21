@@ -675,13 +675,9 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="7d9b9aca3f780be81daa821c3ed98b35ac8f86d0" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.1.2/lms-ratingslight-2.1.2.zip" version="2.1.2">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="7335f765bde3525a23fb9b7e0bf4910f24e60d24" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.1.3/lms-ratingslight-2.1.3.zip" version="2.1.3">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
-    </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="fb6e1437e7941f5c95712b0af2b43cabe364b6e5" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.7/lms-usecommenttaginfo-1.3.7.zip" version="1.3.7">
-      <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
-      <title lang="EN">Use Comment Tag Info</title>
     </plugin>
     <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="27f6518daec0643b71611f66065b97874cc87c1b" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.2.5/lms-visualstatistics-1.2.5.zip" version="1.2.5">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
@@ -689,7 +685,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="ba8d1fc6f9b1f83c59334e0a7a515b3009c5b091" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.5/lms-dynamicplaylists-3.4.5.zip" version="3.4.5">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="112042bd0a894360f0fa91c2eff908c1468e740a" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.4.6/lms-dynamicplaylists-3.4.6.zip" version="3.4.6">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists and new playlist parameters. In addition you can now use your own custom dynamic playlist definitions directly in DPL without intermediary plugins. Please read the FAQ (&quot;More Info&quot; link).</desc>
       <desc lang="FR">Ce plugin permet de jouer des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques. Vient avec un ensemble de listes de lecture dynamiques prêtes à l'emploi. En addition vous pouvez maintenant utiliser vos propres listes de lecture dynamiques directement dans DPL sans plugin intermédiaire. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
@@ -697,6 +693,10 @@
     <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="9c71cb0a8fec9ec924b992f29c1633cd844515c7" url="https://github.com/AF-1/lms-customskip/releases/download/3.0.4/lms-customskip-3.0.4.zip" version="3.0.4">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
+    </plugin>
+    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="fb6e1437e7941f5c95712b0af2b43cabe364b6e5" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.7/lms-usecommenttaginfo-1.3.7.zip" version="1.3.7">
+      <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
+      <title lang="EN">Use Comment Tag Info</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="1a0514577093647adfb4ff8c7f71c608830e14f9" url="https://github.com/CDrummond/lms-material/releases/download/2.9.3/lms-material-2.9.3.zip" version="2.9.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
