@@ -310,7 +310,7 @@
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
     </plugin>
-    <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge, KwarkLabs" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.1" sha="7b1e2eb08ce099a2c7e0c704c152a04d28570548" url="https://danielvijge.github.io/lms_mixcloud/./lms_mixcloud-0.8.zip" version="0.8">
+    <plugin name="MixCloud" creator="Christian Mueller, Daniel Vijge, KwarkLabs" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.1" sha="d86c74e1c16b00ac2cd2df76ffc47d6f00ef8609" url="https://danielvijge.github.io/lms_mixcloud/./lms_mixcloud-0.9.zip" version="0.9">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
