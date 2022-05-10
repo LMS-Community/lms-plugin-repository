@@ -579,7 +579,7 @@
       <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
       <title lang="EN">iHeart Radio - v1.2</title>
     </plugin>
-    <plugin name="RadioNet" creator="bpa" maxTarget="*" minTarget="7.9" sha="a6a8c2c1b3c449dd46cf1f3eaf10a4a491fe73c0" url="https://bpa-code.github.io/bpaplugins/RadioNet-V2_1.ZIP" version="2.1">
+    <plugin name="RadioNet" creator="bpa" maxTarget="*" minTarget="7.9" sha="3c6b2fa69096ad95ab8acb637c9faed00d11dc36" url="https://bpa-code.github.io/bpaplugins/RadioNet-V2_2.ZIP" version="2.2">
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
