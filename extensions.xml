@@ -257,7 +257,7 @@
       <changes lang="EN">
 				- Handle issue where CBC data shows first track playing before programme scheduled start
 			</changes>
-      <desc lang="EN">CBC Canada programme and track info</desc>
+      <desc lang="EN">CBC Canada programme and track information</desc>
       <title lang="EN">CBC Canada</title>
     </plugin>
     <plugin name="CBCCanadaFrancais" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9c918011488b12d865e196087a544790c7d67ac9" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.4.zip" version="0.0.4">
@@ -267,7 +267,7 @@
       <changes lang="FR">
 				- Raccourcir le nom du plugin
 			</changes>
-      <desc lang="EN">CBC Radio-Canada Français programme and track infoffrance
+      <desc lang="EN">CBC Radio-Canada Français programme and track information
 			</desc>
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
@@ -280,10 +280,13 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="6d343fa77ccd3dd964ceabf5e783d970456485c6" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.20.zip" version="0.0.20">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="665fc509704596c257e7d1fce78e2ad795d625c0" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.21.zip" version="0.0.21">
       <changes lang="EN">
-				- Change jbradio2 flac stream URL
-				- Mother Earth additional stations are now free so add them
+				- KCRW - change date/time handler
+				- Tropiques FM - reconfigure data parser
+				- Add KCLU
+				- Add Hitradio RT1 (Germany) 27 stations - 4 regional plus 23 themed
+				- Add Radio Koeln and 19 themed stations (song data slow to update)
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
