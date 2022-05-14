@@ -28,10 +28,6 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
-    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
-      <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
-      <title lang="EN">Font Replacer</title>
-    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -648,8 +644,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="2174544c437be2c1d7ecf23f440c26276b05a9d9" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_24_3.zip" version="2.24.3">
-      <changes lang="EN">NEW 2.24.3 Minor Bug fixes;  2.24.2 Updated icons to new BBC Sounds Branding;   2.24.0 Skip back to previous programmes on live radio with '&lt;&lt;' and '&gt;&gt;'</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="7de25f628fb3b14aa0f2d91f23bf4289ef5e6705" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_25_0.zip" version="2.25.0">
+      <changes lang="EN">NEW 2.25.0 Improved Browsing (Item release date on line 2. Main title not repeated when listing from a container)</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
