@@ -682,13 +682,13 @@
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="3255e1f2ee839052c4792b85f297a952760b0fac" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.3.0/lms-visualstatistics-1.3.0.zip" version="1.3.0">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="1d5e2ba6728eaf4875c553499a8314eb54a4d3ee" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.3.1/lms-visualstatistics-1.3.1.zip" version="1.3.1">
       <desc lang="EN">Have a look at your library statistics with charts</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="c63749645dc8147b3c62308e4fb4df4bdf012c88" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.5.5/lms-dynamicplaylists-3.5.5.zip" version="3.5.5">
+    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="d4506c830c96bb8e3bb7f47ed6abe5cf6ff2fbbb" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.5.6/lms-dynamicplaylists-3.5.6.zip" version="3.5.6">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists and new playlist parameters. In addition you can now use your own custom dynamic playlist definitions directly in DPL without intermediary plugins. Please read the FAQ (&quot;More Info&quot; link).</desc>
       <desc lang="FR">Ce plugin permet de jouer des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques. Vient avec un ensemble de listes de lecture dynamiques prêtes à l'emploi. En addition vous pouvez maintenant utiliser vos propres listes de lecture dynamiques directement dans DPL sans plugin intermédiaire. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
@@ -701,7 +701,7 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="c341a8be0b66218c116ad1c192b2fdefc0c2ca9a" url="https://github.com/CDrummond/lms-material/releases/download/2.9.4/lms-material-2.9.4.zip" version="2.9.4">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="8f55c9dfafd2c674cffe0a00f2e8ff9f7e09c297" url="https://github.com/CDrummond/lms-material/releases/download/2.9.5/lms-material-2.9.5.zip" version="2.9.5">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
