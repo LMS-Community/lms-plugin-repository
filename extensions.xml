@@ -697,7 +697,7 @@
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
-    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="fb6e1437e7941f5c95712b0af2b43cabe364b6e5" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.7/lms-usecommenttaginfo-1.3.7.zip" version="1.3.7">
+    <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="a36b759fce91b9baa6d2de77ca4f5cf6c991b874" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.9/lms-usecommenttaginfo-1.3.9.zip" version="1.3.9">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
