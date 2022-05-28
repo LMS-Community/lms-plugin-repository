@@ -234,12 +234,12 @@
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8ab75a9484b28eb832e90060f23f12922d995736" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.1.zip" version="0.4.1">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="75eae4b9b3e0028374d60d61ff44692238698beb" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.2.zip" version="0.4.2">
       <changes lang="EN">
-				- Replace icons for France Bleu stations
+				- Also replace icon for France Bleu Elsass station
 			</changes>
       <changes lang="FR">
-				- Remplacer les icones des stations France Bleu
+				- Remplacer également l'icone de la station France Bleu Alsace
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
