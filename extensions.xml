@@ -1,5 +1,13 @@
 <extensions>
   <applets>
+    <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
+      <desc lang="EN">Support for external USB Dacs and up to 192kHz sampling rates with the digital output.  Note: this app will install a custom linux kernel.  It will also disable analog when using usb/digital out.</desc>
+      <title lang="EN">Enhanced Digital Output</title>
+    </applet>
+    <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
+      <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
+      <title lang="EN">Kernel Updater</title>
+    </applet>
     <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
       <changes lang="EN">Initial Release.</changes>
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
@@ -293,6 +301,11 @@
     <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="45f696dafa6299a6685252c90e56bb56e400d53e" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.2.0.zip" version="1.2.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
+    </plugin>
+    <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
+      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
+      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
+      <title lang="EN">RadioFeeds UK and Ireland</title>
     </plugin>
     <plugin name="SimpleLibraryViews" creator="Andy Hawkins" email="andy@gently.org.uk" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
@@ -672,7 +685,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="56afe75784688cdab2fd8dcfd662a8de6942969c" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.1.8/lms-ratingslight-2.1.8.zip" version="2.1.8">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="19628b44fc3dce31d8a5112dca6c8c47c9cc8c59" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.1.9/lms-ratingslight-2.1.9.zip" version="2.1.9">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -687,13 +700,21 @@
       <desc lang="FR">Ce plugin permet de jouer des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques. Vient avec un ensemble de listes de lecture dynamiques prêtes à l'emploi. En addition vous pouvez maintenant utiliser vos propres listes de lecture dynamiques directement dans DPL sans plugin intermédiaire. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="6607ce6365b341531f06ecf08beeaadbb74d8218" url="https://github.com/AF-1/lms-customskip/releases/download/3.1.5/lms-customskip-3.1.5.zip" version="3.1.5">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="005d60a02a371ac8db75589650e5ef968a85f6e7" url="https://github.com/AF-1/lms-customskip/releases/download/3.1.6/lms-customskip-3.1.6.zip" version="3.1.6">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
     <plugin name="UseCommentTagInfo" creator="AF" link="https://github.com/AF-1/lms-usecommenttaginfo" maxTarget="*" minTarget="7.9" sha="a36b759fce91b9baa6d2de77ca4f5cf6c991b874" url="https://github.com/AF-1/lms-usecommenttaginfo/releases/download/1.3.9/lms-usecommenttaginfo-1.3.9.zip" version="1.3.9">
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
+    </plugin>
+    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="e7aecc56b23c00bcedd955c0e12b75d6efb5bbd8" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.3.3/lms-sqlitevirtuallibraries-0.3.3.zip" version="0.3.3">
+      <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL.</desc>
+      <title lang="EN">SQLite Virtual Libraries</title>
+    </plugin>
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.2" sha="ac237912de60859dc1315bda54b9fe3aaefc7898" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/0.3.7/lms-alternativeplaycount-0.3.7.zip" version="0.3.7">
+      <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the github page.</desc>
+      <title lang="EN">Alternative Play Count</title>
     </plugin>
     <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="8f55c9dfafd2c674cffe0a00f2e8ff9f7e09c297" url="https://github.com/CDrummond/lms-material/releases/download/2.9.5/lms-material-2.9.5.zip" version="2.9.5">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
