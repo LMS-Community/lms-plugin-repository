@@ -708,11 +708,11 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="e7aecc56b23c00bcedd955c0e12b75d6efb5bbd8" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.3.3/lms-sqlitevirtuallibraries-0.3.3.zip" version="0.3.3">
+    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="99d4f41ac00aabd694861240486ef0b2059f5a91" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.3.4/lms-sqlitevirtuallibraries-0.3.4.zip" version="0.3.4">
       <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL.</desc>
       <title lang="EN">SQLite Virtual Libraries</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.2" sha="ac237912de60859dc1315bda54b9fe3aaefc7898" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/0.3.7/lms-alternativeplaycount-0.3.7.zip" version="0.3.7">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="fca35cdfbac5dfcb8cb2225299f411c33be177e5" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/0.3.8/lms-alternativeplaycount-0.3.8.zip" version="0.3.8">
       <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the github page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
