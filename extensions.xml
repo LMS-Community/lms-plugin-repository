@@ -260,12 +260,12 @@
       <desc lang="EN">CBC Canada programme and track information</desc>
       <title lang="EN">CBC Canada</title>
     </plugin>
-    <plugin name="CBCCanadaFrancais" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9c918011488b12d865e196087a544790c7d67ac9" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.4.zip" version="0.0.4">
+    <plugin name="CBCCanadaFrancais" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
-				- Shorten plugin name
+				- Match the HLS stream URLs
 			</changes>
       <changes lang="FR">
-				- Raccourcir le nom du plugin
+				- Faire correspondre les URL de flux HLS
 			</changes>
       <desc lang="EN">CBC Radio-Canada Français programme and track information
 			</desc>
@@ -320,7 +320,7 @@
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
     </plugin>
-    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="385b5f9323bb8cb9c69ebb2ed57765c4225db0b3" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.14.zip" version="0.14">
+    <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="6eaac79e5a4a90b1c7231962aa42c1874b887697" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.15.zip" version="0.15">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
     </plugin>
