@@ -985,7 +985,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.5.0: Simplified addition of albums and artists to your Qobuz collection. v2.5.1: improve &quot;New Releases&quot; list." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="48715a94edf861891a6731cd7705d755c298d845" url="http://www.herger.net/_data/Qobuz-2.5.1.zip" version="2.5.1">
+    <plugin name="Qobuz" changes="v2.6.0: Improved booklets/awards menus; optionally add version info to tracks; https." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="70573dda5dea115bfc4f0d8067aa79b8ca324c5f" url="http://www.herger.net/_data/Qobuz-2.6.0.zip" version="2.6.0">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
