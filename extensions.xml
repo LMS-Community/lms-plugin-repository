@@ -720,7 +720,7 @@
       <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the github page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="e9194cf57fc33a9322e16b5b3844c904a2aa51bd" url="https://github.com/CDrummond/lms-material/releases/download/2.9.6/lms-material-2.9.6.zip" version="2.9.6">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="1bae4690831eb1e75d8a1bf6d6e396cde6781644" url="https://github.com/CDrummond/lms-material/releases/download/2.9.7/lms-material-2.9.7.zip" version="2.9.7">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
