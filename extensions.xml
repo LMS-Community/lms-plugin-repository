@@ -279,25 +279,24 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8d0d6a5cbcfe3e0ff6e25d221f0a83085e758eba" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.22.zip" version="0.0.22">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="29e3d58d3acf79c935435daebf59a9b4ba1cb82e" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.23.zip" version="0.0.23">
       <changes lang="EN">
-				- Add BOOMradio
-				- Add Energy.de (nrj) - National plus 8 regional and 30+ themed stations
-				- Add bigFM (Germany) and their 29 themed stations 
-				- Add The Mix Radio (UK) - 3 stations
-				- Add Absolut Radio (Germany) - 12 themed stations
-				- Add station groups from Regiocast.de (80s80s, 90s90s, barba, Delta, Feier Freund, R.SA, R.SH, BOB!, PSR, Schlager Planet)
-				- Add KCUR - Kansas City, Missouri and the related classical station, KC Classical.
-				- Add ability to hide stations from list based on partial match of name - for example to exclude Christmas stations
-				- Update station list for mradio (France)
-				- Update Cherie FM station list
-				- Update logos (rtl-bel, rte-ie)
-				- Strip HTML from programme details - seen in Hitradio RT1
-				- Harmonise much of the keyword replacement code
-				- Change radio stream matching to handle redirections differently
-				- Modify cover art selector to limit potential field mismatch
-				- Add ability to have stream URL in config file for matching but hidden from menu
-				- Temporarily disable Juke Radio while it is off-air
+				- Migrate CBC Canada (stream URLs now hls)
+				- Add Mi AMiGO International (part-time song info)
+				- Add Sveriges Radio (SR) (Sweden) with 37 stations of which over 20 are the regional versions of P4
+				- Add The Jazz Groove - adds album, year and cover art - Mix-1 and Mix-2 for everyone (in menu) plus Dreams, Gems and Smooth for JG subscribers (but not in menu)
+				- Add Blues Radio (Athens, Greece) adds art (coversearch)
+				- Add Progzilla add art (coversearch)
+				- Add Delicious Agony - adds art (coversearch) and, with risky match, album and year
+				- Add Stellar Attraction - adds art (coversearch)
+				- Add Morow - adds album, art (theirs or if none then tries coversearch) and duration
+				- Add progrock.com - adds album, year and art (coversearch)
+				- Add Whisperings Radio (Solo Piano Radio) - adds album, duration and art (coversearch)
+				- Add KXT - North Texas - adds art (coversearch)
+				- Add KERA - Dallas, Texas - programme title and duration (NPR)
+				- Add KUZU - Denton, Texas - adds art (coversearch)
+				- Add KUNC and The Colorado Sound - KUNC adds programme name and duration. TCS adds art (coversearch)
+				- Add KCSN (88.5FM, Latin Alt HD3, Jazz HD2) - adds art (coversearch) ... note Latin Alt HD3 does not play at present
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
