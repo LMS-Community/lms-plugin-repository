@@ -512,6 +512,10 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
+    <plugin name="SqueezeSonic" creator="foobarjo" link="https://github.com/foobarjo/SqueezeSonic" maxTarget="*" minTarget="7.6" sha="97db4e9582aa8e3858241ddc487e8e111a4bfa6e" url="https://foobarjo.org/LMS/squeezesonic/squeezesonic-stable-0.6.zip" version="0.6">
+      <desc lang="EN">Play music from a Subsonic API capable music library</desc>
+      <title lang="EN">SqueezeSonic</title>
+    </plugin>
     <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="bde0ae0cc037bc7e853f2f1228a56dcfdd30dc19" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.0.zip" version="1.3">
       <changes lang="EN">v1.3.0: Changed API calls to work with new API of AT.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
@@ -708,7 +712,7 @@
       <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the github page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="1bae4690831eb1e75d8a1bf6d6e396cde6781644" url="https://github.com/CDrummond/lms-material/releases/download/2.9.7/lms-material-2.9.7.zip" version="2.9.7">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="2e8c36276fa4b0faad6f7c78606e83c14462b236" url="https://github.com/CDrummond/lms-material/releases/download/2.9.8/lms-material-2.9.8.zip" version="2.9.8">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
