@@ -272,24 +272,17 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="29e3d58d3acf79c935435daebf59a9b4ba1cb82e" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.23.zip" version="0.0.23">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="37648d6ab013771e55d9526c1d7cb35b38a2d9cd" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.24.zip" version="0.0.24">
       <changes lang="EN">
-				- Migrate CBC Canada (stream URLs now hls)
-				- Add Mi AMiGO International (part-time song info)
-				- Add Sveriges Radio (SR) (Sweden) with 37 stations of which over 20 are the regional versions of P4
-				- Add The Jazz Groove - adds album, year and cover art - Mix-1 and Mix-2 for everyone (in menu) plus Dreams, Gems and Smooth for JG subscribers (but not in menu)
-				- Add Blues Radio (Athens, Greece) adds art (coversearch)
-				- Add Progzilla add art (coversearch)
-				- Add Delicious Agony - adds art (coversearch) and, with risky match, album and year
-				- Add Stellar Attraction - adds art (coversearch)
-				- Add Morow - adds album, art (theirs or if none then tries coversearch) and duration
-				- Add progrock.com - adds album, year and art (coversearch)
-				- Add Whisperings Radio (Solo Piano Radio) - adds album, duration and art (coversearch)
-				- Add KXT - North Texas - adds art (coversearch)
-				- Add KERA - Dallas, Texas - programme title and duration (NPR)
-				- Add KUZU - Denton, Texas - adds art (coversearch)
-				- Add KUNC and The Colorado Sound - KUNC adds programme name and duration. TCS adds art (coversearch)
-				- Add KCSN (88.5FM, Latin Alt HD3, Jazz HD2) - adds art (coversearch) ... note Latin Alt HD3 does not play at present
+				- Add WBGO (Programme name synopsis, artist name, track title, album and duration plus cover (coversearch) and related The Jazz Bee add cover (coversearch) plus reformat to get track title and album
+				- Add Classical24 -  artist (first of orchestra or soloist or artist), title, album, label plus art via coversearch
+				- Add TSF Jazz - artist, title, duration and cover (augmented by coversearch)
+				- Add Organ Media (Organ Live, Positively Baroque, The Organ Experience) with artist (player), title, album, year, label, duration and cover
+				- Add ATOS (American Theatre Organ Society) - artist, title, album, duration and cover
+				- Add Mechanical Music Radio - artist (performer), title and cover if they provide something
+				- Add Organroxx - artist (performer), title, album, year, duration, cover - supports Free and Premium streams (premium not in menu)
+				- Add KMHD - (KMHD, OPB, KMHD2) programme title, description, duration, song artist, title, album, cover via coversearch - their song timings can be out by tens of seconds or even minutes
+				- Add Yle Finland 8 stations (plus regional variations) - programme (title, description, duration, cover) and song (artist, title, cover plus coversearch) - song info not always available
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
