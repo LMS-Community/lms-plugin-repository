@@ -196,6 +196,16 @@
     </patch>
   </patches>
   <plugins>
+    <plugin name="BookmarkHistory" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
+      <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
+      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
+      <title lang="EN">Bookmarks</title>
+    </plugin>
+    <plugin name="DisableShuffle" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
+      <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
+      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <title lang="EN">Disable Shuffle</title>
+    </plugin>
     <plugin name="iPeng" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
       <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
       <title lang="EN">iPeng</title>
@@ -634,32 +644,32 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="9be6d81e58c22c6454cd141517fe9d9bffb460be" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_25_1.zip" version="2.25.1">
-      <changes lang="EN">NEW 2.25.1 Fix for National Stations not appearing in Stations and Schedules (BBC API change) </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="30b618f607fa8d6358564caecbb776d682438a91" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_25_2.zip" version="2.25.2">
+      <changes lang="EN">NEW 2.25.2 Performance and logic improvements; 2.25.1 Fix for National Stations not appearing in Stations and Schedules (BBC API change) </changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="2652f39dce2ed563f15cd9523f3c1a6b834cb9c8" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_1_0.zip" version="2.1.0">
+    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="2652f39dce2ed563f15cd9523f3c1a6b834cb9c8" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_1_0.zip" version="2.1.0">
       <changes lang="EN">NEW 2.1.0 Support for Radio Favourites Plugin</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 5 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="91e2a3d50ee6cf4e40a413f4ca07b5feceb23996" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_2_1.zip" version="2.2.1">
+    <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="91e2a3d50ee6cf4e40a413f4ca07b5feceb23996" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_2_1.zip" version="2.2.1">
       <changes lang="EN">NEW 2.2.1 Minor fixes</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="5017ee1da5651140798609be8dee186a42d0889c" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_1_0.zip" version="1.1.0">
+    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="5017ee1da5651140798609be8dee186a42d0889c" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_1_1_0.zip" version="1.1.0">
       <changes lang="EN">NEW 1.1.0 Favourite Series/Presenters and podcasts</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="UKRadioPlayer" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" maxTarget="8.*" minTarget="7.9" sha="d1669b2ace066f917055792d8c95c5e711eeb1b9" url="http://plugins.expectingtofly.co.uk/UKRadioPlayerPlugin_1_1_1.zip" version="1.1.1">
+    <plugin name="UKRadioPlayer" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" maxTarget="*" minTarget="7.9" sha="d1669b2ace066f917055792d8c95c5e711eeb1b9" url="http://plugins.expectingtofly.co.uk/UKRadioPlayerPlugin_1_1_1.zip" version="1.1.1">
       <changes lang="EN">NEW 1.1.1 Minor bugfix (correct stream tech info)</changes>
       <desc lang="EN">UK Radio Player - UK Radio in one place.</desc>
       <title lang="EN">UK Radio Player</title>
     </plugin>
-    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="8.*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
+    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
       <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
@@ -695,7 +705,7 @@
       <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the github page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="2e8c36276fa4b0faad6f7c78606e83c14462b236" url="https://github.com/CDrummond/lms-material/releases/download/2.9.8/lms-material-2.9.8.zip" version="2.9.8">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="d1ebebe7a7d13c982f71b8ebdf264e9b46bc15c5" url="https://github.com/CDrummond/lms-material/releases/download/2.10.0/lms-material-2.10.0.zip" version="2.10.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
