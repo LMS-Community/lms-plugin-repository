@@ -688,7 +688,7 @@
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. The &quot;More Info&quot; link points to the FAQ.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
-    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="99d4f41ac00aabd694861240486ef0b2059f5a91" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.3.4/lms-sqlitevirtuallibraries-0.3.4.zip" version="0.3.4">
+    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="981a5220c65c10e40183a217464178cb60c4852d" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.3.5/lms-sqlitevirtuallibraries-0.3.5.zip" version="0.3.5">
       <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL.</desc>
       <title lang="EN">SQLite Virtual Libraries</title>
     </plugin>
