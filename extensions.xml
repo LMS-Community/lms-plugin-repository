@@ -602,7 +602,7 @@
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="8ea48173ec9d6263d970c38243f66852cef7dafe" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.81.4.zip" version="0.81.4">
+    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="08d164160a9ee09da0b3ffa4ddd59cbd80a3100f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.81.6.zip" version="0.81.6">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
