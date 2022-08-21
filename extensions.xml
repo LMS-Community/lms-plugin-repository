@@ -634,8 +634,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="2c8dc168dd156721c6a1512cefcd1d0ac7df5796" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-23.zip" version="5.11.23">
-      <changes lang="EN">(5.11.23) - Added error handling for locations that do not have weather average data.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="95b25987d2db86b442dad7c12b244c4e98d68b9c" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-24.zip" version="5.11.24">
+      <changes lang="EN">(5.11.24) - Added setting for data refresh interval during active games.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
