@@ -272,17 +272,13 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="37648d6ab013771e55d9526c1d7cb35b38a2d9cd" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.24.zip" version="0.0.24">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="3766e0c421ee982b01b01d161d354f7b963a44eb" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.25.zip" version="0.0.25">
       <changes lang="EN">
-				- Add WBGO (Programme name synopsis, artist name, track title, album and duration plus cover (coversearch) and related The Jazz Bee add cover (coversearch) plus reformat to get track title and album
-				- Add Classical24 -  artist (first of orchestra or soloist or artist), title, album, label plus art via coversearch
-				- Add TSF Jazz - artist, title, duration and cover (augmented by coversearch)
-				- Add Organ Media (Organ Live, Positively Baroque, The Organ Experience) with artist (player), title, album, year, label, duration and cover
-				- Add ATOS (American Theatre Organ Society) - artist, title, album, duration and cover
-				- Add Mechanical Music Radio - artist (performer), title and cover if they provide something
-				- Add Organroxx - artist (performer), title, album, year, duration, cover - supports Free and Premium streams (premium not in menu)
-				- Add KMHD - (KMHD, OPB, KMHD2) programme title, description, duration, song artist, title, album, cover via coversearch - their song timings can be out by tens of seconds or even minutes
-				- Add Yle Finland 8 stations (plus regional variations) - programme (title, description, duration, cover) and song (artist, title, cover plus coversearch) - song info not always available
+				- Fixed 0.0.24 regression issue that affected JBRadio2
+				- RTE (Ireland) now has song information
+				- New logo from Mother Earth Radio - thanks Florian
+				- St Louis Classic Rock logo gone so use alternative
+				- Added stations from dripfeed.net (Surf Rock Radio, Surf Music Radio, Monstromental, DripFeed, Lantau) - artist, title, album, cover, duration
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
