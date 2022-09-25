@@ -751,7 +751,7 @@
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
-    <plugin name="SqueezeESP32" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="3209d93e2b02c1c9161572977f03c93938272b30" url="http://github.com/sle118/squeezelite-esp32/raw/master-cmake/plugin/SqueezeESP32.zip" version="0.351">
+    <plugin name="SqueezeESP32" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="757946e8aecc05a0600fe887c370996a1a399b4b" url="http://github.com/sle118/squeezelite-esp32/raw/master-cmake/plugin/SqueezeESP32.zip" version="0.352">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
