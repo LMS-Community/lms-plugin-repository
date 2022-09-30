@@ -264,13 +264,15 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="3766e0c421ee982b01b01d161d354f7b963a44eb" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.25.zip" version="0.0.25">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="c593f951a399ff4936172cb3a7b32abb82067667" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.26.zip" version="0.0.26">
       <changes lang="EN">
-				- Fixed 0.0.24 regression issue that affected JBRadio2
-				- RTE (Ireland) now has song information
-				- New logo from Mother Earth Radio - thanks Florian
-				- St Louis Classic Rock logo gone so use alternative
-				- Added stations from dripfeed.net (Surf Rock Radio, Surf Music Radio, Monstromental, DripFeed, Lantau) - artist, title, album, cover, duration
+				- Add dr.dk - artist, title, duration, cover art via coversearch, programme name, description, duration, image
+				- Add Polaroid radio - artist, title, cover art (augmented by coversearch if needed)
+				- Add vrt.be - track titles already shown - this adds cover art (coversearch) plus programme name and image
+				- Remove Durance FM (seems to have closed down)
+				- Fixed regression issue that prevented programme names being shown in some situations (in particular for RTBF)
+				- For RBTF, increase maximum programme length and add hidden stream URL to match redirects
+				- For BigFM - hide the stream URL that is only used for matching
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
