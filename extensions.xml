@@ -653,8 +653,8 @@
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="2652f39dce2ed563f15cd9523f3c1a6b834cb9c8" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_1_0.zip" version="2.1.0">
-      <changes lang="EN">NEW 2.1.0 Support for Radio Favourites Plugin</changes>
+    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="243ed5c358c5b1567c30b42383354940133d8464" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_2_0.zip" version="2.2.0">
+      <changes lang="EN">NEW 2.2.0 Added Virgin Radio 80s PLUS (removed Virgin Radio Groove)</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 5 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
