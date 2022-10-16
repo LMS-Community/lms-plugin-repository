@@ -707,7 +707,7 @@
       <desc lang="EN">This plugin uses (key)words in your music files' comment tags to: add extra information to the song details page, define and display custom title formats, create virtual libraries with browse menus. More information on the GitHub page.</desc>
       <title lang="EN">Use Comment Tag Info</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="8b16a908089d03166552d223c77d2d3345f849c0" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.4.11/lms-visualstatistics-1.4.11.zip" version="1.4.11">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="411fd965b30dd5d738236fcb6f82142236b6dc36" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.4.12/lms-visualstatistics-1.4.12.zip" version="1.4.12">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
