@@ -674,7 +674,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="debdf83e8c4d74123812c5ae4d0dc386bd3e1aae" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/0.4.0/lms-alternativeplaycount-0.4.0.zip" version="0.4.0">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="3a646c3561453a889fdb2d218b5c12894cbf89cc" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/0.4.1/lms-alternativeplaycount-0.4.1.zip" version="0.4.1">
       <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
@@ -691,11 +691,11 @@
       <desc lang="FR">Ce plugin permet de jouer des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques. Vient avec un ensemble de listes de lecture dynamiques prêtes à l'emploi. En addition vous pouvez maintenant utiliser vos propres listes de lecture dynamiques directement dans DPL sans plugin intermédiaire. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="21ac0e884d5532de16dd10900bc0861e83944faa" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.2.3/lms-ratingslight-2.2.3.zip" version="2.2.3">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="8d99ca201c564f81d1f170cf9ab80b2dc8756e3c" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.2.4/lms-ratingslight-2.2.4.zip" version="2.2.4">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="360788428408338eb763c5c514734c6f05f75d29" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.4.3/lms-sqlitevirtuallibraries-0.4.3.zip" version="0.4.3">
+    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="23c0b45195aa910b7d499be38ba90172c41f9af7" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/0.4.4/lms-sqlitevirtuallibraries-0.4.4.zip" version="0.4.4">
       <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL. More information on the GitHub page.</desc>
       <title lang="EN">SQLite Virtual Libraries</title>
     </plugin>
