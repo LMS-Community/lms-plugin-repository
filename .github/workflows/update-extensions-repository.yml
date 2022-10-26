@@ -17,13 +17,13 @@ jobs:
         run: sudo apt-get install libjson-perl libxml-simple-perl libwww-perl
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Merge repository files
         id: merge
         run: |
           perl buildrepo.pl
-          echo "::set-output name=LMS_REPO_DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }')"
+          echo "name=LMS_REPO_DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }') >> $GITHUB_OUTPUT"
 
       - name: Push Changes (if needed and reasonable)
         if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < env.MAX_REMOVAL_DIFF
@@ -39,16 +39,15 @@ jobs:
 
       - name: Create Pull Request (if needed)
         if: steps.merge.outputs.LMS_REPO_DIFF_VALUE >= env.MAX_REMOVAL_DIFF
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v4
         with:
           branch: autoupdate
-          # base: master
           delete-branch: true
           title: "LMS Extensions Repository Update: ${{ github.sha }}"
           commit-message: "LMS Extensions Repository Update: ${{ github.sha }}"
 
       - name: Cleanup old runs
-        uses: actions/github-script@v5
+        uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
