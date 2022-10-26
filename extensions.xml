@@ -192,16 +192,6 @@
     </patch>
   </patches>
   <plugins>
-    <plugin name="BookmarkHistory" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
-      <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
-      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
-      <title lang="EN">Bookmarks</title>
-    </plugin>
-    <plugin name="DisableShuffle" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
-      <title lang="EN">Disable Shuffle</title>
-    </plugin>
     <plugin name="iPeng" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
       <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
       <title lang="EN">iPeng</title>
@@ -270,15 +260,12 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="c593f951a399ff4936172cb3a7b32abb82067667" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.26.zip" version="0.0.26">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="2e0b44f99ddc5d24069b79b75f24eddef4892496" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.27.zip" version="0.0.27">
       <changes lang="EN">
-				- Add dr.dk - artist, title, duration, cover art via coversearch, programme name, description, duration, image
-				- Add Polaroid radio - artist, title, cover art (augmented by coversearch if needed)
-				- Add vrt.be - track titles already shown - this adds cover art (coversearch) plus programme name and image
-				- Remove Durance FM (seems to have closed down)
-				- Fixed regression issue that prevented programme names being shown in some situations (in particular for RTBF)
-				- For RBTF, increase maximum programme length and add hidden stream URL to match redirects
-				- For BigFM - hide the stream URL that is only used for matching
+				- Add Great British Radio - add cover (via coversearch)
+				- Add Deejay.it and their 10 webradio stations (artist, title, album, label, cover, programme name)
+				- Add Capital.it and their 5 webradio stations (artist, title, album, label, cover, programme name)
+				- Add m2o and 1 of their webradio stations (artist, title, album, label, cover, programme name) - the other webradio stations are duplicates of Deejay.it stations
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -634,8 +621,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="8888604deef7c11736b292317171d32cfe8cee0a" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-24.zip" version="5.11.24">
-      <changes lang="EN">(5.11.24) - Added setting for data refresh interval during active games.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="ee9d8bd770bc36a2fc422d4656c89922c126e964" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-26.zip" version="5.11.26">
+      <changes lang="EN">(5.11.26) - Fixed weather, wunderground, and NBA data retrieval</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
