@@ -635,8 +635,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="ee9d8bd770bc36a2fc422d4656c89922c126e964" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-26.zip" version="5.11.26">
-      <changes lang="EN">(5.11.26) - Fixed weather, wunderground, and NBA data retrieval</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="274f2a014d97143eb0cce6d2db90e1848735a26f" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-27.zip" version="5.11.27">
+      <changes lang="EN">(5.11.27) Adjusted College Basketball start of season for 2022</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
