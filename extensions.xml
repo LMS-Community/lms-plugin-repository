@@ -679,7 +679,7 @@
       <desc lang="EN">Intended as a companion plugin for 'Dynamic Playlists 3' and 'Visual Statistics'. Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="dbf001e7b7d7f0be1eef61ddc505e213b5cd5801" url="https://github.com/AF-1/lms-customskip/releases/download/3.2.0/lms-customskip-3.2.0.zip" version="3.2.0">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="a4e5993595501aae32892199e34eb70184af8309" url="https://github.com/AF-1/lms-customskip/releases/download/3.2.2/lms-customskip-3.2.2.zip" version="3.2.2">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
