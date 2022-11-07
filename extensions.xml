@@ -63,7 +63,7 @@
       <desc lang="EN">Easy installation of third party patches on Radio/Touch/Controller firmware.</desc>
       <title lang="EN">Patch Installer</title>
     </applet>
-    <applet name="ScreenSwitcher" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="95693db01bcc9030151c8d15b42b97cb790f7328" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-screenswitcher&amp;filename=ScreenSwitcher-1.2.13.zip" version="1.2.13">
+    <applet name="ScreenSwitcher" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="95693db01bcc9030151c8d15b42b97cb790f7328" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-screenswitcher&amp;filename=ScreenSwitcher-1.2.13.zip" version="1.2.13">
       <changes lang="EN">- Available for free, no longer requires a license
 			</changes>
       <desc lang="EN">Switch continuously between different screen savers.
