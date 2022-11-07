@@ -714,7 +714,7 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="DSDPlayer" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="27a415a971600606c6ab24ae82bdef092b1724af" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.07/plugin-DSDPlayer-1.07.zip" version="1.07">
+    <plugin name="DSDPlayer" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="a8c6aac1ad8eb115be3cdf25949bf72e6cccbc17" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.08/plugin-DSDPlayer-1.08.zip" version="1.08">
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
