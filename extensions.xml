@@ -274,8 +274,12 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="efc4bebe53dabaa6bf571e6bd8265d3785842e7a" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.28.zip" version="0.0.28">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="ade2becbb48abbfa81f24b90df5dea28267f21b8" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.29.zip" version="0.0.29">
       <changes lang="EN">
+				- KlassikRadio.de - Movie Radio - change of name and stream URL
+				- Update the list of stations in the regiocast.de group
+				- More defensive code related to checking for cover art from broadcasters
+				- and from 0.0.28
 				- Add Rogers (Canada) - 51 stations
 				- Add dancewave.online (2 stations and variety of stream types with artist, track and coverart via coversearch)
 				- Add SuperStereo Radio Chile - 7 stations (flac and aac) -  artist, title and cover via coversearch - thanks to broadcaster for info about new streams launching 1-Nov-2022
