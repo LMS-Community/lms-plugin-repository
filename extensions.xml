@@ -644,8 +644,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="274f2a014d97143eb0cce6d2db90e1848735a26f" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-27.zip" version="5.11.27">
-      <changes lang="EN">(5.11.27) Adjusted College Basketball start of season for 2022</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="37e44fd8307f78e944e677ff92fa5e24273d20e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-28.zip" version="5.11.28">
+      <changes lang="EN">(5.11.28) 	Improved NBA data parsing.  
+											Removed unused perl libraries to eliminate conflicts with other LMS plugins.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -654,8 +655,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="815471083301810917649b35b9c068c733c59a50" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_25_7.zip" version="2.25.7">
-      <changes lang="EN">NEW 2.25.7 Improvements to session/token handling</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="352e54340bd43cffcfea5658f9a876d97f1733b0" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_26_0.zip" version="2.26.0">
+      <changes lang="EN">NEW 2.26 Added Local To Me top level menu</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
