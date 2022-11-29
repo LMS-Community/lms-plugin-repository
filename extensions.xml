@@ -28,6 +28,10 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
+    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
+      <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
+      <title lang="EN">Font Replacer</title>
+    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -922,6 +926,11 @@
       <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
+    </plugin>
+    <plugin name="IRBlaster" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
+      <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
+      <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
+      <title lang="EN">IR Blaster</title>
     </plugin>
     <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="f59226871f4a1523944bbfe79b837bbd2005b54f" url="http://www.herger.net/_data/Bandcamp-1.9.0.zip" version="1.9.0">
       <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;.</changes>
