@@ -624,7 +624,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="a78ff8ffde70cf41bfeb3d293477c806157bdfdb" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.82.2.zip" version="1.82.2">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="f930da15dbb3f861e707d8e66c2bb36c8b76ddf8" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-2.1.1.zip" version="2.1.1">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -632,15 +632,15 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="36ab603efc6215d05f9e68842b0cc593a27fce33" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.63.1.zip" version="0.4.63.1">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="709ad887ad5fef16dba04a424ef6ccbd9cbd2a5b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.1.1.zip" version="1.1.1">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="6dbc749d24ed336795d499c43c64f674b81716f7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.82.2.zip" version="1.82.2">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="fd3955ed234f4ab2a679e44d66564e19a2489297" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.1.1.zip" version="2.1.1">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="d5f21293ea41c2877cfdb0eeb0487ee80a02ffa1" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.3.zip" version="0.205.3">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="eebbd4772f69e3034dd28a61bfcf5be13c4642bc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.0.12.zip" version="1.0.12">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -749,7 +749,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="cde3572d95ded5b4e5340727f45d47c7060cface" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_1.zip" version="4.7.1">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="98f1838788d333f5290f27c6ef135f3175b10151" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_2.zip" version="4.7.2">
       <desc lang="EN">This plugin will control a network ready Denon/Marantz AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the device on/off, adjust and synchronize the volume, and optionally set the audio modes.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
