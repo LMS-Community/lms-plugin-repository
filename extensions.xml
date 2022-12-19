@@ -702,7 +702,7 @@
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
     <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="fcb601b9998c266f43f5a074bb169bb377746730" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.7.8/lms-dynamicplaylists-3.7.8.zip" version="3.7.8">
-      <desc lang="EN">Update to notify users of version 3 that version 4 is available and has to be installed manually. More information on the GitHub page.</desc>
+      <desc lang="EN">Install ONLY if you don't want to upgrade to version 4 which has to be installed manually. Please read the upgrade FAQ on the this plugin's GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 3</title>
     </plugin>
     <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="3157d2a167ffa173e879e654bdab48829dd1dcc8" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.0.1/lms-dynamicplaylists-4.0.1.zip" version="4.0.1">
