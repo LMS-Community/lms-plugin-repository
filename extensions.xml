@@ -274,25 +274,22 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="ade2becbb48abbfa81f24b90df5dea28267f21b8" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.29.zip" version="0.0.29">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4eab3aa55307113b9c811e5370af12521bb1312c" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.30.zip" version="0.0.30">
       <changes lang="EN">
-				- KlassikRadio.de - Movie Radio - change of name and stream URL
-				- Update the list of stations in the regiocast.de group
-				- More defensive code related to checking for cover art from broadcasters
-				- and from 0.0.28
-				- Add Rogers (Canada) - 51 stations
-				- Add dancewave.online (2 stations and variety of stream types with artist, track and coverart via coversearch)
-				- Add SuperStereo Radio Chile - 7 stations (flac and aac) -  artist, title and cover via coversearch - thanks to broadcaster for info about new streams launching 1-Nov-2022
-				- Add MediaWorks (New Zealand) all of the regular stations plus most of the web radio stations
-				- Add BDPST Rock Radio - 3 station (Rock, Danubius, Juventus)
-				- Add Joe (Belgium) 8 stations - adds their cover art and provides programme name and image for primary station
-				- Update SLCR logos and remove 2 stations that appear to have gone (FishNet and Texas Connection)
-				- KMHD and OPB have changed their source for metadata
-				- KUNC Colorado Sound had artist and title in reverse order
-				- JBRadio 2 - change flac stream url
-				- DripFeed Radio - changed the API URL
-				- Supla (Finland) add new station &quot;Vain Elamaa&quot;
-				- Espace Group (France) stations song info now handled using datapaths rather than explicit code
+				- Add San Francisco's 70s Hits! - convert &quot;artist - title - album&quot; to fields plus coversearch
+				- Add WFMU and its 3 web-only stations - artist, title, cover (and coversearch) and occasional year, label, programme name, programme synopsis
+				- Add KGLT - artist, title, album with coversearch
+				- Add 60 North Radio - artist, title with coversearch including for experimental FLAC stream
+				- Add Insanity Radio - artist, title, cover art (plus coversearch), programme - flac stream available
+				- Add RPR1.de - artist, title and their cover art - 47 stations
+				- Add Regenbogen.de (27 stations) and and Regenbogen2.de (12 stations) - artist, title and their cover art - plus programme name, synopsis and image for &quot;live&quot; stations
+				- Update the station lists for dr.dk, Cherie FM, Hitradio RT1, OUI FM, Tropiques FM
+				- progrock.com - stream URL changed
+				- The Mix Radio (Stowmarket) - new stream URL and one station (Juice) gone
+				- BigFM changed their metadata and the names of a few stations
+				- Shorten text strings in plugin settings page
+				- Change plugin png icon from transparent background to white
+				- Bugfix - verify that what is playing isRemote before looking for redirection URL
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
