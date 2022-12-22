@@ -990,7 +990,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.7.0: Support ReplayGain" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="25c64cf2e2a1b450ce6a9c2b1e552e8bf64c31f0" url="http://www.herger.net/_data/Qobuz-2.7.0.zip" version="2.7.0">
+    <plugin name="Qobuz" changes="v2.6.0: Improved booklets/awards menus; optionally add version info to tracks; https. v2.6.0: fix Booklets and scanner" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="184d5f9b8caaf8125ee583361a19440a13846cf5" url="http://www.herger.net/_data/Qobuz-2.6.1.zip" version="2.6.1">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
