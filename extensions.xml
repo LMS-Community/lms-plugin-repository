@@ -298,11 +298,6 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
-    <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
-      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
-      <title lang="EN">RadioFeeds UK and Ireland</title>
-    </plugin>
     <plugin name="SimpleLibraryViews" creator="Andy Hawkins" email="andy@gently.org.uk" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
@@ -1069,6 +1064,10 @@
     <plugin name="SpottyBinFreeBSD" creator="Richard Herman" email="richard@neversimple.eu" maxTarget="*" minTarget="7.7" sha="a70b4d9303ec3cdbf96f8c9af91ce8a6a54630c4" target="unix" url="https://www.neversimple.eu/LMS/SpottyBinFreeBSD-0.35.0.zip" version="0.35.0">
       <desc lang="EN">Spotty Helper Application for FreeBSD 11. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for FreeBSD 11</title>
+    </plugin>
+    <plugin name="SugarCube" creator="Charles Parker" email="abuse@spicefly.com" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
+      <desc lang="EN">Travel through your music Library using MusicIPs recommendations. Features Include Filter, Genre, Artist and Recipe Mixing, Trackstat Integration, Artist Blocking, Genre Blocking, Custom Track Weighting Routines, Coming Up Next Display, Sleep Mode, Volume Fade and lots more.  See www.spicefly.com for Details and Change Log.</desc>
+      <title lang="EN">Spicefly SugarCube</title>
     </plugin>
   </plugins>
 </extensions>
