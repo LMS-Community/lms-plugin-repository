@@ -516,8 +516,8 @@
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
       <title lang="EN">SqueezeSonic</title>
     </plugin>
-    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="bde0ae0cc037bc7e853f2f1228a56dcfdd30dc19" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.0.zip" version="1.3">
-      <changes lang="EN">v1.3.0: Changed API calls to work with new API of AT.</changes>
+    <plugin name="ARDAudiothek" creator="Max Zimmermann" email="software@maxzimmermann.xyz" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="9bee1182f8956c5eec01ac6d65e7e5f841f296d1" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.1.zip" version="1.3.1">
+      <changes lang="EN">v1.3.1: Small fixes due to lists without content.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
