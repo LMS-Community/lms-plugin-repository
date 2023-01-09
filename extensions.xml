@@ -274,22 +274,31 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4eab3aa55307113b9c811e5370af12521bb1312c" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.30.zip" version="0.0.30">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9d7a79ac6d729496c61e7aae45b12687b892bf52" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.31.zip" version="0.0.31">
       <changes lang="EN">
-				- Add San Francisco's 70s Hits! - convert &quot;artist - title - album&quot; to fields plus coversearch
-				- Add WFMU and its 3 web-only stations - artist, title, cover (and coversearch) and occasional year, label, programme name, programme synopsis
-				- Add KGLT - artist, title, album with coversearch
-				- Add 60 North Radio - artist, title with coversearch including for experimental FLAC stream
-				- Add Insanity Radio - artist, title, cover art (plus coversearch), programme - flac stream available
-				- Add RPR1.de - artist, title and their cover art - 47 stations
-				- Add Regenbogen.de (27 stations) and and Regenbogen2.de (12 stations) - artist, title and their cover art - plus programme name, synopsis and image for &quot;live&quot; stations
-				- Update the station lists for dr.dk, Cherie FM, Hitradio RT1, OUI FM, Tropiques FM
-				- progrock.com - stream URL changed
-				- The Mix Radio (Stowmarket) - new stream URL and one station (Juice) gone
-				- BigFM changed their metadata and the names of a few stations
-				- Shorten text strings in plugin settings page
-				- Change plugin png icon from transparent background to white
-				- Bugfix - verify that what is playing isRemote before looking for redirection URL
+				- Add Apollo Radio (DE) - artist, title and CoverSearch
+				- Add Superfly.fm (AT) - artist, title and cover art - only live stream not premium channels
+				- Add lounge.fm (AT) - artist, title and cover art - 2 stations
+				- Add ORF (AT) - artist, title, cover art and duration - programme title, synopsis, cover and duration - 3 main stations
+				- Add Mixabilly - augment existing artist and title with coversearch
+				- Add Reverb Cult to the Dripfeed set
+				- Add Bayerischer Rundfunk (DE) - BR-Klassik, Bayern1, Bayern2 etc - title, artist, duration and coversearch (not Klassik) plus programme title, subtitle, duration and cover
+				- Add Europe 2 (FR) - artist, title, duration and CoverSearch - primary broadcast station plus 5 streaming-only
+				- Add RFM (FR) - artist, title and CoverSearch - primary broadcast station plus 15 streaming-only
+				- Add Europe 1 (FR) - programme title, subtitle, description and image
+				- Add Alouette (FR) - title, artist and CoverSearch - broadcast plus 2 streaming-only (not yet done all regional variations)
+				- Add Sud Radio (FR) - talk station - programme title, subtitle (presenter), description and image
+				- Add Saarlandischer Rundfunk (DE) - song title, artist and CoverSearch plus programme title, subtitle, description and image for 4 stations.
+				- Add RTL (FR) - song title, artist, duration and cover. RTL, RTL2 and FunRadio
+				- Add rest of NRJ Group (FR) - title, artist, duration and cover - Nostalgie (54 stations), Rire et Chansons (18 stations) and NRJ (131 stations) (Cherie FM - with 36 stations - was already there)
+				- Add Radiomeuh - title, artist (already in stream metadata) plus album and CoverSearch
+				- Add ABC Dance - title, artist (already in stream metadata) plus album, duration and cover
+				- Add Top Tonic - title, artist (already in stream metadata) plus album, duration and cover
+				- Add ElectroChoc - title, artist (already in stream metadata) plus cover
+				- Add Double XX - title, artist (already in stream metadata) plus cover
+				- Add Merry Christmas Radio - title, artist (already in stream metadata) plus cover
+				- Add SuperStereo Eight - Soul and Ballads - launched 2023/01/08
+				- Remove RVA Noel as it no longer broadcasts
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
