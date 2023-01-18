@@ -198,12 +198,12 @@
   <plugins>
     <plugin name="BookmarkHistory" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
-      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
+      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher. Bitte geben Sie in den Einstellungen die Genres an, für die Lesezeichen angelegt werden sollen, sonst werden auch z. B. für Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -545,54 +545,6 @@
     <plugin name="C3PO" creator="marcoc1712" email="marcoc1712@gmail.com" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
-    </plugin>
-    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="9e7548f970c9b0ba202bbd75190462cbed3cd9bf" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.zip" version="0.23">
-      <desc lang="EN">Add providers to podcast</desc>
-      <title lang="EN">Podcast Extensions</title>
-    </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="bc92ea48306bb140439f02f76af4a90ed1b95382" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.15.0.zip" version="0.15.0">
-      <desc lang="EN">on-the-fly group creation</desc>
-      <title lang="EN">Group Players</title>
-    </plugin>
-    <plugin name="SwitchGroupPlayer" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/SwitchGroupPlayer" maxTarget="*" minTarget="7.5" sha="a80c3acfbab212ad68b96251658214bf2c9d5e59" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/SwitchGroupPlayer-0.4.zip" version="0.4">
-      <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
-      <title lang="EN">Switch Player (Groups compatible)</title>
-    </plugin>
-    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
-      <desc lang="EN">Play Canal+ video</desc>
-      <title lang="EN">CPlus</title>
-    </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="f052ee82a883e3800f6a9920c57e7b9cdf542105" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.81.7.zip" version="0.81.7">
-      <desc lang="EN">Play FranceTelevisions video</desc>
-      <title lang="EN">FranceTV</title>
-    </plugin>
-    <plugin name="LCI" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="b26a6ca88f2c55227c223aa9ede5c6854a2ba9c7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.10.1.zip" version="0.10.1">
-      <desc lang="EN">Play LCI/TF1 video</desc>
-      <title lang="EN">LCI</title>
-    </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.9" sha="a78ff8ffde70cf41bfeb3d293477c806157bdfdb" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.82.2.zip" version="1.82.2">
-      <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
-      <title lang="EN">UPnP/DLNA bridge</title>
-    </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="2c4e6944a09f8dd5a2f9e913c67957f2badbd51c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.144.2.zip" version="0.144.2">
-      <desc lang="EN">Play YouTube video</desc>
-      <title lang="EN">YouTube</title>
-    </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="36ab603efc6215d05f9e68842b0cc593a27fce33" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.63.1.zip" version="0.4.63.1">
-      <desc lang="EN">Use AirPlay devices in LMS</desc>
-      <title lang="EN">AirPlay bridge</title>
-    </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="6dbc749d24ed336795d499c43c64f674b81716f7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.82.2.zip" version="1.82.2">
-      <desc lang="EN">Use Chromecast devices in LMS</desc>
-      <title lang="EN">Chromecast bridge</title>
-    </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="d5f21293ea41c2877cfdb0eeb0487ee80a02ffa1" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.205.3.zip" version="0.205.3">
-      <desc lang="EN">Airtunes for LMS (with Windows)</desc>
-      <title lang="EN">ShairTunes2 (fork)</title>
-    </plugin>
-    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="2bc58ca164d0d7589e0c34a1da25beeeba32b54a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip" version="0.18.2">
-      <desc lang="EN">Reliable HTTP connection for LMS</desc>
-      <title lang="EN">Reliable HTTP</title>
     </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="37e44fd8307f78e944e677ff92fa5e24273d20e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-28.zip" version="5.11.28">
       <changes lang="EN">(5.11.28) 	Improved NBA data parsing.  
