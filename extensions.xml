@@ -198,12 +198,12 @@
   <plugins>
     <plugin name="BookmarkHistory" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
-      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher. Bitte geben Sie in den Einstellungen die Genres an, für die Lesezeichen angelegt werden sollen, sonst werden auch z. B. für Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
+      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -545,6 +545,66 @@
     <plugin name="C3PO" creator="marcoc1712" email="marcoc1712@gmail.com" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
+    </plugin>
+    <plugin name="SharkPlay" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="007ab351a55cd9e7e31cc9d2a4a647108d442111" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-linux-102.ZIP" version="1.2">
+      <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
+      <title lang="EN">SharkPlay</title>
+    </plugin>
+    <plugin name="SharkPlay" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="cd98ba0de84200a6118c338e8c725a2feda23130" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-win-102.ZIP" version="1.2">
+      <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
+      <title lang="EN">SharkPlay</title>
+    </plugin>
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
+      <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
+      <title lang="EN">CDplayer</title>
+    </plugin>
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
+      <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Includes CDDA2WAV and associated DLLs.</desc>
+      <title lang="EN">CDplayer</title>
+    </plugin>
+    <plugin name="CDplayer" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
+      <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
+      <title lang="EN">CDplayer</title>
+    </plugin>
+    <plugin name="WaveInput" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
+      <desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through LogitechMediaServer</desc>
+      <title lang="EN">WaveInput</title>
+    </plugin>
+    <plugin name="WaveInput" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
+      <desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through LogitechMediaServer. Default setup uses ALSA but OSS also works.</desc>
+      <title lang="EN">WaveInput</title>
+    </plugin>
+    <plugin name="PlayWMA" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+      <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
+      <title lang="EN">PlayWMA</title>
+    </plugin>
+    <plugin name="PlayWMA" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+      <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
+      <title lang="EN">PlayWMA</title>
+    </plugin>
+    <plugin name="PlayHLS" creator="bpa" maxTarget="*" minTarget="7.3" sha="beb7982842ccc67c464c85d75c6be7f6bdd22294" target="mac|unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSLinux-v101.ZIP" version="1.01">
+      <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
+      <title lang="EN">PlayHLS</title>
+    </plugin>
+    <plugin name="PlayHLS" creator="bpa" maxTarget="*" minTarget="7.3" sha="ebd592bb819fb0c7463995eb998295ca68527888" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSWin-v101.ZIP" version="1.01">
+      <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
+      <title lang="EN">PlayHLS</title>
+    </plugin>
+    <plugin name="iHeartRadio" creator="bpa" email="baltontwo@eircom.com" maxTarget="*" minTarget="7.7" sha="50865b3b4367ce7d975e3d850ba646c6bab2e1f6" url="http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v102.ZIP" version="1.2.0">
+      <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
+      <title lang="EN">iHeart Radio - v1.2</title>
+    </plugin>
+    <plugin name="RadioNet" creator="bpa" maxTarget="*" minTarget="7.9" sha="3c6b2fa69096ad95ab8acb637c9faed00d11dc36" url="https://bpa-code.github.io/bpaplugins/RadioNet-V2_2.ZIP" version="2.2">
+      <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
+      <title lang="EN">RadioNet</title>
+    </plugin>
+    <plugin name="Accuradio" creator="bpa" maxTarget="*" minTarget="8.3" sha="4059f87bdc867f858963433ccf3341ae87ba821c" url="https://bpa-code.github.io/bpaplugins/Accuradio-V1_0.ZIP" version="1.0">
+      <desc lang="EN">Accuradio - provides access to Accuradio streams</desc>
+      <title lang="EN">Accuradio V1.*</title>
+    </plugin>
+    <plugin name="Live365" creator="bpa" maxTarget="*" minTarget="8.0" sha="1da7e9e91d2a1028c07eccc91dcf079e58c5c9bd" url="https://bpa-code.github.io/bpaplugins/Live365-V1_01.ZIP" version="1.01">
+      <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
+      <title lang="EN">Live365 V1.*</title>
     </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="37e44fd8307f78e944e677ff92fa5e24273d20e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-28.zip" version="5.11.28">
       <changes lang="EN">(5.11.28) 	Improved NBA data parsing.  
