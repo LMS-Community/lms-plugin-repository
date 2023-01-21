@@ -634,7 +634,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="2c4e6944a09f8dd5a2f9e913c67957f2badbd51c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.144.2.zip" version="0.144.2">
+    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="f1ec4e682a314e0c2ef643b0da1f52ae0c2d3fb9" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.145.0.zip" version="0.145.0">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
@@ -695,7 +695,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="4ba1db88ff37167b170ebd04cd932b1b4d0ac3ef" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.0.2/lms-alternativeplaycount-1.0.2.zip" version="1.0.2">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="89a37bf33d84524f159541c23e28059b6d07cab2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.0/lms-alternativeplaycount-1.2.0.zip" version="1.2.0">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
