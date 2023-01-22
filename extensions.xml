@@ -699,7 +699,7 @@
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="9b15d7e279d1cebe25d50eff76788c37f5be3a32" url="https://github.com/AF-1/lms-customskip/releases/download/3.2.6/lms-customskip-3.2.6.zip" version="3.2.6">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="b0a8876a6432331dd1744eec824c17249faf6464" url="https://github.com/AF-1/lms-customskip/releases/download/3.3.0/lms-customskip-3.3.0.zip" version="3.3.0">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -729,7 +729,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="2e3895ba5da4ab089d4706b3ad748a02512e8ebd" url="https://github.com/CDrummond/lms-material/releases/download/3.0.3/lms-material-3.0.3.zip" version="3.0.3">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="a84f70cfd426e1bd5423b6100264eb13bb0d34d0" url="https://github.com/CDrummond/lms-material/releases/download/3.1.0/lms-material-3.1.0.zip" version="3.1.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
