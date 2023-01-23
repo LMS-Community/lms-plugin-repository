@@ -247,10 +247,6 @@
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
-    <plugin name="KCRW" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="a997e9285f17b429e3a43b91cc3873071c1f1cf2" url="http://www.dabdig.co.uk/slimserver-rep/KCRW-0.1.9.zip" version="0.1.9">
-      <desc lang="EN">KCRW track information</desc>
-      <title lang="EN">KCRW</title>
-    </plugin>
     <plugin name="ABCAustralia" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="34eaecb8aec8018784d24226929433aea9521fa6" url="http://www.dabdig.co.uk/slimserver-rep/ABCAustralia-0.1.3.zip" version="0.1.3">
       <desc lang="EN">ABC Australia programme and track information</desc>
       <title lang="EN">ABC Australia</title>
@@ -274,31 +270,31 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="9d7a79ac6d729496c61e7aae45b12687b892bf52" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.31.zip" version="0.0.31">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="a7d2de9e01acbce27c002effe43dba1002d4b9db" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.32.zip" version="0.0.32">
       <changes lang="EN">
-				- Add Apollo Radio (DE) - artist, title and CoverSearch
-				- Add Superfly.fm (AT) - artist, title and cover art - only live stream not premium channels
-				- Add lounge.fm (AT) - artist, title and cover art - 2 stations
-				- Add ORF (AT) - artist, title, cover art and duration - programme title, synopsis, cover and duration - 3 main stations
-				- Add Mixabilly - augment existing artist and title with coversearch
-				- Add Reverb Cult to the Dripfeed set
-				- Add Bayerischer Rundfunk (DE) - BR-Klassik, Bayern1, Bayern2 etc - title, artist, duration and coversearch (not Klassik) plus programme title, subtitle, duration and cover
-				- Add Europe 2 (FR) - artist, title, duration and CoverSearch - primary broadcast station plus 5 streaming-only
-				- Add RFM (FR) - artist, title and CoverSearch - primary broadcast station plus 15 streaming-only
-				- Add Europe 1 (FR) - programme title, subtitle, description and image
-				- Add Alouette (FR) - title, artist and CoverSearch - broadcast plus 2 streaming-only (not yet done all regional variations)
-				- Add Sud Radio (FR) - talk station - programme title, subtitle (presenter), description and image
-				- Add Saarlandischer Rundfunk (DE) - song title, artist and CoverSearch plus programme title, subtitle, description and image for 4 stations.
-				- Add RTL (FR) - song title, artist, duration and cover. RTL, RTL2 and FunRadio
-				- Add rest of NRJ Group (FR) - title, artist, duration and cover - Nostalgie (54 stations), Rire et Chansons (18 stations) and NRJ (131 stations) (Cherie FM - with 36 stations - was already there)
-				- Add Radiomeuh - title, artist (already in stream metadata) plus album and CoverSearch
-				- Add ABC Dance - title, artist (already in stream metadata) plus album, duration and cover
-				- Add Top Tonic - title, artist (already in stream metadata) plus album, duration and cover
-				- Add ElectroChoc - title, artist (already in stream metadata) plus cover
-				- Add Double XX - title, artist (already in stream metadata) plus cover
-				- Add Merry Christmas Radio - title, artist (already in stream metadata) plus cover
-				- Add SuperStereo Eight - Soul and Ballads - launched 2023/01/08
-				- Remove RVA Noel as it no longer broadcasts
+				- Add RMN (FR) - artist, title and CoverSearch
+				- Add The Goosh Radio - existing artist and title augmented with album (not very reliable) and cover (plus CoverSearch)
+				- Add Dance.fm - existing artist and title augmented with CoverSearch
+				- Add Radio Salue (DE) - artist, title and CoverSearch - 11 stations (1 broadcast plus 10 internet-only)
+				- Add WRUW (US) - artist, title and CoverSearch plus (maybe) Programme title, description and icon
+				- Add WJCU (US) - artist, title and CoverSearch plus part-time station WJCU-TWO
+				- Add KEXP (US) - artist, title, album and cover plus CoverSearch - programme title, subtitle, tagline and cover
+				- Add SmoothJazz.com - artist, title, album and CoverSearch - 2 stations
+				- Autoregister stations (for this session) from Live365 that you play - artist, title already present - adds duration and their coverart plus CoverSearch
+				- Prepopulated with some Live365 stations to highlight the support
+				- Add Juice (Belfast) - artist, title and coverart - augmented by CoverSearch - flac stream causes problems for LMS	
+				- Add 95bfm (NZ) - artist, title and CoverSearch (includes flac)
+				- Add CityRadio (Chile) - artist, title and CoverSearch (includes flac)
+				- Add EasyRadio (Bulgaria) - artist, title, duration and CoverSearch (includes flac)
+				- Add h2oRadio (France) - artist, title and cover - augmented by CoverSearch - 3 broadcast stations and 5 web only
+				- Add The Cheese (NZ) - artist, title and CoverSearch (includes flac)
+				- Add RadioKing autoregistration - experiment
+				- Add Hi On Line Radio - artist, title and coverart augmented by CoverSearch - 8 web only stations
+				- Add Intense Radio and Pure Classix - artist, title and CoverSearch (includes flac and ogg but causes problems for LMS)
+				- Add MaXXima (CH) - artist, title and CoverSearch (includes flac)
+				- Add Bias Radio (HU) - artist, title, album and CoverSearch (not using their art because cannot distinguish between real and generic) - includes flac stream
+				- Add Radio X (CH) - artist, title, duration and CoverSearch (includes flac) - their API is currently not updating correctly (can see on their web site) so using only ICY data for now (so no duration)
+				- Add Zap! FM - artist, title, year, art augmented by CoverSearch - includes flac
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -729,7 +725,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="a84f70cfd426e1bd5423b6100264eb13bb0d34d0" url="https://github.com/CDrummond/lms-material/releases/download/3.1.0/lms-material-3.1.0.zip" version="3.1.0">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="2be2e7585204334d4c9a70a4efbedba69aecc08c" url="https://github.com/CDrummond/lms-material/releases/download/3.1.1/lms-material-3.1.1.zip" version="3.1.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
