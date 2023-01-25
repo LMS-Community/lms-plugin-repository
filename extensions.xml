@@ -638,7 +638,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="6dbc749d24ed336795d499c43c64f674b81716f7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.82.2.zip" version="1.82.2">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.9" sha="e6a78758bfd3a0173e9d007ce6def68cd37985e7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.1.13.zip" version="2.1.13">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -703,11 +703,7 @@
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="DynamicPlaylists3" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="fcb601b9998c266f43f5a074bb169bb377746730" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/3.7.8/lms-dynamicplaylists-3.7.8.zip" version="3.7.8">
-      <desc lang="EN">Install ONLY if you don't want to upgrade to version 4 which has to be installed manually. Please read the upgrade FAQ on the this plugin's GitHub page.</desc>
-      <title lang="EN">Dynamic Playlists 3</title>
-    </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="6d76f5b79436788b8d1996e4259ff8e77e7c9e30" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.0.8/lms-dynamicplaylists-4.0.8.zip" version="4.0.8">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="38bb4580f2d936e6c247ea555adf9544f1c155af" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.0.9/lms-dynamicplaylists-4.0.9.zip" version="4.0.9">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. If you're upgrading from version 3, please READ THE UPGRADE FAQ on the GitHub page before installing version 4.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
