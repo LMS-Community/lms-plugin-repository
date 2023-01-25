@@ -967,8 +967,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f92b98fe6c312f922274317bfafc97895b2f285d" url="http://www.herger.net/_data/MusicArtistInfo-1.8.0.zip" version="1.8.0">
-      <changes lang="EN">v1.8.0: Add support for Reviews and Biographies in a local folder.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="http://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="5d204c49723a5a4805cecec8e4002049a5f1104d" url="http://www.herger.net/_data/MusicArtistInfo-1.8.1.zip" version="1.8.1">
+      <changes lang="EN">v1.8.0: Add support for Reviews and Biographies in a local folder. v1.8.1: improve local file filtering.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
