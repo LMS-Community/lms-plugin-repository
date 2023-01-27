@@ -661,8 +661,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="647e07129c7550ae9481f06c565362eb13bf785d" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_26_6.zip" version="2.26.6">
-      <changes lang="EN">NEW 2.26.6 Further security token handling fixes 2.26.2 Fixes to security token handling 2.26.0 Added Local To Me top level menu. </changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="921c0d522f0dc551dfcf5c325563e60006f71fea" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_27_0.zip" version="2.27.0">
+      <changes lang="EN">NEW 2.27.0 Manage Home Menu in preferences. Continue Listening improvements.</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -715,7 +715,7 @@
       <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL. More information on the GitHub page.</desc>
       <title lang="EN">SQLite Virtual Libraries</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="b6b0f050da10b2aa0d4799910538232ab16526c5" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.4.14/lms-visualstatistics-1.4.14.zip" version="1.4.14">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="965e1cd1fe1f6cca5e1a3cdd26592bb2645c98be" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.0/lms-visualstatistics-1.5.0.zip" version="1.5.0">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
