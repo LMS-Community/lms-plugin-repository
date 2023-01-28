@@ -691,7 +691,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="89a37bf33d84524f159541c23e28059b6d07cab2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.0/lms-alternativeplaycount-1.2.0.zip" version="1.2.0">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="2f7930040c9d707a74d210f791b536a5eac5e3ca" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.1/lms-alternativeplaycount-1.2.1.zip" version="1.2.1">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
