@@ -991,7 +991,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.6.0: Improved booklets/awards menus; optionally add version info to tracks; https. v2.6.0: fix Booklets and scanner" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="184d5f9b8caaf8125ee583361a19440a13846cf5" url="http://www.herger.net/_data/Qobuz-2.6.1.zip" version="2.6.1">
+    <plugin name="Qobuz" changes="v2.6.0: Improved booklets/awards menus; optionally add version info to tracks; https. v2.6.0: fix Booklets and scanner" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="66b91187eea91b1ac9f27e880cd9f176b708f792" url="http://www.herger.net/_data/Qobuz-2.7.2.zip" version="2.7.2">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
@@ -1003,7 +1003,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.4: ignore any Spotify volume change within the first 20s; don't use fallback AP with helpers which don't support it." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="ae94aa0fffa6dbc32fd7e7bbbf4e76410f0e3151" url="http://downloads.nixda.ch/Spotty-4.8.4.zip" version="4.8.4">
+    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.4: ignore any Spotify volume change within the first 20s; don't use fallback AP with helpers which don't support it." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="4a1ea1a12d1be0ea3d9001c9f860fa2c3bab3f17" url="http://downloads.nixda.ch/Spotty-4.8.5.zip" version="4.8.5">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
