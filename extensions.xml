@@ -704,8 +704,12 @@
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
     <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="be5e2694893debc15948ca19b1291770454dd7b5" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.0/lms-dynamicplaylists-4.1.0.zip" version="4.1.0">
-      <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. If you're upgrading from version 3, please READ THE UPGRADE FAQ on the GitHub page before installing version 4.</desc>
+      <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
+    </plugin>
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="681ad041d94c3c615b523bab1ac34129ddef99ef" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/0.6.2/lms-dynamicplaylistcreator-0.6.2.zip" version="0.6.2">
+      <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
+      <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
     <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="8f818ef591a4cf057c62accfe2b74c2aa65f9a6a" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.3.1/lms-ratingslight-2.3.1.zip" version="2.3.1">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
