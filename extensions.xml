@@ -703,7 +703,7 @@
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="be5e2694893debc15948ca19b1291770454dd7b5" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.0/lms-dynamicplaylists-4.1.0.zip" version="4.1.0">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="b8bc6401f858ce092888ef03b449366318f9be0f" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.1/lms-dynamicplaylists-4.1.1.zip" version="4.1.1">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
