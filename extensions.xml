@@ -263,9 +263,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="44fa942ac72cbccef464d678079ec4aa9eecd43d" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.7.zip" version="0.0.7">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="784a6db9734e187a5193796d616f75af3b25f47b" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.8.zip" version="0.0.8">
       <changes lang="EN">
-				- Updated station list
+				- Updated station list - including Absolute Radio Kevin
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
@@ -661,8 +661,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="b78bb6a37f35d5fe97188f3d14e6af50bd6cb82f" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_28_1.zip" version="2.28.1">
-      <changes lang="EN">NEW 2.28.1 New  &quot;Listen Live&quot; menu available from preferences that lists live stations only. Bugfixes.</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="60ca0d78860777aaef37eb31592177eaf133644a" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_28_3.zip" version="2.28.3">
+      <changes lang="EN">NEW 2.28.3 Fix for Browse Categories. 2.28.1 &quot;Listen Live&quot; menu available from preferences that lists live stations only. Bugfixes.</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
