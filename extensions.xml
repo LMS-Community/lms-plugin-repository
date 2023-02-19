@@ -656,9 +656,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="37e44fd8307f78e944e677ff92fa5e24273d20e8" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-28.zip" version="5.11.28">
-      <changes lang="EN">(5.11.28) 	Improved NBA data parsing.  
-											Removed unused perl libraries to eliminate conflicts with other LMS plugins.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="a0d94372b7725c8d9f843ac86530d0214de5c312" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-29.zip" version="5.11.29">
+      <changes lang="EN">(5.11.29) 	Added 52 Week Price Range for Stocks  
+											Added 12 Hour time format for Sunrise, Sunset, Moonrise, and Moonset</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
