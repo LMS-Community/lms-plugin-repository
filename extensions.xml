@@ -736,7 +736,7 @@
       <title lang="EN">Material Skin</title>
     </plugin>
     <plugin name="InguzEQ" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit.
-	  " creator="Jonathan Fox" maxTarget="*" minTarget="7.3.0" sha="76d741fe84b58cd9f4dd4ecbf632534d0b3abd00" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
+	  " creator="Jonathan Fox" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
       <desc lang="EN">DSP for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
     </plugin>
