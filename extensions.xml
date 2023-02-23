@@ -263,9 +263,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="784a6db9734e187a5193796d616f75af3b25f47b" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.8.zip" version="0.0.8">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="36407fbd26f27a12dd5998ffbeb1676bb433121e" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.9.zip" version="0.0.9">
       <changes lang="EN">
-				- Updated station list - including Absolute Radio Kevin
+				- Updated station list - including Greatest Hits 70s, 80s and 90s
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
