@@ -697,7 +697,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="66364fb7664d2c59d485bc00b6b99494fe714b0b" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.3/lms-alternativeplaycount-1.2.3.zip" version="1.2.3">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="b547e9a804ef8c2496af903854464be02a9fcda2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.4/lms-alternativeplaycount-1.2.4.zip" version="1.2.4">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
@@ -709,7 +709,11 @@
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="4f7bcf32b742e1f1cf7c24e235eb6d10343872fa" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.2/lms-dynamicplaylists-4.1.2.zip" version="4.1.2">
+    <plugin name="DarkDefaultSkin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="447ad17e04ddc890e70a89fa2cb55d1fad0419e2" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/0.1.8/lms-darkdefaultskin-0.1.8.zip" version="0.1.8">
+      <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
+      <title lang="EN">Dark Default Skin</title>
+    </plugin>
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="3133626542814663a37b7ffb936ea67268d07dfa" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.3/lms-dynamicplaylists-4.1.3.zip" version="4.1.3">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
