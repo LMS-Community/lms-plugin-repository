@@ -608,11 +608,11 @@
       <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
       <title lang="EN">Live365 V1.*</title>
     </plugin>
-    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="9e7548f970c9b0ba202bbd75190462cbed3cd9bf" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.zip" version="0.23">
+    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="79d03f1b559316190efef8e418b669d5156403a8" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.1.zip" version="0.23.1">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="bc92ea48306bb140439f02f76af4a90ed1b95382" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.15.0.zip" version="0.15.0">
+    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="1adbeaf172cc77c7e839e5c4ef3eca906a409d7d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.16.2.zip" version="0.16.2">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
