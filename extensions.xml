@@ -1005,7 +1005,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.8.0: Add option to sort favorites alphabetically. v2.8.2: Add option to sort by artist and album (thanks SamY!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="794368a130654b3bbcf9478b307859efa30c8807" url="http://www.herger.net/_data/Qobuz-2.8.2.zip" version="2.8.2">
+    <plugin name="Qobuz" changes="v2.9.0: More sorting options, optionally show year with album (thanks SamY!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="5a51ba0a045a0604c2cf278a96570b1de969ae91" url="http://www.herger.net/_data/Qobuz-2.9.0.zip" version="2.9.0">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
