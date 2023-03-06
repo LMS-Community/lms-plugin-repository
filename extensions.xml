@@ -270,37 +270,29 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8360c2a539b72e5f777408b00993e905597b22b5" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.33.zip" version="0.0.33">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="27430268102663f0001fb9c22778e5c582e734b8" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.34.zip" version="0.0.34">
       <changes lang="EN">
-				- Modify Radio X (CH) - artist, title, duration and CoverSearch (includes flac) - their API has been fixed so now using which means you get duration
-				- Add RNE (ES) - programme title, subtitle (presenter), description, duration and icon - they have protected their primary streams but these alternatives seem to work
-				- Add Cadena SER (ES) - programme title, subtitle (presenter), duration and icon
-				- start to add Grupo COPE (ES) - Cadena 100, RockFM, MegaStarFM, COPE - artist, title and CoverSearch - programme title, description, duration and icon (COPE poses some problems) 
-				- Add WOMR/WFMR Cape Cod (US) - artist, title, album, label and CoverSearch plus programme title and subtitle
-				- Add esRadio (ES) - programme title, subtitle (presenter), duration and icon
-				- Add CN'O (FR) - artist, title and CoverSearch
-				- Add La Supersonica (MX) - artist, title and CoverSearch - includes flac stream that LMS struggles with
-				- Add Zappa Stream - artist, title, duration, album (often bootlegs) and CoverSearch (likely not right for bootlegs)
-				- Add OpenSky Radio (FR) - artist, title and cover plus CoverSearch - includes flac stream that LMS struggles with
-				- Add LapFox Radio - artist, title, album, duration and cover plus CoverSearch - includes flac
-				- Add Radio Club 80 and Radio Club 80 Dance - artist, title and CoverSearch - includes 1 flac
-				- Update Cesky rozhlas - thanks again to mipa87
-				- Disable usage of Live365 song start and end times (as an experiment for now)
-				- Add Wyoming Public Media - programme title, description and duration. Artist, title, cover augmented by CoverSearch - 4 stations (no song info on Jazz station for now)
-				- Add Radio Calico - artist, title and Coversearch - includes flac
-				- Add WHRO Public Media Norfolk, VA - 5 stations - some are programme name only and some do not always provide song info. altradio (artist, title and CoverSearch), WHRO Classical - programme name, artist, title, album, WFOS (Time Machine Radio) - programme name, artist, title and CoverSearch
-				- Fix issue from earlier beta for cover art not appearing on KlassikRadio and no song info on Smooth Jazz
-				- Change field divider from / to | when optionally appending to album name - also remove requirement for their to be an album name when appending
-				- Add station name as optional item to append to album name (will probably add programme name as option at some point)
-				- Add Punkrockers Radio (DE) - artist, title with CoverSearch plus progrmme name - includes flac but LMS does not like it
-				- Add Le Son Parisien (FR) - artist, title with CoverSearch - includes flac but LMS does not like it
-				- Add Antena Zadar (HR) - artist, title with CoverSearch - includes flac
-				- Add Open Broadcast Radio (CH) - artist, title, album, year, label, duration and coverart - programme title, subtitle, image and duration
-				- Add kanalK (CH) - artist, title and CoverSearch - programme title
-				- Add RADIO15.ch (CH) - artist, title and CoverSearch
-				- Add LoRa (CH) - artist, title and CoverSearch - programme title
-				- Add NRK (NO) - artist, title, duration, cover plus CoverSearch - programme title, duration and cover. 11 stations plus 14 regional variations
-				- Add Radio Hayama (jp) - artist, title, cover plus CoverSearch
+				- Enable optional indexing by first letter in top level station list
+				- Add Jazz.FM 91 (ca) - pre-existing artist, title augmented by CoverSearch - 4 stations including 24x7 Oscar Peterson
+				- Add Radio Metro / The Beta / Radio Rox (no) - artist, title and CoverSearch - they have problems with live song info on Rox at the moment but they are working on it
+				- Add Flex FM (de) - artist, title, label, year and coverart (plus CoverSearch) - FM station plus around 30 webradio stations
+				- Start adding SWR (de) - artist, title, duration and cover - programme title, subtitle, description, cover - 7 stations (only 1 of the SWR4 regional ones)
+				- Remove leading space when added extended information to album if there is no real album name
+				- Add Jazzy (hu) - artist, title, duration (sometimes), cover - on Live station also programme title, synopsis, duration and icon - 4 stations
+				- Add WUVT - Virginia Tech, VA - existing artist and title augmented with CoverSearch and DJ/programme name
+				- Add I Like Radio (se) - existing artist and title augmented with duration and cover art plus CoverSearch - 26 stations
+				- Add The Cat 107.9fm (uk) - existing artist and title augmented with CoverSearch plus programme name for &quot;The Cat&quot; - 3 stations but 1 is part-time for sport
+				- KGLT changed their metadata source
+				- dr.dk changed all of the HLS URLs and added a significant requirement to some of their API calls
+				- Add RadioGPT - AI Demo from futurimedia.com
+				- Add WWOZ - New Orleans, LA - artist, title and CoverSearch plus programme name and duration - 2 stations (note - song info not always present on primary - and no info at all for HD2)
+				- Add Radio Liechtenstein - artist, title and CoverSearch
+				- Add Boss Radio 66 - existing artist and title augemented by CoverSearch
+				- Modify Dripfeed channels so that only ICY embedded metadata is used (artist - title) because their web API is currently not updating
+				- Add Agora (at) - programme title, subtitle and duration (programmes in German and Slovenian)
+				- Add The Current - Saint Paul, MN, artist, title, album, duration, cover art augmented with CoverSearch, programme title, subtitle and duration - 7 stations (1 FM plus 6 Web/HD2)
+				- Add Satin Jazz - existing artist and title - adds coverart plus CoverSearch and duration
+				- Add Colombia Crossover - existing artist and title - adds CoverSearch - 10 stations
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
