@@ -632,7 +632,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="34648c0d7e144d6873b80eb12397834e68eaaf9c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.2.2.zip" version="1.2.2">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="344ec256842635b341cd606a60e6f02ce8c61a05" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.2.3.zip" version="1.2.3">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
@@ -658,36 +658,6 @@
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
-    </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="60ca0d78860777aaef37eb31592177eaf133644a" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_28_3.zip" version="2.28.3">
-      <changes lang="EN">NEW 2.28.3 Fix for Browse Categories. 2.28.1 &quot;Listen Live&quot; menu available from preferences that lists live stations only. Bugfixes.</changes>
-      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
-      <title lang="EN">BBC Sounds</title>
-    </plugin>
-    <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
-      <changes lang="EN">NEW 2.2.3 Increased Catch-Up days available to 7</changes>
-      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
-      <title lang="EN">Virgin Radio (UK)</title>
-    </plugin>
-    <plugin name="TimesRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="516865816beb88c262b4780a4865ba3fd35bd226" url="http://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_2_2.zip" version="2.2.2">
-      <changes lang="EN">NEW 2.2.2 API access fix</changes>
-      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
-      <title lang="EN">Times Radio</title>
-    </plugin>
-    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="546866c748e4f6f3bd866139a91b1330add8c408" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_2_1.zip" version="2.2.1">
-      <changes lang="EN">NEW 2.2.1 Fix for when unpausing from live when programme not available</changes>
-      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
-      <title lang="EN">Global Player (UK)</title>
-    </plugin>
-    <plugin name="UKRadioPlayer" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" maxTarget="*" minTarget="7.9" sha="d1669b2ace066f917055792d8c95c5e711eeb1b9" url="http://plugins.expectingtofly.co.uk/UKRadioPlayerPlugin_1_1_1.zip" version="1.1.1">
-      <changes lang="EN">NEW 1.1.1 Minor bugfix (correct stream tech info)</changes>
-      <desc lang="EN">UK Radio Player - UK Radio in one place.</desc>
-      <title lang="EN">UK Radio Player</title>
-    </plugin>
-    <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
-      <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
-      <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
-      <title lang="EN">Radio Favourites</title>
     </plugin>
     <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="b547e9a804ef8c2496af903854464be02a9fcda2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.4/lms-alternativeplaycount-1.2.4.zip" version="1.2.4">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
