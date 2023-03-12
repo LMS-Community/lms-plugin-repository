@@ -997,7 +997,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.9.0: More sorting options, optionally show year with album (thanks SamY!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="5a51ba0a045a0604c2cf278a96570b1de969ae91" url="http://www.herger.net/_data/Qobuz-2.9.0.zip" version="2.9.0">
+    <plugin name="Qobuz" changes="v2.9.0: More sorting options, optionally show year with album (thanks SamY!). v2.9.1: fix diplay of albums added to local favorites." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="52fdd6bcfa98e89b773bc45b6ed6183f310a539a" url="http://www.herger.net/_data/Qobuz-2.9.1.zip" version="2.9.1">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
@@ -1009,7 +1009,7 @@
       <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
       <title lang="EN">Smart Mix</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.7: fix library update polling - ignore playlists when playlist importing is disabled." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="2ec4e3939aace84328d5ddfe0a45ec7e1d32a480" url="http://downloads.nixda.ch/Spotty-4.8.7.zip" version="4.8.7">
+    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.8: fix diplay of albums added to local favorites." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="47b822688247a007564d8f14e785d99564df9d57" url="http://downloads.nixda.ch/Spotty-4.8.8.zip" version="4.8.8">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
