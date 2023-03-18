@@ -648,9 +648,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="a0d94372b7725c8d9f843ac86530d0214de5c312" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-29.zip" version="5.11.29">
-      <changes lang="EN">(5.11.29) 	Added 52 Week Price Range for Stocks  
-											Added 12 Hour time format for Sunrise, Sunset, Moonrise, and Moonset</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="b6fecd824a8137c32ff251114f465fe921c58766" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-30.zip" version="5.11.30">
+      <changes lang="EN">(5.11.30) 	Updated Macro Variable listings. See LMS-&gt;Settings-&gt;Player-&gt;SDT.
+											Removed leading zeros from weather.com forecast period dates.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -709,7 +709,7 @@
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="35392709aecda382e829af1d525dacaa2aea3e27" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.1.0/lms-dynamicplaylistcreator-1.1.0.zip" version="1.1.0">
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="5e085d8d5247a965d3c1bd1fcb0707438e14dda1" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.1.1/lms-dynamicplaylistcreator-1.1.1.zip" version="1.1.1">
       <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
