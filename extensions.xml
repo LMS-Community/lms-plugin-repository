@@ -674,9 +674,9 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="546866c748e4f6f3bd866139a91b1330add8c408" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_2_1.zip" version="2.2.1">
-      <changes lang="EN">NEW 2.2.1 Fix for when unpausing from live when programme not available</changes>
-      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
+    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="709513f2daac92634e446a8a0e3ab121de68f52e" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_2_2.zip" version="2.2.2">
+      <changes lang="EN">NEW 2.2.2 Improved streaming error handling/retries</changes>
+      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
     <plugin name="UKRadioPlayer" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" maxTarget="*" minTarget="7.9" sha="d1669b2ace066f917055792d8c95c5e711eeb1b9" url="http://plugins.expectingtofly.co.uk/UKRadioPlayerPlugin_1_1_1.zip" version="1.1.1">
