@@ -756,7 +756,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="98f1838788d333f5290f27c6ef135f3175b10151" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_2.zip" version="4.7.2">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="12c70b9aae3ddcd11becc56fc2598144efb1e0ed" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_3.zip" version="4.7.3">
       <desc lang="EN">This plugin will control a network ready Denon/Marantz AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the device on/off, adjust and synchronize the volume, and optionally set the audio modes.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
