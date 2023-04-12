@@ -28,6 +28,10 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
+    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
+      <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
+      <title lang="EN">Font Replacer</title>
+    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -752,7 +756,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="12c70b9aae3ddcd11becc56fc2598144efb1e0ed" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_3.zip" version="4.7.3">
+    <plugin name="DenonAvpControl" creator="Chris Couper" email="chris.c.couper@gmail.com" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="ea8d2882319452f6d3056e816640b2877b93b79d" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_4.zip" version="4.7.4">
       <desc lang="EN">This plugin will control a network ready Denon/Marantz AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the device on/off, adjust and synchronize the volume, and optionally set the audio modes.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
