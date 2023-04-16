@@ -270,29 +270,28 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="27430268102663f0001fb9c22778e5c582e734b8" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.34.zip" version="0.0.34">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="0b16edfc20b04e0a2e9534fcfa2ca812489308b4" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.35.zip" version="0.0.35">
       <changes lang="EN">
-				- Enable optional indexing by first letter in top level station list
-				- Add Jazz.FM 91 (ca) - pre-existing artist, title augmented by CoverSearch - 4 stations including 24x7 Oscar Peterson
-				- Add Radio Metro / The Beta / Radio Rox (no) - artist, title and CoverSearch - they have problems with live song info on Rox at the moment but they are working on it
-				- Add Flex FM (de) - artist, title, label, year and coverart (plus CoverSearch) - FM station plus around 30 webradio stations
-				- Start adding SWR (de) - artist, title, duration and cover - programme title, subtitle, description, cover - 7 stations (only 1 of the SWR4 regional ones)
-				- Remove leading space when added extended information to album if there is no real album name
-				- Add Jazzy (hu) - artist, title, duration (sometimes), cover - on Live station also programme title, synopsis, duration and icon - 4 stations
-				- Add WUVT - Virginia Tech, VA - existing artist and title augmented with CoverSearch and DJ/programme name
-				- Add I Like Radio (se) - existing artist and title augmented with duration and cover art plus CoverSearch - 26 stations
-				- Add The Cat 107.9fm (uk) - existing artist and title augmented with CoverSearch plus programme name for &quot;The Cat&quot; - 3 stations but 1 is part-time for sport
-				- KGLT changed their metadata source
-				- dr.dk changed all of the HLS URLs and added a significant requirement to some of their API calls
-				- Add RadioGPT - AI Demo from futurimedia.com
-				- Add WWOZ - New Orleans, LA - artist, title and CoverSearch plus programme name and duration - 2 stations (note - song info not always present on primary - and no info at all for HD2)
-				- Add Radio Liechtenstein - artist, title and CoverSearch
-				- Add Boss Radio 66 - existing artist and title augemented by CoverSearch
-				- Modify Dripfeed channels so that only ICY embedded metadata is used (artist - title) because their web API is currently not updating
-				- Add Agora (at) - programme title, subtitle and duration (programmes in German and Slovenian)
-				- Add The Current - Saint Paul, MN, artist, title, album, duration, cover art augmented with CoverSearch, programme title, subtitle and duration - 7 stations (1 FM plus 6 Web/HD2)
-				- Add Satin Jazz - existing artist and title - adds coverart plus CoverSearch and duration
-				- Add Colombia Crossover - existing artist and title - adds CoverSearch - 10 stations
+				- Add Pure Lounge Radio - artist, title and CoverSearch - includes flac
+				- Add WBUR - Boston, MA - programme title, description, duration and icon
+				- Start adding auto-registration of iHeartRadio US stations that are using Revma stream platform
+				- Add Radio Hauraki (nz) - artist, title and coverart augmented by CoverSearch - programme title
+				- Add KFJC - Los Altos Hills, CA - artist and title already present - add CoverSearch, programme title and subtitle (presenter)
+				- Add Sanctuary Radio - artist, title and CoverSearch - 3 stations - includes flac but LMS has problems with it
+				- Add Foreever La Radio - artist, title and CoverSearch - 2 stations but same music - includes flac ... and lengthy advert breaks
+				- Jazz24.org own cover art provider is not working properly so only use CoverSearch
+				- Add KRTU - San Antonia, TX - artist, title and CoverSearch ... although they do not always have track information available
+				- SuperStereo 8 ceased broadcasting
+				- Add La Mer (fr) - existing artist and title augmented with CoverSearch - includes flac
+				- Add Jazz de Ville - existing artist and title augmented with CoverSearch - 4 stations
+				- Autoregister stations (for this session) from laut.fm that you play - artist, title already present - adds duration and CoverSearch plus programme name and description.
+				  Prepopulated with some laut.fm stations to highlight the support - Vinyl Maxi FM, Vinyl Xl, Play4Today and New Wave
+				- Add rbb (de) station - 6 stations (not done Cosmos) - Eins has good data but the others do not have much
+				- Add WYPR - Baltimore, MD - Programme name, synopsis, duration, - song artist, title, duration, year, label - 3 stations
+				- Add GDS.fm -  artist, title, duration, album, label, year, coverart (plus CoverSearch) - programme title, icon, description and duration
+				- Add Ultimix - artist, title and CoverSearch
+				- Add WWUH - West Hartford, CT - artist, title, album - programme title and subtitle (announcer) - their data is not always accurate
+				- Add WPKN - Bridgeport, CT - artist, title, album, label and CoverSearch - programme name
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
