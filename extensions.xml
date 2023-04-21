@@ -234,68 +234,6 @@
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="5a3493b97e0dddfe3484f3f49f55f9590755ca3f" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.3.zip" version="0.4.3">
-      <changes lang="EN">
-				- Reinstate song information on France Musique (note - will not work for all tracks)
-				- Add FIP Metal and FIP Hip-Hop
-			</changes>
-      <changes lang="FR">
-				- Rétablir les informations de la chanson sur France Musique (note - ne fonctionnera pas pour toutes les pistes)
-				- Ajouter FIP Metal et FIP Hip-Hop
-			</changes>
-      <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
-      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
-      <title lang="EN">Radio France</title>
-    </plugin>
-    <plugin name="ABCAustralia" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="34eaecb8aec8018784d24226929433aea9521fa6" url="http://www.dabdig.co.uk/slimserver-rep/ABCAustralia-0.1.3.zip" version="0.1.3">
-      <desc lang="EN">ABC Australia programme and track information</desc>
-      <title lang="EN">ABC Australia</title>
-    </plugin>
-    <plugin name="CBCCanadaFrancais" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
-      <changes lang="EN">
-				- Match the HLS stream URLs
-			</changes>
-      <changes lang="FR">
-				- Faire correspondre les URL de flux HLS
-			</changes>
-      <desc lang="EN">CBC Radio-Canada Français programme and track information
-			</desc>
-      <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
-      <title lang="EN">CBC Radio-Canada Français</title>
-    </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="5b82ce85a6e3eead9cfa545423b66513d01d78bb" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.10.zip" version="0.0.10">
-      <changes lang="EN">
-				- Updated station list - including Hits Radio Cumbria
-			</changes>
-      <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
-      <title lang="EN">Planet Radio</title>
-    </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="0b16edfc20b04e0a2e9534fcfa2ca812489308b4" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.35.zip" version="0.0.35">
-      <changes lang="EN">
-				- Add Pure Lounge Radio - artist, title and CoverSearch - includes flac
-				- Add WBUR - Boston, MA - programme title, description, duration and icon
-				- Start adding auto-registration of iHeartRadio US stations that are using Revma stream platform
-				- Add Radio Hauraki (nz) - artist, title and coverart augmented by CoverSearch - programme title
-				- Add KFJC - Los Altos Hills, CA - artist and title already present - add CoverSearch, programme title and subtitle (presenter)
-				- Add Sanctuary Radio - artist, title and CoverSearch - 3 stations - includes flac but LMS has problems with it
-				- Add Foreever La Radio - artist, title and CoverSearch - 2 stations but same music - includes flac ... and lengthy advert breaks
-				- Jazz24.org own cover art provider is not working properly so only use CoverSearch
-				- Add KRTU - San Antonia, TX - artist, title and CoverSearch ... although they do not always have track information available
-				- SuperStereo 8 ceased broadcasting
-				- Add La Mer (fr) - existing artist and title augmented with CoverSearch - includes flac
-				- Add Jazz de Ville - existing artist and title augmented with CoverSearch - 4 stations
-				- Autoregister stations (for this session) from laut.fm that you play - artist, title already present - adds duration and CoverSearch plus programme name and description.
-				  Prepopulated with some laut.fm stations to highlight the support - Vinyl Maxi FM, Vinyl Xl, Play4Today and New Wave
-				- Add rbb (de) station - 6 stations (not done Cosmos) - Eins has good data but the others do not have much
-				- Add WYPR - Baltimore, MD - Programme name, synopsis, duration, - song artist, title, duration, year, label - 3 stations
-				- Add GDS.fm -  artist, title, duration, album, label, year, coverart (plus CoverSearch) - programme title, icon, description and duration
-				- Add Ultimix - artist, title and CoverSearch
-				- Add WWUH - West Hartford, CT - artist, title, album - programme title and subtitle (announcer) - their data is not always accurate
-				- Add WPKN - Bridgeport, CT - artist, title, album, label and CoverSearch - programme name
-			</changes>
-      <desc lang="EN">Programme and track information for a variety of radio stations</desc>
-      <title lang="EN">Radio Now Playing</title>
-    </plugin>
     <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
