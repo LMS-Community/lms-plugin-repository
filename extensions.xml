@@ -987,7 +987,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.10.0: Improved handling of classical works. v2.11.0: Improved Favorites handling. (Thanks darrell &amp; SamY!)" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="8b37287770b2c8e3abc32ea70be8cb3cbed0c4f6" url="http://www.herger.net/_data/Qobuz-2.11.0.zip" version="2.11.0">
+    <plugin name="Qobuz" changes="v2.10.0: Improved handling of classical works. v2.11.0: Improved Favorites handling. (Thanks darrell &amp; SamY!). v2.11.1: Tweaks to the Classical work grouping." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="5b5d612342cb805f206049c23f56ae22c2b822f2" url="http://www.herger.net/_data/Qobuz-2.11.1.zip" version="2.11.1">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
