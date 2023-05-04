@@ -8,6 +8,10 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
+    <applet name="FontReplacer" email="mcstayinskool@yahoo.com" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
+      <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
+      <title lang="EN">Font Replacer</title>
+    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -286,6 +290,10 @@
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
+    </plugin>
+    <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
+      <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
+      <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
     <plugin name="RadioFeedsSBS" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
       <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
