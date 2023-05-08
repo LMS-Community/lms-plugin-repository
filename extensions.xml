@@ -626,7 +626,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="4b6c30a50119b05d9dad5c415825b3dba5062228" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.3.zip" version="2.2.3">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="b13ba769c3ba4d2618fe3693f90d03add4052eb9" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.4.zip" version="2.2.4">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -701,10 +701,6 @@
     <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="9996a734ed3f0bbdc345dda0887428048d2d53ee" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.3.6/lms-ratingslight-2.3.6.zip" version="2.3.6">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
-    </plugin>
-    <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="30b857f018a946151d56c1edde9d4e83aaac9d83" url="https://github.com/AF-1/lms-customtagimporter/releases/download/0.4.0/lms-customtagimporter-0.4.0.zip" version="0.4.0">
-      <desc lang="EN">Custom Tag Importer scans track information from custom tags in your music files (incl. rating tags). More information on the GitHub page.</desc>
-      <title lang="EN">CustomTagImporter</title>
     </plugin>
     <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="ea9af3257a937e1914479d22c06ee426214cdb74" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/1.0.2/lms-sqlitevirtuallibraries-1.0.2.zip" version="1.0.2">
       <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL. More information on the GitHub page.</desc>
