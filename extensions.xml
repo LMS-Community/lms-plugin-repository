@@ -682,7 +682,7 @@
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
-    <plugin name="CustomStartStopTimes" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="7c59319654c4216e5a22d5500bfa3380688e4305" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.0.1/lms-customstartstoptimes-1.0.1.zip" version="1.0.1">
+    <plugin name="CustomStartStopTimes" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="8908995a5efca51b5f18b7a58db0069f18d8aa12" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.0.2/lms-customstartstoptimes-1.0.2.zip" version="1.0.2">
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
