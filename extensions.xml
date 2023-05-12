@@ -622,7 +622,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="2093a90a6dabc611ee1d79352697ea24e2cbf8cf" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.2.12.zip" version="1.2.12">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="d0a68e7194bf7f669cc9e0281a643828f59ab655" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
@@ -630,7 +630,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="4e8f807056056b7bd9c4eeca7b9b60762d28eb55" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.2.1.zip" version="1.2.1">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="9d58f22a84ec8e12571609bc6bd9ca59fd78a4d5" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
