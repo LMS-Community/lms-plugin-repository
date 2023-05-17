@@ -674,11 +674,11 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="b547e9a804ef8c2496af903854464be02a9fcda2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.4/lms-alternativeplaycount-1.2.4.zip" version="1.2.4">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="d2230a9f2c2e03635c42a84e8969e88d426bd44d" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.5/lms-alternativeplaycount-1.2.5.zip" version="1.2.5">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="6d1cd11521438c3acce08bee86381cd21b92a55a" url="https://github.com/AF-1/lms-customskip/releases/download/3.3.1/lms-customskip-3.3.1.zip" version="3.3.1">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip#faq" maxTarget="*" minTarget="7.9" sha="5cf628af3fc7c6714900c47246e5cfdaeda9e1cb" url="https://github.com/AF-1/lms-customskip/releases/download/3.3.2/lms-customskip-3.3.2.zip" version="3.3.2">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -690,19 +690,19 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="e2a69af282a0f525931f5d9917407a3976ab8222" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.4/lms-dynamicplaylists-4.1.4.zip" version="4.1.4">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists#faq" maxTarget="*" minTarget="7.9" sha="c5fca486b3485884a5682e2720882fd6b0e0687b" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.5/lms-dynamicplaylists-4.1.5.zip" version="4.1.5">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="d7930cf28f38ea4619ff57d8acf1f7b07e1f7c09" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.2.5/lms-dynamicplaylistcreator-1.2.5.zip" version="1.2.5">
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="91b80f20875e67ce4fa3188d86dcfee921cb12e9" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.2.6/lms-dynamicplaylistcreator-1.2.6.zip" version="1.2.6">
       <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="9996a734ed3f0bbdc345dda0887428048d2d53ee" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.3.6/lms-ratingslight-2.3.6.zip" version="2.3.6">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="8fabc1cc26b5ec612be68685da628b1190f84c1d" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.3.7/lms-ratingslight-2.3.7.zip" version="2.3.7">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="ea9af3257a937e1914479d22c06ee426214cdb74" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/1.0.2/lms-sqlitevirtuallibraries-1.0.2.zip" version="1.0.2">
+    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="8fb3f5b5c8d1ffd9c45ae03a6cc5b987334c056b" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/1.0.3/lms-sqlitevirtuallibraries-1.0.3.zip" version="1.0.3">
       <desc lang="EN">Create your own virtual libraries using files with an SQLite statement and create browse menus for any LMS virtual library, incl. those not created with SQLVL. More information on the GitHub page.</desc>
       <title lang="EN">SQLite Virtual Libraries</title>
     </plugin>
