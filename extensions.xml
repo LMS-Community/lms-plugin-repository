@@ -666,7 +666,7 @@
     </plugin>
     <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="6aa2c3ff031f2f51c55c4dfa1f893c2d80276302" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_3_0.zip" version="2.3.0">
       <changes lang="EN">NEW 2.3.0 Fix live radio streaming and stability issues</changes>
-      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catch-up, Live Playlists, Podcasts.</desc>
+      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
     <plugin name="RadioFavourites" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="http://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
