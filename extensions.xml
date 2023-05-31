@@ -686,6 +686,10 @@
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
+    <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="056d6016ebc8681294594be0c02791eb34c0e126" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.2/lms-customtagimporter-1.0.2.zip" version="1.0.2">
+      <desc lang="EN">Custom Tag Importer scans track information from custom tags in your music files (incl. rating tags). More information on the GitHub page.</desc>
+      <title lang="EN">CustomTagImporter</title>
+    </plugin>
     <plugin name="DarkDefaultSkin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="cfc141e86b2db97d286471f803b1ec858262ac85" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/0.1.9/lms-darkdefaultskin-0.1.9.zip" version="0.1.9">
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
