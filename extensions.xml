@@ -967,8 +967,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="dba651e9553ad4e6313ab37073e2fbe832a64f2a" url="https://www.herger.net/_data/MusicArtistInfo-1.8.2.zip" version="1.8.2">
-      <changes lang="EN">v1.8.0: Add support for Reviews and Biographies in a local folder. v1.8.1: improve local file filtering. v1.8.2: strip &quot;|...&quot; from album names.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="ed45c94a95baae15c87adcfe231ab833832350a9" url="https://www.herger.net/_data/MusicArtistInfo-1.9.0.zip" version="1.9.0">
+      <changes lang="EN">v1.9.0: Show additional embedded artwork in Local Images menu; improve Genre replacement handling; updated NL translation (thanks blackfiction!)</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -998,10 +998,6 @@
     <plugin name="RadioParadise" changes="v3.0.0 - support for user profiles, song rating etc. v3.1.0 - provide LastMix support based on RP favorites. v3.1.1 - new French translation; improved streaming reliability (thanks philippe44!)" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.6" sha="9480fe742725b5d7bed9bc09fe878c3103d0c6bb" url="https://www.herger.net/_data/RadioParadise-3.1.1.zip" version="3.1.1">
       <desc lang="EN">Radio Paradise in lossless FLAC streaming! Give access to Radio Paradise's HD stream pictures. Get better quality artwork (requires LMS 7.8 or more recent).</desc>
       <title lang="EN">Radio Paradise</title>
-    </plugin>
-    <plugin name="SmartMix" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/SmartMix/" maxTarget="*" minTarget="7.6" sha="f8ec3eedfde0f6d81fa007fac8c223639bb8854b" url="https://www.herger.net/_data/SmartMix-1.9.999.zip" version="1.9.999">
-      <desc lang="EN">DO NOT INSTALL - uninstall it instead if installed.</desc>
-      <title lang="EN">Smart Mix</title>
     </plugin>
     <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.8: fix diplay of albums added to local favorites." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="47b822688247a007564d8f14e785d99564df9d57" url="https://downloads.nixda.ch/Spotty-4.8.8.zip" version="4.8.8">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
