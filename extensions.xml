@@ -960,7 +960,7 @@
     </plugin>
     <plugin name="ImageProxy" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="8.3" sha="43a945ec63badfe8b66fca9bb788588079fa200e" url="https://www.herger.net/_data/ImageProxy-1.0.0.zip" version="1.0.0">
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS.</desc>
-      <title lang="EN">External Image Proxy configuration helper</title>
+      <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
     <plugin name="LastMix" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
       <changes lang="EN">v2.3.0 - Improve tag mixing by getting more tracks to pick from, and balanced shuffle.</changes>
