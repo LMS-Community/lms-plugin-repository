@@ -962,7 +962,7 @@
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
-    <plugin name="ImageProxy" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="8.3" sha="0a807cc485f6f3651e1e20ed2b10a214024acc24" url="https://www.herger.net/_data/ImageProxy-1.1.0.zip" version="1.1.0">
+    <plugin name="ImageProxy" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
       <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
