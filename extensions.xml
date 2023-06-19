@@ -707,7 +707,7 @@
       <title lang="EN">Ratings Light</title>
     </plugin>
     <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="6f2c405726857ffdfce7e9de7d09b0e9b7250505" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.0.2/lms-virtuallibrarycreator-1.0.2.zip" version="1.0.2">
-      <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.</desc>
+      <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
     <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="c5a280c6afafdb6c95698e8e0394a42de1941c64" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.3/lms-visualstatistics-1.5.3.zip" version="1.5.3">
@@ -972,8 +972,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="ed45c94a95baae15c87adcfe231ab833832350a9" url="https://www.herger.net/_data/MusicArtistInfo-1.9.0.zip" version="1.9.0">
-      <changes lang="EN">v1.9.0: Show additional embedded artwork in Local Images menu; improve Genre replacement handling; updated NL translation (thanks blackfiction!)</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="7f2bcf15130b5fda00d4b098b44f6f194dbc04ea" url="https://www.herger.net/_data/MusicArtistInfo-1.9.1.zip" version="1.9.1">
+      <changes lang="EN">v1.9.0: Show additional embedded artwork in Local Images menu; improve Genre replacement handling; updated NL translation (thanks blackfiction!). v1.9.1: fix secondary embedded image extraction.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
