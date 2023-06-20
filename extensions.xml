@@ -706,6 +706,10 @@
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
+    <plugin name="SQLiteVirtualLibraries" creator="AF" link="https://github.com/AF-1/lms-sqlitevirtuallibraries" maxTarget="*" minTarget="7.9" sha="79578718fc5143b3458ae1018cb233579ded93c2" url="https://github.com/AF-1/lms-sqlitevirtuallibraries/releases/download/1.0.5/lms-sqlitevirtuallibraries-1.0.5.zip" version="1.0.5">
+      <desc lang="EN">This plugin is deprecated. Please try the Virtual Library Creator plugin instead.</desc>
+      <title lang="EN">SQLite Virtual Libraries</title>
+    </plugin>
     <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="6f2c405726857ffdfce7e9de7d09b0e9b7250505" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.0.2/lms-virtuallibrarycreator-1.0.2.zip" version="1.0.2">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
