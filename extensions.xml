@@ -720,7 +720,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="19a836e7923401cac15adba60794bbbe3be38716" url="https://github.com/CDrummond/lms-material/releases/download/3.3.3/lms-material-3.3.3.zip" version="3.3.3">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="1c566850d601f01997afe75ca023a32bdfbeaf8d" url="https://github.com/CDrummond/lms-material/releases/download/3.3.4/lms-material-3.3.4.zip" version="3.3.4">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -976,7 +976,7 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="7f2bcf15130b5fda00d4b098b44f6f194dbc04ea" url="https://www.herger.net/_data/MusicArtistInfo-1.9.1.zip" version="1.9.1">
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="cd2eb1d93e1ee019be03396baf494a80a47d261a" url="https://www.herger.net/_data/MusicArtistInfo-1.9.2.zip" version="1.9.2">
       <changes lang="EN">v1.9.0: Show additional embedded artwork in Local Images menu; improve Genre replacement handling; updated NL translation (thanks blackfiction!). v1.9.1: fix secondary embedded image extraction.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
@@ -1000,7 +1000,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.14.0: support for Replay Gain (thanks again SamY &amp; Darell!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="8fdd63fa8f6eec491fd98ae18988675445bbece6" url="https://www.herger.net/_data/Qobuz-2.14.0.zip" version="2.14.0">
+    <plugin name="Qobuz" changes="v2.15.0: improved diss/works handling (thanks Darell!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="2e746bccda7b2f53b5c907440f371df95e8f68e1" url="https://www.herger.net/_data/Qobuz-2.15.0.zip" version="2.15.0">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
