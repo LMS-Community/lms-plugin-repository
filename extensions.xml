@@ -1000,7 +1000,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.15.1: improved diss/works handling (thanks Darell!)." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="62ba9e27862fec86e0a52fb3f72c899b43ec0823" url="https://www.herger.net/_data/Qobuz-2.15.1.zip" version="2.15.1">
+    <plugin name="Qobuz" changes="v2.15.1: improved diss/works handling (thanks Darell!). v2.15.2: Dutch translation update; fix sample rate display." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="05d6e4a3984eb4b8d1554515f172d841b06d8388" url="https://www.herger.net/_data/Qobuz-2.15.2.zip" version="2.15.2">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
