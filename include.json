@@ -20,7 +20,7 @@
 		"http://www.radiofeeds.co.uk/mypicks/repo.xml",
 		"https://www.spicefly.com/media/scube4x/install.xml",
 		"https://www.stagessound.de/bluegaspode.xml",
-		"https://benklaas.com/fontreplacer/repo.xml",
+		"https://raw.githubusercontent.com/bklaas/fontreplacer/master/repo.xml",
 		"https://jasonholtzapple.github.io/slimdevices/repo.xml",
 		"https://erland.github.io/squeezebox-downloads/repositories/latest.xml",
 		"https://foobarjo.org/LMS/foobarjo-stable.xml",
