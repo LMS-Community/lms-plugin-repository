@@ -670,11 +670,11 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="896b772ee66c83b9293527493c8c49258ec2d3ea" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.7/lms-alternativeplaycount-1.2.7.zip" version="1.2.7">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="652798df34970c4a6fd3c3c49c2d8015b95a13a2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.8/lms-alternativeplaycount-1.2.8.zip" version="1.2.8">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="51ec9cac11d14105b3681fc545b79e9220f7702e" url="https://github.com/AF-1/lms-customskip/releases/download/3.3.4/lms-customskip-3.3.4.zip" version="3.3.4">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="c33e2372c6ba361819bcbba7280eaf3c7fefb4b5" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.0/lms-customskip-3.4.0.zip" version="3.4.0">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -682,7 +682,7 @@
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="2cb41452002a29d6ee88c22152105d0901f2ab86" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.4/lms-customtagimporter-1.0.4.zip" version="1.0.4">
+    <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="ecd30f44e75ad72dcc5a4f78a1b752f26748d609" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.5/lms-customtagimporter-1.0.5.zip" version="1.0.5">
       <desc lang="EN">Custom Tag Importer scans track information from custom tags in your music files (incl. rating tags). More information on the GitHub page.</desc>
       <title lang="EN">CustomTagImporter</title>
     </plugin>
