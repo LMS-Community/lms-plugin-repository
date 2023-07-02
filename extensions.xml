@@ -649,8 +649,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="35ae345c32e906bd3545c232201ef8a767adebbd" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_29_1.zip" version="2.29.1">
-      <changes lang="EN">NEW 2.29.1 Maintenance fix 2.29.0 Added &quot;Play all&quot; for curated playlists (Back to Back Sounds)</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="c0327b86a1c98846c81c79ddfbf1d8052b363745" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_30_0.zip" version="2.30.0">
+      <changes lang="EN">NEW 2.30.0 Don't Stop The Music plugin integration</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -710,7 +710,7 @@
       <desc lang="EN">This plugin is deprecated. Please try the Virtual Library Creator plugin instead.</desc>
       <title lang="EN">SQLite Virtual Libraries</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="381e587536405ca947b191de1b6955eaccadf65c" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.0.4/lms-virtuallibrarycreator-1.0.4.zip" version="1.0.4">
+    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="f661ccbc797a9119b6c65c0a665330af3b33a3c0" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.0/lms-virtuallibrarycreator-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
