@@ -279,28 +279,27 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="0b16edfc20b04e0a2e9534fcfa2ca812489308b4" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.35.zip" version="0.0.35">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="b222015d8e586a3307ee12e7fcfe81fb5f202d89" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.36.zip" version="0.0.36">
       <changes lang="EN">
-				- Add Pure Lounge Radio - artist, title and CoverSearch - includes flac
-				- Add WBUR - Boston, MA - programme title, description, duration and icon
-				- Start adding auto-registration of iHeartRadio US stations that are using Revma stream platform
-				- Add Radio Hauraki (nz) - artist, title and coverart augmented by CoverSearch - programme title
-				- Add KFJC - Los Altos Hills, CA - artist and title already present - add CoverSearch, programme title and subtitle (presenter)
-				- Add Sanctuary Radio - artist, title and CoverSearch - 3 stations - includes flac but LMS has problems with it
-				- Add Foreever La Radio - artist, title and CoverSearch - 2 stations but same music - includes flac ... and lengthy advert breaks
-				- Jazz24.org own cover art provider is not working properly so only use CoverSearch
-				- Add KRTU - San Antonia, TX - artist, title and CoverSearch ... although they do not always have track information available
-				- SuperStereo 8 ceased broadcasting
-				- Add La Mer (fr) - existing artist and title augmented with CoverSearch - includes flac
-				- Add Jazz de Ville - existing artist and title augmented with CoverSearch - 4 stations
-				- Autoregister stations (for this session) from laut.fm that you play - artist, title already present - adds duration and CoverSearch plus programme name and description.
-				  Prepopulated with some laut.fm stations to highlight the support - Vinyl Maxi FM, Vinyl Xl, Play4Today and New Wave
-				- Add rbb (de) station - 6 stations (not done Cosmos) - Eins has good data but the others do not have much
-				- Add WYPR - Baltimore, MD - Programme name, synopsis, duration, - song artist, title, duration, year, label - 3 stations
-				- Add GDS.fm -  artist, title, duration, album, label, year, coverart (plus CoverSearch) - programme title, icon, description and duration
-				- Add Ultimix - artist, title and CoverSearch
-				- Add WWUH - West Hartford, CT - artist, title, album - programme title and subtitle (announcer) - their data is not always accurate
-				- Add WPKN - Bridgeport, CT - artist, title, album, label and CoverSearch - programme name
+				- Add WKCR - New York, NY - artist, title, album, label and CoverSearch - programme name
+				- Add New England Public Media - Springfield, MA - artist, title, duration and CoverSearch - programme title, duration - 3 stations
+				- Allow brands (station groups) to be sorted in order of last modification of their underlying configuration data
+				- Add KVSC - St. Cloud, MN - artist, title, CoverSearch - programme title, subtitle - track updates seem to stop during their overnight period
+				- Add WAQY Rock102 - Springfield, MA - artist, title, CoverSearch (geolocked)
+				- Add 2MBS Fine Music Sydney (au) - artist, title, duration, cover - programme title, duration, synopsis, icon
+				- Add St Louis Classic Rock station SLCR IV
+				- Update RagioCast (DE) station list - in particular for 90s90s, barba radio, Radio BOB!, R.SA
+				- Add Sovereign Communications, MI (USA) - 7 stations. Song info (artist, title, CoverSearch) on music stations. Nothing on talk stations.
+				- - Stations: 1230 WSOO, Rock101 WSUE, 99.5 Yes FM WYSS, Country 105 WMKD, 1400 News Talk WKNW, WNBY 1450, Oldies 93
+				- Add SomaFM - 39 stations - artist, title, album (sometimes) and CoverSearch - no need for mysqueezebox.com SomaFM app
+				- Provide station description/tagline, where available, in the station list - for example SomaFM and Live365 have them
+				- Add ByteFM (Hamburg, DE) - artist, title, CoverSearch, programme title (and programme subtitle but it will probably not appear)
+				- - not the premium streams
+				- Add KDHX St Louis, MO - artist, title, CoverSearch and programme title
+				- LoRa (ch) is currently not showing track information (problem at their end) but this prevented the programme name from showing ... so fixed for programme name
+				- Add American Roots - CoverSearch for pre-existing artist and title
+				- Add Hard Rock Hell Radio - CoverSearch for pre-existing artist and title
+				- Add Octave Radio - artist, title, album, duration, year, cover (plus CoverSearch) - plus, if present, programme name, description, duration
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
