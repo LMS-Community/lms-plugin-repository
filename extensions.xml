@@ -243,14 +243,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="5a3493b97e0dddfe3484f3f49f55f9590755ca3f" url="https://paulwebster.github.io/RadioFrance/RadioFrance-0.4.3.zip" version="0.4.3">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8dd8ba4424c6a844b9834841a5723e22d7dc3c60" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.4.zip" version="0.4.4">
       <changes lang="EN">
-				- Reinstate song information on France Musique (note - will not work for all tracks)
-				- Add FIP Metal and FIP Hip-Hop
+				- Reinstate song and programme information on all stations where available
 			</changes>
       <changes lang="FR">
-				- Rétablir les informations de la chanson sur France Musique (note - ne fonctionnera pas pour toutes les pistes)
-				- Ajouter FIP Metal et FIP Hip-Hop
+				- Rétablir les informations sur les chansons et les programmes sur toutes les stations lorsqu'elles sont disponibles
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
