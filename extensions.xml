@@ -936,11 +936,6 @@
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
     </plugin>
-    <plugin name="IRBlaster" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
-      <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
-      <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
-      <title lang="EN">IR Blaster</title>
-    </plugin>
     <plugin name="Bandcamp" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="e7ab6449750dccaa2021ed35fdb49dfe35f867bc" url="https://www.herger.net/_data/Bandcamp-1.9.2.zip" version="1.9.2">
       <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.1: fix URL parsing. v1.9.2: prevent redirect loop.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
