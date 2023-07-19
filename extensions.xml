@@ -685,11 +685,11 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="652798df34970c4a6fd3c3c49c2d8015b95a13a2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.8/lms-alternativeplaycount-1.2.8.zip" version="1.2.8">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="7db5bee6b424c530a6220ce92fb7b86b55933703" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.2.9/lms-alternativeplaycount-1.2.9.zip" version="1.2.9">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="c33e2372c6ba361819bcbba7280eaf3c7fefb4b5" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.0/lms-customskip-3.4.0.zip" version="3.4.0">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="a15a22357fc2a8294726c886ef6bacf569067d64" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.1/lms-customskip-3.4.1.zip" version="3.4.1">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -713,7 +713,7 @@
       <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="ddb4e41d329d334b6d3f1ba33ad90665c6921d7d" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.3.9/lms-ratingslight-2.3.9.zip" version="2.3.9">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="02820c40d0cf219133baf9e403a01a6ac79c3789" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.0/lms-ratingslight-2.4.0.zip" version="2.4.0">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -721,7 +721,7 @@
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="c3052fd7293a9ea7166c48a0104091727c156851" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.4/lms-visualstatistics-1.5.4.zip" version="1.5.4">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="bdb661fb975842071dd4d42fb99b05fc4188b1a2" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.5/lms-visualstatistics-1.5.5.zip" version="1.5.5">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
