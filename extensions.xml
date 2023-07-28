@@ -697,7 +697,7 @@
       <desc lang="EN">This plugin allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, i.e. skip to the next one, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="c24c8185ab1f0c81cba992cb2e4d37bdd5efecd2" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.7/lms-customtagimporter-1.0.7.zip" version="1.0.7">
+    <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="f129c269691ceb24eade185cc85742bd57628151" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.8/lms-customtagimporter-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Custom Tag Importer scans track information from custom tags in your music files (incl. rating tags). More information on the GitHub page.</desc>
       <title lang="EN">CustomTagImporter</title>
     </plugin>
