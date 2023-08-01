@@ -685,11 +685,11 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="6ac399958db3c1c70b5a3ca479f8e5b060cfb412" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.3.0/lms-alternativeplaycount-1.3.0.zip" version="1.3.0">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="7652ba49fc43768d0d7c1b8d1c85d76d6b64597c" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.3.1/lms-alternativeplaycount-1.3.1.zip" version="1.3.1">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="08a950683c54046b2ae9a5a0ffda45bdcb34f026" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.2/lms-customskip-3.4.2.zip" version="3.4.2">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="93085acf1c6501ffb0a72c9b7f76ce30bca611fa" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.3/lms-customskip-3.4.3.zip" version="3.4.3">
       <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -705,7 +705,7 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="cf59a33214c5fb4897fff91cc142a2b7a5ef7263" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.8/lms-dynamicplaylists-4.1.8.zip" version="4.1.8">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="2ab81b1a85c865ba8701912a42cc4a8fb5978f35" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.1.9/lms-dynamicplaylists-4.1.9.zip" version="4.1.9">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
