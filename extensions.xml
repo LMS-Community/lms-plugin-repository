@@ -262,9 +262,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="94299ede08d4d411e1c954d1ca920ff84ea53d81" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.11.zip" version="0.0.11">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="46e7147895d5d948809f8db38184e8f1ce0b2c67" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.12.zip" version="0.0.12">
       <changes lang="EN">
-				- Updated station list - including Eurosong Radio (Eurovision Song Contest related)
+				- Updated station list - including Ken Bruce Secret 60s
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
