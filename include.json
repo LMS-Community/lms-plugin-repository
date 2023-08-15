@@ -27,7 +27,7 @@
 		"https://foobarjo.org/LMS/foobarjo-stable.xml",
 		"https://master.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml?viasf=1",
 		"https://master.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml?viasf=1",
-		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-cmake/plugin/repo.xml",
+		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-4.3/plugin/repo.xml",
 		"https://master.dl.sourceforge.net/project/sdt-weather-com/repo.xml?viasf=1",
 		"https://raw.githubusercontent.com/aesculus/denonavpcontrol/master/repo.xml",
 		"https://raw.githubusercontent.com/AF-1/sobras/main/repos/lms/public.xml",
