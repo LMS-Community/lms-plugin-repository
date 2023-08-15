@@ -637,7 +637,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="47964b8ee1afb16bab15b72fc79b6fe4ff49f475" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.7.zip" version="2.2.7">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="3fab95fbe83d899afcad99d01b1a6593118f3027" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.8.zip" version="2.2.8">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -772,7 +772,7 @@
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
-    <plugin name="SqueezeESP32" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="357d715715e7bf10f83ad15bc3fd794fc45e9e5a" url="http://github.com/sle118/squeezelite-esp32/raw/master-cmake/plugin/SqueezeESP32.zip" version="0.353">
+    <plugin name="SqueezeESP32" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="de9704f948ba5d09dba1e30c710e07a5896b9222" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.360">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
