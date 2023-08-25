@@ -629,11 +629,11 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="93bad5100d0d0fc9e77f4b421f99a569e5bcac1c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.161.zip" version="0.161">
+    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="0bbc6b34666d812670c13e6ec75c7d7d86f2db92" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.162.zip" version="0.162">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="d6e34dbc2ff38fd4ab83b059becc0990c77eea8b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.1.zip" version="1.3.1">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="cdce4cb981fef12619f822d744d020ef4d423b29" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.2.zip" version="1.3.2">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
