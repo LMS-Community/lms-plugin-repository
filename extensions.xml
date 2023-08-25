@@ -633,7 +633,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="cdce4cb981fef12619f822d744d020ef4d423b29" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.2.zip" version="1.3.2">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="cb4cc269130610f31d507451517e4194172cec29" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.3.zip" version="1.3.3">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
