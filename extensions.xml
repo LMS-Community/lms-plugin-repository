@@ -705,7 +705,7 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="018bbe840d21fecbcdd5099a477a68096d6a3eb6" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.0/lms-dynamicplaylists-4.2.0.zip" version="4.2.0">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="4a9f3505a673d6c2a0a5d07fe7b8d36f86115982" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.1/lms-dynamicplaylists-4.2.1.zip" version="4.2.1">
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
