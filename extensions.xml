@@ -988,7 +988,7 @@
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
-    <plugin name="MusicInfoSCR" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="35c0bc97ab3373435615e6edaccdec19bc9961bc" url="https://www.herger.net/_data/MusicInfoSCR-4.4.12.zip" version="4.4.12">
+    <plugin name="MusicInfoSCR" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
       <desc lang="EN">The Music Information Screen plugin allows customization of the player's Now Playing screen and other elements.</desc>
       <desc lang="DE">Das Musik-Informations Plugin erlaubt es, den Bildschirm weitgehend selber zu gestalten.</desc>
       <title lang="EN">Music Information Screen</title>
