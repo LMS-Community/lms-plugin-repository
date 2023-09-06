@@ -660,8 +660,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="be05443585acf53be0b5d96ea94d6a390bbf97e7" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_30_1.zip" version="2.30.1">
-      <changes lang="EN">NEW 2.30.1 minor bugfixes</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="cea4184288b1b0dc9c64044046bdf8dd81a79e5a" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_31_0.zip" version="2.31.0">
+      <changes lang="EN">NEW 2.31.0 Programme and Track display and config improvements</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -1007,7 +1007,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.15.1: improved diss/works handling (thanks Darell!). v2.15.2: Dutch translation update; fix sample rate display." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="424b1f759c08a83109818ea15379e809f1332e4a" url="https://www.herger.net/_data/Qobuz-2.15.3.zip" version="2.15.3">
+    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="e8f800f813b3488483589a822a56873d0d1cfe79" url="https://www.herger.net/_data/Qobuz-2.16.0.zip" version="2.16.0">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
