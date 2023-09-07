@@ -231,12 +231,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="3510456d5704b7571770e0a97916f0dc014343df" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.6.zip" version="0.4.6">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="ae8d00517651151de1896e535981d3f237aeaa80" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.7.zip" version="0.4.7">
       <changes lang="EN">
-				- Data format change prevented old programmes from France Inter being shown
+				- Restore missing song info for FIP Pop
 			</changes>
       <changes lang="FR">
-				- Le changement de format des données a empêché la diffusion des anciens programmes de France Inter
+				- Restaurer les informations de chanson manquantes pour FIP Pop
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
@@ -265,27 +265,47 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="b222015d8e586a3307ee12e7fcfe81fb5f202d89" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.36.zip" version="0.0.36">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="eb318288b2e2fbd745bedceaa948abec9c097093" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.37.zip" version="0.0.37">
       <changes lang="EN">
-				- Add WKCR - New York, NY - artist, title, album, label and CoverSearch - programme name
-				- Add New England Public Media - Springfield, MA - artist, title, duration and CoverSearch - programme title, duration - 3 stations
-				- Allow brands (station groups) to be sorted in order of last modification of their underlying configuration data
-				- Add KVSC - St. Cloud, MN - artist, title, CoverSearch - programme title, subtitle - track updates seem to stop during their overnight period
-				- Add WAQY Rock102 - Springfield, MA - artist, title, CoverSearch (geolocked)
-				- Add 2MBS Fine Music Sydney (au) - artist, title, duration, cover - programme title, duration, synopsis, icon
-				- Add St Louis Classic Rock station SLCR IV
-				- Update RagioCast (DE) station list - in particular for 90s90s, barba radio, Radio BOB!, R.SA
-				- Add Sovereign Communications, MI (USA) - 7 stations. Song info (artist, title, CoverSearch) on music stations. Nothing on talk stations.
-				- - Stations: 1230 WSOO, Rock101 WSUE, 99.5 Yes FM WYSS, Country 105 WMKD, 1400 News Talk WKNW, WNBY 1450, Oldies 93
-				- Add SomaFM - 39 stations - artist, title, album (sometimes) and CoverSearch - no need for mysqueezebox.com SomaFM app
-				- Provide station description/tagline, where available, in the station list - for example SomaFM and Live365 have them
-				- Add ByteFM (Hamburg, DE) - artist, title, CoverSearch, programme title (and programme subtitle but it will probably not appear)
-				- - not the premium streams
-				- Add KDHX St Louis, MO - artist, title, CoverSearch and programme title
-				- LoRa (ch) is currently not showing track information (problem at their end) but this prevented the programme name from showing ... so fixed for programme name
-				- Add American Roots - CoverSearch for pre-existing artist and title
-				- Add Hard Rock Hell Radio - CoverSearch for pre-existing artist and title
-				- Add Octave Radio - artist, title, album, duration, year, cover (plus CoverSearch) - plus, if present, programme name, description, duration
+				- Add Pinguin Radio - artist and title already provided, this adds CoverSearch - 12 genre-based stations
+				- Add KSQM FM - Sequim, WA - artist and title already provided, this adds CoverSearch plus programme name (when available)
+				- Add Gaslight Square Radio - artist and title already provided, this adds CoverSearch - 15 genre-based stations
+				- Add canalBREIZH - artist, title, duration, album, year, coverart plus programme name and duration
+				- Add Doo Wop Radio - artist and title already provided, this adds CoverSearch and, sometimes, year
+				- Add walmradio.com - artist, title, CoverSearch - 5 stations (OTR occasionally old US radio shows)
+				- Add Big Cactus Country (fr) - artist, title already present) adds cover (plus CoverSearch) and album titles often appear on Blues Rock - 3 stations
+				- Add FBi (au) - programme title, presenter (often), short description, icon. They have told me that they hope to have song info available soon.
+				- Add That Station (WCLY 95.7 FM - 101.5 HD2) - Raleigh, NC - artist, title and CoverSearch
+				- Add KCSM - San Mateo, CA - artist, title, cover (plus CoverSearch)
+				- Add NewWaveRadio.org - already present artist, title (edited) augmented with CoverSearch
+				- Add C9 Radio (fr) - arist and title already present - add cover art from station and possibly programme name
+				- Add stations hosted by broadcastradio.com - approx 150 - including RibbleFM from earlier beta. Still work to do as some do not play.
+				- Add rainwave.cc - 5 stations - artist, title, album, duration and cover art
+				- Add Ambient Sleeping Pill - arist and title already present - add CoverSearch - 3 stations
+				- Add Epic Prog Radio - artist, title, duration and cover art
+				- Add TOP FM (hu) - existing artist and title augmented with CoverSearch - 5 stations. 2 tend to not have song details (or even songs) so presented as programme titles
+				- Add KDFC - San Francisco, CA - artist, title, album, label, duration, CoverSearch, programme title and duration. Primary station plus 7 internet-only genre stations. This is a classical music station so artist/composer/conductor can confuse things leading to mismatched cover art
+				- Add Forum (fr) - artist, title and CoverSearch - west France regional broadcast station plus 9 internet-only genre stations
+				- Add KABL Radio - San Francisco, CA - existing artist and title with album now split from the title plus CoverSearch
+				- Additional station for BDPST - Roxy
+				- Update The Cheese (nz) - their data format has slightly changed when only programme name available (needs LMS 8.4)
+				- Update NRJ (fr) station group (NRJ, Nostalgie, Rire et Chanson, CherieFM) - they have changed station logos and also now require .json at end of metadata fetch request
+				- Update Europa Radio Jazz because they changed the URL for their metadata and also broken cover art - plus added HLS stream
+				- Update Absolut Radio (de) - add stations AI and Christmas Time - new logo for Classic Oldies
+				- Update RFM (fr) - add RFM chagrins d'amour and add MP3 stream for RFM Live - thanks trackxman
+				- Update Klassik Radio - change metadata collection to use embedded ICY data because HTTP feed is slow to update from source
+				- Update RTBF (be) - updated source of metadata (tracktiming still not very accurate though) - Add RTBF Ukraine - Classic 21 80's split into 2 stations (Hits and New Wave)
+				- Update RTL (be) - updated source of metadata - Add Classic Rock, Contact Lounge becomes Contact La Playlist de Tonton - Contact Mix becomes Contact DJ's
+				- Update joe.be - revised logo - also Joe Christmas disappeared, perhaps to return nearer to the date
+				- Old logos gone - ATOS (American Theater Organ Society), BR1 (Bayern 1), Cesky rozhlas, WYPR (better source), WJCU, KRTU, some from Bayerischer Rundfunk, The Mix Radio, laut.fm
+				- SuperStereo 24bit/Chile - FLAC stream URL changes (only 3 work with LMS)
+				- Colombia Crossover - logos not displaying reliably so store locally
+				- Radio Club 80 (cl) - Add &quot;Oldis&quot; station - new web site, so grab logo from there
+				- Ultimix - web site gone (along with logo) but info from elsewhere still working
+				- Made a change to the way that programme info is handled from some sources which could result in song details disappearing much too early - so check that the ones you use are still working
+				- Fix problem with broadcaster index list when empty station list (for example unpopulated SomaFM) included
+				- Fix shortcutting clicks for stations with only one eligible stream				
+				- Remove La Mer (fr) - web site gone away so presumably station has closed down
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
