@@ -729,7 +729,7 @@
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="078a39a663e65f715d58f0845e2a6db0864982f5" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.3.8/lms-dynamicplaylistcreator-1.3.8.zip" version="1.3.8">
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="297938ad76607427fe3f5dac35a337126a1f1486" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.3.9/lms-dynamicplaylistcreator-1.3.9.zip" version="1.3.9">
       <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -737,7 +737,7 @@
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="e4ba29d2f2d3623693eb76d90ebc29000fe4a2af" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.4/lms-virtuallibrarycreator-1.1.4.zip" version="1.1.4">
+    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="43eb7644b0f68d772d626b9331cd78aa7e0c9e7c" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.5/lms-virtuallibrarycreator-1.1.5.zip" version="1.1.5">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
