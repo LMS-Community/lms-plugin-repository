@@ -669,9 +669,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="b6fecd824a8137c32ff251114f465fe921c58766" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-30.zip" version="5.11.30">
-      <changes lang="EN">(5.11.30) 	Updated Macro Variable listings. See LMS-&gt;Settings-&gt;Player-&gt;SDT.
-											Removed leading zeros from weather.com forecast period dates.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="b6c5f6a0837675dae77356879467819e3a0f8563" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-31.zip" version="5.11.31">
+      <changes lang="EN">(5.11.31) 	Fixed retrieval of Stock data.  Thanks to @Paul Webster and @expectingtofly.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
