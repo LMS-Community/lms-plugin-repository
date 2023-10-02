@@ -728,19 +728,19 @@
       <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="297938ad76607427fe3f5dac35a337126a1f1486" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.3.9/lms-dynamicplaylistcreator-1.3.9.zip" version="1.3.9">
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="d27f48954ee3c7238b645cb447b95862e11feeb3" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.0/lms-dynamicplaylistcreator-1.4.0.zip" version="1.4.0">
       <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="dbae68c3057608908829c94628c5cb398930419c" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.4/lms-ratingslight-2.4.4.zip" version="2.4.4">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="1f1de94559937fb7af811692df7f01c793458317" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.5/lms-ratingslight-2.4.5.zip" version="2.4.5">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="43eb7644b0f68d772d626b9331cd78aa7e0c9e7c" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.5/lms-virtuallibrarycreator-1.1.5.zip" version="1.1.5">
+    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="be32f21f12de6e277545464607f8937adead08a9" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.6/lms-virtuallibrarycreator-1.1.6.zip" version="1.1.6">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="a449758c15717d78f354d74b74ed6ff7bff59d13" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.6/lms-visualstatistics-1.5.6.zip" version="1.5.6">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="6d40d38387fd52a39c099e27a0553ae695a64156" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.7/lms-visualstatistics-1.5.7.zip" version="1.5.7">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
