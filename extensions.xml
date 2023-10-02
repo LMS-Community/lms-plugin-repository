@@ -1026,7 +1026,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password. v2.16.1: fix Sign Out label. v2.16.2: improve album import. v2.16.4: fix stream quality selection. v2.16.5: fix sample rate/depth reporting." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="f4406f68666f17a798d904a46f197eeb21605b89" url="https://www.herger.net/_data/Qobuz-2.16.5.zip" version="2.16.5">
+    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password. v2.16.5: fix sample rate/depth reporting. v2.16.6: fix seeking within track." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="82b88a2a80e21af4dd43ec1df4ae9396f2935570" url="https://www.herger.net/_data/Qobuz-2.16.6.zip" version="2.16.6">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
