@@ -750,9 +750,12 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="InguzEQ" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit.
-	  " creator="Jonathan Fox" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
-      <desc lang="EN">DSP for Squeezebox server based off InguzDSP</desc>
+    <plugin name="SqueezeDSP" changes="Initial version now working on Mac" creator="Jonathan Fox" maxTarget="*" minTarget="7.8.0" sha="57f162d94d40f30d2c044db75ac00a35ba9b9eae" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.07a.zip" version="0.1.07a">
+      <desc lang="EN">DSP for Squeezebox server (Live version 0.1.07a) - provides PEQ and DSP</desc>
+      <title lang="EN">SqueezeDSP</title>
+    </plugin>
+    <plugin name="InguzEQ" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
+      <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
     </plugin>
     <plugin name="DSDPlayer" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="6754c0d5d7f665601db2f12900328954f136c515" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.09/plugin-DSDPlayer-1.09.zip" version="1.09">
