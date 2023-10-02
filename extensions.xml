@@ -732,7 +732,7 @@
       <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="1f1de94559937fb7af811692df7f01c793458317" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.5/lms-ratingslight-2.4.5.zip" version="2.4.5">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="fa339825163a7fcb005b4ad936d3a59145b23c7e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.6/lms-ratingslight-2.4.6.zip" version="2.4.6">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -740,7 +740,7 @@
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="6d40d38387fd52a39c099e27a0553ae695a64156" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.7/lms-visualstatistics-1.5.7.zip" version="1.5.7">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="1b844c5e7d8edbdfbe4e08c8446ec7cabf6517d9" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.8/lms-visualstatistics-1.5.8.zip" version="1.5.8">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
