@@ -750,7 +750,7 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" changes="Initial version now working on Mac" creator="Jonathan Fox" maxTarget="*" minTarget="7.8.0" sha="57f162d94d40f30d2c044db75ac00a35ba9b9eae" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.07a.zip" version="0.1.07a">
+    <plugin name="SqueezeDSP" changes="Initial version now working on Mac" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" maxTarget="*" minTarget="7.8.0" sha="57f162d94d40f30d2c044db75ac00a35ba9b9eae" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.07a.zip" version="0.1.07a">
       <desc lang="EN">DSP for Squeezebox server (Live version 0.1.07a) - provides PEQ and DSP</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
