@@ -243,12 +243,14 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="ae8d00517651151de1896e535981d3f237aeaa80" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.7.zip" version="0.4.7">
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="2f0f0b38c3b990fc7261114c9eba9d7361f4b6d6" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.8.zip" version="0.4.8">
       <changes lang="EN">
-				- Restore missing song info for FIP Pop
+				- Add FIP Sacre francais !
+				- API calls for song info changed again
 			</changes>
       <changes lang="FR">
-				- Restaurer les informations de chanson manquantes pour FIP Pop
+				- Ajouter FIP Sacre francais !
+				- Les appels de l'API pour les informations sur la chanson ont encore été modifiés
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
