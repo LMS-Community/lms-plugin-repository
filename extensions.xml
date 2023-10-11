@@ -1033,7 +1033,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password. v2.16.5: fix sample rate/depth reporting. v2.16.6: fix seeking within track." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="82b88a2a80e21af4dd43ec1df4ae9396f2935570" url="https://www.herger.net/_data/Qobuz-2.16.6.zip" version="2.16.6">
+    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password. v2.16.6: fix seeking within track. v2.16.7: improve handling of disc count and track artists during import to LMS." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="e29cc32397231cb357380ba5f0642f8390052d63" url="https://www.herger.net/_data/Qobuz-2.16.7.zip" version="2.16.7">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
@@ -1041,7 +1041,7 @@
       <desc lang="EN">Radio Paradise in lossless FLAC streaming! Give access to Radio Paradise's HD stream pictures. Get better quality artwork (requires LMS 7.8 or more recent).</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.8.0: New helper binaries to fix an issue with 100% CPU laod. Improved error handling. v4.8.8: fix diplay of albums added to local favorites." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="47b822688247a007564d8f14e785d99564df9d57" url="https://downloads.nixda.ch/Spotty-4.8.8.zip" version="4.8.8">
+    <plugin name="Spotty" changes="v4.9.0: Allow selecting what Home items you want to display." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="b0d8161f9e6c5ea2856f0e819e73c5aae7d9e41a" url="https://downloads.nixda.ch/Spotty-4.9.0.zip" version="4.9.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
