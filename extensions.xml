@@ -651,7 +651,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="0724609da2181d93a6f17917489b767bef2eaff3" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-2.3.1.zip" version="2.3.1">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="19f8a3de73f731fac7124c9c6768797d796d1243" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-2.3.2.zip" version="2.3.2">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -659,15 +659,15 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="e361a6831d3dcd7e6eda8dd02000b7de34ca1341" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.5.zip" version="1.3.5">
+    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="cecb7372febf0a16da0ce43b38082cddb65c879a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.3.6.zip" version="1.3.6">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="89e0a62fc4af0aba5a7036f30e54fc870f0fda91" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.9.zip" version="2.2.9">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="a84d1eaae6dc4e9c6f818367c58b8224fe8f7d8b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.10.zip" version="2.2.10">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="409fcd7c708104d01035a24cacfbc8c464e4c0cd" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.3.2.zip" version="1.3.2">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="7cb2a92725521b5b090aa7c542d162e3869510dd" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.3.3.zip" version="1.3.3">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
