@@ -711,11 +711,11 @@
       <title lang="EN">Radio Favourites</title>
     </plugin>
     <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="6ab4d4344d42d8983e7c35f02f9dbfddfb012ff4" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.3.3/lms-alternativeplaycount-1.3.3.zip" version="1.3.3">
-      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups. More information on the GitHub page. Intended as a companion plugin for 'Dynamic Playlists' and 'Visual Statistics'.</desc>
+      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
     <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="93085acf1c6501ffb0a72c9b7f76ce30bca611fa" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.3/lms-customskip-3.4.3.zip" version="3.4.3">
-      <desc lang="EN">This plugin lets you define client-specific filter sets with rules for when tracks should be skipped automatically. More information on the GitHub page.</desc>
+      <desc lang="EN">This plugin lets you set client-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
     <plugin name="CustomStartStopTimes" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="2b2d35f3b8b03a8327c4d8c235b08953911ff585" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.0.3/lms-customstartstoptimes-1.0.3.zip" version="1.0.3">
@@ -724,18 +724,18 @@
     </plugin>
     <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="f129c269691ceb24eade185cc85742bd57628151" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.8/lms-customtagimporter-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Custom Tag Importer scans track information from custom tags in your music files (incl. rating tags). More information on the GitHub page.</desc>
-      <title lang="EN">CustomTagImporter</title>
+      <title lang="EN">Custom Tag Importer</title>
     </plugin>
     <plugin name="DarkDefaultSkin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="cfc141e86b2db97d286471f803b1ec858262ac85" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/0.1.9/lms-darkdefaultskin-0.1.9.zip" version="0.1.9">
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="4a9f3505a673d6c2a0a5d07fe7b8d36f86115982" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.1/lms-dynamicplaylists-4.2.1.zip" version="4.2.1">
-      <desc lang="EN">This plugin lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="d8ca82e1fd5cfbad99da40f805fc0cb89da63d89" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.2/lms-dynamicplaylists-4.2.2.zip" version="4.2.2">
+      <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="d27f48954ee3c7238b645cb447b95862e11feeb3" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.0/lms-dynamicplaylistcreator-1.4.0.zip" version="1.4.0">
-      <desc lang="EN">This plugin lets you create custom dynamic playlists for the Dynamic Playlists plugin (version 4) using templates. More information on the GitHub page.</desc>
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="8d863a2ed8a2bc74c0fb8d3162a4e60c787b0759" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.1/lms-dynamicplaylistcreator-1.4.1.zip" version="1.4.1">
+      <desc lang="EN">Templates make creating custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin very easy. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
     <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="fa339825163a7fcb005b4ad936d3a59145b23c7e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.6/lms-ratingslight-2.4.6.zip" version="2.4.6">
