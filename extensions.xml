@@ -687,7 +687,7 @@
     </plugin>
     <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="52c622a95e9eb4a26f9fad3ba1e3c3ca68e7ef49" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_32_1.zip" version="2.32.1">
       <changes lang="EN">NEW 2.32.0 Apply security to accessing live radio streams;  2.32.1 Improvement to live stream security handling</changes>
-      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
+      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="http://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
@@ -700,8 +700,8 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="6aa2c3ff031f2f51c55c4dfa1f893c2d80276302" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_3_0.zip" version="2.3.0">
-      <changes lang="EN">NEW 2.3.0 Fix live radio streaming and stability issues</changes>
+    <plugin name="GlobalPlayerUK" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="2c67340a825c87f9b2504ee4daa4ab3df4e602a9" url="http://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_4_0.zip" version="2.4.0">
+      <changes lang="EN">NEW 2.4.0 Added support for Radio Favourites Plugin</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
