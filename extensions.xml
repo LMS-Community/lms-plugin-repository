@@ -643,7 +643,7 @@
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="807b9e1c904f3e2897a22e0ae2450241f2770113" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.2.zip" version="0.82.2">
+    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="b7322ecfe158c17b6da4257c5bb9ab1ac8f73f18" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.3.zip" version="0.82.3">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
@@ -675,8 +675,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="4ff0270889f2eaebd2842d1bad9fc53926d1ae70" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-32.zip" version="5.11.32">
-      <changes lang="EN">(5.11.32) 	Updated to not set finance cookie or crumb unless Stock(s) are selected.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="c9d11561217d24b81e6a9864d67d730abe4a684b" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-33.zip" version="5.11.33">
+      <changes lang="EN">(5.11.33) 	Fixed 15-Day Sunrise and Sunset times.
+			Added 15-Day Moonrise, Moonset, and Moon Phase information.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
