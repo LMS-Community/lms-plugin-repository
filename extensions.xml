@@ -686,8 +686,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="52c622a95e9eb4a26f9fad3ba1e3c3ca68e7ef49" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_32_1.zip" version="2.32.1">
-      <changes lang="EN">NEW 2.32.0 Apply security to accessing live radio streams;  2.32.1 Improvement to live stream security handling</changes>
+    <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="58f2f9823aeef0e9502d243d5800152e62d6cc3e" url="http://plugins.expectingtofly.co.uk/BBCSoundsPlugin_2_32_2.zip" version="2.32.2">
+      <changes lang="EN">NEW 2.32.2 Fix for broken initial sign in</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -1036,7 +1036,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password. v2.16.6: fix seeking within track. v2.16.8: improve handling of albums during import to LMS." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="e4a39f4db3dd64811129040371e4ee665bbb9566" url="https://www.herger.net/_data/Qobuz-2.16.8.zip" version="2.16.8">
+    <plugin name="Qobuz" changes="v2.16.0: refactored authentication and OMLI integration. No more storing of the password. v2.16.6: fix seeking within track. v2.16.9: improve handling of albums during import to LMS." creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="a990baef08561d406c96230f8a4397c3fc91f50a" url="https://www.herger.net/_data/Qobuz-2.16.9.zip" version="2.16.9">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
