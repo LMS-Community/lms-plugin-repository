@@ -275,55 +275,51 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="d5c2cb08b2ef74ce0fed592e620d81a9dd528ad3" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.38.zip" version="0.0.38">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="a9c26bbdf7dba984c97baf4d36167ffd2f680ceb" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.39.zip" version="0.0.39">
       <changes lang="EN">
-				- Add 100%NL (nl) - artist, title, duration and CoverSearch - plus programe name and cover for primary station - 5 stations
-				- Add 538 (nl) - artist, title already present - augment with cover art (and CoverSearch) - plus, for primary station only, programme title, duration and cover - 10 stations
-				- Add 80s Mixed - artist and title already present so add CoverSearch
-				- Add Best of Rock FM (de) - artist and title already present so add CoverSearch - 13 stations
-				- Add Canal Sur (es) - experimental because of lack of metadata for some stations - artist, title and Coversearch for Musica and Flamenco. Programme name for Fiesta.
-				- Add classicnl (nl) - artist, title, duration (sometimes) and CoverSearch (but matches are difficult because of how they name the tracks) - 4 stations
-				- Add Douce France - artist and title already present so add CoverSearch
-				- Add Eirewave (UK) - artist title already present, add their coverart - includes flac
-				- Add EKR Digital - artist and title already present - add cover art (and CoverSearch), duration. Sometimes they have a programme with no song info. 5 stations.
-				- Add Guldkanalen (se) - artist and title already present (although some were title - artist) so add CoverSearch - 9 stations
-				- Add Hitz Radio 80 - artist, title, album and CoverSearch
-				- Add House of Literal - artist and title already present so add CoverSearch
-				- Add ISKC Rocks - artist, title and CoverSearch - 9 stations
-				- Add Kink (nl) - artist, title already present - augment with cover art (and CoverSearch) - plus, for some stationa programme title, duration and cover (although you will probably not see durationa and cover because songs do not have duration) - 3 stations
-				- Add La Urban (es) - artist, title (and CoverSearch but given they play dance/house mixes then unlikely to find any) - supposed to have a FLAC stream but playing 320kMP3 at present
-				- Add Laurel Canyon Radio - artist, title, CoverSearch
-				- Add Life Radio (at) - artist, title and CoverSearch - programme name - 15 stations
-				- Add NPO (nl) - artist, title and programme name already present - augment with duration, cover art (and CoverSearch), programme duration, description, subtitle (presenter) - 9 stations
-				- Add Progulus Radio - artist, title, album, year and cover art
-				- Add PulsRadio (fr) - artist, title and CoverSearch - 9 stations
-				- Add Qmusic (nl) - artist, title, year, cover art (and CoverSearch) - plus, for primary station only, programme title, duration and cover - 8 stations
-				- Add Radio 10 (nl) - artist, title already present - augment with cover art (and CoverSearch) - plus, for primary station only, programme title, duration and cover - 8 stations
-				- Add Radiobilly365.com - artist, title already present, add duration, album (when present) and CoverSearch. If no song info then should show programme title, image and, sometimss, subtitle.
-				- Add Radio Sausalito - artist, title, album and CoverSearch
-				- Add Radio Veronica (nl) - artist, title already present - augment with cover art (and CoverSearch) - plus, for primary station only, programme title, duration and cover - 4 stations
-				- Add Sky Radio (nl) - artist, title already present - augment with cover art (and CoverSearch) - 10 stations
-				- Add Slam! (nl) - artist, title, duration and CoverSearch - plus programe name and cover for primary station - 10 stations
-				- Add Sublime (nl) - artist, title and CoverSearch - track names slow to update - 6 stations
-				- Add Top FM (de) - artist, title, cover - programme title - same group as Hitradio RT1
-				- Add WFMT - Chicago, IL - artist, title (prepended with composer), album - programme title. Classical music station so some comprises on fields. CoverSearch attempted but unlikely to find anything.
-				- Add WHCP Cambridge, MD - artist, title, album, label, CoverSearch - programme title, DJ - GeoLocked
-				- Migrate old ABC Australia plugin into Radio Now Playing - artist, title, album, label, year, duration, cover art - programme title, subtitle and duration - 67 (visible) stations
-				- Add support for an alternative imageproxy so that webp (and other) images can be converted to format supported by SqueezePlay. Resolves issue with some programme icons used by KCRW. Thanks @mherger
-				- Modify Pinguin Radio configuration to avoid treating some of their promo idents as real artists
-				- Hitradio RT1 (de) - they changed their metadata, so adapt to use new structure
-				- Mother Earth Radio - new station &quot;Jazz&quot; and has added https streams
-				- WBUR - Boston, MA - modify URL for programme details metadata API
-				- The Current - Saint Paul, MN - old data source has gone away so now grabbing the json from inside their html - song updates a bit slow
-				- Hard Rock Hell Radio - sometimes have a programme name and no track details
-				- TSF Jazz - found a way to link to their larger artwork
-				- Gaslight Square - mistake in configuration meant if you asked for Gaslight Blues you received Gaslight Europop
-				- Radio Club 80 (cl) - another change of stream URLs
-				- Wyoming Public Media - was configured for wrong timezone. Meant that programmes names were often correct but no song info (except for Wyoming Sounds since it uses a different mechanism and would have shown songs)
-				- Boomradio - try to avoid CoverSearch on station jingles
-				- Increase the maximum length of a song for Classical24 and Organroxx
-				- Hi On Line Radio - addition to stream matching rules to catch slight change
-				- Update some logos - RTL (be), SWR (de)
+				- Add Jammin Vibez Radio - artist, title, duration, cover art - 4 stations some with flac
+				- Add WEMU - Ypsilanti, MI - NPR station with jazz shows - programme title, subtitle (host), description and duration ... and, sometimes, song title, artist, duration, album and CoverSearch
+				- Add Smooth Soul (.net) - artist, title (already available) plus CoverSearch
+				- Add KUVO Denver, CO - for main channel: artist, title, album, label and CoverSearch - programme title - for The Drop: artist, title and CoverSearch - for Local ... currently nothing
+				- Add Radio Vostok (ch) - artist and title already present, augment with CoverSearch
+				- Add Frontstage (gr) - artist and title already present, augment with CoverSearch - 32 stations - 5 main broadcast stations (En Lefko, Hit, RED, Melodia, Kidsradio) and each with 5 or 6 Internet only substations.
+				- Add Power (tr) - artist, title, duration and cover art (with CoverSearch if none from broadcaster) - 19 stations
+				- Add Acik Radyo (tr) - Programme name, description, duration and icon
+				- Add Joy FM (tr) - artist and title already present, augment with CoverSearch
+				- Add Rai (it) - programme title, description, duration and icon (no song info) - 14 stations
+				- Add Radio TRC (it) - artist and title already present, augment with CoverSearch
+				- Add Coast 101,1 (ca) - artist, title and CoverSearch - programme title and icon - uses HTML parsing which could easily break if web site changes
+				- Add Ouest-France Groupe (fr) - artist, title and CoverSearch - 3 broadcast stations (Clazz, Hit West, Oceane) and 4 web-only (not done all of the regional varients since it is a pain and only changes adverts)
+				- Add ChillFM (ro) - artist, title and CoverSearch
+				- Add SBS (au) - artist, title, cover and duration - programme title, description, duration and icon - 7 stations
+				- Add Smooth (au) - artist and title already present, augment with CoverSearch - 8 stations - some hires streams give 403-Forbidden ... might be geoblock - track info only for MP3 stream for now
+				- Add KTBG The Bridge - Kansas City, MO - artist, title and CoverSearch - programme title, description and icon
+				- Add Futura.FM (it) - artist, title, year and CoverSearch
+				- Remove Radio 2.0 (it) - station closed and replaced by Futura.FM (it)
+				- Update Nostalgie from nrj group in France because ... &quot;NOSTALGIE ALLEZ LA FRANCE&quot; has disappeared (Rugby World Cup exit) - also spotted that they have put a real space character in logo URL so replacing that with %20
+				- For MotherEarthRadio - sometimes does not have cover art so detect this and use CoverSearch to try to find something
+				- For KGLT - had wrong timezone configured. Was out by 1 hour which meant that programmes shown but not tracks
+				- For KCLU - stream URLs changed
+				- For Espace group of stations - Espace Radio, M Radio, La Radio Plus - Là La Radio, La Radio Plus - Alpes Du Sud, Virage - logos changed, some new stations ... streams a bit unreliable
+				- For SF70s - stream URL changed again
+				- For Europe 2 - extra stations and update logos
+				- For Radio SALÜ (de) - 1 extra station. Poor at updating song info across all stations
+				- For Juice - Belfast - 1 extra station and new stream URL for old station
+				- For RNE (es) - update some stream URLs and show programme icon
+				- For Organ Media/Organ Live - metadata API changed
+				- For The Cat 107.9fm - they have reversed their song and artist fields in their data ... so adapt to that
+				- For Supla (fi) - Some new stations  and some retired plus all stream URLs have changed. Also their song data is wrong sometimes ... maybe a weekend problem at their end
+				- For iHeartradio - small reconfiguration to prevent a debug message from appearing
+				- For WALMRadio.com - they changed syntax of their &quot;now playing&quot; info
+				- For nrj group from France - update station list (nrj [138 stations], Cherie FM [38], Nostalgie [57] and Rire et Chanson [18]
+				- For RTBF (be) - ignore some covers from them that are really station logos or relatively lo-res to give CoverSearch the opportunity to find a real one
+				- For WHCP - Cambridge MD - looks like they have a new stream URL but it is geo-locked to USA - also changed logo
+				- For La Urban (es) - added their 2 other stations, Dance and House - do not expect much cover art though
+				- For Eirewave - flac stream gone away at least until end of the year
+				- TimerReturn can result in failed call to $song-&gt;isRemote so try to verify $song presence first
+				- Change how detection of programme name is done when station allowed to have track with no artist (for example YLE Klassinen)
+				- wostreaming domain phased out and is now amperwave - as a result, update Jazz24, KMHD, KNKX, KRTU (although not working for me) and WAQY
+				- A few stations have the potential to show the release year but were misconfigured - WYPR, Ultimix, SpoonRadio, OrganMedia, MerryChristmas, Mediaworks, KCRW, Jazz24, HiOnline, EpicProg, Electrochoc,  DoubleXX, LautFM, FluxFM
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -739,7 +735,7 @@
       <desc lang="EN">Templates make creating custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin very easy. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="fa339825163a7fcb005b4ad936d3a59145b23c7e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.6/lms-ratingslight-2.4.6.zip" version="2.4.6">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="32382c72b54be06851a816ac6ff304bad65936d1" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.7/lms-ratingslight-2.4.7.zip" version="2.4.7">
       <desc lang="EN">A plugin that takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
