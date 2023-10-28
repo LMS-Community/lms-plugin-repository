@@ -75,6 +75,22 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="15613cb9871cfc7b428c679c527e3727b4d6509b" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-squeezeplay-1.0.4.zip" version="1.0.4">
+      <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1  Windows and Linux users: please read the FAQ BEFORE installing.</desc>
+      <title lang="EN">Dark Flat Skin Installer</title>
+    </applet>
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="9390a4d7d03fd619815c26a37ebc4f933b023f70" target="jivelite" url="http://af1.userspace.sosou.eu/lmsrepo/DarkFlatSkinInstaller-pcp-1.0.4.zip" version="1.0.4">
+      <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
+      <title lang="EN">Dark Flat Skin Installer</title>
+    </applet>
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="ae1a198a1a63c8a7ac2345a476d77425816fefa8" target="fab4" url="http://af1.userspace.sosou.eu/lmsrepo/DarkFlatSkinInstaller-fab4-1.0.4.zip" version="1.0.4">
+      <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch (based on WQVGAsmallSkin). More information, screenshots and FAQ on https://github.com/AF-1. See FAQ for information on known SB Touch issue.</desc>
+      <title lang="EN">Dark Flat Skin Installer</title>
+    </applet>
+    <applet name="NPwithRatingsInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="4bc5c8f2ddaf4505005cf578bbf4c7dc96438619" target="baby" url="http://af1.userspace.sosou.eu/lmsrepo/NPwithRatingsInstaller-baby-1.0.2.zip" version="1.0.2">
+      <desc lang="EN">This applet installs a NowPlaying screen with ratings on your SB Radio (for QVGAlandscapeSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
+      <title lang="EN">NowPlaying Screen with Ratings Installer</title>
+    </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
       <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
       <title lang="EN">Display Off</title>
