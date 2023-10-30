@@ -687,9 +687,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="c9d11561217d24b81e6a9864d67d730abe4a684b" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-33.zip" version="5.11.33">
-      <changes lang="EN">(5.11.33) 	Fixed 15-Day Sunrise and Sunset times.
-			Added 15-Day Moonrise, Moonset, and Moon Phase information.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="9fc0a5a1b507a8581c1ee91077a34b5f72434912" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-34.zip" version="5.11.34">
+      <changes lang="EN">(5.11.34) 	Fixed missing Moonrise, Moonset, and Moon Phase information. Added 15-day Moon ICONs.
+											Added Macro Variable for WU Station.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
