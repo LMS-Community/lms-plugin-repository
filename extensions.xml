@@ -353,6 +353,11 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
+    <plugin name="Wefunk" creator="Christian Herzog" email="daduke@daduke.org" link="http://daduke.org/linux/lmswefunk.html" maxTarget="*" minTarget="7.6" sha="150843f6ec3414d9d7fab27c6a2764ef0f4016e6" url="http://daduke.org/dl/lms-wefunk/wefunk-0.3.3.zip" version="0.3.3">
+      <changes lang="EN">fix playback for shows &gt; 999</changes>
+      <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
+      <title lang="EN">Wefunk Radio</title>
+    </plugin>
     <plugin name="SqueezeCloud" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="6eaac79e5a4a90b1c7231962aa42c1874b887697" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.15.zip" version="0.15">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
