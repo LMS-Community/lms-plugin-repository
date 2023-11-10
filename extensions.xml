@@ -723,7 +723,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="6ab4d4344d42d8983e7c35f02f9dbfddfb012ff4" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.3.3/lms-alternativeplaycount-1.3.3.zip" version="1.3.3">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="9a396066c366a9c6419fec5de025f38ad0872f5d" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.0/lms-alternativeplaycount-1.4.0.zip" version="1.4.0">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
@@ -751,7 +751,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="32382c72b54be06851a816ac6ff304bad65936d1" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.7/lms-ratingslight-2.4.7.zip" version="2.4.7">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="11e4fb3b503b29642d5828e328905455b4ca1b39" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.8/lms-ratingslight-2.4.8.zip" version="2.4.8">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
