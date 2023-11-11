@@ -99,18 +99,6 @@
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
     </applet>
-    <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
-      <changes lang="EN">Initial Release.</changes>
-      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
-      <title lang="EN">CustomClock</title>
-    </applet>
-    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
-      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
-                        </changes>
-      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
-                        </desc>
-      <title lang="EN">License Manager</title>
-    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="8.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -723,11 +711,11 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="7.9" sha="9a396066c366a9c6419fec5de025f38ad0872f5d" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.0/lms-alternativeplaycount-1.4.0.zip" version="1.4.0">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="a1521cfd490c58193daf5be3c3731c4a556c335b" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.1/lms-alternativeplaycount-1.4.1.zip" version="1.4.1">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="7.9" sha="93085acf1c6501ffb0a72c9b7f76ce30bca611fa" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.3/lms-customskip-3.4.3.zip" version="3.4.3">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="673c75b1f37dcf96534ce578244fe88751d58cb4" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.4/lms-customskip-3.4.4.zip" version="3.4.4">
       <desc lang="EN">Lets you set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -743,23 +731,23 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="7.9" sha="d8ca82e1fd5cfbad99da40f805fc0cb89da63d89" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.2/lms-dynamicplaylists-4.2.2.zip" version="4.2.2">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="7f155dcdcba1a53e5a1e4260aeee9a63f542c51a" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.3/lms-dynamicplaylists-4.2.3.zip" version="4.2.3">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="7.9" sha="8d863a2ed8a2bc74c0fb8d3162a4e60c787b0759" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.1/lms-dynamicplaylistcreator-1.4.1.zip" version="1.4.1">
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="86c4a8706a03d6bd3ef10f69f4b718fc3747d60b" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.2/lms-dynamicplaylistcreator-1.4.2.zip" version="1.4.2">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="7.9" sha="11e4fb3b503b29642d5828e328905455b4ca1b39" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.8/lms-ratingslight-2.4.8.zip" version="2.4.8">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="20608a52bc8c5d4cfe2e33725f5db8208d79f23d" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.4.9/lms-ratingslight-2.4.9.zip" version="2.4.9">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="7.9" sha="be32f21f12de6e277545464607f8937adead08a9" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.6/lms-virtuallibrarycreator-1.1.6.zip" version="1.1.6">
+    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="60e775bb318431207c0b2c5191a7c0b3a901adaa" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.7/lms-virtuallibrarycreator-1.1.7.zip" version="1.1.7">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="7.9" sha="1b844c5e7d8edbdfbe4e08c8446ec7cabf6517d9" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.8/lms-visualstatistics-1.5.8.zip" version="1.5.8">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="6a863fe8cd77c66d8af693641c38d2f2a09511c0" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.9/lms-visualstatistics-1.5.9.zip" version="1.5.9">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
@@ -818,11 +806,6 @@
     <plugin name="SqueezeESP32" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="335b585e22eddbddacce00f34001d8bf2ee0f54f" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.600">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
-    </plugin>
-    <plugin name="SqueezeScrobbler" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
-      <changes lang="EN" />
-      <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
-      <title lang="EN">SqueezeScrobbler</title>
     </plugin>
     <plugin name="AllQuiet" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/AllQuiet.html" maxTarget="8.*" minTarget="7.0" sha="9e27094ff2ee80e17123681ec6e3ae350afc36d2" url="https://tuxreborn.netlify.app/slim/slim7/AllQuiet/AllQuiet-2.1.14.zip" version="2.1.14">
       <changes lang="EN">2.1.14: allow use in LMS 8.* (untested); 2.1.13: new repository URL; 2.1.12: display message on Radio &amp; Touch screens if paused by AllQuiet; 2.1.10: squelch deprecation warnings in 7.4, support --noweb; 2.1.9: change to new numbering scheme; 7a9: fix pause API call bug</changes>
