@@ -687,9 +687,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="9fc0a5a1b507a8581c1ee91077a34b5f72434912" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-34.zip" version="5.11.34">
-      <changes lang="EN">(5.11.34) 	Fixed missing Moonrise, Moonset, and Moon Phase information. Added 15-day Moon ICONs.
-											Added Macro Variable for WU Station.</changes>
+    <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="203c7af2b136b7068785e87600e5906569d6ce44" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-35.zip" version="5.11.35">
+      <changes lang="EN">(5.11.35) 	Added 15-day Long Weather Forecasts.
+											Fixed NHL scores.  Use MaxTemp when Forecast High is NULL.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -755,7 +755,7 @@
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="60e775bb318431207c0b2c5191a7c0b3a901adaa" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.7/lms-virtuallibrarycreator-1.1.7.zip" version="1.1.7">
+    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="541c20677147876fc83c42ee3ec74107ce6862ab" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.8/lms-virtuallibrarycreator-1.1.8.zip" version="1.1.8">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
