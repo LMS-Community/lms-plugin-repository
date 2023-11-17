@@ -1000,7 +1000,7 @@
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
     </plugin>
-    <plugin name="DRS" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="3ce0965bf795db44931360e6b9eb961b5781de39" url="https://www.herger.net/_data/DRS-1.5.2.zip" version="1.5.2">
+    <plugin name="DRS" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7e1e6dd7f492a43b26a94a1b3ca05296671ca5e" url="https://www.herger.net/_data/DRS-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
       <title lang="EN">Radio DRS Meta Information</title>
