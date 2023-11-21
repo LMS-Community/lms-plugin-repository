@@ -750,7 +750,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="e6083f4e0f5e75b0de0329569907f0e596f8102f" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.0/lms-ratingslight-2.5.0.zip" version="2.5.0">
+    <plugin name="RatingsLight" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="e9fa2c73fca363bfb662a91c3640661b09799db2" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.2/lms-ratingslight-2.5.2.zip" version="2.5.2">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
