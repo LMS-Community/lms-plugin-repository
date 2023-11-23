@@ -284,9 +284,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e2cfea923fab99bc122934e64378aedfaf562c5f" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.13.zip" version="0.0.13">
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4ce78a342e66f1e84f815177393d0221e69b8dd8" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.14.zip" version="0.0.14">
       <changes lang="EN">
-				- Updated station list - including Greatest Hits Grooves
+				- Updated station list - out goes summer and in comes Christmas
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
