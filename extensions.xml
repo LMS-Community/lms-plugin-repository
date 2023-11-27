@@ -663,7 +663,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="19f8a3de73f731fac7124c9c6768797d796d1243" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-2.3.2.zip" version="2.3.2">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="b7c5785720a226d3f4ce0ff340ddd5d2c2e2cae9" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-2.4.0.zip" version="2.4.0">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -675,11 +675,11 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="a84d1eaae6dc4e9c6f818367c58b8224fe8f7d8b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.2.10.zip" version="2.2.10">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="393e03fb856a93ac85cf3bebfdb37bfdadc19510" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.3.0.zip" version="2.3.0">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="a91e91a766b43529c1b844284b68b7cc22f7b324" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.4.0.zip" version="1.4.0">
+    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="89e3f41069ad8d48ccf9bdff7565854897f4101e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.5.1.zip" version="1.5.1">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
