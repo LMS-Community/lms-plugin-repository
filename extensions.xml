@@ -1025,8 +1025,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="5779aa2c0a5f766241451cef3c73aca966daaf58" url="https://www.herger.net/_data/MusicArtistInfo-1.9.8.zip" version="1.9.8">
-      <changes lang="EN">v1.9.8 - always return lyrics stored in the music file if available. Fix some lyrics layouts.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="25484f0e3278aafe47f0a22695ed9622676020cb" url="https://www.herger.net/_data/MusicArtistInfo-1.10.0.zip" version="1.10.0">
+      <changes lang="EN">v1.10.0 - add LRCLib as an additional source for lyrics. Optionally support sync timestamps.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
