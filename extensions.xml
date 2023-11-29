@@ -726,7 +726,7 @@
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="673c75b1f37dcf96534ce578244fe88751d58cb4" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.4/lms-customskip-3.4.4.zip" version="3.4.4">
+    <plugin name="CustomSkip3" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="4444346fc678e0c4d1074bddce1caf318a858389" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.5/lms-customskip-3.4.5.zip" version="3.4.5">
       <desc lang="EN">Lets you set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
@@ -754,7 +754,7 @@
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="541c20677147876fc83c42ee3ec74107ce6862ab" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.1.8/lms-virtuallibrarycreator-1.1.8.zip" version="1.1.8">
+    <plugin name="VirtualLibraryCreator" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="216125a8b43b2451fc450eac8d689252d3f211e9" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.0/lms-virtuallibrarycreator-1.2.0.zip" version="1.2.0">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
