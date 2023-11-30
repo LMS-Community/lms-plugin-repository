@@ -2,7 +2,7 @@
 	"repositories": [
 		"https://adhawkins.github.io/SimpleLibraryViews/repo.xml",
 		"https://daduke.org/dl/lms-wefunk/repo.xml",
-		"https://github.com/bossanova808/repository.squeeze.bossanova808/raw/master/staging/repo.xml",
+		"https://raw.githubusercontent.com/bossanova808/repository.squeeze.bossanova808/main/staging/repo.xml",
 		"https://marcoc1712.it/downloads/repository.xml",
 		"http://mjohnen.bplaced.net/repo/repo.xml",
 		"http://pluginrepository.penguinlovesmusic.de/pluginrepo.xml",
@@ -24,7 +24,6 @@
 		"https://raw.githubusercontent.com/bklaas/fontreplacer/master/repo.xml",
 		"https://jasonholtzapple.github.io/slimdevices/repo.xml",
 		"https://erland.github.io/squeezebox-downloads/repositories/latest.xml",
-		"https://foobarjo.org/LMS/foobarjo-stable.xml",
 		"https://master.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml?viasf=1",
 		"https://master.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml?viasf=1",
 		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/repo.xml",
@@ -62,6 +61,7 @@
 		"http://triodeplugins.herger.net/repo.xml",
 		"https://kdfplugins.googlecode.com/svn/trunk/repo.xml",
 		"https://weathertime.googlecode.com/svn/trunk/repo.xml",
+		"https://foobarjo.org/LMS/foobarjo-stable.xml",
 		"https://ampache-squeezecenter.googlecode.com/svn/tags/repo.xml"
 	],
 	"title": [
