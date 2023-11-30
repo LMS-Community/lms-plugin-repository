@@ -802,6 +802,10 @@
       <desc lang="EN">This plugin will control a network ready Denon/Marantz AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the device on/off, adjust and synchronize the volume, and optionally set the audio modes.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
+    <plugin name="XSqueezeDisplay" creator="bossanova808" email="bossanova808@gmail.com" maxTarget="*" minTarget="7.7" sha="d8610a90537699b489c8451804bd6db455cdc410" url="https://github.com/bossanova808/repository.squeeze.bossanova808/raw/main/downloads/XSqueezeDisplay/XSqueezeDisplay-0.9.9.zip" version="0.9.9">
+      <desc lang="EN">Display Kodi (XBMC) Now Playing info on a Squeezebox SB2/3/Classic display.</desc>
+      <title lang="EN">XSqueezeDisplay</title>
+    </plugin>
     <plugin name="AutoRescan" creator="James Marsh; Stuart Hickinbottom" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
