@@ -639,54 +639,6 @@
       <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
       <title lang="EN">Live365 V1.*</title>
     </plugin>
-    <plugin name="PodcastExt" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="79d03f1b559316190efef8e418b669d5156403a8" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.1.zip" version="0.23.1">
-      <desc lang="EN">Add providers to podcast</desc>
-      <title lang="EN">Podcast Extensions</title>
-    </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="1adbeaf172cc77c7e839e5c4ef3eca906a409d7d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.16.2.zip" version="0.16.2">
-      <desc lang="EN">on-the-fly group creation</desc>
-      <title lang="EN">Group Players</title>
-    </plugin>
-    <plugin name="SwitchGroupPlayer" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/SwitchGroupPlayer" maxTarget="*" minTarget="7.5" sha="a80c3acfbab212ad68b96251658214bf2c9d5e59" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/SwitchGroupPlayer-0.4.zip" version="0.4">
-      <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
-      <title lang="EN">Switch Player (Groups compatible)</title>
-    </plugin>
-    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
-      <desc lang="EN">Play Canal+ video</desc>
-      <title lang="EN">CPlus</title>
-    </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="b7322ecfe158c17b6da4257c5bb9ab1ac8f73f18" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.3.zip" version="0.82.3">
-      <desc lang="EN">Play FranceTelevisions video</desc>
-      <title lang="EN">FranceTV</title>
-    </plugin>
-    <plugin name="LCI" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="b26a6ca88f2c55227c223aa9ede5c6854a2ba9c7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.10.1.zip" version="0.10.1">
-      <desc lang="EN">Play LCI/TF1 video</desc>
-      <title lang="EN">LCI</title>
-    </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="1995211e0bfbb80bf2b9614463a76880355e4c08" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-2.4.2.zip" version="2.4.2">
-      <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
-      <title lang="EN">UPnP/DLNA bridge</title>
-    </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="baf93c3551de0fa87edb300557bc35a2b633e3b6" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.163.zip" version="0.163">
-      <desc lang="EN">Play YouTube video</desc>
-      <title lang="EN">YouTube</title>
-    </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="e3f09e8b3ae11d775b8266913aea03eb14f812bb" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.4.5.zip" version="1.4.5">
-      <desc lang="EN">Use AirPlay devices in LMS</desc>
-      <title lang="EN">AirPlay bridge</title>
-    </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="21811a11dcc0134b200be7698f304e1d10199c3e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-2.3.2.zip" version="2.3.2">
-      <desc lang="EN">Use Chromecast devices in LMS</desc>
-      <title lang="EN">Chromecast bridge</title>
-    </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="0f391918cf758ec3506b5ded178a7501929d97c2" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.5.3.zip" version="1.5.3">
-      <desc lang="EN">Airtunes for LMS (with Windows)</desc>
-      <title lang="EN">ShairTunes2 (fork)</title>
-    </plugin>
-    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="2bc58ca164d0d7589e0c34a1da25beeeba32b54a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip" version="0.18.2">
-      <desc lang="EN">Reliable HTTP connection for LMS</desc>
-      <title lang="EN">Reliable HTTP</title>
-    </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="47b23b4b3b775bf22cae8427d4126dd3953509a3" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-36.zip" version="5.11.36">
       <changes lang="EN">(5.11.36) For backwards compatibility, CCH infotype &quot;getLongWeather&quot; is added back.  Thanks @bluetdi</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
