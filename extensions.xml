@@ -722,7 +722,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="a1521cfd490c58193daf5be3c3731c4a556c335b" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.1/lms-alternativeplaycount-1.4.1.zip" version="1.4.1">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="e6089628613c7759fdcd929d9054e38e677878ab" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.2/lms-alternativeplaycount-1.4.2.zip" version="1.4.2">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
@@ -742,11 +742,11 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="7f155dcdcba1a53e5a1e4260aeee9a63f542c51a" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.2.3/lms-dynamicplaylists-4.2.3.zip" version="4.2.3">
+    <plugin name="DynamicPlaylists4" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="aef43c947366d9ab69463660dfaa0332919d4eda" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.0/lms-dynamicplaylists-4.3.0.zip" version="4.3.0">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="86c4a8706a03d6bd3ef10f69f4b718fc3747d60b" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.2/lms-dynamicplaylistcreator-1.4.2.zip" version="1.4.2">
+    <plugin name="DynamicPlaylistCreator" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="51bc1e7b4b0d6b9ab3e888db6592ea22a1e678db" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.4/lms-dynamicplaylistcreator-1.4.4.zip" version="1.4.4">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
