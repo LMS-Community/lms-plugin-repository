@@ -722,7 +722,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="e6089628613c7759fdcd929d9054e38e677878ab" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.2/lms-alternativeplaycount-1.4.2.zip" version="1.4.2">
+    <plugin name="AlternativePlayCount" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="79dbc46a2da7d2821e07f3e80a75ad71562d784b" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.3/lms-alternativeplaycount-1.4.3.zip" version="1.4.3">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
