@@ -814,7 +814,7 @@
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
-    <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="f7d5f912672ec5705faa5748dd9e0af2d46a57c4" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.7/plugin-CommunityFirmware-0.0.7.zip" version="0.0.7">
+    <plugin name="CommunityFirmware" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
@@ -1029,8 +1029,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="1e2d1902c6251df4167b734c78e646156b7416fd" url="https://www.herger.net/_data/MusicArtistInfo-1.10.2.zip" version="1.10.2">
-      <changes lang="EN">v1.10.2 - add LRCLib as an additional source for lyrics. Optionally support sync timestamps.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="0100f1f8b03318c694b00ae0b48775d2cec30d41" url="https://www.herger.net/_data/MusicArtistInfo-1.10.3.zip" version="1.10.3">
+      <changes lang="EN">v1.10.3 - add LRCLib as an additional source for lyrics. Fall back to search if get fails.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
