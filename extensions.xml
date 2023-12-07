@@ -758,7 +758,7 @@
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="6a863fe8cd77c66d8af693641c38d2f2a09511c0" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.5.9/lms-visualstatistics-1.5.9.zip" version="1.5.9">
+    <plugin name="VisualStatistics" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="aff20a210c16a721c8fd11fdc27714610b167093" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.6.0/lms-visualstatistics-1.6.0.zip" version="1.6.0">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
