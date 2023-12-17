@@ -291,51 +291,49 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="a9c26bbdf7dba984c97baf4d36167ffd2f680ceb" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.39.zip" version="0.0.39">
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="43cc17d0a0c92536f2b423d5177976328e9e0614" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.40.zip" version="0.0.40">
       <changes lang="EN">
-				- Add Jammin Vibez Radio - artist, title, duration, cover art - 4 stations some with flac
-				- Add WEMU - Ypsilanti, MI - NPR station with jazz shows - programme title, subtitle (host), description and duration ... and, sometimes, song title, artist, duration, album and CoverSearch
-				- Add Smooth Soul (.net) - artist, title (already available) plus CoverSearch
-				- Add KUVO Denver, CO - for main channel: artist, title, album, label and CoverSearch - programme title - for The Drop: artist, title and CoverSearch - for Local ... currently nothing
-				- Add Radio Vostok (ch) - artist and title already present, augment with CoverSearch
-				- Add Frontstage (gr) - artist and title already present, augment with CoverSearch - 32 stations - 5 main broadcast stations (En Lefko, Hit, RED, Melodia, Kidsradio) and each with 5 or 6 Internet only substations.
-				- Add Power (tr) - artist, title, duration and cover art (with CoverSearch if none from broadcaster) - 19 stations
-				- Add Acik Radyo (tr) - Programme name, description, duration and icon
-				- Add Joy FM (tr) - artist and title already present, augment with CoverSearch
-				- Add Rai (it) - programme title, description, duration and icon (no song info) - 14 stations
-				- Add Radio TRC (it) - artist and title already present, augment with CoverSearch
-				- Add Coast 101,1 (ca) - artist, title and CoverSearch - programme title and icon - uses HTML parsing which could easily break if web site changes
-				- Add Ouest-France Groupe (fr) - artist, title and CoverSearch - 3 broadcast stations (Clazz, Hit West, Oceane) and 4 web-only (not done all of the regional varients since it is a pain and only changes adverts)
-				- Add ChillFM (ro) - artist, title and CoverSearch
-				- Add SBS (au) - artist, title, cover and duration - programme title, description, duration and icon - 7 stations
-				- Add Smooth (au) - artist and title already present, augment with CoverSearch - 8 stations - some hires streams give 403-Forbidden ... might be geoblock - track info only for MP3 stream for now
-				- Add KTBG The Bridge - Kansas City, MO - artist, title and CoverSearch - programme title, description and icon
-				- Add Futura.FM (it) - artist, title, year and CoverSearch
-				- Remove Radio 2.0 (it) - station closed and replaced by Futura.FM (it)
-				- Update Nostalgie from nrj group in France because ... &quot;NOSTALGIE ALLEZ LA FRANCE&quot; has disappeared (Rugby World Cup exit) - also spotted that they have put a real space character in logo URL so replacing that with %20
-				- For MotherEarthRadio - sometimes does not have cover art so detect this and use CoverSearch to try to find something
-				- For KGLT - had wrong timezone configured. Was out by 1 hour which meant that programmes shown but not tracks
-				- For KCLU - stream URLs changed
-				- For Espace group of stations - Espace Radio, M Radio, La Radio Plus - Là La Radio, La Radio Plus - Alpes Du Sud, Virage - logos changed, some new stations ... streams a bit unreliable
-				- For SF70s - stream URL changed again
-				- For Europe 2 - extra stations and update logos
-				- For Radio SALÜ (de) - 1 extra station. Poor at updating song info across all stations
-				- For Juice - Belfast - 1 extra station and new stream URL for old station
-				- For RNE (es) - update some stream URLs and show programme icon
-				- For Organ Media/Organ Live - metadata API changed
-				- For The Cat 107.9fm - they have reversed their song and artist fields in their data ... so adapt to that
-				- For Supla (fi) - Some new stations  and some retired plus all stream URLs have changed. Also their song data is wrong sometimes ... maybe a weekend problem at their end
-				- For iHeartradio - small reconfiguration to prevent a debug message from appearing
-				- For WALMRadio.com - they changed syntax of their &quot;now playing&quot; info
-				- For nrj group from France - update station list (nrj [138 stations], Cherie FM [38], Nostalgie [57] and Rire et Chanson [18]
-				- For RTBF (be) - ignore some covers from them that are really station logos or relatively lo-res to give CoverSearch the opportunity to find a real one
-				- For WHCP - Cambridge MD - looks like they have a new stream URL but it is geo-locked to USA - also changed logo
-				- For La Urban (es) - added their 2 other stations, Dance and House - do not expect much cover art though
-				- For Eirewave - flac stream gone away at least until end of the year
-				- TimerReturn can result in failed call to $song-&gt;isRemote so try to verify $song presence first
-				- Change how detection of programme name is done when station allowed to have track with no artist (for example YLE Klassinen)
-				- wostreaming domain phased out and is now amperwave - as a result, update Jazz24, KMHD, KNKX, KRTU (although not working for me) and WAQY
-				- A few stations have the potential to show the release year but were misconfigured - WYPR, Ultimix, SpoonRadio, OrganMedia, MerryChristmas, Mediaworks, KCRW, Jazz24, HiOnline, EpicProg, Electrochoc,  DoubleXX, LautFM, FluxFM
+				- Add WNYK New York, NY - artist (might be performer, ensemble, composer or conductor), title, label, duration and CoverSearch - programme title, description, duration - 11 stations
+				- Add WNNX - Atlanta, GA - artist and title already present - add CoverSearch
+				- Add Great American Songbook - artist, title, album and CoverSearch
+				- Add KDUR - Durango, CO - artist, title, album, CoverSearch - programme title and subtitle (presenter)
+				- Add WRTC-FM - Hartford, CT - artist, title, album, CoverSearch - programme title and subtitle (presenter)
+				- Add KDNK - Carbondale, CO - artist, title, album, CoverSearch - programme title and subtitle (presenter)
+				- Add 1.fm - artist, title (already present) and CoverSearch - 73 stations (not all tested) - no unique station logos - artist and title in lowercase from source (might convert this later)
+				- Add WeFunk Radio - artist and title already present, adds CoverSearch. Note - daduke's WeFunk plugin is the way to go for the ALL shows after about 1 week old
+				- Add Periszkóp Rádió, Pécs (hu) - artist, title and CoverSearch - includes ogg/flac stream
+				- Add EduNet (ar) - artist, title, album, duration and CoverSearch - 4 stations
+				- Add Crooze (eu) - artist and title already present, add CoverSearch - 7 stations
+				- For WeFunk Radio - add the show number and date as programme title. Other data is also collected but unlikely to be seen since song details take priority
+				- For Nova (fr) - add AAC streams - update station list - add &quot;Nova Soul&quot;. &quot;Nova Reggae&quot;, &quot;Nova Hip-Hop&quot; - remove &quot;Nova Danse&quot; - note - some of the new stations do not have song data from broadcaster
+				- For Mi AMiGO International - changed stream URLs
+				- For Radio Suisse - Increase maximum duration of a song
+				- For 538 (nl) - expand the stream matching to catch the AAC streams
+				- For ORF (at) - add in the regional stations (thanks nussa)
+				- For Open Broadcast (ch) - API and stream URLs changed - flac available but LMS not happy with them
+				- For Joe (be) - Update station list (adds Christmas station)
+				- For SuperStereo Chile - all stream URLs changed again - and 1 new station (1+) but it does not have a useable flac stream
+				- For Jazz24 - metadata source changed
+				- For KRTU and WAQY - slight change to metdata fetch
+				- For WRUW - Cleveland, OH - Slight change to stream matching to handle alternative mp3 (although their mp3 stream does not always work)
+				- For kanalK (ch) and 80s Mixed - stream URL changed
+				- For Jazz.FM91 (ca) - Add Cool Yule station
+				- For The Current - Saint Paul, MN - add holiday station - resorting to parsing HTML for song info because old metadata source not available - no longer providing programme details
+				- For Progulus - increase maximum song duration
+				- For Life Radio (at) - update station list
+				- For Qmusic (nl) - update station list - in comes Christmas and out goes Summer
+				- For RTL (be) - Contact Fresh becomes Contact X-mas
+				- For M Radio (fr) - Talents TV becomes Noel
+				- For Radio SALU (de) - update metadata source for station Urlaubsradio
+				- For Coast 101.1 (ca) - was already doing risky html parsing and now web site has changed but now there is a real JSON feed of song info
+				- For NRJ France group of stations (nrj, Cherie FM, Nostalgie, Rire et Chansons) - update station list (however, all appear to geoblock UK listeners)
+				- Start adding Radio24 (ch) - would be good for someone in CH to verify that Lounge works because geolocked and I do not want to add the rest if it does not
+				- Update logo - SF70s, La Radio Plus - Alpes Du Sud, Polaroid radio and PulsRadio (fr)
+				- Hide some stations that are no longer working - Ultimix (fr), Laurel Canyon Radio
+				- Change how presence of programme icon is detectced - done because &quot;KTBG The Bridge - Kansas City, MO&quot; does not always have one
+				- Enhance specification of source field mappings to allow alternatives for nearly all fields
+				- Add more handling of song start time when parsing plain text ... intention is to all songs to be expired when too long but might have side-effects
+				- As a consequence of the Coast 101.1 (ca) changes ... have changed the way that plaintext metadata is handled when no song info present ... which might leave old song information left in place for too long
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -730,8 +728,8 @@
       <desc lang="EN">Lets you set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
-    <plugin name="CustomStartStopTimes" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="2b2d35f3b8b03a8327c4d8c235b08953911ff585" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.0.3/lms-customstartstoptimes-1.0.3.zip" version="1.0.3">
-      <desc lang="EN">Allows you to start and stop tracks at a specified playback/song time. Just add custom start and stop times to a track's comments tag and, with the help of this plugin, the song will start and end, when you want it to. No more annoying song intros or minutes of silence at the end. More information on the GitHub page.</desc>
+    <plugin name="CustomStartStopTimes" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="b44b04dc79d1920dc652ff5900acc3428f471560" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.1.0/lms-customstartstoptimes-1.1.0.zip" version="1.1.0">
+      <desc lang="EN">Allows you to start and stop tracks at a specific playback/song time or to skip over a specific part inside the song (e.g. silence). Just add custom start, stop or skip times to a track's comments tag and, with the help of this plugin, the song will start or end, when you want it to, or skip an unwanted part. No more annoying song intros or minutes of silence. More information on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
     <plugin name="CustomTagImporter" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="e96c7676f11e8b61b02003e2c7b2397bb535ec24" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.9/lms-customtagimporter-1.0.9.zip" version="1.0.9">
