@@ -661,7 +661,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="6c2fc6108bcf39d5b296be711e402dbecc668de8" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.0.3.zip" version="3.0.3">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="1e2b12ee4b885e29666eae3b851858001e53b595" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.0.5.zip" version="3.0.5">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -673,7 +673,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="eb76945891afeb8efa22e01b50851473c853db70" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.0.2.zip" version="3.0.2">
+    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="10060c4114aa9e8a0fc5b001d4ac18ccd36b3d5b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.0.4.zip" version="3.0.4">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
@@ -762,7 +762,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="6564be6c4513f0f92759c05c9f65312df793a8dc" url="https://github.com/CDrummond/lms-material/releases/download/4.1.1/lms-material-4.1.1.zip" version="4.1.1">
+    <plugin name="MaterialSkin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="bb348ae4af88374360bb8db2e5a4201a844260fe" url="https://github.com/CDrummond/lms-material/releases/download/4.1.2/lms-material-4.1.2.zip" version="4.1.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
