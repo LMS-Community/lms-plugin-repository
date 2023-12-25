@@ -1027,8 +1027,8 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="0100f1f8b03318c694b00ae0b48775d2cec30d41" url="https://www.herger.net/_data/MusicArtistInfo-1.10.3.zip" version="1.10.3">
-      <changes lang="EN">v1.10.3 - add LRCLib as an additional source for lyrics. Fall back to search if get fails.</changes>
+    <plugin name="MusicArtistInfo" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="2e733c284ac41e42ad21d18d758bb62f4ed3de27" url="https://www.herger.net/_data/MusicArtistInfo-1.10.4.zip" version="1.10.4">
+      <changes lang="EN">v1.10.4 - add LRCLib as an additional source for lyrics. Fall back to search if get fails.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -1059,7 +1059,7 @@
       <desc lang="EN">Radio Paradise in lossless FLAC streaming! Give access to Radio Paradise's HD stream pictures. Get better quality artwork (requires LMS 7.8 or more recent).</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" changes="v4.9.0: Allow selecting what Home items you want to display. v4.9.1: fix browsing/playing large albums with more than 50 tracks." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="07ea30918b183e5b48c110bd2f76355d9e8f2c54" url="https://downloads.nixda.ch/Spotty-4.9.1.zip" version="4.9.1">
+    <plugin name="Spotty" changes="v4.9.0: Allow selecting what Home items you want to display. v4.9.2: update French translation (thanks @Franck-Berry!), add more icons (thanks @cpd73!)." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="912c5a8bb6cef354523ef2e8ea84dbb053d65572" url="https://downloads.nixda.ch/Spotty-4.9.2.zip" version="4.9.2">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
