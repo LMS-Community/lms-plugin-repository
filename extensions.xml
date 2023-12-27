@@ -661,7 +661,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="40a753d14b3fe995e11fc2c7bee24594925c3af5" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.0.12.zip" version="3.0.12">
+    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="5757a5a4fdad18d5819c0cca7355257fe575314d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.0.13.zip" version="3.0.13">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
