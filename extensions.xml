@@ -993,8 +993,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" creator="Michael Herger" email="slim@herger.net" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9" sha="ac5499547790511fb35b73dd78c2caf8497d917a" url="https://www.herger.net/_data/1001Albums-0.9.0.zip" version="0.9.0">
-      <changes lang="EN">v0.9.0: Add static Spotify ID to Qobuz ID map.</changes>
+    <plugin name="1001Albums" creator="Michael Herger" email="slim@herger.net" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9" sha="0ee7da65e7841e59d38feecda282068b56c26129" url="https://www.herger.net/_data/1001Albums-1.0.0.zip" version="1.0.0">
+      <changes lang="EN">v1.0.0: Material support.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
