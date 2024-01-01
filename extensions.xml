@@ -259,6 +259,85 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
+    <plugin name="RadioFrance" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="2f0f0b38c3b990fc7261114c9eba9d7361f4b6d6" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.8.zip" version="0.4.8">
+      <changes lang="EN">
+				- Add FIP Sacre francais !
+				- API calls for song info changed again
+			</changes>
+      <changes lang="FR">
+				- Ajouter FIP Sacre francais !
+				- Les appels de l'API pour les informations sur la chanson ont encore été modifiés
+			</changes>
+      <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
+      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
+      <title lang="EN">Radio France</title>
+    </plugin>
+    <plugin name="CBCCanadaFrancais" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
+      <changes lang="EN">
+				- Match the HLS stream URLs
+			</changes>
+      <changes lang="FR">
+				- Faire correspondre les URL de flux HLS
+			</changes>
+      <desc lang="EN">CBC Radio-Canada Français programme and track information
+			</desc>
+      <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
+      <title lang="EN">CBC Radio-Canada Français</title>
+    </plugin>
+    <plugin name="PlanetRadio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4ce78a342e66f1e84f815177393d0221e69b8dd8" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.14.zip" version="0.0.14">
+      <changes lang="EN">
+				- Updated station list - out goes summer and in comes Christmas
+			</changes>
+      <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
+      <title lang="EN">Planet Radio</title>
+    </plugin>
+    <plugin name="RadioNowPlaying" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="43cc17d0a0c92536f2b423d5177976328e9e0614" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.40.zip" version="0.0.40">
+      <changes lang="EN">
+				- Add WNYK New York, NY - artist (might be performer, ensemble, composer or conductor), title, label, duration and CoverSearch - programme title, description, duration - 11 stations
+				- Add WNNX - Atlanta, GA - artist and title already present - add CoverSearch
+				- Add Great American Songbook - artist, title, album and CoverSearch
+				- Add KDUR - Durango, CO - artist, title, album, CoverSearch - programme title and subtitle (presenter)
+				- Add WRTC-FM - Hartford, CT - artist, title, album, CoverSearch - programme title and subtitle (presenter)
+				- Add KDNK - Carbondale, CO - artist, title, album, CoverSearch - programme title and subtitle (presenter)
+				- Add 1.fm - artist, title (already present) and CoverSearch - 73 stations (not all tested) - no unique station logos - artist and title in lowercase from source (might convert this later)
+				- Add WeFunk Radio - artist and title already present, adds CoverSearch. Note - daduke's WeFunk plugin is the way to go for the ALL shows after about 1 week old
+				- Add Periszkóp Rádió, Pécs (hu) - artist, title and CoverSearch - includes ogg/flac stream
+				- Add EduNet (ar) - artist, title, album, duration and CoverSearch - 4 stations
+				- Add Crooze (eu) - artist and title already present, add CoverSearch - 7 stations
+				- For WeFunk Radio - add the show number and date as programme title. Other data is also collected but unlikely to be seen since song details take priority
+				- For Nova (fr) - add AAC streams - update station list - add &quot;Nova Soul&quot;. &quot;Nova Reggae&quot;, &quot;Nova Hip-Hop&quot; - remove &quot;Nova Danse&quot; - note - some of the new stations do not have song data from broadcaster
+				- For Mi AMiGO International - changed stream URLs
+				- For Radio Suisse - Increase maximum duration of a song
+				- For 538 (nl) - expand the stream matching to catch the AAC streams
+				- For ORF (at) - add in the regional stations (thanks nussa)
+				- For Open Broadcast (ch) - API and stream URLs changed - flac available but LMS not happy with them
+				- For Joe (be) - Update station list (adds Christmas station)
+				- For SuperStereo Chile - all stream URLs changed again - and 1 new station (1+) but it does not have a useable flac stream
+				- For Jazz24 - metadata source changed
+				- For KRTU and WAQY - slight change to metdata fetch
+				- For WRUW - Cleveland, OH - Slight change to stream matching to handle alternative mp3 (although their mp3 stream does not always work)
+				- For kanalK (ch) and 80s Mixed - stream URL changed
+				- For Jazz.FM91 (ca) - Add Cool Yule station
+				- For The Current - Saint Paul, MN - add holiday station - resorting to parsing HTML for song info because old metadata source not available - no longer providing programme details
+				- For Progulus - increase maximum song duration
+				- For Life Radio (at) - update station list
+				- For Qmusic (nl) - update station list - in comes Christmas and out goes Summer
+				- For RTL (be) - Contact Fresh becomes Contact X-mas
+				- For M Radio (fr) - Talents TV becomes Noel
+				- For Radio SALU (de) - update metadata source for station Urlaubsradio
+				- For Coast 101.1 (ca) - was already doing risky html parsing and now web site has changed but now there is a real JSON feed of song info
+				- For NRJ France group of stations (nrj, Cherie FM, Nostalgie, Rire et Chansons) - update station list (however, all appear to geoblock UK listeners)
+				- Start adding Radio24 (ch) - would be good for someone in CH to verify that Lounge works because geolocked and I do not want to add the rest if it does not
+				- Update logo - SF70s, La Radio Plus - Alpes Du Sud, Polaroid radio and PulsRadio (fr)
+				- Hide some stations that are no longer working - Ultimix (fr), Laurel Canyon Radio
+				- Change how presence of programme icon is detectced - done because &quot;KTBG The Bridge - Kansas City, MO&quot; does not always have one
+				- Enhance specification of source field mappings to allow alternatives for nearly all fields
+				- Add more handling of song start time when parsing plain text ... intention is to all songs to be expired when too long but might have side-effects
+				- As a consequence of the Coast 101.1 (ca) changes ... have changed the way that plaintext metadata is handled when no song info present ... which might leave old song information left in place for too long
+			</changes>
+      <desc lang="EN">Programme and track information for a variety of radio stations</desc>
+      <title lang="EN">Radio Now Playing</title>
+    </plugin>
     <plugin name="Spottyi86pcsolarisBin" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
