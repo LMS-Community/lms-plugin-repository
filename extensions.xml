@@ -1046,7 +1046,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" changes="v3.0.2: Multi user support!" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="b0fc94de839769bb1f799b67f37386d52763c51d" url="https://www.herger.net/_data/Qobuz-3.0.2.zip" version="3.0.2">
+    <plugin name="Qobuz" changes="v3.0.3: Multi user support!" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.6" sha="d50302ec4fe4192851ae3c681f63de189eabc55e" url="https://www.herger.net/_data/Qobuz-3.0.3.zip" version="3.0.3">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
