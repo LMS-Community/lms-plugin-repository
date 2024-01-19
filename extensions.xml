@@ -248,14 +248,14 @@
       <desc lang="EN">Extension for Dynamic Playlist, using MusicIP to produce mixes.</desc>
       <title lang="EN">Dynamic Mix</title>
     </plugin>
-    <plugin name="FilesViewer" category="tools" creator="Philip Meyer" email="phil@hergest.demon.co.uk" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="e9e54f2726cc7690ac4cd7eb214da55783fe1285" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewer1.1.zip" version="1.1">
+    <plugin name="FilesViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="e9e54f2726cc7690ac4cd7eb214da55783fe1285" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewer1.1.zip" version="1.1">
       <desc lang="EN">Provides capability to view text files on a SqueezeBox Classic player.</desc>
       <title lang="EN">Files Viewer</title>
     </plugin>
-    <plugin name="SongFileViewer" category="tools" creator="Philip Meyer" email="phil@hergest.demon.co.uk" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="fac351ddf1d90b2c438589a6dd58d5a1bd138c5f" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewer1.3.zip" version="1.3">
+    <plugin name="SongFileViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="fac351ddf1d90b2c438589a6dd58d5a1bd138c5f" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewer1.3.zip" version="1.3">
       <title lang="EN">Files Viewer</title>
     </plugin>
-    <plugin name="PhilsLibraries" category="misc" creator="Philip Meyer" email="phil@hergest.demon.co.uk" maxTarget="*" minTarget="7.9.0" sha="6b0bf3fb5c9c89b50f62c6bac650326aea427eb5" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PhilsLibraries0.1.zip" version="0.1">
+    <plugin name="PhilsLibraries" category="scanning" creator="Philip Meyer" email="phil@hergest.demon.co.uk" maxTarget="*" minTarget="7.9.0" sha="6b0bf3fb5c9c89b50f62c6bac650326aea427eb5" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PhilsLibraries0.1.zip" version="0.1">
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
@@ -338,7 +338,7 @@
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
-    <plugin name="Spottyi86pcsolarisBin" category="musicservices" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
+    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
@@ -364,7 +364,7 @@
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
-    <plugin name="InformationScreen" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="7.*" minTarget="7.4.0" sha="38529cd0d3675a0faf97b31cbd16052ecfd2df36" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-informationscreen&amp;filename=InformationScreen-1.1.3735.zip" version="1.1.3735">
+    <plugin name="InformationScreen" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="7.*" minTarget="7.4.0" sha="38529cd0d3675a0faf97b31cbd16052ecfd2df36" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-informationscreen&amp;filename=InformationScreen-1.1.3735.zip" version="1.1.3735">
       <changes lang="EN">- Corrected compatibility with 7.7.1 cache handling
                         </changes>
       <desc lang="EN">Configurable support plugin for Information Screen screen saver that makes it possible to switch between different kind of information. (Controller, Radio, Touch, SqueezePlay)</desc>
@@ -374,7 +374,7 @@
       <desc lang="EN">Automatically makes all third party plugin repositories that are listed on the Logitech wiki site available through Extension Downloader. The plugin doesn't actually read the wiki page directly since that would open up a security hole, instead it reads the repositories from a list available on the lms-autorepo GitHub project. New repostories added to the wiki page will be added after they have been checked so they provide serious plugins and not spam urls. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Auto Repositories</title>
     </plugin>
-    <plugin name="TrackStat" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d1330f4c5747ed65bc2c1e86d97431d7fe2165ab" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.8.zip" version="2.8">
+    <plugin name="TrackStat" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d1330f4c5747ed65bc2c1e86d97431d7fe2165ab" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.8.zip" version="2.8">
       <changes lang="EN">- Added support for SqueezeCenter 7.4
 			- Corrected so internet meta data is shown correctly on Now Playing screen if one of the TRACKSTAT title formats is used
 			- Added possibility to request parameters from top rated albums and most played album playlist templates for SQL Playlist
@@ -383,13 +383,13 @@
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
-    <plugin name="TrackStat" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.5.*" minTarget="7.4.0" sha="436fcda65d80ce98c3234978b07cc9c24b429aaa" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.11.3760.zip" version="2.11.3760">
+    <plugin name="TrackStat" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.5.*" minTarget="7.4.0" sha="436fcda65d80ce98c3234978b07cc9c24b429aaa" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.11.3760.zip" version="2.11.3760">
       <changes lang="EN">- Corrected issue where playlist templates that requested a parameter didn't show alpha bar properly on SqueezePlay devices.
 			</changes>
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
-    <plugin name="TrackStat" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
+    <plugin name="TrackStat" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -453,13 +453,13 @@
       <desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Dynamic Playlist</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="ef05d5f00298cf4c1a1e1426f9176567e12034f9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.1.2.zip" version="2.1.2">
+    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="ef05d5f00298cf4c1a1e1426f9176567e12034f9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.1.2.zip" version="2.1.2">
       <changes lang="EN">- Added support for SqueezeCenter 7.4
 			- Corrected some small bugs</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.*" minTarget="7.4.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.*" minTarget="7.4.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">- Corrected so path function is re-created in SQLite after a full rescan
 			</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -493,12 +493,12 @@
       <desc lang="EN">Creates smart playlists based on SQL queries, its possible to create playlists similar to iTunes smart playlists if used together with ratings set with the TrackStat plugin. It requires Dynamic Playlist plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">SQL Playlist</title>
     </plugin>
-    <plugin name="TitleSwitcher" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d25140b9bf9038bea7c6e4728e84f6d81f5c0b59" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.1.3.zip" version="1.1.3">
+    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d25140b9bf9038bea7c6e4728e84f6d81f5c0b59" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.1.3.zip" version="1.1.3">
       <changes lang="EN">- Corrected handling on SB1 devices with long texts</changes>
       <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
       <title lang="EN">Title Switcher</title>
     </plugin>
-    <plugin name="TitleSwitcher" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="*" minTarget="7.4.0" sha="b593f6fec7c033762eec50381361f7369c96ac35" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.3.23.zip" version="1.3.23">
+    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="*" minTarget="7.4.0" sha="b593f6fec7c033762eec50381361f7369c96ac35" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.3.23.zip" version="1.3.23">
       <changes lang="EN">- Available for free, no longer requires a license
 			</changes>
       <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
@@ -532,13 +532,13 @@
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
     </plugin>
-    <plugin name="SongInfo" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="2afec7be743af76d8ecb49184ba6b5c92895a015" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songinfo&amp;filename=SongInfo-1.1.3883.zip" version="1.1.3883">
+    <plugin name="SongInfo" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="2afec7be743af76d8ecb49184ba6b5c92895a015" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songinfo&amp;filename=SongInfo-1.1.3883.zip" version="1.1.3883">
       <changes lang="EN">- Adjusted due to LastFM API change, only a single artist image is now supported
                         </changes>
       <desc lang="EN">A plugin to make it possible to get various information about a song, can for example be used to get artist images from LastFM (Boom, Transporter, Classic, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Song Info</title>
     </plugin>
-    <plugin name="SongLyrics" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="e95b571c9d4cdcbb93c0d3caddc395df4ec925b0" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songlyrics&amp;filename=SongLyrics-1.1.3856.zip" version="1.1.3856">
+    <plugin name="SongLyrics" category="information" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="e95b571c9d4cdcbb93c0d3caddc395df4ec925b0" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songlyrics&amp;filename=SongLyrics-1.1.3856.zip" version="1.1.3856">
       <changes lang="EN">- Musixmatch.com no longer supported due to license changes on their end
                         </changes>
       <desc lang="EN">A plugin that shows lyrics from chartlyrics.com and musixmatch.com through the Song Info plugin. This plugin requires that the Song Info plugin also is installed. (Boom, Transporter, Classic, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -637,11 +637,11 @@
       <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
       <title lang="EN">Live365 V1.*</title>
     </plugin>
-    <plugin name="PodcastExt" category="radio" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="79d03f1b559316190efef8e418b669d5156403a8" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.1.zip" version="0.23.1">
+    <plugin name="PodcastExt" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="79d03f1b559316190efef8e418b669d5156403a8" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.1.zip" version="0.23.1">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" category="misc" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="1adbeaf172cc77c7e839e5c4ef3eca906a409d7d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.16.2.zip" version="0.16.2">
+    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="1adbeaf172cc77c7e839e5c4ef3eca906a409d7d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.16.2.zip" version="0.16.2">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
@@ -690,7 +690,7 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="tools" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+    <plugin name="DatabaseQuery" category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
@@ -720,7 +720,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="playlists" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="6490a32165c20ed9322949885dc4a355814f7757" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.7/lms-alternativeplaycount-1.4.7.zip" version="1.4.7">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="6490a32165c20ed9322949885dc4a355814f7757" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.7/lms-alternativeplaycount-1.4.7.zip" version="1.4.7">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
@@ -748,7 +748,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="tools" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="c1ce814434000a3fafae88811e2954c9a3e92087" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.6/lms-ratingslight-2.5.6.zip" version="2.5.6">
+    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="c1ce814434000a3fafae88811e2954c9a3e92087" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.6/lms-ratingslight-2.5.6.zip" version="2.5.6">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -756,7 +756,7 @@
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="tools" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="aff1479616f5cf53c4689d5eccebbc10e72d9ec0" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.6.3/lms-visualstatistics-1.6.3.zip" version="1.6.3">
+    <plugin name="VisualStatistics" category="information" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="aff1479616f5cf53c4689d5eccebbc10e72d9ec0" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.6.3/lms-visualstatistics-1.6.3.zip" version="1.6.3">
       <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
@@ -808,11 +808,11 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RatingButtons" category="tools" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="8f1086f4db980b90ea47c997a4cb4f27882df9ca" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip" version="0.9">
+    <plugin name="RatingButtons" category="information" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="8f1086f4db980b90ea47c997a4cb4f27882df9ca" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip" version="0.9">
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
-    <plugin name="CommunityFirmware" category="tools" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
+    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
@@ -978,6 +978,16 @@
       <desc lang="EN">TVHeadend Radio Plugin for Logitech Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
+    <plugin name="xAP" category="tools" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
+      <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
+      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
+      <title lang="EN">xAP Home Automation</title>
+    </plugin>
+    <plugin name="xAP" category="tools" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="b8ea619bda57e42fcfb462ab0d43e177db081ed6" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.3.zip" version="2.4.3">
+      <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
+      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
+      <title lang="EN">xAP Home Automation</title>
+    </plugin>
     <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
@@ -997,12 +1007,12 @@
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
     </plugin>
-    <plugin name="DRS" category="tools" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7e1e6dd7f492a43b26a94a1b3ca05296671ca5e" url="https://www.herger.net/_data/DRS-1.5.3.zip" version="1.5.3">
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7e1e6dd7f492a43b26a94a1b3ca05296671ca5e" url="https://www.herger.net/_data/DRS-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
       <title lang="EN">Radio DRS Meta Information</title>
     </plugin>
-    <plugin name="FileViewer" category="tools" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/FileViewer/" maxTarget="*" minTarget="7.5" sha="033beae02e4a41d98597e2b87b5e9fe8bc1b7cdd" url="https://www.herger.net/_data/FileViewer-1.5.1.zip" version="1.5.1">
+    <plugin name="FileViewer" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/FileViewer/" maxTarget="*" minTarget="7.5" sha="033beae02e4a41d98597e2b87b5e9fe8bc1b7cdd" url="https://www.herger.net/_data/FileViewer-1.5.1.zip" version="1.5.1">
       <title lang="EN">Fileviewer</title>
       <title lang="DE">Dateibetrachter</title>
     </plugin>
@@ -1022,12 +1032,12 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="tools" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f714a405d8327459a1676ee3d819cb77914bb7f7" url="https://www.herger.net/_data/MusicArtistInfo-1.11.2.zip" version="1.11.2">
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f714a405d8327459a1676ee3d819cb77914bb7f7" url="https://www.herger.net/_data/MusicArtistInfo-1.11.2.zip" version="1.11.2">
       <changes lang="EN">v1.11.2 - Remove AllMusic - use Wikipedia, Last.fm, or Discogs where appropriate.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
-    <plugin name="MusicInfoSCR" category="tools" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
+    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
       <desc lang="EN">The Music Information Screen plugin allows customization of the player's Now Playing screen and other elements.</desc>
       <desc lang="DE">Das Musik-Informations Plugin erlaubt es, den Bildschirm weitgehend selber zu gestalten.</desc>
       <title lang="EN">Music Information Screen</title>
@@ -1042,7 +1052,7 @@
       <desc lang="EN">phish.in' gives you access to Live Phish Audio Streams</desc>
       <title lang="EN">phish.in'</title>
     </plugin>
-    <plugin name="PlayHistory" category="tools" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
+    <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
@@ -1066,7 +1076,7 @@
       <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6 based Raspberry Pi systems (0/1). Use these if your installation used to work pre Spotty 4.5.0, but stopped with the most recent helpers.</desc>
       <title lang="EN">Spotty Helper Application for Raspberry Pi Zero/1st Generation</title>
     </plugin>
-    <plugin name="TimeSpeller" category="tools" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/TimeSpeller/" maxTarget="*" minTarget="7.0" sha="f0f3af71130b8333e633fc84003f017094e1be23" url="https://www.herger.net/_data/TimeSpeller-1.6a.zip" version="1.6">
+    <plugin name="TimeSpeller" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/TimeSpeller/" maxTarget="*" minTarget="7.0" sha="f0f3af71130b8333e633fc84003f017094e1be23" url="https://www.herger.net/_data/TimeSpeller-1.6a.zip" version="1.6">
       <title lang="DE">Zeit in Worten</title>
       <title lang="EN">Date and Spelled time</title>
       <title lang="ES">Reloj en Palabras</title>
@@ -1118,11 +1128,11 @@
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="SpottyBinFreeBSD" category="musicservices" creator="Richard Herman" email="richard@neversimple.eu" maxTarget="*" minTarget="7.7" sha="0ae76df01ed09eb83ac5ba5b0e71dfbd1788ba6d" target="unix" url="https://www.neversimple.eu/LMS-Files/SpottyBinFreeBSD-1.3.1.zip" version="1.3.1">
+    <plugin name="SpottyBinFreeBSD" category="misc" creator="Richard Herman" email="richard@neversimple.eu" maxTarget="*" minTarget="7.7" sha="0ae76df01ed09eb83ac5ba5b0e71dfbd1788ba6d" target="unix" url="https://www.neversimple.eu/LMS-Files/SpottyBinFreeBSD-1.3.1.zip" version="1.3.1">
       <desc lang="EN">Spotty Helper Application for FreeBSD 13. This plugin requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for FreeBSD 13</title>
     </plugin>
-    <plugin name="SugarCube" category="musicservices" creator="Charles Parker" email="abuse@spicefly.com" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
+    <plugin name="SugarCube" category="playlists" creator="Charles Parker" email="abuse@spicefly.com" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
       <desc lang="EN">Travel through your music Library using MusicIPs recommendations. Features Include Filter, Genre, Artist and Recipe Mixing, Trackstat Integration, Artist Blocking, Genre Blocking, Custom Track Weighting Routines, Coming Up Next Display, Sleep Mode, Volume Fade and lots more.  See www.spicefly.com for Details and Change Log.</desc>
       <title lang="EN">Spicefly SugarCube</title>
     </plugin>
