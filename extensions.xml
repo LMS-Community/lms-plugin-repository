@@ -695,6 +695,31 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="2076b8b35707d7d1b6871f2b587703da09246989" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.4/BBCSoundsPlugin_2_35_4.zip" version="2.35.4">
+      <changes lang="EN">NEW 2.35.4 Improved support for playing through UPNP Bridge</changes>
+      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
+      <title lang="EN">BBC Sounds</title>
+    </plugin>
+    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="https://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
+      <changes lang="EN">NEW 2.2.3 Increased Catch-Up days available to 7</changes>
+      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
+      <title lang="EN">Virgin Radio (UK)</title>
+    </plugin>
+    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="516865816beb88c262b4780a4865ba3fd35bd226" url="https://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_2_2.zip" version="2.2.2">
+      <changes lang="EN">NEW 2.2.2 API access fix</changes>
+      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
+      <title lang="EN">Times Radio</title>
+    </plugin>
+    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="2c67340a825c87f9b2504ee4daa4ab3df4e602a9" url="https://plugins.expectingtofly.co.uk/GlobalPlayerUKPlugin_2_4_0.zip" version="2.4.0">
+      <changes lang="EN">NEW 2.4.0 Added support for Radio Favourites Plugin</changes>
+      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
+      <title lang="EN">Global Player (UK)</title>
+    </plugin>
+    <plugin name="RadioFavourites" category="radio" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="https://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
+      <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
+      <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
+      <title lang="EN">Radio Favourites</title>
+    </plugin>
     <plugin name="AlternativePlayCount" category="playlists" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="6490a32165c20ed9322949885dc4a355814f7757" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.7/lms-alternativeplaycount-1.4.7.zip" version="1.4.7">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
