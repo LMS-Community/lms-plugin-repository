@@ -374,7 +374,7 @@
       <desc lang="EN">Automatically makes all third party plugin repositories that are listed on the Logitech wiki site available through Extension Downloader. The plugin doesn't actually read the wiki page directly since that would open up a security hole, instead it reads the repositories from a list available on the lms-autorepo GitHub project. New repostories added to the wiki page will be added after they have been checked so they provide serious plugins and not spam urls. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Auto Repositories</title>
     </plugin>
-    <plugin name="TrackStat" category="misc" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d1330f4c5747ed65bc2c1e86d97431d7fe2165ab" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.8.zip" version="2.8">
+    <plugin name="TrackStat" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d1330f4c5747ed65bc2c1e86d97431d7fe2165ab" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.8.zip" version="2.8">
       <changes lang="EN">- Added support for SqueezeCenter 7.4
 			- Corrected so internet meta data is shown correctly on Now Playing screen if one of the TRACKSTAT title formats is used
 			- Added possibility to request parameters from top rated albums and most played album playlist templates for SQL Playlist
@@ -383,13 +383,13 @@
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
-    <plugin name="TrackStat" category="misc" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.5.*" minTarget="7.4.0" sha="436fcda65d80ce98c3234978b07cc9c24b429aaa" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.11.3760.zip" version="2.11.3760">
+    <plugin name="TrackStat" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.5.*" minTarget="7.4.0" sha="436fcda65d80ce98c3234978b07cc9c24b429aaa" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.11.3760.zip" version="2.11.3760">
       <changes lang="EN">- Corrected issue where playlist templates that requested a parameter didn't show alpha bar properly on SqueezePlay devices.
 			</changes>
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
-    <plugin name="TrackStat" category="misc" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
+    <plugin name="TrackStat" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/TrackStat_plugin" maxTarget="7.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -478,7 +478,7 @@
       <desc lang="EN">Makes it possible to divide your SqueezeCenter library into different sub libraries, requires Custom Browse plugin to be able to browse the sub libraries. Please note that Multi Library needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Multi Library</title>
     </plugin>
-    <plugin name="SQLPlayList" category="playlist" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="78736678bb157d1d8b15a2c080173e845f2f2a55" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.4.zip" version="2.4">
+    <plugin name="SQLPlayList" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="78736678bb157d1d8b15a2c080173e845f2f2a55" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.4.zip" version="2.4">
       <changes lang="EN">- Added support for SqueezeCenter 7.4
 			- Added support for requesting parameters from random albums playlist templates
 			- Added predefined playlists for playing a random album in a genre, decade, artist, playlist or year
@@ -486,7 +486,7 @@
       <desc lang="EN">Creates smart playlists based on SQL queries, its possible to create playlists similar to iTunes smart playlists if used together with ratings set with the TrackStat plugin. It requires Dynamic Playlist plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">SQL Playlist</title>
     </plugin>
-    <plugin name="SQLPlayList" category="playlist" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="33b402200260f4111d37235484e5d54fdbec7ae8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip" version="2.6.272">
+    <plugin name="SQLPlayList" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="33b402200260f4111d37235484e5d54fdbec7ae8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip" version="2.6.272">
       <changes lang="EN">- Available for free, no longer requires a license
 			- Compatible with LMS 7.9
 			</changes>
@@ -577,47 +577,47 @@
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
-    <plugin name="SharkPlay" category="misc" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="007ab351a55cd9e7e31cc9d2a4a647108d442111" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-linux-102.ZIP" version="1.2">
+    <plugin name="SharkPlay" category="hardware" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="007ab351a55cd9e7e31cc9d2a4a647108d442111" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-linux-102.ZIP" version="1.2">
       <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
       <title lang="EN">SharkPlay</title>
     </plugin>
-    <plugin name="SharkPlay" category="misc" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="cd98ba0de84200a6118c338e8c725a2feda23130" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-win-102.ZIP" version="1.2">
+    <plugin name="SharkPlay" category="hardware" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=54926" maxTarget="*" minTarget="7.4" sha="cd98ba0de84200a6118c338e8c725a2feda23130" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/sharkplay-win-102.ZIP" version="1.2">
       <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
       <title lang="EN">SharkPlay</title>
     </plugin>
-    <plugin name="CDplayer" category="misc" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
+    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="CDplayer" category="misc" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
+    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Includes CDDA2WAV and associated DLLs.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="CDplayer" category="misc" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
+    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="WaveInput" category="misc" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
+    <plugin name="WaveInput" category="hardware" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
       <desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through LogitechMediaServer</desc>
       <title lang="EN">WaveInput</title>
     </plugin>
-    <plugin name="WaveInput" category="misc" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
+    <plugin name="WaveInput" category="hardware" creator="bpa" email="baltontwo@eircom.net" link="http://forums.slimdevices.com/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
       <desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through LogitechMediaServer. Default setup uses ALSA but OSS also works.</desc>
       <title lang="EN">WaveInput</title>
     </plugin>
-    <plugin name="PlayWMA" category="misc" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+    <plugin name="PlayWMA" category="tools" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
       <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
       <title lang="EN">PlayWMA</title>
     </plugin>
-    <plugin name="PlayWMA" category="misc" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+    <plugin name="PlayWMA" category="tools" creator="bpa" email="baltontwo@eircom.net" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
       <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
       <title lang="EN">PlayWMA</title>
     </plugin>
-    <plugin name="PlayHLS" category="misc" creator="bpa" maxTarget="*" minTarget="7.3" sha="beb7982842ccc67c464c85d75c6be7f6bdd22294" target="mac|unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSLinux-v101.ZIP" version="1.01">
+    <plugin name="PlayHLS" category="tools" creator="bpa" maxTarget="*" minTarget="7.3" sha="beb7982842ccc67c464c85d75c6be7f6bdd22294" target="mac|unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSLinux-v101.ZIP" version="1.01">
       <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
       <title lang="EN">PlayHLS</title>
     </plugin>
-    <plugin name="PlayHLS" category="misc" creator="bpa" maxTarget="*" minTarget="7.3" sha="ebd592bb819fb0c7463995eb998295ca68527888" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSWin-v101.ZIP" version="1.01">
+    <plugin name="PlayHLS" category="tools" creator="bpa" maxTarget="*" minTarget="7.3" sha="ebd592bb819fb0c7463995eb998295ca68527888" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSWin-v101.ZIP" version="1.01">
       <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
       <title lang="EN">PlayHLS</title>
     </plugin>
@@ -625,7 +625,7 @@
       <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
       <title lang="EN">iHeart Radio - v1.2</title>
     </plugin>
-    <plugin name="RadioNet" category="misc" creator="bpa" maxTarget="*" minTarget="7.9" sha="3c6b2fa69096ad95ab8acb637c9faed00d11dc36" url="https://bpa-code.github.io/bpaplugins/RadioNet-V2_2.ZIP" version="2.2">
+    <plugin name="RadioNet" category="radio" creator="bpa" maxTarget="*" minTarget="7.9" sha="3c6b2fa69096ad95ab8acb637c9faed00d11dc36" url="https://bpa-code.github.io/bpaplugins/RadioNet-V2_2.ZIP" version="2.2">
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
@@ -649,15 +649,15 @@
       <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
       <title lang="EN">Switch Player (Groups compatible)</title>
     </plugin>
-    <plugin name="CPlus" category="misc" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
+    <plugin name="CPlus" category="radio" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" category="misc" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="b7322ecfe158c17b6da4257c5bb9ab1ac8f73f18" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.3.zip" version="0.82.3">
+    <plugin name="FranceTV" category="radio" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="b7322ecfe158c17b6da4257c5bb9ab1ac8f73f18" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.3.zip" version="0.82.3">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
-    <plugin name="LCI" category="misc" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="b26a6ca88f2c55227c223aa9ede5c6854a2ba9c7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.10.1.zip" version="0.10.1">
+    <plugin name="LCI" category="radio" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="b26a6ca88f2c55227c223aa9ede5c6854a2ba9c7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.10.1.zip" version="0.10.1">
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
@@ -665,7 +665,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" category="misc" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="baf93c3551de0fa87edb300557bc35a2b633e3b6" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.163.zip" version="0.163">
+    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="baf93c3551de0fa87edb300557bc35a2b633e3b6" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.163.zip" version="0.163">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
@@ -766,17 +766,17 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="misc" changes="Spotty fix for casting, mp3, aif change too" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" maxTarget="*" minTarget="7.8.0" sha="d51a59c69f9c8a65800442529459f9a8599da56b" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.08d.zip" version="0.1.08d">
+    <plugin name="SqueezeDSP" category="tools" changes="Spotty fix for casting, mp3, aif change too" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" maxTarget="*" minTarget="7.8.0" sha="d51a59c69f9c8a65800442529459f9a8599da56b" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.08d.zip" version="0.1.08d">
       <creator>Jonathan Fox</creator>
       <creator>Jonathan Fox</creator>
       <desc lang="EN">DSP for Squeezebox server version 0.1.08d) - provides EQ and DSP. Fixes to custom-conv.conf </desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
-    <plugin name="InguzEQ" category="audioformats" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
+    <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
       <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
     </plugin>
-    <plugin name="DSDPlayer" category="misc" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="6754c0d5d7f665601db2f12900328954f136c515" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.09/plugin-DSDPlayer-1.09.zip" version="1.09">
+    <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.9" sha="6754c0d5d7f665601db2f12900328954f136c515" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.09/plugin-DSDPlayer-1.09.zip" version="1.09">
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
@@ -804,7 +804,7 @@
       <desc lang="EN">Display Kodi (XBMC) Now Playing info on a Squeezebox SB2/3/Classic display.</desc>
       <title lang="EN">XSqueezeDisplay</title>
     </plugin>
-    <plugin name="AutoRescan" category="misc" creator="James Marsh; Stuart Hickinbottom" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
+    <plugin name="AutoRescan" category="scanning" creator="James Marsh; Stuart Hickinbottom" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
@@ -816,7 +816,7 @@
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
-    <plugin name="SqueezeESP32" category="misc" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="335b585e22eddbddacce00f34001d8bf2ee0f54f" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.600">
+    <plugin name="SqueezeESP32" category="hardware" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="335b585e22eddbddacce00f34001d8bf2ee0f54f" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.600">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
@@ -859,7 +859,7 @@
       <desc lang="EN">ContextMenu provides a mechanism for context menus much like the right-click context menus provided by computer operating system desktop environments. Provides a way to use any regular Squeezebox remote control button, even on the Boom. Other plugins that provide ContextMenu options include AllQuiet, KitchenTimer, PlayLog, and SaverSwitcher. (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">ContextMenu</title>
     </plugin>
-    <plugin name="DenonSerial" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/DenonSerial.html" maxTarget="8.*" minTarget="7.2" sha="77c39600bd68ecc247d9e35bde695aeed3515199" url="https://tuxreborn.netlify.app/slim/slim7/DenonSerial/DenonSerial-0.1.44.zip" version="0.1.44">
+    <plugin name="DenonSerial" category="hardware" creator="Watkins, Peter" email="peter@townsendwatkins.com" link="https://tuxreborn.netlify.app/slim/DenonSerial.html" maxTarget="8.*" minTarget="7.2" sha="77c39600bd68ecc247d9e35bde695aeed3515199" url="https://tuxreborn.netlify.app/slim/slim7/DenonSerial/DenonSerial-0.1.44.zip" version="0.1.44">
       <changes lang="EN">0.1.44: recognize when volume changed on Denon side; 0.1.43: allow use in LMS 8.* (untested); 0.1.42: amp polling now optional; 0.1.40: fix for findOurDir in newer server versions; 0.1.39: remove WOL code, more conservative about noting when responses seen; 0.1.38: full dB steps for zones 2+, filter garbage from amp response, try to clear queue if hung</changes>
       <desc lang="EN">For Squeezeboxes connected to Denon receivers with RS232 or Ethernet interfaces, use your Squeezebox Controller, Squeezebox IR remote control, Web interface, etc. to control your Denon volume. (Transporter, Classic, Receiver)</desc>
       <title lang="EN">DenonSerial</title>
@@ -978,6 +978,16 @@
       <desc lang="EN">TVHeadend Radio Plugin for Logitech Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
+    <plugin name="xAP" category="misc" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
+      <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
+      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
+      <title lang="EN">xAP Home Automation</title>
+    </plugin>
+    <plugin name="xAP" category="misc" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="b8ea619bda57e42fcfb462ab0d43e177db081ed6" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.3.zip" version="2.4.3">
+      <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
+      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
+      <title lang="EN">xAP Home Automation</title>
+    </plugin>
     <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
@@ -1046,7 +1056,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" category="misc" changes="v3.0.6: Multi user support!" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="8.0" sha="c91cc03d64007371ad06c2b2ea3e514011075b99" url="https://www.herger.net/_data/Qobuz-3.0.6.zip" version="3.0.6">
+    <plugin name="Qobuz" category="musicservices" changes="v3.0.6: Multi user support!" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="8.0" sha="c91cc03d64007371ad06c2b2ea3e514011075b99" url="https://www.herger.net/_data/Qobuz-3.0.6.zip" version="3.0.6">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
@@ -1086,35 +1096,35 @@
       <title lang="EN">Music Walk With Me</title>
       <title lang="DE">Musik marschier mit mir</title>
     </plugin>
-    <plugin name="LazySearch2" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.3+" minTarget="7.3" sha="a45bb0ee7e80e0eb9f01560e2eed7ccc3c6f2dc0" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.2.zip" version="3.5.2">
+    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.3+" minTarget="7.3" sha="a45bb0ee7e80e0eb9f01560e2eed7ccc3c6f2dc0" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.2.zip" version="3.5.2">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.4+" minTarget="7.4" sha="3f468de94ee53f8a7fc7e7ce52a4f05a10bd59fe" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.3.zip" version="3.5.3">
+    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.4+" minTarget="7.4" sha="3f468de94ee53f8a7fc7e7ce52a4f05a10bd59fe" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.3.zip" version="3.5.3">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.5+" minTarget="7.5" sha="ab731de74841aa968f27070fded15304512e82db" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.6.zip" version="3.5.6">
+    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.5+" minTarget="7.5" sha="ab731de74841aa968f27070fded15304512e82db" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.6.zip" version="3.5.6">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.9+" minTarget="7.6" sha="2d1d47507ff55790374b5ac2af48f7a921996262" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.5.zip" version="3.6.5">
+    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.9+" minTarget="7.6" sha="2d1d47507ff55790374b5ac2af48f7a921996262" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.5.zip" version="3.6.5">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.0+" minTarget="7.6" sha="ca33644f5d6b3d58360f984e6e61e32cd3b4bd33" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.6.zip" version="3.6.6">
+    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.0+" minTarget="7.6" sha="ca33644f5d6b3d58360f984e6e61e32cd3b4bd33" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.6.zip" version="3.6.6">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
+    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="AutoRescan" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/autorescan" maxTarget="7.5+" minTarget="7.3" sha="0216e7d946c5f9457301d56712b11476f68d84f3" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.1.zip" version="1.1">
+    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/autorescan" maxTarget="7.5+" minTarget="7.3" sha="0216e7d946c5f9457301d56712b11476f68d84f3" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.1.zip" version="1.1">
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="AutoRescan" category="misc" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
+    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
