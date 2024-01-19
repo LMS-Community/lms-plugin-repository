@@ -291,49 +291,32 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="43cc17d0a0c92536f2b423d5177976328e9e0614" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.40.zip" version="0.0.40">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e34b72cb2319457d50c10fcb4e951458c3563311" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.41.zip" version="0.0.41">
       <changes lang="EN">
-				- Add WNYK New York, NY - artist (might be performer, ensemble, composer or conductor), title, label, duration and CoverSearch - programme title, description, duration - 11 stations
-				- Add WNNX - Atlanta, GA - artist and title already present - add CoverSearch
-				- Add Great American Songbook - artist, title, album and CoverSearch
-				- Add KDUR - Durango, CO - artist, title, album, CoverSearch - programme title and subtitle (presenter)
-				- Add WRTC-FM - Hartford, CT - artist, title, album, CoverSearch - programme title and subtitle (presenter)
-				- Add KDNK - Carbondale, CO - artist, title, album, CoverSearch - programme title and subtitle (presenter)
-				- Add 1.fm - artist, title (already present) and CoverSearch - 73 stations (not all tested) - no unique station logos - artist and title in lowercase from source (might convert this later)
-				- Add WeFunk Radio - artist and title already present, adds CoverSearch. Note - daduke's WeFunk plugin is the way to go for the ALL shows after about 1 week old
-				- Add Periszkóp Rádió, Pécs (hu) - artist, title and CoverSearch - includes ogg/flac stream
-				- Add EduNet (ar) - artist, title, album, duration and CoverSearch - 4 stations
-				- Add Crooze (eu) - artist and title already present, add CoverSearch - 7 stations
-				- For WeFunk Radio - add the show number and date as programme title. Other data is also collected but unlikely to be seen since song details take priority
-				- For Nova (fr) - add AAC streams - update station list - add &quot;Nova Soul&quot;. &quot;Nova Reggae&quot;, &quot;Nova Hip-Hop&quot; - remove &quot;Nova Danse&quot; - note - some of the new stations do not have song data from broadcaster
-				- For Mi AMiGO International - changed stream URLs
-				- For Radio Suisse - Increase maximum duration of a song
-				- For 538 (nl) - expand the stream matching to catch the AAC streams
-				- For ORF (at) - add in the regional stations (thanks nussa)
-				- For Open Broadcast (ch) - API and stream URLs changed - flac available but LMS not happy with them
-				- For Joe (be) - Update station list (adds Christmas station)
-				- For SuperStereo Chile - all stream URLs changed again - and 1 new station (1+) but it does not have a useable flac stream
-				- For Jazz24 - metadata source changed
-				- For KRTU and WAQY - slight change to metdata fetch
-				- For WRUW - Cleveland, OH - Slight change to stream matching to handle alternative mp3 (although their mp3 stream does not always work)
-				- For kanalK (ch) and 80s Mixed - stream URL changed
-				- For Jazz.FM91 (ca) - Add Cool Yule station
-				- For The Current - Saint Paul, MN - add holiday station - resorting to parsing HTML for song info because old metadata source not available - no longer providing programme details
-				- For Progulus - increase maximum song duration
-				- For Life Radio (at) - update station list
-				- For Qmusic (nl) - update station list - in comes Christmas and out goes Summer
-				- For RTL (be) - Contact Fresh becomes Contact X-mas
-				- For M Radio (fr) - Talents TV becomes Noel
-				- For Radio SALU (de) - update metadata source for station Urlaubsradio
-				- For Coast 101.1 (ca) - was already doing risky html parsing and now web site has changed but now there is a real JSON feed of song info
-				- For NRJ France group of stations (nrj, Cherie FM, Nostalgie, Rire et Chansons) - update station list (however, all appear to geoblock UK listeners)
-				- Start adding Radio24 (ch) - would be good for someone in CH to verify that Lounge works because geolocked and I do not want to add the rest if it does not
-				- Update logo - SF70s, La Radio Plus - Alpes Du Sud, Polaroid radio and PulsRadio (fr)
-				- Hide some stations that are no longer working - Ultimix (fr), Laurel Canyon Radio
-				- Change how presence of programme icon is detectced - done because &quot;KTBG The Bridge - Kansas City, MO&quot; does not always have one
-				- Enhance specification of source field mappings to allow alternatives for nearly all fields
-				- Add more handling of song start time when parsing plain text ... intention is to all songs to be expired when too long but might have side-effects
-				- As a consequence of the Coast 101.1 (ca) changes ... have changed the way that plaintext metadata is handled when no song info present ... which might leave old song information left in place for too long
+				- Add Radio Siamsa (ie) - artist, title (already present), album, duration, coverart
+				- Add Play Nostalgie (be) - artist, title, cover art, duration - for main station only, programme nane and duration - 9 stations
+				- Add WUNC - Chapel Hill, NC - artist, title, CoverSearch, programme name, duration - 2 stations
+				- Add Beethoven FM (cl) - artist, title, duration - also known as UC Radio Beethoven
+				- Add Sweet FM (fr) - artist, title and CoverSearch
+				- Add Chante Zouk - artist, title and CoverSearch - 4 stations (not included Guadeloupe as seems to be same stream as Saint Martin)
+				- Add Sky Legend (fr) - artist, title and CoverSearch - has a flac stream but not working at the moment (http 404 error)
+				- Add Uturn Radio - artist, title, cover art plus CoverSearch - 4 stations
+				- Add Rondo Classic (fi) - artist and title ... but not very friendly layout for artist/title and they have problem with accented characters - have enabled CoverSearch but do not expect many successes - 3 stations, 2 of which have FLAC stream
+				- Add Radio Bremen (de) - artist, title, CoverSearch - programme title, subtitle, icon - 5 stations but Cosmo has totally different metadata content and is very limited
+				- Add Folk Alley - artist, title, sometimes album, and CoverSearch - 5 stations
+				- Add BRPR - Asheville, NC - programme name and duration, plus song details sometimes - 2 stations
+				- Add P4 group (no) - artist, title, cover art, duration - plus between tracks only, might have programme title and image - 10 stations - special case as broadcaster does not want stream URLs distributed so stations do not appear in plugin. See https://www.lydenavnorge.no/hjelp/direktelenker-til-vaare-radiokanaler for stream URLs and add to favourites.
+				- Add Miled Music - artist and title already present, add CoverSearch. 40 genre-based stations (although their station logo implies that there should be 100)
+				- For JB Radio2 - FLAC stream URL has changed
+				- For CityRadio (cl) - add extra station (CityRadio Pop) and logo location has changed
+				- For CBC Canada (English) - increase maxsonglth
+				- For Power (tr) - stream URL changed for primary station
+				- For Sveriges Radio - higher rate AAC streams available for small number of stations and a flac stream now available for one - timing is off though
+				- For M Radio (fr) - out goes Noel and back comes Talent TV plus in comes Quebec
+				- For RTL (be) - Classic Rock becomes Chanson Française and Contact X-mas reverts to Contact Fresh
+				- Some other Christmas stations have stopped - JOE Christmas (JOE (be)), Cool Yule (Jazz FM91 (ca))
+				- You can remove other stations from the menu by adding a filter in the plugin settings
+				- Include test for HTML::FormatText being available and issue warning if not rather than failing to load plugin
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -977,16 +960,6 @@
     <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="e3dca113027d936c7f111ef20841a9341afe279a" url="https://tvh.codechimp.org/tvh-1.3.31.zip" version="1.3.31">
       <desc lang="EN">TVHeadend Radio Plugin for Logitech Media Server</desc>
       <title lang="EN">TVH</title>
-    </plugin>
-    <plugin name="xAP" category="tools" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
-      <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
-      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
-      <title lang="EN">xAP Home Automation</title>
-    </plugin>
-    <plugin name="xAP" category="tools" creator="Edward Pearson" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="b8ea619bda57e42fcfb462ab0d43e177db081ed6" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.3.zip" version="2.4.3">
-      <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
-      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
-      <title lang="EN">xAP Home Automation</title>
     </plugin>
     <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
