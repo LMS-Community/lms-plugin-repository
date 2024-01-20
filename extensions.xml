@@ -688,8 +688,8 @@
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="516865816beb88c262b4780a4865ba3fd35bd226" url="https://plugins.expectingtofly.co.uk/TimesRadioPlugin_2_2_2.zip" version="2.2.2">
-      <changes lang="EN">NEW 2.2.2 API access fix</changes>
+    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="4d277fb1ad75387901147c347b237251acc85a72" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.2.3/TimesRadioPlugin_2_2_3.zip" version="2.2.3">
+      <changes lang="EN">NEW 2.2.3 Minor bugfix, 2.2.2 API access fix</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
