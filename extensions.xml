@@ -678,8 +678,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="2076b8b35707d7d1b6871f2b587703da09246989" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.4/BBCSoundsPlugin_2_35_4.zip" version="2.35.4">
-      <changes lang="EN">NEW 2.35.4 Improved support for playing through UPNP Bridge</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="515d41ca8bd25ad562b8e3d8f4f8c246bb69dca1" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.5/BBCSoundsPlugin_2_35_5.zip" version="2.35.5">
+      <changes lang="EN">NEW 2.35.5 Improved support for playing through UPNP Bridge</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -723,7 +723,7 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="87e305ec2ae86132698a46d95707e2c697954ad3" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.2/lms-dynamicplaylists-4.3.2.zip" version="4.3.2">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="56fbf3396007a64da241c4f28b7406fb4b8a3d22" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.4/lms-dynamicplaylists-4.3.4.zip" version="4.3.4">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
@@ -731,7 +731,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="c1ce814434000a3fafae88811e2954c9a3e92087" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.6/lms-ratingslight-2.5.6.zip" version="2.5.6">
+    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="c6bce19a7df7a50b910a4a4bd79b98f6837bdfee" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.7/lms-ratingslight-2.5.7.zip" version="2.5.7">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
