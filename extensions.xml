@@ -668,8 +668,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="47b23b4b3b775bf22cae8427d4126dd3953509a3" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-36.zip" version="5.11.36">
-      <changes lang="EN">(5.11.36) For backwards compatibility, CCH infotype &quot;getLongWeather&quot; is added back.  Thanks @bluetdi</changes>
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="d9bdfecf2e073522cd2db33e524747592c02b51d" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-37.zip" version="5.11.37">
+      <changes lang="EN">(5.11.37) Improved Halftime detection in CBB games.  Added setting for short college team names.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
