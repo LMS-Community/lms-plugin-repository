@@ -678,8 +678,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="515d41ca8bd25ad562b8e3d8f4f8c246bb69dca1" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.5/BBCSoundsPlugin_2_35_5.zip" version="2.35.5">
-      <changes lang="EN">NEW 2.35.5 Improved support for playing through UPNP Bridge</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="5246a541e22bddb307e9b341406948dbdaebbf77" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.6/BBCSoundsPlugin_2_35_6.zip" version="2.35.6">
+      <changes lang="EN">NEW 2.35.6 Improved support for playing through UPNP Bridge</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
