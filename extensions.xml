@@ -678,8 +678,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="47d93f785e0cddf9d03446e006e62629b4799538" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.8/BBCSoundsPlugin_2_35_8.zip" version="2.35.8">
-      <changes lang="EN">NEW 2.35.8 Added support LIVE_EDGE on LMS 8.4 2.35.7 Option to prevent blank track image plus bugfixes 2.35.6 Improved support for playing through UPNP Bridge</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="fdf146020b264793bf022242f99459cfbc33d966" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.10/BBCSoundsPlugin_2_35_10.zip" version="2.35.10">
+      <changes lang="EN">NEW 2.35.10 Added support LIVE_EDGE on LMS 8.4 2.35.7 Option to prevent blank track image plus bugfixes 2.35.6 Improved support for playing through UPNP Bridge</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
