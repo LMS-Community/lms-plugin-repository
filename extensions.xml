@@ -79,8 +79,8 @@
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1  Windows and Linux users: please read the FAQ BEFORE installing.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="b0082ef1036fb2385adc5103c5b8b7bf1d7dc7ec" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-pcp-1.0.6.zip" version="1.0.6">
-      <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="313a433f548c5e17f984cafb58de4447772e76c2" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-pcp-1.0.7.zip" version="1.0.7">
+      <desc lang="EN">This applet installs the Dark Flat Skins on your piCorePlayer (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="7f4ec607f05a86af8a2712e3999100299dfe3588" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-fab4-1.0.6.zip" version="1.0.6">
@@ -226,16 +226,6 @@
     </patch>
   </patches>
   <plugins>
-    <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
-      <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
-      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
-      <title lang="EN">Bookmarks</title>
-    </plugin>
-    <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
-      <title lang="EN">Disable Shuffle</title>
-    </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
       <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
       <title lang="EN">iPeng</title>
@@ -284,9 +274,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="4ce78a342e66f1e84f815177393d0221e69b8dd8" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.14.zip" version="0.0.14">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8b34b2d15ac437cbd38fb2e2ccc43e411c4d94a5" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.15.zip" version="0.0.15">
       <changes lang="EN">
-				- Updated station list - out goes summer and in comes Christmas
+				- Updated station list - out goes Christmas
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
@@ -731,7 +721,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="c6bce19a7df7a50b910a4a4bd79b98f6837bdfee" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.5.7/lms-ratingslight-2.5.7.zip" version="2.5.7">
+    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="1f6eba06abb819a6eca939221d85068535d4ae4e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.6.0/lms-ratingslight-2.6.0.zip" version="2.6.0">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
