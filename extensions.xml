@@ -678,8 +678,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="fdf146020b264793bf022242f99459cfbc33d966" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.10/BBCSoundsPlugin_2_35_10.zip" version="2.35.10">
-      <changes lang="EN">NEW 2.35.10 Added support LIVE_EDGE on LMS 8.4 2.35.7 Option to prevent blank track image plus bugfixes 2.35.6 Improved support for playing through UPNP Bridge</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="b1d2e6b732d1b2914b25a5a144dbd3b29bbc2937" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.12/BBCSoundsPlugin_2_35_12.zip" version="2.35.12">
+      <changes lang="EN">NEW 2.35.12 Further improve meta data delivery 2.35.7 Option to prevent blank track image plus bugfixes 2.35.6 Improved support for playing through UPNP Bridge</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -1029,7 +1029,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" changes="v3.2.0: Improve album and track information menus - thanks @darrell!" creator="Pierre Beck / Michael Herger" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="1a2f6f4a6b11af556aec2f6843a8f744b3070918" url="https://www.herger.net/_data/Qobuz-3.2.0.zip" version="3.2.0">
+    <plugin name="Qobuz" category="musicservices" changes="v3.2.0: Improve album and track information menus - thanks @darrell!" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="1a2f6f4a6b11af556aec2f6843a8f744b3070918" url="https://www.herger.net/_data/Qobuz-3.2.0.zip" version="3.2.0">
       <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
