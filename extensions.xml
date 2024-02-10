@@ -88,7 +88,7 @@
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="NPwithRatingsInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="0d6711902a9080177d7ad211aa6033411ae9b0ce" target="baby" url="http://af1.userspace.sosou.eu/lms_applets/NPwithRatingsInstaller-baby-1.0.4.zip" version="1.0.4">
-      <desc lang="EN">This applet installs a NowPlaying screen with ratings on your SB Radio (for QVGAlandscapeSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
+      <desc lang="EN">This applet installs a NowPlaying screen with ratings on your SB Radio (for QVGAlandscapeSkin). More information on https://github.com/AF-1</desc>
       <title lang="EN">NowPlaying Screen with Ratings Installer</title>
     </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
@@ -704,19 +704,19 @@
       <title lang="EN">Radio Favourites</title>
     </plugin>
     <plugin name="AlternativePlayCount" category="information" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="6490a32165c20ed9322949885dc4a355814f7757" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.7/lms-alternativeplaycount-1.4.7.zip" version="1.4.7">
-      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information on the GitHub page.</desc>
+      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
     <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="de15abb0289352d27a4e00cb15f8f446d46088cf" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.7/lms-customskip-3.4.7.zip" version="3.4.7">
-      <desc lang="EN">Lets you set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information on the GitHub page.</desc>
+      <desc lang="EN">Lets you set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Custom Skip 3</title>
     </plugin>
     <plugin name="CustomStartStopTimes" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="8ea023a90c8933cb3c534027b0a5fb28ac15b771" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.1.4/lms-customstartstoptimes-1.1.4.zip" version="1.1.4">
-      <desc lang="EN">Allows you to start and stop tracks at a specific playback/song time or to skip a specific part of the song (e.g. silence). Just add custom start, stop or skip times to a track's comment tag and, with the help of this plugin, the song will start or end, when you want it to, or skip an unwanted part. No more annoying song intros or minutes of silence. More information on the GitHub page.</desc>
+      <desc lang="EN">Allows you to start and stop tracks at a specific playback/song time or to skip a specific part of the song (e.g. silence). Just add custom start, stop or skip times to a track's comment tag and, with the help of this plugin, the song will start or end, when you want it to, or skip an unwanted part. No more annoying song intros or minutes of silence. More information and screenshots on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
     <plugin name="CustomTagImporter" category="scanning" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="e96c7676f11e8b61b02003e2c7b2397bb535ec24" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.0.9/lms-customtagimporter-1.0.9.zip" version="1.0.9">
-      <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags). More information on the GitHub page.</desc>
+      <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags). More information and screenshots on the GitHub page.</desc>
       <title lang="EN">Custom Tag Importer</title>
     </plugin>
     <plugin name="DarkDefaultSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="4d691ebfe712e65c27a7b1c9cf86ce8dc491820b" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/1.0.3/lms-darkdefaultskin-1.0.3.zip" version="1.0.3">
@@ -724,28 +724,28 @@
       <title lang="EN">Dark Default Skin</title>
     </plugin>
     <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="56fbf3396007a64da241c4f28b7406fb4b8a3d22" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.4/lms-dynamicplaylists-4.3.4.zip" version="4.3.4">
-      <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information on the GitHub page.</desc>
+      <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
     <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="72c07f9edb7c20e57a25ba45903f645dd4e7250f" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.4.7/lms-dynamicplaylistcreator-1.4.7.zip" version="1.4.7">
-      <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information on the GitHub page.</desc>
+      <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
     <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="1f6eba06abb819a6eca939221d85068535d4ae4e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.6.0/lms-ratingslight-2.6.0.zip" version="2.6.0">
-      <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information on the GitHub page.</desc>
+      <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
     <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="e5e0aa737200facb401c4a6ae3adccb5e234f14a" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.4/lms-virtuallibrarycreator-1.2.4.zip" version="1.2.4">
-      <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information on the GitHub page.</desc>
+      <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
     <plugin name="VisualStatistics" category="information" creator="AF" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="aff1479616f5cf53c4689d5eccebbc10e72d9ec0" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.6.3/lms-visualstatistics-1.6.3.zip" version="1.6.3">
-      <desc lang="EN">Have a look at your library statistics with charts. More information on the GitHub page.</desc>
+      <desc lang="EN">Have a look at your library statistics with charts. Screenshots and more information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="cedf66000c88332d555720f33822202eee7ee6e7" url="https://github.com/CDrummond/lms-material/releases/download/4.2.2/lms-material-4.2.2.zip" version="4.2.2">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="027803d9980607d0e1046324ae553a5aab61d0f3" url="https://github.com/CDrummond/lms-material/releases/download/4.3.0/lms-material-4.3.0.zip" version="4.3.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
