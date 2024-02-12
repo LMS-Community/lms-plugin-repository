@@ -648,7 +648,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="b8932911afe99359748761b4ddc89d2aac06ed40" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.170.zip" version="0.170">
+    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="d444308d7fef8551419689d14ba427915653b4f6" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.200.zip" version="0.200">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
