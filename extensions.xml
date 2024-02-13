@@ -284,9 +284,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="8b34b2d15ac437cbd38fb2e2ccc43e411c4d94a5" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.15.zip" version="0.0.15">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="2a991562012425dbc797f8609b723d9847067480" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.16.zip" version="0.0.16">
       <changes lang="EN">
-				- Updated station list - out goes Christmas
+				- New stream URL format for Magic resulted in station match failures
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
