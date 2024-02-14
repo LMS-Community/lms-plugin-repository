@@ -103,6 +103,7 @@ my $categoriesMap = {
 	'SuperDateTime' => 'information',
 	'SwitchGroupPlayer' => 'playlists',
 	'SyncOptions' => 'tools',
+ 	'TIDAL' => 'musicservices',
 	'TimesRadio' => 'radio',
 	'TitleSwitcher' => 'information',
 	'TrackStat' => 'information',
