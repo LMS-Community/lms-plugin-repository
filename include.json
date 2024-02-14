@@ -46,7 +46,7 @@
 		"https://mspertus.github.io/lms-downloads/repo.xml",
 		"http://www.hashsum.org/LMS/repo.xml",
 		"https://tvh.codechimp.org/repo.xml",
-		"https://master.dl.sourceforge.net/project/other-lms-plugins/repo.xml?viasf=1",
+		"https://master.dl.sourceforge.net/project/other-lms-plugins/repo.xml?viasf=1"
 	],
 	"disabled": [
 		"https://grebrown-projects.googlecode.com/svn/repo.xml",
