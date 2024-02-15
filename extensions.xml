@@ -668,7 +668,7 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" maxTarget="*" minTarget="8.3" sha="52f90e7dfa3493da3db1526a5a91747604ef1ed0" url="http://downloads.sourceforge.net/project/other-lms-plugins/TIDAL-0.1.0.zip" version="0.1.0">
+    <plugin name="TIDAL" category="musicservices" maxTarget="*" minTarget="8.3" sha="924e0a4fdfc82e947e633a3465bfd7b3ca34596b" url="http://downloads.sourceforge.net/project/other-lms-plugins/TIDAL-0.3.0.zip" version="0.3.0">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
