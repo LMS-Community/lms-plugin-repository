@@ -791,7 +791,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="77ed4286d43284926aac9b3cdf6bb4433fe8a8a2" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/0.6.0/TIDAL.zip" version="0.6.0">
+    <plugin name="TIDAL" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="2ab9d16aa6ca0f905d8a49c529f42cfc2b4bb73b" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/0.6.1/TIDAL.zip" version="0.6.1">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
