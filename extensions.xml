@@ -8,6 +8,16 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
+    <applet name="SqueezeIR" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/squeezeir" maxTarget="*" minTarget="7.4" sha="abd03e5d1c31dc5cdc661e72750f65ac820187b5" target="jive|squeezeplay" url="http://www2.koukalaka.me.uk/squeezebox/repo/applets/SqueezeIR.zip" version="2.03">
+      <changes lang="EN">See the change log (http://www.koukalaka.me.uk/squeezebox/squeezeir/change-log).</changes>
+      <desc lang="EN">Use your Duet Controller's infra-red emitter to control other devices such as your amplifier.</desc>
+      <title lang="EN">Squeeze IR</title>
+    </applet>
+    <applet name="LineInButton" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/line-in-button" maxTarget="*" minTarget="7.4" sha="bb28c392eea7cc8b58c344d7ab6233949e344847" target="baby" url="http://www2.koukalaka.me.uk/squeezebox/repo/applets/LineInButton.zip" version="1.01">
+      <changes lang="EN">See the change log (http://www.koukalaka.me.uk/squeezebox/line-in-button/change-log).</changes>
+      <desc lang="EN">Enables the radio's line input to be selected by holding the Home or Sleep buttons on the device or remote.</desc>
+      <title lang="EN">Line-In Button</title>
+    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -126,6 +136,10 @@
     <title lang="SV">Tillägg från tredje part</title>
   </details>
   <patches>
+    <patch name="MoreRadioPresets" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/more-radio-presets" maxTarget="*" minTarget="7.4" sha="4dcc2ff0886795fcb788ddaa3e74cd585e24e04a" target="baby" url="http://www2.koukalaka.me.uk/squeezebox/repo/patches/MoreRadioPresets.patch" version="1.00">
+      <desc lang="EN">Adds options for Presets 6-10 to the Shortcuts applet.</desc>
+      <title lang="EN">More Radio Presets</title>
+    </patch>
     <patch name="60a51265-1938-4fd7-b703-12d3725870da" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.slimdevices.com/index.php/Patch_Installer_applet" maxTarget="7.5" minTarget="7.5" sha="36f4342b81fcafdce691a55d85810d1d10465156" url="http://erland.github.io/squeezebox-patchinstaller/patches/CustomAlarmWindow/CustomAlarmWindow-1.0.patch" version="1.0">
       <desc lang="EN">Makes it possible open a third party applet when an alarm is triggered instead of the standard alarm snooze popup, this patch doesn't add any user visible features it just adds an API which other plugins can use</desc>
       <title lang="EN">Custom alarm window</title>
