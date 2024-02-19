@@ -544,6 +544,10 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
+    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="c55cea4b35e6346e7f0f3378fed9b8d8de42d9f5" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.2.7/lms-plugin-Pyrrha-0.2.7.zip" version="0.2.7">
+      <desc lang="EN">Daughter of Pandora</desc>
+      <title lang="EN">Pyrrha</title>
+    </plugin>
     <plugin name="PowerSave" category="tools" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://jasonholtzapple.github.io/slimdevices/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
       <desc lang="EN">Power off your squeezebox after a certain amount of time (idle or otherwise)</desc>
       <title lang="EN">PowerSave</title>
@@ -723,7 +727,7 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="56fbf3396007a64da241c4f28b7406fb4b8a3d22" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.4/lms-dynamicplaylists-4.3.4.zip" version="4.3.4">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="8501c16a584831b4e72d52f79d7526f57d28c820" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.5/lms-dynamicplaylists-4.3.5.zip" version="4.3.5">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
@@ -731,7 +735,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="1f6eba06abb819a6eca939221d85068535d4ae4e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.6.0/lms-ratingslight-2.6.0.zip" version="2.6.0">
+    <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="e89d3e878e7c3efe2b1d040b37cc04d62d587248" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.6.2/lms-ratingslight-2.6.2.zip" version="2.6.2">
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
