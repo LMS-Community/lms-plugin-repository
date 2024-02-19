@@ -791,7 +791,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="f9d741625c174aa92e4d2a700f29280d762ad580" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/0.6.2/TIDAL.zip" version="0.6.2">
+    <plugin name="TIDAL" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="ae0064d887e213f1808c8727a90109bc55a2bb1a" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/0.6.3/TIDAL.zip" version="0.6.3">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
@@ -970,8 +970,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="9a7940a0db0a7743b30ea6a7937bd3688ec19a21" url="https://www.herger.net/_data/1001Albums-1.3.2.zip" version="1.3.2">
-      <changes lang="EN">v1.3.2: add support for YouTube and new TIDAL plugins.</changes>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="9b5112cfb4524e42eebf2953a71778e748a22ee3" url="https://www.herger.net/_data/1001Albums-1.3.3.zip" version="1.3.3">
+      <changes lang="EN">v1.3.3: add support for YouTube and new TIDAL plugins.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
