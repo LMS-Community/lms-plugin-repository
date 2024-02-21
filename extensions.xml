@@ -1013,6 +1013,10 @@
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
+    <plugin name="M6Encore" category="hardware" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.6" sha="5bd361d6f786347f6a8593a0f13fdc7a7dd9fcb0" url="https://www.herger.net/_data/M6Encore-0.1.0.zip" version="0.1.0">
+      <desc lang="EN">Support for Musical Fidelity M6 Encore</desc>
+      <title lang="EN">Musical Fidelity M6 Encore</title>
+    </plugin>
     <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f714a405d8327459a1676ee3d819cb77914bb7f7" url="https://www.herger.net/_data/MusicArtistInfo-1.11.2.zip" version="1.11.2">
       <changes lang="EN">v1.11.2 - Remove AllMusic - use Wikipedia, Last.fm, or Discogs where appropriate.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
