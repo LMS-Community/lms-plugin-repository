@@ -99,18 +99,6 @@
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
     </applet>
-    <applet name="CustomClock" creator="erland, tcutting" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
-      <changes lang="EN">Initial Release.</changes>
-      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
-      <title lang="EN">CustomClock</title>
-    </applet>
-    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
-      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
-                        </changes>
-      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
-                        </desc>
-      <title lang="EN">License Manager</title>
-    </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" maxTarget="8.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
       <title lang="EN">Headphone Switcher</title>
@@ -968,11 +956,6 @@
     <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="e3dca113027d936c7f111ef20841a9341afe279a" url="https://tvh.codechimp.org/tvh-1.3.31.zip" version="1.3.31">
       <desc lang="EN">TVHeadend Radio Plugin for Logitech Media Server</desc>
       <title lang="EN">TVH</title>
-    </plugin>
-    <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
-      <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
-      <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
-      <title lang="EN">IR Blaster</title>
     </plugin>
     <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="9b5112cfb4524e42eebf2953a71778e748a22ee3" url="https://www.herger.net/_data/1001Albums-1.3.3.zip" version="1.3.3">
       <changes lang="EN">v1.3.3: add support for YouTube and new TIDAL plugins.</changes>
