@@ -969,6 +969,11 @@
       <desc lang="EN">TVHeadend Radio Plugin for Logitech Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
+    <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
+      <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
+      <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
+      <title lang="EN">IR Blaster</title>
+    </plugin>
     <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="9b5112cfb4524e42eebf2953a71778e748a22ee3" url="https://www.herger.net/_data/1001Albums-1.3.3.zip" version="1.3.3">
       <changes lang="EN">v1.3.3: add support for YouTube and new TIDAL plugins.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
