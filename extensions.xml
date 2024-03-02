@@ -259,14 +259,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="2f0f0b38c3b990fc7261114c9eba9d7361f4b6d6" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.8.zip" version="0.4.8">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="a662accfda7ee3f8e6ced67d55c0d8d47debd628" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.9.zip" version="0.4.9">
       <changes lang="EN">
-				- Add FIP Sacre francais !
-				- API calls for song info changed again
+				- Add France Musique Piano Zen
 			</changes>
       <changes lang="FR">
-				- Ajouter FIP Sacre francais !
-				- Les appels de l'API pour les informations sur la chanson ont encore été modifiés
+				- Ajouter France Musique Piano Zen
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
