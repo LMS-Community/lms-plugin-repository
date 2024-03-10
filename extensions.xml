@@ -1047,7 +1047,7 @@
       <desc lang="EN">Radio Paradise in lossless FLAC streaming! Give access to Radio Paradise's HD stream pictures. Get better quality artwork (requires LMS 7.8 or more recent).</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.9.0: Allow selecting what Home items you want to display. v4.9.2: update French translation (thanks @Franck-Berry!), add more icons (thanks @cpd73!)." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="912c5a8bb6cef354523ef2e8ea84dbb053d65572" url="https://downloads.nixda.ch/Spotty-4.9.2.zip" version="4.9.2">
+    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="9a552ce608558eca5a64add02a7aa6f246cef08d" url="https://downloads.nixda.ch/Spotty-4.10.0.zip" version="4.10.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
