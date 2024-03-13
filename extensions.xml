@@ -986,6 +986,10 @@
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
     </plugin>
+    <plugin name="DocsetCreator" category="tools" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="73dc6aca59179652dd28b0c049f0b9d36a4e95e4" url="http://www.herger.net/_data/DocsetCreator-0.5.0.zip" version="0.5.0">
+      <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
+      <title lang="EN">Create docsets for Dash</title>
+    </plugin>
     <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7e1e6dd7f492a43b26a94a1b3ca05296671ca5e" url="https://www.herger.net/_data/DRS-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
@@ -1034,6 +1038,10 @@
     <plugin name="Phishin" category="musicservices" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.6" sha="647f84620f12ed3bbdcac66157148b3ca4613540" url="https://www.herger.net/_data/Phishin-0.1.3.zip" version="0.1.3">
       <desc lang="EN">phish.in' gives you access to Live Phish Audio Streams</desc>
       <title lang="EN">phish.in'</title>
+    </plugin>
+    <plugin name="PiCorePlayer" category="hardware" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="1edbee1437f4b18eb70d390e3619ecaaf47f1e23" url="http://www.herger.net/_data/PiCorePlayer-0.0.3.zip" version="0.0.3">
+      <desc lang="EN">Access pCP Settings pages</desc>
+      <title lang="EN">piCorePlayer Support</title>
     </plugin>
     <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
