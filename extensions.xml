@@ -75,19 +75,19 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="1f4182d5d1f563e236e3b2778e7e9cbd08f40315" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-squeezeplay-1.0.6.zip" version="1.0.6">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="1f4182d5d1f563e236e3b2778e7e9cbd08f40315" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.0.6.zip" version="1.0.6">
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1  Windows and Linux users: please read the FAQ BEFORE installing.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="313a433f548c5e17f984cafb58de4447772e76c2" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-pcp-1.0.7.zip" version="1.0.7">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="313a433f548c5e17f984cafb58de4447772e76c2" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.0.7.zip" version="1.0.7">
       <desc lang="EN">This applet installs the Dark Flat Skins on your piCorePlayer (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="7f4ec607f05a86af8a2712e3999100299dfe3588" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/DarkFlatSkinInstaller-fab4-1.0.6.zip" version="1.0.6">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/jivelite-darkflatskin" maxTarget="*" sha="7f4ec607f05a86af8a2712e3999100299dfe3588" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.0.6.zip" version="1.0.6">
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch (based on WQVGAsmallSkin). More information, screenshots and FAQ on https://github.com/AF-1. See FAQ for information on known SB Touch issue.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="NPwithRatingsInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="0d6711902a9080177d7ad211aa6033411ae9b0ce" target="baby" url="http://af1.userspace.sosou.eu/lms_applets/NPwithRatingsInstaller-baby-1.0.4.zip" version="1.0.4">
+    <applet name="NPwithRatingsInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="0d6711902a9080177d7ad211aa6033411ae9b0ce" target="baby" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=NPwithRatingsInstaller-baby-1.0.4.zip" version="1.0.4">
       <desc lang="EN">This applet installs a NowPlaying screen with ratings on your SB Radio (for QVGAlandscapeSkin). More information on https://github.com/AF-1</desc>
       <title lang="EN">NowPlaying Screen with Ratings Installer</title>
     </applet>
@@ -680,8 +680,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="5e587efaacd1073ad28dae7e74a766cec67efc1c" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.35.14/BBCSoundsPlugin_2_35_14.zip" version="2.35.14">
-      <changes lang="EN">NEW 2.35.14 Fix for broken sign-in</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="9d0b18773562e20da4cb5a46d250bca59e324d42" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.36.0/BBCSoundsPlugin_2_36_0.zip" version="2.36.0">
+      <changes lang="EN">NEW 2.36.0 Added support for News menu</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
