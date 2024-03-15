@@ -707,6 +707,7 @@
     </plugin>
     <plugin name="AlternativePlayCount" category="information" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="6490a32165c20ed9322949885dc4a355814f7757" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.7/lms-alternativeplaycount-1.4.7.zip" version="1.4.7">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information, screenshots and FAQ on the GitHub page.</desc>
+      <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Créez des sauvegardes (programmées), restaurez depuis des sauvegardes. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
     <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="de15abb0289352d27a4e00cb15f8f446d46088cf" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.7/lms-customskip-3.4.7.zip" version="3.4.7">
@@ -725,8 +726,10 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="535fd5c801d6e06b4f3473c2a4f6d84ce1b55359" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.6/lms-dynamicplaylists-4.3.6.zip" version="4.3.6">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="15bf568a08a3318cbc70fb7e4cdd0377d558f04c" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.7/lms-dynamicplaylists-4.3.7.zip" version="4.3.7">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information, screenshots and FAQ on the GitHub page.</desc>
+      <desc lang="FR">Ce plugin permet de jouer des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques. Vient avec un ensemble de listes de lecture dynamiques prêtes à l'emploi. En addition vous pouvez maintenant utiliser vos propres listes de lecture dynamiques directement dans DPL sans plugin intermédiaire. Plus d'information sur la page GitHub.</desc>
+      <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen. Kommt mit einer Reihe vordefinierter dynamischer Wiedergabelisten. Mehr Informationen auf der GitHub Seite.</desc>
       <title lang="EN">Dynamic Playlists 4</title>
     </plugin>
     <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="75e7dcf17782e8f63b2f77eea6ff16b49b25baa5" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.0/lms-dynamicplaylistcreator-1.5.0.zip" version="1.5.0">
