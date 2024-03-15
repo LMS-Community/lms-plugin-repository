@@ -47,7 +47,8 @@
 		"http://www.hashsum.org/LMS/repo.xml",
 		"https://tvh.codechimp.org/repo.xml",
 		"https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/repo/repo.xml",
-		"https://github.com/sspiff/lms-plugin-pyrrha/releases/download/repo-stable/repo.xml"
+		"https://github.com/sspiff/lms-plugin-pyrrha/releases/download/repo-stable/repo.xml",
+		"https://raw.githubusercontent.com/philippe44/lms-deezer/main/repo/repo.xml"
 	],
 	"disabled": [
 		"https://grebrown-projects.googlecode.com/svn/repo.xml",
