@@ -800,6 +800,10 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="9e51c19cbe8c46ff2811d6892c443e849a06e86a" url="https://github.com/philippe44/lms-deezer/releases/download/2.10.0/Deezer.zip" version="2.10.0">
+      <desc lang="EN">Deezer for local LMS use</desc>
+      <title lang="EN">Deezer local</title>
+    </plugin>
     <plugin name="RatingButtons" category="information" creator="flipflip" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="8f1086f4db980b90ea47c997a4cb4f27882df9ca" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip" version="0.9">
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
