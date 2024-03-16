@@ -542,7 +542,7 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="924df79c66efbf9e9b631038d90b6517bda50d26" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.4.0/lms-plugin-Pyrrha-0.4.0.zip" version="0.4.0">
+    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="2b68fc1feaf6e65e2b671892151f483ca840cc58" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.4.2/lms-plugin-Pyrrha-0.4.2.zip" version="0.4.2">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
     </plugin>
@@ -658,7 +658,7 @@
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="bb02b038ee4573fa0c18c1b1b3ce31ca63901418" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.3.5.zip" version="3.3.5">
+    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="fb519abcb660de9a46bc542e7501b4b55230b7f5" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.3.6.zip" version="3.3.6">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
