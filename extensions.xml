@@ -626,7 +626,7 @@
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="1adbeaf172cc77c7e839e5c4ef3eca906a409d7d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.16.2.zip" version="0.16.2">
+    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="00700aac5f58dd2167ea8a2bb8b48cb30c4f66ac" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.17.0.zip" version="0.17.0">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
@@ -750,7 +750,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="b7f515065480c997ffc456e9fc2f22d3acb14295" url="https://github.com/CDrummond/lms-material/releases/download/4.3.4/lms-material-4.3.4.zip" version="4.3.4">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="06c8d0f3ed56a8d74b9b3504ca0712171ae15b2a" url="https://github.com/CDrummond/lms-material/releases/download/4.4.0/lms-material-4.4.0.zip" version="4.4.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -800,7 +800,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="952275d87b9de86970c1714f66a1175937917a8a" url="https://github.com/philippe44/lms-deezer/releases/download/2.11.0/Deezer.zip" version="2.11.0">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="a9a90d5accf17075b24dcc557726318e3d2e153a" url="https://github.com/philippe44/lms-deezer/releases/download/2.12.0/Deezer.zip" version="2.12.0">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
