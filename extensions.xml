@@ -259,12 +259,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e7baf381bfbaca42bd8a73a6b563b7a1895d66bf" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.10.zip" version="0.4.10">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="1bf2f3d2414b7899a769d35d43142ddb7ac9af1a" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.11.zip" version="0.4.11">
       <changes lang="EN">
-				- For France Culture, metadata source changed
+				- Add France Bleu 100% Chanson Francaise
 			</changes>
       <changes lang="FR">
-				- Pour France Culture, la source des métadonnées a changé
+				- Ajouter France Bleu 100% Chanson Francaise
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
