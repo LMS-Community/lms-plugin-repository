@@ -228,12 +228,12 @@
   <plugins>
     <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
-      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher. Bitte geben Sie in den Einstellungen die Genres an, für die Lesezeichen angelegt werden sollen, sonst werden auch z. B. für Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
+      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -322,11 +322,6 @@
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
-    </plugin>
-    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
-      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
-      <title lang="EN">RadioFeeds UK and Ireland</title>
     </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
