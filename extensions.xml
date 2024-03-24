@@ -740,7 +740,7 @@
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="e5e0aa737200facb401c4a6ae3adccb5e234f14a" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.4/lms-virtuallibrarycreator-1.2.4.zip" version="1.2.4">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="abf0979e2ca8f20fe5fa278753812e9ea2373b2b" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.5/lms-virtuallibrarycreator-1.2.5.zip" version="1.2.5">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
