@@ -705,7 +705,7 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="6490a32165c20ed9322949885dc4a355814f7757" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.7/lms-alternativeplaycount-1.4.7.zip" version="1.4.7">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="a34e97ebc605cd19d522c7b134815442f4546638" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.8/lms-alternativeplaycount-1.4.8.zip" version="1.4.8">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information, screenshots and FAQ on the GitHub page.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Créez des sauvegardes (programmées), restaurez depuis des sauvegardes. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Alternative Play Count</title>
@@ -800,7 +800,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="e044f5976a176d541fe5e66537b745a575f87a06" url="https://github.com/philippe44/lms-deezer/releases/download/2.31.1/Deezer.zip" version="2.31.1">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="73be42dd7f59cbb88d6d393b0b40c0c7951196be" url="https://github.com/philippe44/lms-deezer/releases/download/2.31.4/Deezer.zip" version="2.31.4">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
