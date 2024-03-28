@@ -800,7 +800,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="d2bbd8c9c683874f713ba86269efea8d173696ee" url="https://github.com/philippe44/lms-deezer/releases/download/2.34.1/Deezer.zip" version="2.34.1">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="23acd51a4cd8d1be9cb3f8c87158df883670d12b" url="https://github.com/philippe44/lms-deezer/releases/download/2.41.0/Deezer.zip" version="2.41.0">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
