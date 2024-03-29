@@ -1,6 +1,6 @@
 # lms-plugin-repository
 
-The `lms-plugin-repository` repository hosts the plugin and extensions information file for the [Logitech Media Server](http://github.com/LMS-Community/slimserver) (aka. LMS).
+The `lms-plugin-repository` repository hosts the plugin and extensions information file for the [Lyrion Music Server](http://github.com/LMS-Community/slimserver) (aka. LMS).
 
 A GitHub Actions file does collect the information from the various plugin authors' own repositories and merges them into one XML file. This XML file is to be used in LMS v7.9.4 and later.
 The task is triggered automatically every few hours, or can be launched manually.
