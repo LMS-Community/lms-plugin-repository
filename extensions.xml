@@ -722,7 +722,7 @@
       <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags). More information and screenshots on the GitHub page.</desc>
       <title lang="EN">Custom Tag Importer</title>
     </plugin>
-    <plugin name="DarkDefaultSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="616f6bc87c347f94a03cdcd6d92e1457dc95168e" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/1.0.4/lms-darkdefaultskin-1.0.4.zip" version="1.0.4">
+    <plugin name="DarkDefaultSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="0169953ab6a127e5255f466324c9c91ca0ed04f9" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/1.0.5/lms-darkdefaultskin-1.0.5.zip" version="1.0.5">
       <desc lang="EN">Dark-themed version of the LMS Default skin. Screenshots and more information on GitHub.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
