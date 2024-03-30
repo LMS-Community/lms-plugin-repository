@@ -542,7 +542,7 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="2b68fc1feaf6e65e2b671892151f483ca840cc58" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.4.2/lms-plugin-Pyrrha-0.4.2.zip" version="0.4.2">
+    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="d86096670e5d566134d9e0175662d3a8f65ede5c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.5.0/lms-plugin-Pyrrha-0.5.0.zip" version="0.5.0">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
     </plugin>
@@ -800,7 +800,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="1379b207f62e339ad306a6d1a7740bd7398a5781" url="https://github.com/philippe44/lms-deezer/releases/download/2.51.0/Deezer.zip" version="2.51.0">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="91569296354a8d78e9a58a6897d576f5bd17e963" url="https://github.com/philippe44/lms-deezer/releases/download/2.52.0/Deezer.zip" version="2.52.0">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
