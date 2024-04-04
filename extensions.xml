@@ -680,8 +680,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="9d0b18773562e20da4cb5a46d250bca59e324d42" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.36.0/BBCSoundsPlugin_2_36_0.zip" version="2.36.0">
-      <changes lang="EN">NEW 2.36.0 Added support for News menu</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="0ee19c4f75db62020dfc56398d70be5f95c3d802" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.36.2/BBCSoundsPlugin_2_36_2.zip" version="2.36.2">
+      <changes lang="EN">NEW 2.36.2 Fix issue with live radio pause and rewind from pause</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -800,7 +800,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="f77611d85d30cdcb75bd12791e29213997db2200" url="https://github.com/philippe44/lms-deezer/releases/download/2.70.0/Deezer.zip" version="2.70.0">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="b14398d9fd87cb2bcc1f918ee18c0850a84ab3a8" url="https://github.com/philippe44/lms-deezer/releases/download/2.71.0/Deezer.zip" version="2.71.0">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
