@@ -289,32 +289,89 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="e34b72cb2319457d50c10fcb4e951458c3563311" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.41.zip" version="0.0.41">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="1e2072592cdb6f915261cf25744c3bea711c08d2" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.42.zip" version="0.0.42">
       <changes lang="EN">
-				- Add Radio Siamsa (ie) - artist, title (already present), album, duration, coverart
-				- Add Play Nostalgie (be) - artist, title, cover art, duration - for main station only, programme nane and duration - 9 stations
-				- Add WUNC - Chapel Hill, NC - artist, title, CoverSearch, programme name, duration - 2 stations
-				- Add Beethoven FM (cl) - artist, title, duration - also known as UC Radio Beethoven
-				- Add Sweet FM (fr) - artist, title and CoverSearch
-				- Add Chante Zouk - artist, title and CoverSearch - 4 stations (not included Guadeloupe as seems to be same stream as Saint Martin)
-				- Add Sky Legend (fr) - artist, title and CoverSearch - has a flac stream but not working at the moment (http 404 error)
-				- Add Uturn Radio - artist, title, cover art plus CoverSearch - 4 stations
-				- Add Rondo Classic (fi) - artist and title ... but not very friendly layout for artist/title and they have problem with accented characters - have enabled CoverSearch but do not expect many successes - 3 stations, 2 of which have FLAC stream
-				- Add Radio Bremen (de) - artist, title, CoverSearch - programme title, subtitle, icon - 5 stations but Cosmo has totally different metadata content and is very limited
-				- Add Folk Alley - artist, title, sometimes album, and CoverSearch - 5 stations
-				- Add BRPR - Asheville, NC - programme name and duration, plus song details sometimes - 2 stations
-				- Add P4 group (no) - artist, title, cover art, duration - plus between tracks only, might have programme title and image - 10 stations - special case as broadcaster does not want stream URLs distributed so stations do not appear in plugin. See https://www.lydenavnorge.no/hjelp/direktelenker-til-vaare-radiokanaler for stream URLs and add to favourites.
-				- Add Miled Music - artist and title already present, add CoverSearch. 40 genre-based stations (although their station logo implies that there should be 100)
-				- For JB Radio2 - FLAC stream URL has changed
-				- For CityRadio (cl) - add extra station (CityRadio Pop) and logo location has changed
-				- For CBC Canada (English) - increase maxsonglth
-				- For Power (tr) - stream URL changed for primary station
-				- For Sveriges Radio - higher rate AAC streams available for small number of stations and a flac stream now available for one - timing is off though
-				- For M Radio (fr) - out goes Noel and back comes Talent TV plus in comes Quebec
-				- For RTL (be) - Classic Rock becomes Chanson Française and Contact X-mas reverts to Contact Fresh
-				- Some other Christmas stations have stopped - JOE Christmas (JOE (be)), Cool Yule (Jazz FM91 (ca))
-				- You can remove other stations from the menu by adding a filter in the plugin settings
-				- Include test for HTML::FormatText being available and issue warning if not rather than failing to load plugin
+				- Add 24/7 Niche Radio - artist, title, album and CoverSearch - 21 stations
+				- Add 9128.live - artist, title and cover art
+				- Add Agape's JPop/Anisong Radio - artist, title, album, duration and CoverSearch
+				- Add AIDA Radio (de) - artist, title and CoverSearch
+				- Add Amber Sound 107.2FM - artist, title, with CoverSearch, programme title and probably not shown ... icon, subtitle/DJ, programme start and duration
+				- Add Ambiento Radio - artist, title and CoverSearch
+				- Add Ancient FM - artist, title, album and cover art
+				- Add Antenne (de) - artist, title and CoverSearch - programme title (News/Weather and perhaps others) - 53 stations
+				- Add Antenne Kärnten (at) - artist, title, CoverSearch - plug programme title on primary live stream - 17 stations
+				- Add Antenne Pulheim (de) - artist, title and CoverSearch
+				- Add Brillux Radio (de) - artist, title, duration, cover art plus CoverSearch - programme name, subtitle (presenter) and description
+				- Add Calm Radio (free) - artist, title, cover. Note - this only supports the (263 at this time) free channels for now and they are added through &quot;auto-registration&quot; feature of RNP ... so play one such as https://streams.calmradio.com/api/6224/128/stream to get it started
+				- Add CoverSearch for AudioAddict (di.fm, RadioTunes, JazzRadio, ClassicalRadio, RockRadio, ZenRadio) - note - stations not listed in this plugin. Use AudioAddict/di.fm etc plugin and add subscription account details
+				- Add ERT (gr) programme title, subtitle, duration, icon (sometimes) - and for some stations ... artist, title and CoverSearch - 14 stations
+				- Add Haarlem Shuffle (nl) - artist, title, cover - includes Flac
+				- Add IP music (ch) - artist, title and cover art - 2 stations (https certificate issue - enable insecureHTTPS)
+				- Add KAZU - Seaside, CA - artist, title, composer (classical), duration and CoverSearch - programme title, descriprion and duration - 2 stations
+				- Add KCSU Fort Collins, CO - artist, title, album (sometimes) and CoverSearch - titles slow to update
+				- Add KKUP - Santa Clara, CA - artist, title, album, label and CoverSearch - programme title and sometimes ... presenter
+				- Add KOOP Austin, TX - artist, title, and CoverSearch programme title and icon
+				- Add KOZT - The Coast - Mendocinio County, CA - artist, title and CoverSearch
+				- Add KUER Salt Lake City, UT - Programme title and duration plus track information for Classical station - 4 stations
+				- Add Le Bon Mix (fr) - artist, title, album, coverart - 6 stations, 1 with Flac
+				- Add Love Radio (gr) - artist and title on 3 stations - programme title and duration on 1 station
+				- Add LX Classics - artist, title and CoverSearch
+				- Add Oemroep Gelderland (nl) - artist, title and CoverSearch
+				- Add Progressieve Rock (nl) - artist, title, duration and CoverSearch - includes Flac
+				- Add Radio 357 (pl) - artist, title, CoverSearch - programme title, subtitle, icon, duration
+				- Add Radio Caroline (and move Caroline Flashback to be in the same group) - artist, title, album, label (sometimes), duration, CoverSearch - programme title, icon
+				- Add Radio Evening in the Galaxy - artist, title, CoverSearch - programme title - inclues Flac
+				- Add Radio Mais (br) - artist, title (already present) augment with CoverSearch - 5 stations
+				- Add Radio Neptune (fr) - artist, title, composer (for classical) and CoverSearch
+				- Add Radio Nowy Swiat (pl) - artist, title and CoverSearch
+				- Add Radio Paname (fr) - artist, title and CoverSearch
+				- Add Radio Planeta (es) - artist and title already present, adds CoverSearch
+				- Add radioboss.fm - this is a directory of 500+ stations ... experimental for now
+				- Add RADIOM (fr) - artist, title and CoverSearch - includes Flac
+				- Add RFM (pt) - artist, title, duration, coverart augmented by CoverSearch - 11 stations (Dance It station often has no up to date track info)
+				- Add Riverside Radio (nl) - artist, title and CoverSearch - includes Flac
+				- Add Rock Antenne (de) - artist, title (already present) augmented with CoverSearch - 24 stations (in the same order as their data)
+				- Add Schwarzwaldradio (de) - artist and title already present - add CoverSearch
+				- Add SmoothJazz.com.pl Radio (pl) - artist, title and CoverSearch
+				- Add The Mountain - Roanoke, VA - artist, title, album (sometimes), cover art augmented with CoverSearch
+				- Add The Penthouse - artist, title and CoverSearch
+				- Add TrancePulse (ie) - artist, title and CoverSearch - includes Flac
+				- Add WDCB - Chicago, IL - artist, title, album, label and CoverSearch - programme title and sometimes ... presenter
+				- Add WDR (de) - artist, title and CoverSearch - 22 stations ... however, they sometimes put other text in place while a track is playing and most of the streaming-only stations have no track info available and sometimes have title and artist reversed
+				- Add WDVX - Knoxville, TN - artist, title, album, label, duration plus CoverSearch
+				- Add Welle Niederrhein (de) - artist, title, duration, CoverSearch - programme title, presenter, duration, icon - their WebRadios are the same as Radio Koln so get them from there
+				- Add WGBH - Boston, MA - programme title, and sometimes artist, title, album, duration and CoverSearch - 5 stations
+				- Add WMOT - Murfreesboro, TN - artist, title and CoverSearch - programme title and duration
+				- Add WNCW - Spindale, NC - artist, title plus CoverSearch - programme title, subtitle
+				- Add WNRN - Charlottesville, VA - artist, title, album (not always present) and CoverSearch
+				- Add WORT - Madison, WI - artist, title and CoverSearch - programme title
+				- Add WUMB - Boston, MA - artist, title (already present), album, label (sometimes) - 7 stations. Blues station often has track and artist reversed.
+				- Add WXPK - 107.1 The Peak - Port Chester, NY - artist, title and CoverSearch
+				- Add WXPN - Philadelphia, PA - artist, title and CoverSearch - track timing not very accurate
+				- Add WZUM - Pittsburgh, PA - artist, title, album and CoverSearch
+				- Add XKE - Fort Wayne, IN - artist, title, cover plus CoverSearch - sometimes there is no song info (check their web site to confirm)
+				- Add XRDS.fm - Clarksdale, MI - artist, title, album (sometimes) and CoverSearch
+				- For BroadcastRadio - ignore &quot;A Presenter&quot; as a programme title
+				- For classicnl (nl) - metadata source changed and new stream URLs
+				- For Eirewave (uk) - flac stream has returned
+				- For FSK - stream URLs changed
+				- For Jazz24 - logo moved
+				- For KDFC - San Francisco, CA - add station Arcade and update main logo (old one gone)
+				- For Klassik Radio - station list updated (mainly name changes - now 41 stations). Using their song metadata because not all have ICY metadata and can get album name sometimes ... with side effect ... their timings can be wrong by 10s of seconds
+				- For La Urban (es) - extra stream URLs for Flow Radio
+				- For NPR (US) stations - make it easier to show the song composer
+				- For Radio Koln (de) - add programme icon (typically a picture of the presenter)
+				- For Radio Liechtenstein - metadata source changed, now with more fields - artist, title, album, year, label (but seems slow to change)
+				- For Radio SALÜ (de) - their live track info appears to have stopped working. This brings back a degraded version but only for the primary station. They truncate the text so often the end of the artist name is missing.
+				- For RTE - change some of the station logos
+				- For WDR (de) - add HLS streams but no metadata for them
+				- Update regiocast.de group sets of stations (80s80s, 90s90s, Barbara, Delta, PSR, Radio BOB!, RSA Sachsen, RSH)
+				- Logo updates - Grupo COPE (es), Mother Earth Radio, Organ Media, Radio Club 80 (cl)
+				- Logo updates - Jazz de Ville, Mechanical Music Radio, Soverartist, title and CoverSearcheign Communications, MI, SuperStereo Chile
+				- Remove Agape's JPop/Anisong Radio - site disappeared
+				- Enhanced the text parsing for programme start/end times (because of Amber Sound) but might have broken things ... so verify that stations that had working programme durations still work properly
+				- Risk an automatic urldecode when parsing plain text (done for WGBH)
+				- Slight change to how coverart field is checked because of null hash in converted XML from RFM (pt)
 			</changes>
       <desc lang="EN">Programme and track information for a variety of radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
@@ -800,7 +857,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="3d95eb9db78ac3404a7d943239ec5087ab9ac705" url="https://github.com/philippe44/lms-deezer/releases/download/2.72.0/Deezer.zip" version="2.72.0">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="b7ebff4f145c7a7b613f4144c6f166d420e2fbc8" url="https://github.com/philippe44/lms-deezer/releases/download/2.80.0/Deezer.zip" version="2.80.0">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
