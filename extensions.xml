@@ -259,7 +259,7 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="6e4cb3f5559edc361dff216b5dc5a5c04025a4d7" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.12.zip" version="0.4.12">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="6e4cb3f5559edc361dff216b5dc5a5c04025a4d7" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.12.zip" version="0.4.12">
       <changes lang="EN">
 				- Data format changed for some stations
 			</changes>
@@ -270,7 +270,7 @@
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
-    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
+    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
 				- Match the HLS stream URLs
 			</changes>
@@ -289,7 +289,7 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" maxTarget="*" minTarget="7.5" sha="1e2072592cdb6f915261cf25744c3bea711c08d2" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.42.zip" version="0.0.42">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" link="https://forums.slimdevices.com/showthread.php?115201-Announce-Radio-Now-Playing-plugin" maxTarget="*" minTarget="7.5" sha="1e2072592cdb6f915261cf25744c3bea711c08d2" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.42.zip" version="0.0.42">
       <changes lang="EN">
 				- Add 24/7 Niche Radio - artist, title, album and CoverSearch - 21 stations
 				- Add 9128.live - artist, title and cover art
