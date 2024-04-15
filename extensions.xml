@@ -594,6 +594,10 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
+    <plugin name="BMPFonts" category="hardware" creator="Daniel Frein" email="daniel.frein@gmail.com" link="https://forums.slimdevices.com/forum/user-forums/general-discussion/111149-new-bitmap-fonts-for-transporter-and-sb2-sb3/" maxTarget="*" minTarget="7.0" sha="d3fa0bd48b4d014d88745bf62451887036a7e088" url="https://github.com/dfrein/lms-plugin-repository/raw/main/BMPFonts-1.0.zip" version="1.0">
+      <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
+      <title lang="EN">BMPFonts Plugin</title>
+    </plugin>
     <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="7a1190b80d1aaf9eb908b1a8cccac59bd2400664" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.2.zip" version="1.3.2">
       <changes lang="EN">v1.3.2: Bugfixes and increased image resolution.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
