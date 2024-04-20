@@ -819,7 +819,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="cce641d30766f0ec09c29634e2aff8d3bc497369" url="https://github.com/CDrummond/lms-material/releases/download/4.5.0/lms-material-4.5.0.zip" version="4.5.0">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" maxTarget="*" minTarget="7.9.0" sha="68d70822461deed7b8e8e3ba393b3a7cfa4c9685" url="https://github.com/CDrummond/lms-material/releases/download/4.5.1/lms-material-4.5.1.zip" version="4.5.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -865,7 +865,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="556525330842bd50940557ff16f85f8fe7f26b34" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.2.2/TIDAL.zip" version="1.2.2">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="64d935dd3cac103abc8746a3a0c497019ee817c7" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.3.0/TIDAL.zip" version="1.3.0">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
