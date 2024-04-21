@@ -779,7 +779,7 @@
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Créez des sauvegardes (programmées), restaurez depuis des sauvegardes. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="e286ae831cc9db331535289cf03440ebb7c48f4c" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.8/lms-customskip-3.4.8.zip" version="3.4.8">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="8b1c37e189b1b7d9cc38201c206d0df25988e5cc" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.9/lms-customskip-3.4.9.zip" version="3.4.9">
       <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -869,7 +869,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="e11f505aab17cd1161106dd3378082489434faf4" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.2/Deezer.zip" version="2.81.2">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="80204390b02594d2d4b5986281080eea39758b2b" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.3/Deezer.zip" version="2.81.3">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
