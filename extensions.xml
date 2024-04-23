@@ -1084,7 +1084,7 @@
     </plugin>
     <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
       <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
-      <desc lang="EN">Allows you to configure external image proxies to be used by LMS.</desc>
+      <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
     <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
@@ -1098,7 +1098,7 @@
     </plugin>
     <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f714a405d8327459a1676ee3d819cb77914bb7f7" url="https://www.herger.net/_data/MusicArtistInfo-1.11.2.zip" version="1.11.2">
       <changes lang="EN">v1.11.2 - Remove AllMusic - use Wikipedia, Last.fm, or Discogs where appropriate.</changes>
-      <desc lang="EN">Read album reviews, artist biographies, related artists, see artist pictures and much more.</desc>
+      <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
     <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
@@ -1113,11 +1113,11 @@
       <title lang="DE">Einstellungen aus-/einblenden</title>
     </plugin>
     <plugin name="Phishin" category="musicservices" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.6" sha="647f84620f12ed3bbdcac66157148b3ca4613540" url="https://www.herger.net/_data/Phishin-0.1.3.zip" version="0.1.3">
-      <desc lang="EN">phish.in' gives you access to Live Phish Audio Streams</desc>
+      <desc lang="EN">phish.in' - access to Live Phish Audio Streams</desc>
       <title lang="EN">phish.in'</title>
     </plugin>
     <plugin name="PiCorePlayer" category="hardware" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.9" sha="1edbee1437f4b18eb70d390e3619ecaaf47f1e23" url="http://www.herger.net/_data/PiCorePlayer-0.0.3.zip" version="0.0.3">
-      <desc lang="EN">Access pCP Settings pages</desc>
+      <desc lang="EN">Access pCP Settings pages from within the LMS Settings.</desc>
       <title lang="EN">piCorePlayer Support</title>
     </plugin>
     <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
@@ -1125,11 +1125,11 @@
       <title lang="EN">What Was That Tune?</title>
     </plugin>
     <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!)" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="63905c4c3863d958b9707ae02bd93cb1db93cb86" url="https://www.herger.net/_data/Qobuz-3.5.0.zip" version="3.5.0">
-      <desc lang="EN">Plugin to stream from qobuz.com (needs subscription)</desc>
+      <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
     <plugin name="RadioParadise" category="radio" changes="v3.3.0 - Add option to move to Radio menu instead of My Apps" creator="Michael Herger" email="slim@herger.net" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="141c067aa6802dbb0ee9ff53ec2b1640f80e630a" url="https://www.herger.net/_data/RadioParadise-3.3.0.zip" version="3.3.0">
-      <desc lang="EN">Radio Paradise in lossless FLAC streaming! Give access to Radio Paradise's HD stream pictures. Get better quality artwork (requires LMS 7.8 or more recent).</desc>
+      <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
     <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="9a552ce608558eca5a64add02a7aa6f246cef08d" url="https://downloads.nixda.ch/Spotty-4.10.0.zip" version="4.10.0">
