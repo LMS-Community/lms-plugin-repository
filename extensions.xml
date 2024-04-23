@@ -739,8 +739,9 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="d9bdfecf2e073522cd2db33e524747592c02b51d" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-37.zip" version="5.11.37">
-      <changes lang="EN">(5.11.37) Improved Halftime detection in CBB games.  Added setting for short college team names.</changes>
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="9086584c459ed8b2292e80e632b32df49ab25f62" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-38.zip" version="5.11.38">
+      <changes lang="EN">(5.11.38) Initial fix for weather RADAR maps.  LMS running on Linux and Jivelite players only.
+			Added Czech translations for months.  Allow SDT to load on Lyrion Music Server.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
