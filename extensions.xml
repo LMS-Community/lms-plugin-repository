@@ -373,7 +373,7 @@
 				- Risk an automatic urldecode when parsing plain text (done for WGBH)
 				- Slight change to how coverart field is checked because of null hash in converted XML from RFM (pt)
 			</changes>
-      <desc lang="EN">Programme and track information for a variety of radio stations</desc>
+      <desc lang="EN">Track, cover art and, occasionally, programme information for more than 3600 radio stations</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
@@ -750,8 +750,8 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="0ee19c4f75db62020dfc56398d70be5f95c3d802" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.36.2/BBCSoundsPlugin_2_36_2.zip" version="2.36.2">
-      <changes lang="EN">NEW 2.36.2 Fix issue with live radio pause and rewind from pause</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="c650172f21e908e6a046046282c769dda926b969" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.37.0/BBCSoundsPlugin_2_37_0.zip" version="2.37.0">
+      <changes lang="EN">NEW 2.37.0 Added Collections menu. Plus improvements to menu display for containers</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
