@@ -780,7 +780,7 @@
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Créez des sauvegardes (programmées), restaurez depuis des sauvegardes. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="8b1c37e189b1b7d9cc38201c206d0df25988e5cc" url="https://github.com/AF-1/lms-customskip/releases/download/3.4.9/lms-customskip-3.4.9.zip" version="3.4.9">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="52e59bdbbe0dbfa6cb3a4c3a7c93f94859aac4f4" url="https://github.com/AF-1/lms-customskip/releases/download/3.5.0/lms-customskip-3.5.0.zip" version="3.5.0">
       <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -802,7 +802,7 @@
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen. Kommt mit einer Reihe vordefinierter dynamischer Wiedergabelisten. Mehr Informationen auf der GitHub Seite.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="44d9378060eb8a7c2a2eeaab30c479b5ac25e5e4" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.2/lms-dynamicplaylistcreator-1.5.2.zip" version="1.5.2">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="23fce73571042035ef884cefdb23fdff65d97d78" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.3/lms-dynamicplaylistcreator-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -810,7 +810,7 @@
       <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="7fed72629b8b8f23e49fa81f190e59d4bdc398ec" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.7/lms-virtuallibrarycreator-1.2.7.zip" version="1.2.7">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="e52c6df4eb7b5d0c2bb8a9e2cea7f9ca43e79b55" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.8/lms-virtuallibrarycreator-1.2.8.zip" version="1.2.8">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
