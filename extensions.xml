@@ -776,16 +776,16 @@
       <title lang="EN">Radio Favourites</title>
     </plugin>
     <plugin name="AlternativePlayCount" category="information" creator="AF" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="a34e97ebc605cd19d522c7b134815442f4546638" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.8/lms-alternativeplaycount-1.4.8.zip" version="1.4.8">
-      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. More information, screenshots and FAQ on the GitHub page.</desc>
+      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists, virtual libraries or to skip specific tracks. More information (incl. a more comprehensive feature list), screenshots and FAQ on the GitHub page.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Créez des sauvegardes (programmées), restaurez depuis des sauvegardes. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
     <plugin name="CustomSkip3" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="810a4dc33079573961c43ac621769ba4f877fc6f" url="https://github.com/AF-1/lms-customskip/releases/download/3.5.1/lms-customskip-3.5.1.zip" version="3.5.1">
-      <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically. More information, screenshots and FAQ on the GitHub page.</desc>
+      <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your client playlist should be skipped and removed from the playlist automatically. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
     <plugin name="CustomStartStopTimes" category="playlists" creator="AF" link="https://github.com/AF-1/lms-customstartstoptimes" maxTarget="*" minTarget="7.9" sha="8ea023a90c8933cb3c534027b0a5fb28ac15b771" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.1.4/lms-customstartstoptimes-1.1.4.zip" version="1.1.4">
-      <desc lang="EN">Start and stop tracks at a specific playback/song time or to skip a specific part of the song (e.g. silence) by simply adding custom start, stop or skip times to a track's comments tag. More information and screenshots on the GitHub page.</desc>
+      <desc lang="EN">Start and stop tracks at a specific playback time or skip a specific part of the song (e.g. silence) by simply adding custom start, stop or skip times to a track's comments tag. More information and screenshots on the GitHub page.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
     <plugin name="CustomTagImporter" category="scanning" creator="AF" link="https://github.com/AF-1/lms-customtagimporter" maxTarget="*" minTarget="7.9" sha="11ecbcb8131e047e279505054e5fcc7928d4eeea" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.0/lms-customtagimporter-1.2.0.zip" version="1.2.0">
@@ -797,7 +797,7 @@
       <title lang="EN">Dark Default Skin</title>
     </plugin>
     <plugin name="DynamicPlaylists4" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="fd5c0f8fc04bc7a090309ece7a4dfc4433a8c085" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.3.8/lms-dynamicplaylists-4.3.8.zip" version="4.3.8">
-      <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information, screenshots and FAQ on the GitHub page.</desc>
+      <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. More information (incl. a more comprehensive feature list), screenshots and FAQ on the GitHub page.</desc>
       <desc lang="FR">Ce plugin permet de jouer des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques. Vient avec un ensemble de listes de lecture dynamiques prêtes à l'emploi. En addition vous pouvez maintenant utiliser vos propres listes de lecture dynamiques directement dans DPL sans plugin intermédiaire. Plus d'information sur la page GitHub.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen. Kommt mit einer Reihe vordefinierter dynamischer Wiedergabelisten. Mehr Informationen auf der GitHub Seite.</desc>
       <title lang="EN">Dynamic Playlists</title>
@@ -807,7 +807,7 @@
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
     <plugin name="RatingsLight" category="information" creator="AF" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="220828a1cba8d67041f08697ace737217ccfd039" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.0/lms-ratingslight-2.7.0.zip" version="2.7.0">
-      <desc lang="EN">Takes care of rating your tracks. Set track ratings (also with plugins/apps and IR remote). Import track ratings from file tags or playlists. Export track ratings to playlist files. Create (scheduled) backups, restore from backups. Create virtual libraries for (top) rated tracks. Browse (top) rated tracks by artist or genre (browse menus). Keep track of your recently rated songs with a dedicated playlist or log file. Show rated songs for artist, album, genre, year or playlist (context menu). Support for online library tracks where possible. Includes &quot;Don't Stop The Music&quot; mixes. More information, screenshots and FAQ on the GitHub page.</desc>
+      <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus. More information (incl. a more comprehensive feature list), screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
     <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="1431d8df8d3c03984afb50e3434cb64bcf4a0ace" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.9/lms-virtuallibrarycreator-1.2.9.zip" version="1.2.9">
@@ -866,7 +866,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="aa3e4b8e8310052c7ce4c7c1a913afdd6b4f0168" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.3.3/TIDAL.zip" version="1.3.3">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="2a26849f46e7521e37b086025e82d4ef04add859" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.0/TIDAL.zip" version="1.4.0">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
