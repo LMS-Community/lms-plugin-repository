@@ -866,7 +866,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="2a26849f46e7521e37b086025e82d4ef04add859" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.0/TIDAL.zip" version="1.4.0">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="992a77b938add4b8f7a4efe9d9b870cbbabaa28d" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.1/TIDAL.zip" version="1.4.1">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
@@ -885,6 +885,10 @@
     <plugin name="SqueezeESP32" category="hardware" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="335b585e22eddbddacce00f34001d8bf2ee0f54f" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.600">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
+    </plugin>
+    <plugin name="MyQobuz" category="misc" creator="Ulrich Pickartz" email="ulrich.pickartz@gmail.com" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="ab1cd278897c435b09a8c84019cfd5e3459b429b" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.0.0/MyQobuz.zip" version="1.0.0">
+      <desc lang="EN">MyQobuz view to Qobuz</desc>
+      <title lang="EN">MyQobuz Extensions</title>
     </plugin>
     <plugin name="SqueezeScrobbler" category="misc" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
       <changes lang="EN" />
