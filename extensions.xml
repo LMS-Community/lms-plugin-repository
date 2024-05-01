@@ -983,7 +983,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="9a552ce608558eca5a64add02a7aa6f246cef08d" url="https://downloads.nixda.ch/Spotty-4.10.0.zip" version="4.10.0">
+    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation. v4.10.1: add new Mac helper to (try to) work around Apple's limitations." creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="c25b0b9b2f2971c3e70508ac0e486f3e0c2936ca" url="https://downloads.nixda.ch/Spotty-4.10.1.zip" version="4.10.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
