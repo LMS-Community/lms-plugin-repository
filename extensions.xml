@@ -798,7 +798,7 @@
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen. Kommt mit einer Reihe vordefinierter dynamischer Wiedergabelisten. Mehr Informationen auf der GitHub Seite.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="474e9261a91a5e84409ff0aa9e6560982cf6a50e" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.4/lms-dynamicplaylistcreator-1.5.4.zip" version="1.5.4">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="18c23c159784c866c3d3f679e25dee0598fd7757" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.5/lms-dynamicplaylistcreator-1.5.5.zip" version="1.5.5">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -806,7 +806,7 @@
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus. More information (incl. a more comprehensive feature list), screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="1431d8df8d3c03984afb50e3434cb64bcf4a0ace" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.2.9/lms-virtuallibrarycreator-1.2.9.zip" version="1.2.9">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="d39063ba3381f579afb62b15087bff596a28e2e9" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.0/lms-virtuallibrarycreator-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -862,7 +862,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="9cc7d6f31f7a6cd902cea18efb92f274e8449ba5" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.5/TIDAL.zip" version="1.4.5">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="e57a850655981ad453731c60227c4f5716bdf419" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.6/TIDAL.zip" version="1.4.6">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
