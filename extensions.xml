@@ -862,11 +862,11 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="59dd4cd40fa9ffa563f6936c5a7a05f14cc88857" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.4/TIDAL.zip" version="1.4.4">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="9cc7d6f31f7a6cd902cea18efb92f274e8449ba5" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.5/TIDAL.zip" version="1.4.5">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="80204390b02594d2d4b5986281080eea39758b2b" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.3/Deezer.zip" version="2.81.3">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="828a8c64489f701dd0d6eda4ea8f831e27cc1f2f" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.4/Deezer.zip" version="2.81.4">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
