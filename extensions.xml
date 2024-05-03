@@ -607,7 +607,7 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="3d5e54bcb7a5b12a1c18d88b7fed10037568442a" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.5.1/lms-plugin-Pyrrha-0.5.1.zip" version="0.5.1">
+    <plugin name="Pyrrha" category="musicservices" creator="sspiff" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
     </plugin>
