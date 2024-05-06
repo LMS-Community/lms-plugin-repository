@@ -798,7 +798,7 @@
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen. Kommt mit einer Reihe vordefinierter dynamischer Wiedergabelisten. Mehr Informationen auf der GitHub Seite.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="18c23c159784c866c3d3f679e25dee0598fd7757" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.5/lms-dynamicplaylistcreator-1.5.5.zip" version="1.5.5">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="eeba3b9df51c585a48520249db3f664ea180316e" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.6/lms-dynamicplaylistcreator-1.5.6.zip" version="1.5.6">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -806,7 +806,7 @@
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus. More information (incl. a more comprehensive feature list), screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="d39063ba3381f579afb62b15087bff596a28e2e9" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.0/lms-virtuallibrarycreator-1.3.0.zip" version="1.3.0">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="b862ccfc917bd0c81cf0f962ddda42937a0e90db" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.1/lms-virtuallibrarycreator-1.3.1.zip" version="1.3.1">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. More information, screenshots and FAQ on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -885,6 +885,11 @@
     <plugin name="MyQobuz" category="misc" creator="Ulrich Pickartz" email="ulrich.pickartz@gmail.com" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="ab1cd278897c435b09a8c84019cfd5e3459b429b" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.0.0/MyQobuz.zip" version="1.0.0">
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
+    </plugin>
+    <plugin name="SqueezeScrobbler" category="misc" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
+      <changes lang="EN" />
+      <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
+      <title lang="EN">SqueezeScrobbler</title>
     </plugin>
     <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="1935262b30ddaa6bc20d8da461cd60face8f1396" url="https://tvh.codechimp.org/tvh-1.4.32.zip" version="1.4.32">
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
