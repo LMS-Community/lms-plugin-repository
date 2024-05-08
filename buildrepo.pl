@@ -4,11 +4,13 @@ use strict;
 
 use JSON;
 use LWP::UserAgent;
+use JSON;
 use XML::Simple;
 # use Data::Dumper;
 
 use constant INCLUDE_FILE => 'include.json';
 use constant REPO_FILE    => 'extensions.xml';
+use constant STATS_URL    => 'http://stats.lms-community.org/api/stats/plugins';
 
 my $categoriesMap = {
 	'Accuradio' => 'radio',
@@ -140,6 +142,16 @@ my $ua = LWP::UserAgent->new(
 
 $ua->agent('Mozilla/5.0, LMS buildrepo');
 
+my $statsResp = $ua->get(STATS_URL);
+my %stats;
+
+eval {
+	map {
+		my ($name, $count) = each %$_;
+		$stats{$name} = $count;
+	} @{ from_json($statsResp->decoded_content) || []};
+} or die "Failed to get installation stats: $@";
+
 my $out = {
 	details => {
 		title => $includes->{title}
@@ -183,10 +195,12 @@ for my $url (sort @{$includes->{repositories}}) {
 			$element =~ s/patchs/patches/;
 			for my $item (@{ $xml->{"${element}"}->{"$content"} || [] }) {
 				my $name = $item->{'name'};
+				delete $item->{installations};	# don't allow dev to define the installation count :-)
 
 				if ($content eq 'plugin') {
 					delete $item->{category} if $item->{category} && !$categories{$item->{category}};
 					$item->{category} ||= $categoriesMap->{$item->{name}} || 'misc';
+					$item->{installations} = $stats{$name} if $stats{$name};
 				}
 
 				print "  $content $name\n";
