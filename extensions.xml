@@ -222,12 +222,12 @@
     </patch>
   </patches>
   <plugins>
-    <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="269" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
+    <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="273" link="http://forums.slimdevices.com/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="d434f73d51f750d0770a841bc556ad2cfa0f000d" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.22.zip" version="1.2.22">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books. Please define the genres for which you want bookmarks in the settings, otherwise the plugin will create bookmarks also for music albums (which you probably don't want)</desc>
       <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher. Bitte geben Sie in den Einstellungen die Genres an, f�r die Lesezeichen angelegt werden sollen, sonst werden auch z. B. f�r Musikalben Lesezeichen angelegt (was sie vermutlich nicht wollen)</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
-    <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="47" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
+    <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="49" link="http://forums.slimdevices.com/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
       <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
@@ -236,26 +236,26 @@
       <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
       <title lang="EN">iPeng</title>
     </plugin>
-    <plugin name="PlaylistMan" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="860" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistManPlugin.htm" maxTarget="*" minTarget="7.4" sha="115b579739089deff915e7e77898ec235e88b180" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistMan6.1.zip" version="6.1">
+    <plugin name="PlaylistMan" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="870" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistManPlugin.htm" maxTarget="*" minTarget="7.4" sha="115b579739089deff915e7e77898ec235e88b180" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistMan6.1.zip" version="6.1">
       <desc lang="EN">Provides functionality to add songs or albums to any chosen playlist.</desc>
       <title lang="EN">Playlist Manager</title>
     </plugin>
-    <plugin name="DynamicMix" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="195" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/DynamicMixPlugin.htm" maxTarget="*" minTarget="7.4" sha="bf6aae9ee1824b5c0106afa64a0be205efb9759c" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/DynamicMix1.3.zip" version="1.3">
+    <plugin name="DynamicMix" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="197" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/DynamicMixPlugin.htm" maxTarget="*" minTarget="7.4" sha="bf6aae9ee1824b5c0106afa64a0be205efb9759c" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/DynamicMix1.3.zip" version="1.3">
       <desc lang="EN">Extension for Dynamic Playlist, using MusicIP to produce mixes.</desc>
       <title lang="EN">Dynamic Mix</title>
     </plugin>
-    <plugin name="FilesViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="93" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="e9e54f2726cc7690ac4cd7eb214da55783fe1285" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewer1.1.zip" version="1.1">
+    <plugin name="FilesViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="95" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="e9e54f2726cc7690ac4cd7eb214da55783fe1285" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewer1.1.zip" version="1.1">
       <desc lang="EN">Provides capability to view text files on a SqueezeBox Classic player.</desc>
       <title lang="EN">Files Viewer</title>
     </plugin>
-    <plugin name="SongFileViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="68" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="fac351ddf1d90b2c438589a6dd58d5a1bd138c5f" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewer1.3.zip" version="1.3">
+    <plugin name="SongFileViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="70" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="fac351ddf1d90b2c438589a6dd58d5a1bd138c5f" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewer1.3.zip" version="1.3">
       <title lang="EN">Files Viewer</title>
     </plugin>
-    <plugin name="PhilsLibraries" category="scanning" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="54" maxTarget="*" minTarget="7.9.0" sha="6b0bf3fb5c9c89b50f62c6bac650326aea427eb5" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PhilsLibraries0.1.zip" version="0.1">
+    <plugin name="PhilsLibraries" category="scanning" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="55" maxTarget="*" minTarget="7.9.0" sha="6b0bf3fb5c9c89b50f62c6bac650326aea427eb5" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PhilsLibraries0.1.zip" version="0.1">
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" installations="752" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="6e4cb3f5559edc361dff216b5dc5a5c04025a4d7" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.12.zip" version="0.4.12">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" installations="763" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="6e4cb3f5559edc361dff216b5dc5a5c04025a4d7" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.12.zip" version="0.4.12">
       <changes lang="EN">
 				- Data format changed for some stations
 			</changes>
@@ -266,7 +266,7 @@
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
-    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" installations="130" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
+    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" installations="134" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
 				- Match the HLS stream URLs
 			</changes>
@@ -278,14 +278,14 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" installations="305" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d7e8779f330860fdbc0a4c9c46ae7bbd0d63af3a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.18.zip" version="0.0.18">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" installations="308" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d7e8779f330860fdbc0a4c9c46ae7bbd0d63af3a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.18.zip" version="0.0.18">
       <changes lang="EN">
 				- Update station list - adds Absolute Radio Women of Country and Absolute Radio Women of Rock
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" installations="1224" link="https://forums.slimdevices.com/showthread.php?115201-Announce-Radio-Now-Playing-plugin" maxTarget="*" minTarget="7.5" sha="1e2072592cdb6f915261cf25744c3bea711c08d2" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.42.zip" version="0.0.42">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" installations="1234" link="https://forums.slimdevices.com/showthread.php?115201-Announce-Radio-Now-Playing-plugin" maxTarget="*" minTarget="7.5" sha="1e2072592cdb6f915261cf25744c3bea711c08d2" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.42.zip" version="0.0.42">
       <changes lang="EN">
 				- Add 24/7 Niche Radio - artist, title, album and CoverSearch - 21 stations
 				- Add 9128.live - artist, title and cover art
@@ -376,33 +376,33 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
-    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="398" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
+    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="400" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
       <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
       <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
       <title lang="EN">RadioFeeds UK and Ireland</title>
     </plugin>
-    <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="155" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
+    <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="156" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
-    <plugin name="Wefunk" category="radio" creator="Christian Herzog" email="daduke@daduke.org" installations="192" link="http://daduke.org/linux/lmswefunk.html" maxTarget="*" minTarget="7.6" sha="150843f6ec3414d9d7fab27c6a2764ef0f4016e6" url="http://daduke.org/dl/lms-wefunk/wefunk-0.3.3.zip" version="0.3.3">
+    <plugin name="Wefunk" category="radio" creator="Christian Herzog" email="daduke@daduke.org" installations="193" link="http://daduke.org/linux/lmswefunk.html" maxTarget="*" minTarget="7.6" sha="150843f6ec3414d9d7fab27c6a2764ef0f4016e6" url="http://daduke.org/dl/lms-wefunk/wefunk-0.3.3.zip" version="0.3.3">
       <changes lang="EN">fix playback for shows &gt; 999</changes>
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
     </plugin>
-    <plugin name="SqueezeCloud" category="musicservices" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" installations="709" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="6eaac79e5a4a90b1c7231962aa42c1874b887697" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.15.zip" version="0.15">
+    <plugin name="SqueezeCloud" category="musicservices" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" installations="716" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="6eaac79e5a4a90b1c7231962aa42c1874b887697" url="https://danielvijge.github.io/SqueezeCloud/./SqueezeCloud-0.15.zip" version="0.15">
       <desc lang="EN">Browse, search and play urls from soundcloud</desc>
       <title lang="EN">SqueezeCloud</title>
     </plugin>
-    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" installations="436" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="60888cedfc906a4273531902a8e103c69167e0eb" target="unix" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-linux.zip" version="0.11">
+    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" installations="437" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="60888cedfc906a4273531902a8e103c69167e0eb" target="unix" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-linux.zip" version="0.11">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
-    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" installations="436" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="0056c1725e14f98c16cbd9b069f8a11819e344e1" target="mac" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-windows.zip" version="0.11">
+    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" installations="437" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="0056c1725e14f98c16cbd9b069f8a11819e344e1" target="mac" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-windows.zip" version="0.11">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
-    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" installations="436" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="b225787042e239e42cdc83da6e300b77e1829834" target="win" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-macos.zip" version="0.11">
+    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" installations="437" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="b225787042e239e42cdc83da6e300b77e1829834" target="win" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-macos.zip" version="0.11">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
@@ -455,7 +455,7 @@
       <desc lang="EN">Makes it possible to customize the structure, contents and sorting of the browse menus on the Squeezebox. A new browse menu is configured as a xml file containing the structure and SQL-statements. Please note that Custom Browse needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Browse</title>
     </plugin>
-    <plugin name="CustomScan" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="60" link="http://wiki.slimdevices.com/index.php/Custom_Scan_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="60e51583f832ebe6515f5481363b97cb51153785" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.6.zip" version="2.6">
+    <plugin name="CustomScan" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="59" link="http://wiki.slimdevices.com/index.php/Custom_Scan_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="60e51583f832ebe6515f5481363b97cb51153785" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.6.zip" version="2.6">
       <changes lang="EN">- Added support for numeric sorted tags in Dynamic Tags menu
 			- Added support for completely disable scanning modules to avoid refresh operation if only import/export modules are used
 			- Added support for virtual tags using regular expressions in Custom Tag scanning module (Tag mapping parameter)
@@ -465,7 +465,7 @@
       <desc lang="EN">Make it easier to develop modules that retreive additional information about artist, album, tracks from somehere. If used together with Custom Browse plugin, the included scanning modules for LastFM and custom tags makes it possible to browse music by LastFM tags or by a custom tag. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Scan</title>
     </plugin>
-    <plugin name="CustomScan" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="60" link="http://wiki.slimdevices.com/index.php/Custom_Scan_plugin" maxTarget="7.*" minTarget="7.4.0" sha="9eaca05d640f42d5843f54a8280c8e1a5e85eac6" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.10.51.zip" version="2.10.51">
+    <plugin name="CustomScan" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="59" link="http://wiki.slimdevices.com/index.php/Custom_Scan_plugin" maxTarget="7.*" minTarget="7.4.0" sha="9eaca05d640f42d5843f54a8280c8e1a5e85eac6" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.10.51.zip" version="2.10.51">
       <changes lang="EN">- Available for free, no longer requires a license
 			- Compatible with LMS 7.9
 			</changes>
@@ -495,13 +495,13 @@
       <desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Dynamic Playlist</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="146" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="ef05d5f00298cf4c1a1e1426f9176567e12034f9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.1.2.zip" version="2.1.2">
+    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="148" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="ef05d5f00298cf4c1a1e1426f9176567e12034f9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.1.2.zip" version="2.1.2">
       <changes lang="EN">- Added support for SqueezeCenter 7.4
 			- Corrected some small bugs</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="146" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.*" minTarget="7.4.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="148" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="7.*" minTarget="7.4.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">- Corrected so path function is re-created in SQLite after a full rescan
 			</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -535,12 +535,12 @@
       <desc lang="EN">Creates smart playlists based on SQL queries, its possible to create playlists similar to iTunes smart playlists if used together with ratings set with the TrackStat plugin. It requires Dynamic Playlist plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">SQL Playlist</title>
     </plugin>
-    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="72" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d25140b9bf9038bea7c6e4728e84f6d81f5c0b59" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.1.3.zip" version="1.1.3">
+    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="74" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d25140b9bf9038bea7c6e4728e84f6d81f5c0b59" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.1.3.zip" version="1.1.3">
       <changes lang="EN">- Corrected handling on SB1 devices with long texts</changes>
       <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
       <title lang="EN">Title Switcher</title>
     </plugin>
-    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="72" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="*" minTarget="7.4.0" sha="b593f6fec7c033762eec50381361f7369c96ac35" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.3.23.zip" version="1.3.23">
+    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="74" link="http://wiki.slimdevices.com/index.php/Title_Switcher_plugin" maxTarget="*" minTarget="7.4.0" sha="b593f6fec7c033762eec50381361f7369c96ac35" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.3.23.zip" version="1.3.23">
       <changes lang="EN">- Available for free, no longer requires a license
 			</changes>
       <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
@@ -574,19 +574,19 @@
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
     </plugin>
-    <plugin name="SongInfo" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="1416" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="2afec7be743af76d8ecb49184ba6b5c92895a015" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songinfo&amp;filename=SongInfo-1.1.3883.zip" version="1.1.3883">
+    <plugin name="SongInfo" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="1437" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="2afec7be743af76d8ecb49184ba6b5c92895a015" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songinfo&amp;filename=SongInfo-1.1.3883.zip" version="1.1.3883">
       <changes lang="EN">- Adjusted due to LastFM API change, only a single artist image is now supported
                         </changes>
       <desc lang="EN">A plugin to make it possible to get various information about a song, can for example be used to get artist images from LastFM (Boom, Transporter, Classic, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Song Info</title>
     </plugin>
-    <plugin name="SongLyrics" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="1365" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="e95b571c9d4cdcbb93c0d3caddc395df4ec925b0" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songlyrics&amp;filename=SongLyrics-1.1.3856.zip" version="1.1.3856">
+    <plugin name="SongLyrics" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="1388" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="e95b571c9d4cdcbb93c0d3caddc395df4ec925b0" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-songlyrics&amp;filename=SongLyrics-1.1.3856.zip" version="1.1.3856">
       <changes lang="EN">- Musixmatch.com no longer supported due to license changes on their end
                         </changes>
       <desc lang="EN">A plugin that shows lyrics from chartlyrics.com and musixmatch.com through the Song Info plugin. This plugin requires that the Song Info plugin also is installed. (Boom, Transporter, Classic, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Song Lyrics</title>
     </plugin>
-    <plugin name="LicenseManagerPlugin" category="misc" creator="Erland Isaksson" email="erland@isaksson.info" installations="361" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="565bbd11d6f72fc0990b234c7e3f37d73a129eb5" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanagerplugin&amp;filename=LicenseManagerPlugin-1.1.40.zip" version="1.1.40">
+    <plugin name="LicenseManagerPlugin" category="misc" creator="Erland Isaksson" email="erland@isaksson.info" installations="364" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4.0" sha="565bbd11d6f72fc0990b234c7e3f37d73a129eb5" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanagerplugin&amp;filename=LicenseManagerPlugin-1.1.40.zip" version="1.1.40">
       <changes lang="EN">- Changed due to Google shutting down Google Code
                         </changes>
       <desc lang="EN">A plugin that's required for licensed plugins to work, it will give you an overview of licensed plugins available and their current licensing status and links to pay for them. (Boom, Transporter, Classic, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -598,36 +598,36 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BMPFonts" category="hardware" creator="Daniel Frein" email="daniel.frein@gmail.com" installations="51" link="https://forums.slimdevices.com/forum/user-forums/general-discussion/111149-new-bitmap-fonts-for-transporter-and-sb2-sb3/" maxTarget="*" minTarget="7.0" sha="d3fa0bd48b4d014d88745bf62451887036a7e088" url="https://github.com/dfrein/lms-plugin-repository/raw/main/BMPFonts-1.0.zip" version="1.0">
+    <plugin name="BMPFonts" category="hardware" creator="Daniel Frein" email="daniel.frein@gmail.com" installations="52" link="https://forums.slimdevices.com/forum/user-forums/general-discussion/111149-new-bitmap-fonts-for-transporter-and-sb2-sb3/" maxTarget="*" minTarget="7.0" sha="d3fa0bd48b4d014d88745bf62451887036a7e088" url="https://github.com/dfrein/lms-plugin-repository/raw/main/BMPFonts-1.0.zip" version="1.0">
       <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
       <title lang="EN">BMPFonts Plugin</title>
     </plugin>
-    <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" installations="807" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="7a1190b80d1aaf9eb908b1a8cccac59bd2400664" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.2.zip" version="1.3.2">
+    <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" installations="812" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="7a1190b80d1aaf9eb908b1a8cccac59bd2400664" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.2.zip" version="1.3.2">
       <changes lang="EN">v1.3.2: Bugfixes and increased image resolution.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="331" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
+    <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="333" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
     </plugin>
-    <plugin name="PowerSave" category="tools" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="548" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://jasonholtzapple.github.io/slimdevices/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
+    <plugin name="PowerSave" category="tools" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="550" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://jasonholtzapple.github.io/slimdevices/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
       <desc lang="EN">Power off your squeezebox after a certain amount of time (idle or otherwise)</desc>
       <title lang="EN">PowerSave</title>
     </plugin>
-    <plugin name="DirectPlay" category="misc" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="163" maxTarget="*" minTarget="7.0" sha="b3b27559c72d514729914189a99df78ffebd28e3" url="http://jasonholtzapple.github.io/slimdevices/plugins/DirectPlay/7.0a2/DirectPlay.zip" version="7.0a2">
+    <plugin name="DirectPlay" category="misc" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="171" maxTarget="*" minTarget="7.0" sha="b3b27559c72d514729914189a99df78ffebd28e3" url="http://jasonholtzapple.github.io/slimdevices/plugins/DirectPlay/7.0a2/DirectPlay.zip" version="7.0a2">
       <desc lang="EN">Play albums, artists or songs directly by database ID</desc>
       <title lang="EN">DirectPlay</title>
     </plugin>
-    <plugin name="QuickAccess" category="misc" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="112" maxTarget="*" minTarget="7.0" sha="d2b80a4f9cb717115ee2413dae4a46d18e924a00" url="http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/QuickAccess_7_3.zip" version="7.3">
+    <plugin name="QuickAccess" category="misc" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="113" maxTarget="*" minTarget="7.0" sha="d2b80a4f9cb717115ee2413dae4a46d18e924a00" url="http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/QuickAccess_7_3.zip" version="7.3">
       <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
       <title lang="EN">QuickAccess</title>
     </plugin>
-    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="217" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
+    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="220" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
-    <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="21" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
+    <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="22" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
       <desc lang="EN">ArchiveOrg - a plugin that enables access to files on Archive.org</desc>
       <title lang="EN">ArchiveOrg V0.6 </title>
     </plugin>
@@ -639,148 +639,148 @@
       <desc lang="EN">A Plugin to enable a Griffin RadioShark2 USB FM/AM tuner to be tuned and played through LogitechMediaServer</desc>
       <title lang="EN">SharkPlay</title>
     </plugin>
-    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" installations="478" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
+    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb. Not tested on OSX  " creator="bpa" email="baltontwo@eircom.net" installations="494" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="6fc70e8d6f7f0ae51bcc0dae610cf9f2e3dfe0d8" target="mac" url="https://bpa-code.github.io/bpaplugins/CDplayer-osx-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" installations="478" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
+    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" installations="494" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="d6685b38ecc30ba5dac05b5bfcc06079a7fcba1e" target="win" url="https://bpa-code.github.io/bpaplugins/CDplayer-windows-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Includes CDDA2WAV and associated DLLs.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" installations="478" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
+    <plugin name="CDplayer" category="hardware" changes="-1.11 Update: fix to play whole CD on Squeezeplay, CDDB move to gnudb  " creator="bpa" email="baltontwo@eircom.net" installations="494" link="http://forums.slimdevices.com/showthread.php?t=47288" maxTarget="*" minTarget="7.6" sha="b2bbfec5e1ec9012a3ecc198661b030efcbc84e4" target="unix" url="https://bpa-code.github.io/bpaplugins/CDplayer-linux-v111.ZIP" version="1.11">
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="WaveInput" category="hardware" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" installations="338" link="http://forums.slimdevices.com/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
+    <plugin name="WaveInput" category="hardware" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" installations="341" link="http://forums.slimdevices.com/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
       <desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through LogitechMediaServer</desc>
       <title lang="EN">WaveInput</title>
     </plugin>
-    <plugin name="WaveInput" category="hardware" creator="bpa" email="baltontwo@eircom.net" installations="338" link="http://forums.slimdevices.com/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
+    <plugin name="WaveInput" category="hardware" creator="bpa" email="baltontwo@eircom.net" installations="341" link="http://forums.slimdevices.com/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
       <desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through LogitechMediaServer. Default setup uses ALSA but OSS also works.</desc>
       <title lang="EN">WaveInput</title>
     </plugin>
-    <plugin name="PlayWMA" category="tools" creator="bpa" email="baltontwo@eircom.net" installations="533" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+    <plugin name="PlayWMA" category="tools" creator="bpa" email="baltontwo@eircom.net" installations="540" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
       <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
       <title lang="EN">PlayWMA</title>
     </plugin>
-    <plugin name="PlayWMA" category="tools" creator="bpa" email="baltontwo@eircom.net" installations="533" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
+    <plugin name="PlayWMA" category="tools" creator="bpa" email="baltontwo@eircom.net" installations="540" maxTarget="*" minTarget="7.7" sha="901799c31a98e726e8b3db495d817e358173b8e5" target="mac" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayWMA-v101.ZIP" version="1.1">
       <desc lang="EN">This plugin provides support on Linux and OSX for playing Windows Media (WMA, WMA lossless, WMA Pro)  streams and files using ffmpeg. It is mainly used for player which do not support WMA nativelysuch as SliMP3, SqueezeBox1, Softsqueeze, Squeezeslave and Squeezeplay</desc>
       <title lang="EN">PlayWMA</title>
     </plugin>
-    <plugin name="PlayHLS" category="tools" creator="bpa" installations="638" maxTarget="*" minTarget="7.3" sha="beb7982842ccc67c464c85d75c6be7f6bdd22294" target="mac|unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSLinux-v101.ZIP" version="1.01">
+    <plugin name="PlayHLS" category="tools" creator="bpa" installations="645" maxTarget="*" minTarget="7.3" sha="beb7982842ccc67c464c85d75c6be7f6bdd22294" target="mac|unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSLinux-v101.ZIP" version="1.01">
       <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
       <title lang="EN">PlayHLS</title>
     </plugin>
-    <plugin name="PlayHLS" category="tools" creator="bpa" installations="638" maxTarget="*" minTarget="7.3" sha="ebd592bb819fb0c7463995eb998295ca68527888" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSWin-v101.ZIP" version="1.01">
+    <plugin name="PlayHLS" category="tools" creator="bpa" installations="645" maxTarget="*" minTarget="7.3" sha="ebd592bb819fb0c7463995eb998295ca68527888" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/PlayHLSWin-v101.ZIP" version="1.01">
       <desc lang="EN">PlayHLS - a minimal plugin that sets ups LMS conf file to play HLS URL using a media player application - ffmpeg by default</desc>
       <title lang="EN">PlayHLS</title>
     </plugin>
-    <plugin name="iHeartRadio" category="radio" creator="bpa" email="baltontwo@eircom.com" installations="564" maxTarget="*" minTarget="7.7" sha="50865b3b4367ce7d975e3d850ba646c6bab2e1f6" url="http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v102.ZIP" version="1.2.0">
+    <plugin name="iHeartRadio" category="radio" creator="bpa" email="baltontwo@eircom.com" installations="571" maxTarget="*" minTarget="7.7" sha="50865b3b4367ce7d975e3d850ba646c6bab2e1f6" url="http://downloads.sourceforge.net/project/bpaplugins/iHeartRadio-v102.ZIP" version="1.2.0">
       <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
       <title lang="EN">iHeart Radio - v1.2</title>
     </plugin>
-    <plugin name="RadioNet" category="radio" creator="bpa" installations="1436" maxTarget="*" minTarget="7.9" sha="a6d4629d4acfd966d18972b2422a7410147441f2" url="https://bpa-code.github.io/bpaplugins/RadioNet-V3_2.ZIP" version="3.2">
+    <plugin name="RadioNet" category="radio" creator="bpa" installations="1445" maxTarget="*" minTarget="7.9" sha="a6d4629d4acfd966d18972b2422a7410147441f2" url="https://bpa-code.github.io/bpaplugins/RadioNet-V3_2.ZIP" version="3.2">
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
-    <plugin name="Accuradio" category="radio" creator="bpa" installations="307" maxTarget="*" minTarget="8.3" sha="4059f87bdc867f858963433ccf3341ae87ba821c" url="https://bpa-code.github.io/bpaplugins/Accuradio-V1_0.ZIP" version="1.0">
+    <plugin name="Accuradio" category="radio" creator="bpa" installations="310" maxTarget="*" minTarget="8.3" sha="4059f87bdc867f858963433ccf3341ae87ba821c" url="https://bpa-code.github.io/bpaplugins/Accuradio-V1_0.ZIP" version="1.0">
       <desc lang="EN">Accuradio - provides access to Accuradio streams</desc>
       <title lang="EN">Accuradio V1.*</title>
     </plugin>
-    <plugin name="Live365" category="radio" creator="bpa" installations="256" maxTarget="*" minTarget="8.0" sha="1da7e9e91d2a1028c07eccc91dcf079e58c5c9bd" url="https://bpa-code.github.io/bpaplugins/Live365-V1_01.ZIP" version="1.01">
+    <plugin name="Live365" category="radio" creator="bpa" installations="258" maxTarget="*" minTarget="8.0" sha="1da7e9e91d2a1028c07eccc91dcf079e58c5c9bd" url="https://bpa-code.github.io/bpaplugins/Live365-V1_01.ZIP" version="1.01">
       <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
       <title lang="EN">Live365 V1.*</title>
     </plugin>
-    <plugin name="PodcastExt" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="627" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="79d03f1b559316190efef8e418b669d5156403a8" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.1.zip" version="0.23.1">
+    <plugin name="PodcastExt" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="629" link="http://github.com/philippe44/LMS-PodcastExt" maxTarget="*" minTarget="8.2" sha="79d03f1b559316190efef8e418b669d5156403a8" url="https://github.com/philippe44/LMS-PodcastExt/raw/main/PodcastExt-0.23.1.zip" version="0.23.1">
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" installations="759" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="6f21791387e63c332f275308ae50732d13ed4527" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.17.2.zip" version="0.17.2">
+    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" installations="762" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="6f21791387e63c332f275308ae50732d13ed4527" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.17.2.zip" version="0.17.2">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
-    <plugin name="SwitchGroupPlayer" category="playlists" creator="Philippe" email="philippe_44@outlook.com" installations="312" link="http://github.com/philippe44/SwitchGroupPlayer" maxTarget="*" minTarget="7.5" sha="a80c3acfbab212ad68b96251658214bf2c9d5e59" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/SwitchGroupPlayer-0.4.zip" version="0.4">
+    <plugin name="SwitchGroupPlayer" category="playlists" creator="Philippe" email="philippe_44@outlook.com" installations="317" link="http://github.com/philippe44/SwitchGroupPlayer" maxTarget="*" minTarget="7.5" sha="a80c3acfbab212ad68b96251658214bf2c9d5e59" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/SwitchGroupPlayer-0.4.zip" version="0.4">
       <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
       <title lang="EN">Switch Player (Groups compatible)</title>
     </plugin>
-    <plugin name="CPlus" category="radio" creator="Philippe" email="philippe_44@outlook.com" installations="24" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
+    <plugin name="CPlus" category="radio" creator="Philippe" email="philippe_44@outlook.com" installations="26" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
       <desc lang="EN">Play Canal+ video</desc>
       <title lang="EN">CPlus</title>
     </plugin>
-    <plugin name="FranceTV" category="radio" creator="Philippe" email="philippe_44@outlook.com" installations="23" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="b7322ecfe158c17b6da4257c5bb9ab1ac8f73f18" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.3.zip" version="0.82.3">
+    <plugin name="FranceTV" category="radio" creator="Philippe" email="philippe_44@outlook.com" installations="24" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="b7322ecfe158c17b6da4257c5bb9ab1ac8f73f18" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.82.3.zip" version="0.82.3">
       <desc lang="EN">Play FranceTelevisions video</desc>
       <title lang="EN">FranceTV</title>
     </plugin>
-    <plugin name="LCI" category="radio" creator="Philippe" email="philippe_44@outlook.com" installations="42" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="b26a6ca88f2c55227c223aa9ede5c6854a2ba9c7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.10.1.zip" version="0.10.1">
+    <plugin name="LCI" category="radio" creator="Philippe" email="philippe_44@outlook.com" installations="43" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="b26a6ca88f2c55227c223aa9ede5c6854a2ba9c7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.10.1.zip" version="0.10.1">
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2305" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="ddd8ebece156583c2692f68a031808a2bcc6cf24" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.3.9.zip" version="3.3.9">
+    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2332" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="ddd8ebece156583c2692f68a031808a2bcc6cf24" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.3.9.zip" version="3.3.9">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="2023" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="3f98f71a504e311f5e1c3780934ef8c29b53a93b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.212.zip" version="0.212">
+    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="2053" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="3f98f71a504e311f5e1c3780934ef8c29b53a93b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.212.zip" version="0.212">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1770" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="85bda2ca914c0911f8d028bd3c0860859d5bdd09" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.7.7.zip" version="1.7.7">
+    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1778" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="85bda2ca914c0911f8d028bd3c0860859d5bdd09" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.7.7.zip" version="1.7.7">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1470" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="0802d3008852709d2dc91be04cd1fdfd001699b0" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.3.9.zip" version="3.3.9">
+    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1479" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="0802d3008852709d2dc91be04cd1fdfd001699b0" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.3.9.zip" version="3.3.9">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1065" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="578c834567937986f54c61ddf287a79b3aecad6e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.7.2.zip" version="1.7.2">
+    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1071" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="578c834567937986f54c61ddf287a79b3aecad6e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.7.2.zip" version="1.7.2">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
-    <plugin name="Reliable" category="misc" creator="Philippe" email="philippe_44@outlook.com" installations="112" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="2bc58ca164d0d7589e0c34a1da25beeeba32b54a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip" version="0.18.2">
+    <plugin name="Reliable" category="misc" creator="Philippe" email="philippe_44@outlook.com" installations="113" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="2bc58ca164d0d7589e0c34a1da25beeeba32b54a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.2.zip" version="0.18.2">
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="415" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="9086584c459ed8b2292e80e632b32df49ab25f62" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-38.zip" version="5.11.38">
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="418" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="9086584c459ed8b2292e80e632b32df49ab25f62" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-38.zip" version="5.11.38">
       <changes lang="EN">(5.11.38) Initial fix for weather RADAR maps.  LMS running on Linux and Jivelite players only.
 			Added Czech translations for months.  Allow SDT to load on Lyrion Music Server.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" installations="146" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+    <plugin name="DatabaseQuery" category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" installations="148" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="1361" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="69b3f3c7b46f845ad13a57648e70d90b8588a380" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.37.1/BBCSoundsPlugin_2_37_1.zip" version="2.37.1">
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="1372" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="69b3f3c7b46f845ad13a57648e70d90b8588a380" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.37.1/BBCSoundsPlugin_2_37_1.zip" version="2.37.1">
       <changes lang="EN">NEW 2.37.0 Added Collections menu. 2.37.1 Ensure sort order correct for audio books etc</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="384" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="https://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
+    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="391" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="https://plugins.expectingtofly.co.uk/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
       <changes lang="EN">NEW 2.2.3 Increased Catch-Up days available to 7</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="265" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="92c491f69ba02f8b94885796098620bdc7a194fa" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.2.5/TimesRadioPlugin_2_2_5.zip" version="2.2.5">
+    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="267" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="92c491f69ba02f8b94885796098620bdc7a194fa" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.2.5/TimesRadioPlugin_2_2_5.zip" version="2.2.5">
       <changes lang="EN">NEW 2.2.5 Show correctly formmated images.  Show progress bar for live radio programmes</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="544" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="383385076d4157180832ec66c7f8e4322f6b747b" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.5.2/GlobalPlayerUKPlugin_2_5_2.zip" version="2.5.2">
+    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="549" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="383385076d4157180832ec66c7f8e4322f6b747b" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.5.2/GlobalPlayerUKPlugin_2_5_2.zip" version="2.5.2">
       <changes lang="EN">NEW 2.5.2 Fixed live radio streams.  New aac hls stream source. </changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RadioFavourites" category="radio" creator="ExpectingToFly" installations="498" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="ba9f1f733891f7fd93bff706d55e5080d2702afd" url="https://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
+    <plugin name="RadioFavourites" category="radio" creator="ExpectingToFly" installations="502" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="ba9f1f733891f7fd93bff706d55e5080d2702afd" url="https://plugins.expectingtofly.co.uk/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
       <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" installations="137" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="70ad76564d18278e35e742a8bbc56f7a0cd019c8" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.4.9/lms-alternativeplaycount-1.4.9.zip" version="1.4.9">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" installations="139" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="bd7c8f251323d62b6171c1640a86d448ca444e8c" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.0/lms-alternativeplaycount-1.5.0.zip" version="1.5.0">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists, virtual libraries or to skip specific tracks. Screenshots and more information on the GitHub page.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Plus d'information sur la page GitHub.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" installations="82" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="810a4dc33079573961c43ac621769ba4f877fc6f" url="https://github.com/AF-1/lms-customskip/releases/download/3.5.1/lms-customskip-3.5.1.zip" version="3.5.1">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" installations="82" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="163041aaedbe55e7931fef91bad510b3435ff688" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.0/lms-customskip-3.6.0.zip" version="3.6.0">
       <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your client playlist should be skipped and removed from the playlist automatically. Screenshots and more information on the GitHub page.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -806,55 +806,55 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates. Screenshots and more information on the GitHub page.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" installations="208" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="16919ca14517cc035fc0b1095b548f8abbea91a2" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.1/lms-ratingslight-2.7.1.zip" version="2.7.1">
+    <plugin name="RatingsLight" category="information" creator="AF" installations="209" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="df343c5af86aca4926722b201458328ce6b9a11d" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.2/lms-ratingslight-2.7.2.zip" version="2.7.2">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus. Screenshots and more information on the GitHub page.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" installations="158" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="bf37610f40aa665454c1e2ddffbc463b4952902b" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.2/lms-virtuallibrarycreator-1.3.2.zip" version="1.3.2">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" installations="160" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="bc4016b0c430577fde07eeb1048a993dba2d6888" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.3/lms-virtuallibrarycreator-1.3.3.zip" version="1.3.3">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements. Screenshots and more information on the GitHub page.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" installations="327" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="80045c138a1dda00a2b734125b25688c3d841f40" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.6.6/lms-visualstatistics-1.6.6.zip" version="1.6.6">
+    <plugin name="VisualStatistics" category="information" creator="AF" installations="329" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="80045c138a1dda00a2b734125b25688c3d841f40" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.6.6/lms-visualstatistics-1.6.6.zip" version="1.6.6">
       <desc lang="EN">Have a look at your library statistics with charts. Screenshots and more information on the GitHub page.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques. Plus d'information sur la page GitHub.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="5349" maxTarget="*" minTarget="7.9.0" sha="c1536390f3c90f23562e8df0a222c508701659b2" url="https://github.com/CDrummond/lms-material/releases/download/4.5.2/lms-material-4.5.2.zip" version="4.5.2">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="5396" maxTarget="*" minTarget="7.9.0" sha="c1536390f3c90f23562e8df0a222c508701659b2" url="https://github.com/CDrummond/lms-material/releases/download/4.5.2/lms-material-4.5.2.zip" version="4.5.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Spotty fix for casting, mp3, aif change too" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="259" maxTarget="*" minTarget="7.8.0" sha="d51a59c69f9c8a65800442529459f9a8599da56b" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.08d.zip" version="0.1.08d">
+    <plugin name="SqueezeDSP" category="tools" changes="Spotty fix for casting, mp3, aif change too" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="260" maxTarget="*" minTarget="7.8.0" sha="d51a59c69f9c8a65800442529459f9a8599da56b" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.08d.zip" version="0.1.08d">
       <creator>Jonathan Fox</creator>
       <creator>Jonathan Fox</creator>
       <desc lang="EN">DSP for Squeezebox server version 0.1.08d) - provides EQ and DSP. Fixes to custom-conv.conf </desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
-    <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="379" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
+    <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="381" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
       <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
     </plugin>
-    <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" installations="1074" maxTarget="8.*" minTarget="7.9" sha="6754c0d5d7f665601db2f12900328954f136c515" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.09/plugin-DSDPlayer-1.09.zip" version="1.09">
+    <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" installations="1084" maxTarget="8.*" minTarget="7.9" sha="6754c0d5d7f665601db2f12900328954f136c515" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.09/plugin-DSDPlayer-1.09.zip" version="1.09">
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="556" maxTarget="8.*" minTarget="7.5" sha="cccd272fc78a76c430d0a5e53d97503a2d8a5403" target="unix" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-linux-v1.6.5.zip" version="1.6.5">
+    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="560" maxTarget="8.*" minTarget="7.5" sha="cccd272fc78a76c430d0a5e53d97503a2d8a5403" target="unix" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-linux-v1.6.5.zip" version="1.6.5">
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="556" maxTarget="8.*" minTarget="7.5" sha="3f9bf6d6beac9759133a0f8dee4732acfae55f07" target="win" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-windows-v1.6.5.zip" version="1.6.5">
+    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="560" maxTarget="8.*" minTarget="7.5" sha="3f9bf6d6beac9759133a0f8dee4732acfae55f07" target="win" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-windows-v1.6.5.zip" version="1.6.5">
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="556" maxTarget="8.*" minTarget="7.5" sha="13be83a21cd22933d5b7357a10e41832d1fbd629" target="mac" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-mac-v1.6.5.zip" version="1.6.5">
+    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="560" maxTarget="8.*" minTarget="7.5" sha="13be83a21cd22933d5b7357a10e41832d1fbd629" target="mac" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-mac-v1.6.5.zip" version="1.6.5">
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
-    <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="222" maxTarget="8.*" minTarget="7.3" sha="e6867a6ff30fc021e5fd2beea856913a49bae320" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.2/SigGen-1.2.zip" version="1.2">
+    <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="224" maxTarget="8.*" minTarget="7.3" sha="e6867a6ff30fc021e5fd2beea856913a49bae320" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.2/SigGen-1.2.zip" version="1.2">
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper" email="chris.c.couper@gmail.com" installations="334" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="b4a1dfaaa70911ea8a705158ecd6a35cafa10f56" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_5.zip" version="4.7.5">
+    <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper" email="chris.c.couper@gmail.com" installations="335" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="b4a1dfaaa70911ea8a705158ecd6a35cafa10f56" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_4_7_5.zip" version="4.7.5">
       <desc lang="EN">This plugin will control a network ready Denon/Marantz AVP/AVR from the Logitech Media Server or Squeezebox.  The plugin will turn the device on/off, adjust and synchronize the volume, and optionally set the audio modes.</desc>
       <title lang="EN">Denon AVP/AVR Control</title>
     </plugin>
@@ -862,31 +862,31 @@
       <desc lang="EN">Display Kodi (XBMC) Now Playing info on a Squeezebox SB2/3/Classic display.</desc>
       <title lang="EN">XSqueezeDisplay</title>
     </plugin>
-    <plugin name="AutoRescan" category="scanning" creator="James Marsh; Stuart Hickinbottom" installations="768" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
+    <plugin name="AutoRescan" category="scanning" creator="James Marsh; Stuart Hickinbottom" installations="777" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="1418" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="e57a850655981ad453731c60227c4f5716bdf419" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.6/TIDAL.zip" version="1.4.6">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="1430" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="e57a850655981ad453731c60227c4f5716bdf419" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.6/TIDAL.zip" version="1.4.6">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="809" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="828a8c64489f701dd0d6eda4ea8f831e27cc1f2f" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.4/Deezer.zip" version="2.81.4">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="814" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="828a8c64489f701dd0d6eda4ea8f831e27cc1f2f" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.4/Deezer.zip" version="2.81.4">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
-    <plugin name="RatingButtons" category="information" creator="flipflip" installations="76" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="8f1086f4db980b90ea47c997a4cb4f27882df9ca" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip" version="0.9">
+    <plugin name="RatingButtons" category="information" creator="flipflip" installations="77" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="8f1086f4db980b90ea47c997a4cb4f27882df9ca" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip" version="0.9">
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
-    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" installations="2168" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
+    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" installations="2179" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
-    <plugin name="SqueezeESP32" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="400" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="335b585e22eddbddacce00f34001d8bf2ee0f54f" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.600">
+    <plugin name="SqueezeESP32" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="401" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="335b585e22eddbddacce00f34001d8bf2ee0f54f" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.600">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@gmail.com" installations="92" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="ab1cd278897c435b09a8c84019cfd5e3459b429b" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.0.0/MyQobuz.zip" version="1.0.0">
+    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@gmail.com" installations="94" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="ab1cd278897c435b09a8c84019cfd5e3459b429b" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.0.0/MyQobuz.zip" version="1.0.0">
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
     </plugin>
@@ -895,103 +895,103 @@
       <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
       <title lang="EN">SqueezeScrobbler</title>
     </plugin>
-    <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" installations="105" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="1935262b30ddaa6bc20d8da461cd60face8f1396" url="https://tvh.codechimp.org/tvh-1.4.32.zip" version="1.4.32">
+    <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" installations="106" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="1935262b30ddaa6bc20d8da461cd60face8f1396" url="https://tvh.codechimp.org/tvh-1.4.32.zip" version="1.4.32">
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
-    <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" installations="120" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
+    <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" installations="121" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="6bcd85cbe4aa8211361850b0b054f5fdc632ba43" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.2.zip" version="6.2.2">
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="614" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="d4878edc864415b422821b077b1ecd76200d89e2" url="https://www.herger.net/_data/1001Albums-1.4.1.zip" version="1.4.1">
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="622" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="d4878edc864415b422821b077b1ecd76200d89e2" url="https://www.herger.net/_data/1001Albums-1.4.1.zip" version="1.4.1">
       <changes lang="EN">v1.4.1: add support for Deezer plugin - thanks Paul Webster!</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="709" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="e7ab6449750dccaa2021ed35fdb49dfe35f867bc" url="https://www.herger.net/_data/Bandcamp-1.9.2.zip" version="1.9.2">
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="717" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="e7ab6449750dccaa2021ed35fdb49dfe35f867bc" url="https://www.herger.net/_data/Bandcamp-1.9.2.zip" version="1.9.2">
       <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.1: fix URL parsing. v1.9.2: prevent redirect loop.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
-    <plugin name="ClientCleanup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="517" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.7" sha="4501d2f00382eed89cfc68a56c96fd83a64feb8a" url="https://www.herger.net/_data/ClientCleanup-1.0.0.zip" version="1.0.0">
+    <plugin name="ClientCleanup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="521" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.7" sha="4501d2f00382eed89cfc68a56c96fd83a64feb8a" url="https://www.herger.net/_data/ClientCleanup-1.0.0.zip" version="1.0.0">
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
     </plugin>
-    <plugin name="DocsetCreator" category="tools" creator="Michael Herger" email="slim@herger.net" installations="25" maxTarget="*" minTarget="7.9" sha="73dc6aca59179652dd28b0c049f0b9d36a4e95e4" url="http://www.herger.net/_data/DocsetCreator-0.5.0.zip" version="0.5.0">
+    <plugin name="DocsetCreator" category="tools" creator="Michael Herger" email="slim@herger.net" installations="26" maxTarget="*" minTarget="7.9" sha="73dc6aca59179652dd28b0c049f0b9d36a4e95e4" url="http://www.herger.net/_data/DocsetCreator-0.5.0.zip" version="0.5.0">
       <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
       <title lang="EN">Create docsets for Dash</title>
     </plugin>
-    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="210" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7e1e6dd7f492a43b26a94a1b3ca05296671ca5e" url="https://www.herger.net/_data/DRS-1.5.3.zip" version="1.5.3">
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="213" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7e1e6dd7f492a43b26a94a1b3ca05296671ca5e" url="https://www.herger.net/_data/DRS-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
       <title lang="EN">Radio DRS Meta Information</title>
     </plugin>
-    <plugin name="FileViewer" category="information" creator="Michael Herger" email="slim@herger.net" installations="92" link="https://www.herger.net/FileViewer/" maxTarget="*" minTarget="7.5" sha="033beae02e4a41d98597e2b87b5e9fe8bc1b7cdd" url="https://www.herger.net/_data/FileViewer-1.5.1.zip" version="1.5.1">
+    <plugin name="FileViewer" category="information" creator="Michael Herger" email="slim@herger.net" installations="94" link="https://www.herger.net/FileViewer/" maxTarget="*" minTarget="7.5" sha="033beae02e4a41d98597e2b87b5e9fe8bc1b7cdd" url="https://www.herger.net/_data/FileViewer-1.5.1.zip" version="1.5.1">
       <title lang="EN">Fileviewer</title>
       <title lang="DE">Dateibetrachter</title>
     </plugin>
-    <plugin name="IgnoreDirREManager" category="tools" creator="Michael Herger" email="slim@herger.net" installations="145" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="https://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
+    <plugin name="IgnoreDirREManager" category="tools" creator="Michael Herger" email="slim@herger.net" installations="146" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="https://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
       <desc lang="EN">Set a regular expression to ignore files and folders when scanning or browsing folders.</desc>
       <desc lang="DE">Schliesse Dateien und Ordner mittels Regulärer Ausdrücke beim Durchsuchen der Musik aus.</desc>
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
-    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="121" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
+    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="122" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
       <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
-    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="484" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="489" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
       <changes lang="EN">v2.3.0 - Improve tag mixing by getting more tracks to pick from, and balanced shuffle.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
-    <plugin name="M6Encore" category="hardware" creator="Michael Herger" email="slim@herger.net" installations="35" maxTarget="*" minTarget="7.6" sha="5bd361d6f786347f6a8593a0f13fdc7a7dd9fcb0" url="https://www.herger.net/_data/M6Encore-0.1.0.zip" version="0.1.0">
+    <plugin name="M6Encore" category="hardware" creator="Michael Herger" email="slim@herger.net" installations="37" maxTarget="*" minTarget="7.6" sha="5bd361d6f786347f6a8593a0f13fdc7a7dd9fcb0" url="https://www.herger.net/_data/M6Encore-0.1.0.zip" version="0.1.0">
       <desc lang="EN">Support for Musical Fidelity M6 Encore</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="2133" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="871f3b7a8efd011882b1e6f671a393dff6affde8" url="https://www.herger.net/_data/MusicArtistInfo-1.12.0.zip" version="1.12.0">
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="2161" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="871f3b7a8efd011882b1e6f671a393dff6affde8" url="https://www.herger.net/_data/MusicArtistInfo-1.12.0.zip" version="1.12.0">
       <changes lang="EN">v1.12.0 - Store lyrics with time information as *.lrc, updated French translation (thanks Franck-Berry!), add option to hide some menu items (thanks AF-1!).</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
-    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1223" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
+    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1236" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
       <desc lang="EN">The Music Information Screen plugin allows customization of the player's Now Playing screen and other elements.</desc>
       <desc lang="DE">Das Musik-Informations Plugin erlaubt es, den Bildschirm weitgehend selber zu gestalten.</desc>
       <title lang="EN">Music Information Screen</title>
     </plugin>
-    <plugin name="NoSetup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="133" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="https://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
+    <plugin name="NoSetup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="137" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="https://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
       <desc lang="EN">This plugins allows you to disable access to the settings pages from the Squeezebox Server's web interface.</desc>
       <desc lang="DE">Mit diesem Plugin können Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
       <title lang="EN">Enable/disable access to server settings</title>
       <title lang="DE">Einstellungen aus-/einblenden</title>
     </plugin>
-    <plugin name="Phishin" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Phishin/master/HTML/EN/plugins/Phishin/html/icon.png" installations="101" maxTarget="*" minTarget="7.6" sha="647f84620f12ed3bbdcac66157148b3ca4613540" url="https://www.herger.net/_data/Phishin-0.1.3.zip" version="0.1.3">
+    <plugin name="Phishin" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Phishin/master/HTML/EN/plugins/Phishin/html/icon.png" installations="103" maxTarget="*" minTarget="7.6" sha="647f84620f12ed3bbdcac66157148b3ca4613540" url="https://www.herger.net/_data/Phishin-0.1.3.zip" version="0.1.3">
       <desc lang="EN">phish.in' - access to Live Phish Audio Streams</desc>
       <title lang="EN">phish.in'</title>
     </plugin>
-    <plugin name="PiCorePlayer" category="hardware" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/raspberry.png" installations="647" maxTarget="*" minTarget="7.9" sha="1edbee1437f4b18eb70d390e3619ecaaf47f1e23" url="http://www.herger.net/_data/PiCorePlayer-0.0.3.zip" version="0.0.3">
+    <plugin name="PiCorePlayer" category="hardware" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/raspberry.png" installations="655" maxTarget="*" minTarget="7.9" sha="1edbee1437f4b18eb70d390e3619ecaaf47f1e23" url="http://www.herger.net/_data/PiCorePlayer-0.0.3.zip" version="0.0.3">
       <desc lang="EN">Access pCP Settings pages from within the LMS Settings.</desc>
       <title lang="EN">piCorePlayer Support</title>
     </plugin>
-    <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="735" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
+    <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="737" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!)" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="1517" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="63905c4c3863d958b9707ae02bd93cb1db93cb86" url="https://www.herger.net/_data/Qobuz-3.5.0.zip" version="3.5.0">
+    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!)" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="1546" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="63905c4c3863d958b9707ae02bd93cb1db93cb86" url="https://www.herger.net/_data/Qobuz-3.5.0.zip" version="3.5.0">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.3.0 - Add option to move to Radio menu instead of My Apps" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="1906" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="141c067aa6802dbb0ee9ff53ec2b1640f80e630a" url="https://www.herger.net/_data/RadioParadise-3.3.0.zip" version="3.3.0">
+    <plugin name="RadioParadise" category="radio" changes="v3.3.0 - Add option to move to Radio menu instead of My Apps" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="1929" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="141c067aa6802dbb0ee9ff53ec2b1640f80e630a" url="https://www.herger.net/_data/RadioParadise-3.3.0.zip" version="3.3.0">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation. v4.10.1: add new Mac helper to (try to) work around Apple's limitations." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="4424" maxTarget="*" minTarget="7.7" sha="c25b0b9b2f2971c3e70508ac0e486f3e0c2936ca" url="https://downloads.nixda.ch/Spotty-4.10.1.zip" version="4.10.1">
+    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation. v4.10.1: add new Mac helper to (try to) work around Apple's limitations." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="4458" maxTarget="*" minTarget="7.7" sha="c25b0b9b2f2971c3e70508ac0e486f3e0c2936ca" url="https://downloads.nixda.ch/Spotty-4.10.1.zip" version="4.10.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
-    <plugin name="SpottyARMLegacyBin" category="misc" creator="Michael Herger" email="slim@herger.net" installations="176" maxTarget="*" minTarget="7.7" sha="5e07206e7c0b9b36baa765b375ea93f9466ec50a" target="unix" url="https://www.herger.net/_data/SpottyARMLegacyBin-0.12.0.zip" version="0.12.0">
+    <plugin name="SpottyARMLegacyBin" category="misc" creator="Michael Herger" email="slim@herger.net" installations="177" maxTarget="*" minTarget="7.7" sha="5e07206e7c0b9b36baa765b375ea93f9466ec50a" target="unix" url="https://www.herger.net/_data/SpottyARMLegacyBin-0.12.0.zip" version="0.12.0">
       <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6/7 based systems. Use these if your installation used to work pre Spotty 2.8.0, but stopped with the most recent helpers. Please note that these legacy versions come with certain limitations, eg. cannot stream OGG directly to your player.</desc>
       <title lang="EN">Spotty Legacy Helper Application for ARMv6/7 architecture</title>
     </plugin>
@@ -1012,7 +1012,7 @@
       <title lang="EN">CPAN Modules (Windows)</title>
       <title lang="DE">CPAN Module (Windows)</title>
     </plugin>
-    <plugin name="WalkWithMe" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/walkwithme.png" installations="684" maxTarget="*" minTarget="7.6" sha="df3505b60cb582a36734bc9a0d4741176b898af1" url="https://www.herger.net/_data/WalkWithMe-1.1.3.zip" version="1.1.3">
+    <plugin name="WalkWithMe" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/walkwithme.png" installations="689" maxTarget="*" minTarget="7.6" sha="df3505b60cb582a36734bc9a0d4741176b898af1" url="https://www.herger.net/_data/WalkWithMe-1.1.3.zip" version="1.1.3">
       <changes lang="EN">1.1.0: add option to grab a playlist form another player, rather than pushing it; try to improve behaviour when moving a RandomPlay list. v1.1.1: add CLI support. v1.1.2: improved French translation. v1.1.3: sort players by name</changes>
       <desc lang="EN">Continue your listening on a different player - easily.</desc>
       <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen Gerät weiterspielen.</desc>
@@ -1043,19 +1043,19 @@
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="768" link="http://www.hickinbottom.com/autorescan" maxTarget="7.5+" minTarget="7.3" sha="0216e7d946c5f9457301d56712b11476f68d84f3" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.1.zip" version="1.1">
+    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="777" link="http://www.hickinbottom.com/autorescan" maxTarget="7.5+" minTarget="7.3" sha="0216e7d946c5f9457301d56712b11476f68d84f3" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.1.zip" version="1.1">
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="768" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
+    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="777" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="SpottyBinFreeBSD" category="misc" creator="Richard Herman" email="richard@neversimple.eu" installations="112" maxTarget="*" minTarget="7.7" sha="0ae76df01ed09eb83ac5ba5b0e71dfbd1788ba6d" target="unix" url="https://www.neversimple.eu/LMS-Files/SpottyBinFreeBSD-1.3.1.zip" version="1.3.1">
+    <plugin name="SpottyBinFreeBSD" category="misc" creator="Richard Herman" email="richard@neversimple.eu" installations="113" maxTarget="*" minTarget="7.7" sha="0ae76df01ed09eb83ac5ba5b0e71dfbd1788ba6d" target="unix" url="https://www.neversimple.eu/LMS-Files/SpottyBinFreeBSD-1.3.1.zip" version="1.3.1">
       <desc lang="EN">Spotty Helper Application for FreeBSD 13. This plugin requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for FreeBSD 13</title>
     </plugin>
-    <plugin name="SugarCube" category="playlists" creator="Charles Parker" email="abuse@spicefly.com" installations="134" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
+    <plugin name="SugarCube" category="playlists" creator="Charles Parker" email="abuse@spicefly.com" installations="135" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
       <desc lang="EN">Travel through your music Library using MusicIPs recommendations. Features Include Filter, Genre, Artist and Recipe Mixing, Trackstat Integration, Artist Blocking, Genre Blocking, Custom Track Weighting Routines, Coming Up Next Display, Sleep Mode, Volume Fade and lots more.  See www.spicefly.com for Details and Change Log.</desc>
       <title lang="EN">Spicefly SugarCube</title>
     </plugin>
