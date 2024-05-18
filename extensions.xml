@@ -236,7 +236,7 @@
       <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
       <title lang="EN">iPeng</title>
     </plugin>
-    <plugin name="PlaylistMan" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="930" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistManPlugin.htm" maxTarget="*" minTarget="7.4" sha="115b579739089deff915e7e77898ec235e88b180" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistMan6.1.zip" version="6.1">
+    <plugin name="PlaylistMan" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="929" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistManPlugin.htm" maxTarget="*" minTarget="7.4" sha="115b579739089deff915e7e77898ec235e88b180" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistMan6.1.zip" version="6.1">
       <desc lang="EN">Provides functionality to add songs or albums to any chosen playlist.</desc>
       <title lang="EN">Playlist Manager</title>
     </plugin>
@@ -255,7 +255,7 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/radiofrance_svg.png" installations="835" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="6e4cb3f5559edc361dff216b5dc5a5c04025a4d7" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.12.zip" version="0.4.12">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/radiofrance_svg.png" installations="836" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="6e4cb3f5559edc361dff216b5dc5a5c04025a4d7" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.12.zip" version="0.4.12">
       <changes lang="EN">
 				- Data format changed for some stations
 			</changes>
@@ -278,7 +278,7 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" installations="350" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d7e8779f330860fdbc0a4c9c46ae7bbd0d63af3a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.18.zip" version="0.0.18">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" installations="349" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d7e8779f330860fdbc0a4c9c46ae7bbd0d63af3a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.18.zip" version="0.0.18">
       <changes lang="EN">
 				- Update station list - adds Absolute Radio Women of Country and Absolute Radio Women of Rock
 			</changes>
@@ -385,7 +385,7 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
-    <plugin name="Wefunk" category="radio" creator="Christian Herzog" email="daduke@daduke.org" installations="219" link="http://daduke.org/linux/lmswefunk.html" maxTarget="*" minTarget="7.6" sha="150843f6ec3414d9d7fab27c6a2764ef0f4016e6" url="http://daduke.org/dl/lms-wefunk/wefunk-0.3.3.zip" version="0.3.3">
+    <plugin name="Wefunk" category="radio" creator="Christian Herzog" email="daduke@daduke.org" installations="218" link="http://daduke.org/linux/lmswefunk.html" maxTarget="*" minTarget="7.6" sha="150843f6ec3414d9d7fab27c6a2764ef0f4016e6" url="http://daduke.org/dl/lms-wefunk/wefunk-0.3.3.zip" version="0.3.3">
       <changes lang="EN">fix playback for shows &gt; 999</changes>
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
@@ -607,7 +607,7 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="364" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
+    <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="363" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
     </plugin>
@@ -627,7 +627,7 @@
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
-    <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="43" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
+    <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="44" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
       <desc lang="EN">ArchiveOrg - a plugin that enables access to files on Archive.org</desc>
       <title lang="EN">ArchiveOrg V0.6 </title>
     </plugin>
@@ -715,7 +715,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2606" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="ddd8ebece156583c2692f68a031808a2bcc6cf24" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.3.9.zip" version="3.3.9">
+    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2605" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="ddd8ebece156583c2692f68a031808a2bcc6cf24" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.3.9.zip" version="3.3.9">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -865,11 +865,11 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="1619" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="e57a850655981ad453731c60227c4f5716bdf419" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.6/TIDAL.zip" version="1.4.6">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="1618" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="e57a850655981ad453731c60227c4f5716bdf419" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.6/TIDAL.zip" version="1.4.6">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="878" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="828a8c64489f701dd0d6eda4ea8f831e27cc1f2f" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.4/Deezer.zip" version="2.81.4">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="877" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="828a8c64489f701dd0d6eda4ea8f831e27cc1f2f" url="https://github.com/philippe44/lms-deezer/releases/download/2.81.4/Deezer.zip" version="2.81.4">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
@@ -877,7 +877,7 @@
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
-    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" installations="2310" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
+    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" installations="2309" maxTarget="*" minTarget="8.0.1" sha="7a533e90372da9b16dbd549919fa049b4ef5d409" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.8/plugin-CommunityFirmware-0.0.8.zip" version="0.0.8">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
@@ -885,7 +885,7 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@gmail.com" installations="126" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="ab1cd278897c435b09a8c84019cfd5e3459b429b" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.0.0/MyQobuz.zip" version="1.0.0">
+    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@gmail.com" installations="124" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="ab1cd278897c435b09a8c84019cfd5e3459b429b" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.0.0/MyQobuz.zip" version="1.0.0">
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
     </plugin>
@@ -903,7 +903,7 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="687" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="d4878edc864415b422821b077b1ecd76200d89e2" url="https://www.herger.net/_data/1001Albums-1.4.1.zip" version="1.4.1">
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="686" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="d4878edc864415b422821b077b1ecd76200d89e2" url="https://www.herger.net/_data/1001Albums-1.4.1.zip" version="1.4.1">
       <changes lang="EN">v1.4.1: add support for Deezer plugin - thanks Paul Webster!</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
@@ -950,17 +950,17 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="2337" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="871f3b7a8efd011882b1e6f671a393dff6affde8" url="https://www.herger.net/_data/MusicArtistInfo-1.12.0.zip" version="1.12.0">
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="2338" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="871f3b7a8efd011882b1e6f671a393dff6affde8" url="https://www.herger.net/_data/MusicArtistInfo-1.12.0.zip" version="1.12.0">
       <changes lang="EN">v1.12.0 - Store lyrics with time information as *.lrc, updated French translation (thanks Franck-Berry!), add option to hide some menu items (thanks AF-1!).</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
-    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1342" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
+    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1343" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0" sha="305ec8fa13724bcc963226912e1b555e18ec0c92" url="https://www.herger.net/_data/MusicInfoSCR-4.5.0.zip" version="4.5.0">
       <desc lang="EN">The Music Information Screen plugin allows customization of the player's Now Playing screen and other elements.</desc>
       <desc lang="DE">Das Musik-Informations Plugin erlaubt es, den Bildschirm weitgehend selber zu gestalten.</desc>
       <title lang="EN">Music Information Screen</title>
     </plugin>
-    <plugin name="NoSetup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="152" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="https://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
+    <plugin name="NoSetup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="151" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="https://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
       <desc lang="EN">This plugins allows you to disable access to the settings pages from the Squeezebox Server's web interface.</desc>
       <desc lang="DE">Mit diesem Plugin können Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
       <title lang="EN">Enable/disable access to server settings</title>
@@ -978,15 +978,15 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!)" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="1751" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="63905c4c3863d958b9707ae02bd93cb1db93cb86" url="https://www.herger.net/_data/Qobuz-3.5.0.zip" version="3.5.0">
+    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!)" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="1750" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="63905c4c3863d958b9707ae02bd93cb1db93cb86" url="https://www.herger.net/_data/Qobuz-3.5.0.zip" version="3.5.0">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.3.0 - Add option to move to Radio menu instead of My Apps" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="2131" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="141c067aa6802dbb0ee9ff53ec2b1640f80e630a" url="https://www.herger.net/_data/RadioParadise-3.3.0.zip" version="3.3.0">
+    <plugin name="RadioParadise" category="radio" changes="v3.3.0 - Add option to move to Radio menu instead of My Apps" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="2130" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="141c067aa6802dbb0ee9ff53ec2b1640f80e630a" url="https://www.herger.net/_data/RadioParadise-3.3.0.zip" version="3.3.0">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation. v4.10.1: add new Mac helper to (try to) work around Apple's limitations." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="4832" maxTarget="*" minTarget="7.7" sha="c25b0b9b2f2971c3e70508ac0e486f3e0c2936ca" url="https://downloads.nixda.ch/Spotty-4.10.1.zip" version="4.10.1">
+    <plugin name="Spotty" category="musicservices" changes="v4.10.0: New Home menu implementation. v4.10.1: add new Mac helper to (try to) work around Apple's limitations." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="4833" maxTarget="*" minTarget="7.7" sha="c25b0b9b2f2971c3e70508ac0e486f3e0c2936ca" url="https://downloads.nixda.ch/Spotty-4.10.1.zip" version="4.10.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
