@@ -10,7 +10,7 @@ use XML::Simple;
 
 use constant INCLUDE_FILE => 'include.json';
 use constant REPO_FILE    => 'extensions.xml';
-use constant STATS_URL    => 'https://stats.lms-community.org/api/stats/plugins';
+use constant STATS_URL    => 'https://stats.lms-community.org/api/stats/plugins?days=30';
 
 my $categoriesMap = {
 	'Accuradio' => 'radio',
