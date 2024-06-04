@@ -1065,8 +1065,8 @@
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="891" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="e7ab6449750dccaa2021ed35fdb49dfe35f867bc" url="https://www.herger.net/_data/Bandcamp-1.9.2.zip" version="1.9.2">
-      <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.1: fix URL parsing. v1.9.2: prevent redirect loop.</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="891" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="52e47ef2e374916534712d942352e858cbeaff63" url="https://www.herger.net/_data/Bandcamp-1.9.3.zip" version="1.9.3">
+      <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.1: fix URL parsing. v1.9.2: prevent redirect loop. v1.9.3: fix recently played initialization.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
