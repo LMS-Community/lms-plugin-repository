@@ -380,6 +380,11 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
+    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="534" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
+      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
+      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
+      <title lang="EN">RadioFeeds UK and Ireland</title>
+    </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="225" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
@@ -808,7 +813,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/RatingsLight/HTML/EN/plugins/RatingsLight/html/images/ratedtracksmenuicon.svg" installations="265" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="3387b823e6ce579e8d0575a8a95bd3149ebef0bf" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.4/lms-ratingslight-2.7.4.zip" version="2.7.4">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/RatingsLight/HTML/EN/plugins/RatingsLight/html/images/ratedtracksmenuicon.svg" installations="265" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="8a3d0dab9888906f5dcc7fe8eb934b9f15fe299e" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.5/lms-ratingslight-2.7.5.zip" version="2.7.5">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
