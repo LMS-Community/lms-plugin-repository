@@ -282,7 +282,7 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" installations="428" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d382c7fcced3b0484df53f82ee70f31c7e8e1a66" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.19.zip" version="0.0.19">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="428" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d382c7fcced3b0484df53f82ee70f31c7e8e1a66" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.19.zip" version="0.0.19">
       <changes lang="EN">
 				- Update station list - adds JazzFM Love Supreme and some others plus some disappear
 			</changes>
@@ -379,6 +379,11 @@
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
+    </plugin>
+    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="537" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
+      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
+      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
+      <title lang="EN">RadioFeeds UK and Ireland</title>
     </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="227" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
@@ -782,7 +787,7 @@
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon.svg" installations="115" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="3a8ea04694090db27a42fcb406e2e890e80ad089" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.1/lms-customskip-3.6.1.zip" version="3.6.1">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon.svg" installations="115" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="6db36ac3800ab890603350566f503d59ca251c94" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.2/lms-customskip-3.6.2.zip" version="3.6.2">
       <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your client playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -798,13 +803,13 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin.</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon.svg" installations="515" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="cd91f74d791a979d4e3eb2e32a2c2a3a167b6db5" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.4.1/lms-dynamicplaylists-4.4.1.zip" version="4.4.1">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon.svg" installations="515" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="f0a5b63d6eb0f5438cf26d58eed148a49b889caf" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.4.2/lms-dynamicplaylists-4.4.2.zip" version="4.4.2">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon.svg" installations="383" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="a620219d0f5e787ac7056932ce6554138d911b67" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.5.8/lms-dynamicplaylistcreator-1.5.8.zip" version="1.5.8">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon.svg" installations="383" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="0597bf5a54b35a298d584a3b16561d3f57a1dbbe" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.6.0/lms-dynamicplaylistcreator-1.6.0.zip" version="1.6.0">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -816,13 +821,13 @@
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics.svg" installations="430" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="8b948e8c1c9384cd2ad091df0fb0b88d643e9001" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.7.1/lms-visualstatistics-1.7.1.zip" version="1.7.1">
+    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics.svg" installations="430" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="4006926bb59a7f451b02071bad7ad06d5f412689" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.7.2/lms-visualstatistics-1.7.2.zip" version="1.7.2">
       <desc lang="EN">Have a look at your library statistics with charts.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="6914" maxTarget="*" minTarget="7.9.0" sha="b77050b7dfa362958478d4c5d989360c60cef827" url="https://github.com/CDrummond/lms-material/releases/download/4.6.2/lms-material-4.6.2.zip" version="4.6.2">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="6914" maxTarget="*" minTarget="7.9.0" sha="dd7a73bd5d3f77280c55092230d2e125e951eebc" url="https://github.com/CDrummond/lms-material/releases/download/5.0.0/lms-material-5.0.0.zip" version="5.0.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
