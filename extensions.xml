@@ -799,9 +799,13 @@
       <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags).</desc>
       <title lang="EN">Custom Tag Importer</title>
     </plugin>
-    <plugin name="DarkDefaultSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="*" minTarget="7.9" sha="2370d9cc491acaeb7d65741f21e617528a9bd8a3" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/1.0.7/lms-darkdefaultskin-1.0.7.zip" version="1.0.7">
-      <desc lang="EN">Dark-themed version of the LMS Default skin.</desc>
+    <plugin name="DarkDefaultSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darkdefaultskin" maxTarget="8.*" minTarget="7.9" sha="975daac01a02a865d81f3b0f6b18648cdf55c9c3" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/1.0.8/lms-darkdefaultskin-1.0.8.zip" version="1.0.8">
+      <desc lang="EN">Dark-themed version of the LMS Default skin</desc>
       <title lang="EN">Dark Default Skin</title>
+    </plugin>
+    <plugin name="DarkLogicSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darklogicskin" maxTarget="*" minTarget="9.0" sha="8def5c3ea3655a130ea03f989a4e537e12fbbf87" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.0/lms-darklogicskin-1.0.0.zip" version="1.0.0">
+      <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
+      <title lang="EN">Dark Logic Skin</title>
     </plugin>
     <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon.svg" installations="519" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="f0a5b63d6eb0f5438cf26d58eed148a49b889caf" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.4.2/lms-dynamicplaylists-4.4.2.zip" version="4.4.2">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
