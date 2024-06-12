@@ -782,12 +782,12 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="194" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="28c18c9c38454e34ee43ff5da052fe9ab19cd981" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.1/lms-alternativeplaycount-1.5.1.zip" version="1.5.1">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="194" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="e02d8beb2105045042402ffc247dbe60ce120139" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.2/lms-alternativeplaycount-1.5.2.zip" version="1.5.2">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists, virtual libraries or to skip specific tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/screenshots/cs_icon.png" installations="113" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="6db36ac3800ab890603350566f503d59ca251c94" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.2/lms-customskip-3.6.2.zip" version="3.6.2">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="113" link="https://github.com/AF-1/lms-customskip" maxTarget="*" minTarget="8.0" sha="6db36ac3800ab890603350566f503d59ca251c94" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.2/lms-customskip-3.6.2.zip" version="3.6.2">
       <desc lang="EN">Set player-specific rules for when the current track or upcoming tracks in your client playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -803,29 +803,30 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DarkLogicSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darklogicskin" maxTarget="*" minTarget="9.0" sha="8def5c3ea3655a130ea03f989a4e537e12fbbf87" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.0/lms-darklogicskin-1.0.0.zip" version="1.0.0">
+    <plugin name="DarkLogicSkin" category="skin" creator="AF" link="https://github.com/AF-1/lms-darklogicskin" maxTarget="*" minTarget="9.0" sha="ca192a8ae23f65f8055ddea925ba91239c432fe3" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.1/lms-darklogicskin-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="526" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="f0a5b63d6eb0f5438cf26d58eed148a49b889caf" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.4.2/lms-dynamicplaylists-4.4.2.zip" version="4.4.2">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon_svg.png" installations="526" link="https://github.com/AF-1/lms-dynamicplaylists" maxTarget="*" minTarget="8.0" sha="f0a5b63d6eb0f5438cf26d58eed148a49b889caf" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.4.2/lms-dynamicplaylists-4.4.2.zip" version="4.4.2">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_icon.png" installations="393" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="cde35fb366603b13d0d5b54c7cb2c6ceb830c5ba" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.6.1/lms-dynamicplaylistcreator-1.6.1.zip" version="1.6.1">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon_svg.png" installations="393" link="https://github.com/AF-1/lms-dynamicplaylistcreator" maxTarget="*" minTarget="8.0" sha="cde35fb366603b13d0d5b54c7cb2c6ceb830c5ba" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.6.1/lms-dynamicplaylistcreator-1.6.1.zip" version="1.6.1">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="278" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="6391fdef4696b1c65b1071c0ec9c9b5d0ba4055f" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.6/lms-ratingslight-2.7.6.zip" version="2.7.6">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="278" link="https://github.com/AF-1/lms-ratingslight" maxTarget="*" minTarget="8.0" sha="3a64a040473785820dae55ce372f8f8e660912fd" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.7/lms-ratingslight-2.7.7.zip" version="2.7.7">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="191" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="b80dde14b1e6d4fa8a9a4d0ba6f09d83f2c8048d" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.5/lms-virtuallibrarycreator-1.3.5.zip" version="1.3.5">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="191" link="https://github.com/AF-1/lms-virtuallibrarycreator" maxTarget="*" minTarget="8.0" sha="b80dde14b1e6d4fa8a9a4d0ba6f09d83f2c8048d" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.5/lms-virtuallibrarycreator-1.3.5.zip" version="1.3.5">
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="433" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="4b83eed8c76d1c6492d6951b968f12025e97a558" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.7.3/lms-visualstatistics-1.7.3.zip" version="1.7.3">
+    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics_svg.png
+			https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="433" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="4b83eed8c76d1c6492d6951b968f12025e97a558" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.7.3/lms-visualstatistics-1.7.3.zip" version="1.7.3">
       <desc lang="EN">Have a look at your library statistics with charts.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
@@ -875,7 +876,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="2167" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="2f528ab344b0f5f90df077ca10cd481242dd5b71" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.4.7/TIDAL.zip" version="1.4.7">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="2167" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="e4b76b06b0c1bffb1148ed519468ea9dc08dc552" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.5.0/TIDAL.zip" version="1.5.0">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
