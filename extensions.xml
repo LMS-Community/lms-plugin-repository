@@ -825,8 +825,7 @@
       <desc lang="EN">Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics_svg.png
-			https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="436" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="4b83eed8c76d1c6492d6951b968f12025e97a558" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.7.3/lms-visualstatistics-1.7.3.zip" version="1.7.3">
+    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics_svg.png" installations="436" link="https://github.com/AF-1/lms-visualstatistics" maxTarget="*" minTarget="8.0" sha="4b83eed8c76d1c6492d6951b968f12025e97a558" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.7.3/lms-visualstatistics-1.7.3.zip" version="1.7.3">
       <desc lang="EN">Have a look at your library statistics with charts.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
@@ -1076,6 +1075,10 @@
     <plugin name="ClientCleanup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="652" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.7" sha="4501d2f00382eed89cfc68a56c96fd83a64feb8a" url="https://www.herger.net/_data/ClientCleanup-1.0.0.zip" version="1.0.0">
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
+    </plugin>
+    <plugin name="CrackThatMF" category="hardware" creator="Michael Herger" email="slim@herger.net" maxTarget="*" minTarget="7.7" sha="411148c46aef763c8a5c2089b2207faedda7179e" target="unix" url="https://www.herger.net/_data/CrackThatMF-0.0.1.zip" version="0.0.1">
+      <desc lang="EN">This plugin tries to enable SSH on your Musical Fidelity Encore device. USE AT YOUR OWN RISK! DO NOT USE IF YOU ALREADY HAVE SSH ACCESS TO YOUR MF. Once access has been successfully established, you can uninstall the plugin again.</desc>
+      <title lang="EN">Musical Fidelity Remote Access Enabler</title>
     </plugin>
     <plugin name="DocsetCreator" category="tools" creator="Michael Herger" email="slim@herger.net" installations="48" maxTarget="*" minTarget="7.9" sha="73dc6aca59179652dd28b0c049f0b9d36a4e95e4" url="http://www.herger.net/_data/DocsetCreator-0.5.0.zip" version="0.5.0">
       <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
