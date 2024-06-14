@@ -282,9 +282,10 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="433" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="d382c7fcced3b0484df53f82ee70f31c7e8e1a66" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.19.zip" version="0.0.19">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="433" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="1132fa61f7b9832605329ba41b85b68f3eec9389" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.20.zip" version="0.0.20">
       <changes lang="EN">
-				- Update station list - adds JazzFM Love Supreme and some others plus some disappear
+				- Perform automatic login on startup rather than a session refresh to try to stop Premium stations becoming unavaiable
+				- Update station list ... removing a large number of regional ones
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
