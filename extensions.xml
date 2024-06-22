@@ -259,12 +259,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/radiofrance_svg.png" installations="1068" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="495056a4b7955429bb0036726cab94ce5bef07aa" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.13.zip" version="0.4.13">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/radiofrance_svg.png" installations="1068" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="b18c5872e43f66a66ffedbd439abaf49aed81fa9" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.14.zip" version="0.4.14">
       <changes lang="EN">
-				- Add Mouv Sans Blabla
+				- Add La musique d'Inter
 			</changes>
       <changes lang="FR">
-				- Ajoute Mouv Sans Blabla
+				- Ajoute La musique d'Inter
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
@@ -816,7 +816,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="7357" maxTarget="*" minTarget="7.9.0" sha="eea38ecd924dd35bd775ab4f6857697823a97080" url="https://github.com/CDrummond/lms-material/releases/download/5.0.2/lms-material-5.0.2.zip" version="5.0.2">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="7357" maxTarget="*" minTarget="7.9.0" sha="ed60311ae7ab32753d7707bfb4b372d379f11fd1" url="https://github.com/CDrummond/lms-material/releases/download/5.0.3/lms-material-5.0.3.zip" version="5.0.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
