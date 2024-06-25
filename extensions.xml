@@ -1126,7 +1126,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!). v3.5.2: fix crasher on corrupted cache value." creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="2497" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="3eb23589ad6f05dd500e2ef78b75ad71f67b6f0e" url="https://www.herger.net/_data/Qobuz-3.5.2.zip" version="3.5.2">
+    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!). v3.5.3: SmartGain." creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="2497" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="499cd074f91051048fe4f965a8d136cff8b92ca3" url="https://www.herger.net/_data/Qobuz-3.5.3.zip" version="3.5.3">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
