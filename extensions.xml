@@ -365,6 +365,11 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
+    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="581" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
+      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
+      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
+      <title lang="EN">RadioFeeds UK and Ireland</title>
+    </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="223" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
@@ -707,7 +712,7 @@
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="3254" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="3f98f71a504e311f5e1c3780934ef8c29b53a93b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.212.zip" version="0.212">
+    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="3254" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="54b9695de10b621a1c3ec7163ec57cffb2bf2a6b" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.300.zip" version="0.300">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
@@ -827,16 +832,8 @@
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="790" maxTarget="8.*" minTarget="7.5" sha="cccd272fc78a76c430d0a5e53d97503a2d8a5403" target="unix" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-linux-v1.6.5.zip" version="1.6.5">
+    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="790" maxTarget="*" minTarget="8.5" sha="75082a2ae46b77b98585e5c7367333f75f53c700" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/1.7.0/LocalPlayer.zip" version="1.7.0">
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
-      <title lang="EN">Local Player</title>
-    </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="790" maxTarget="8.*" minTarget="7.5" sha="3f9bf6d6beac9759133a0f8dee4732acfae55f07" target="win" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-windows-v1.6.5.zip" version="1.6.5">
-      <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
-      <title lang="EN">Local Player</title>
-    </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="790" maxTarget="8.*" minTarget="7.5" sha="13be83a21cd22933d5b7357a10e41832d1fbd629" target="mac" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/v1.6.5/LocalPlayer-mac-v1.6.5.zip" version="1.6.5">
-      <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
     <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="314" maxTarget="8.*" minTarget="7.3" sha="e6867a6ff30fc021e5fd2beea856913a49bae320" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.2/SigGen-1.2.zip" version="1.2">
@@ -859,7 +856,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1079" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="1606adbd1b44559544f4975ed9ff5a45aba27bb5" url="https://github.com/philippe44/lms-deezer/releases/download/3.0.5/Deezer.zip" version="3.0.5">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1079" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="bf34d391406e4015112f907a7fa1de54111bdaaf" url="https://github.com/philippe44/lms-deezer/releases/download/3.0.6/Deezer.zip" version="3.0.6">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
