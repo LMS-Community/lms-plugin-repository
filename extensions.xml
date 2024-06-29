@@ -816,7 +816,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="7504" maxTarget="*" minTarget="7.9.0" sha="ed60311ae7ab32753d7707bfb4b372d379f11fd1" url="https://github.com/CDrummond/lms-material/releases/download/5.0.3/lms-material-5.0.3.zip" version="5.0.3">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="7504" maxTarget="*" minTarget="7.9.0" sha="0558c06b752ae329dcfb630a47fd847936e19854" url="https://github.com/CDrummond/lms-material/releases/download/5.0.4/lms-material-5.0.4.zip" version="5.0.4">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
