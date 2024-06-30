@@ -732,6 +732,11 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="554" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="c25a6ab7668b11c8e3770748aff5fc05cd9a8d4e" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-39.zip" version="5.11.39">
+      <changes lang="EN">(5.11.39) Fix weather data retrieval.</changes>
+      <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
+      <title lang="EN">SuperDateTime</title>
+    </plugin>
     <plugin name="DatabaseQuery" category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" installations="185" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -1039,8 +1044,8 @@
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="933" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="52e47ef2e374916534712d942352e858cbeaff63" url="https://www.herger.net/_data/Bandcamp-1.9.3.zip" version="1.9.3">
-      <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.1: fix URL parsing. v1.9.2: prevent redirect loop. v1.9.3: fix recently played initialization.</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="933" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="9b31cc09e9432a574c8039fb2e9f0e2ec848dc1f" url="https://www.herger.net/_data/Bandcamp-1.9.4.zip" version="1.9.4">
+      <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.1: fix URL parsing. v1.9.2: prevent redirect loop. v1.9.3: fix recently played initialization. v1.9.4: improve identity cookie documentation.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
