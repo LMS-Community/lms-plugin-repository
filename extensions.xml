@@ -732,11 +732,6 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="554" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="c25a6ab7668b11c8e3770748aff5fc05cd9a8d4e" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-39.zip" version="5.11.39">
-      <changes lang="EN">(5.11.39) Fix weather data retrieval.</changes>
-      <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
-      <title lang="EN">SuperDateTime</title>
-    </plugin>
     <plugin name="DatabaseQuery" category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" installations="185" link="http://wiki.slimdevices.com/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
@@ -856,7 +851,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1082" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="bf34d391406e4015112f907a7fa1de54111bdaaf" url="https://github.com/philippe44/lms-deezer/releases/download/3.0.6/Deezer.zip" version="3.0.6">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1082" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="9e69492568a49361c83b8a2cd98bf74117426171" url="https://github.com/philippe44/lms-deezer/releases/download/3.1.0/Deezer.zip" version="3.1.0">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
