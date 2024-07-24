@@ -742,30 +742,46 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="2091" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="1b12ca5bc1aa61cd9e94c3a93d72d14b17fd8597" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.39.0/BBCSoundsPlugin_2_39_0.zip" version="2.39.0">
-      <changes lang="EN">NEW 2.39.0 Remove items from Continue Listening. Other minor improvements</changes>
-      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
+    <plugin name="PluginStore" category="misc" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="8.0" sha="7386e7bb3335accdd83dd32c2cef0e4838bffe8f" url="http://172.16.0.32:8887/LMS_PluginStore_Plugin/PluginStorePlugin.zip" version="0.0.24">
+      <changes lang="EN">Development</changes>
+      <desc lang="EN">Plugin Store</desc>
+      <title lang="EN">LMS Plugin Store</title>
+    </plugin>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="2091" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="97ed4ae79a481ce3433b7c3a39df3def9a779afa" url="http://172.16.0.32:8887/LMS_BBC_Sounds_Plugin/BBCSoundsPlugin.zip" version="2.41.11">
+      <changes lang="EN">NEW 2.22.0 'Next Expisodes' menu now available from the &quot;more&quot; info context menu + Improvements to live current track display </changes>
+      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="606" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/2.2.3/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
-      <changes lang="EN">NEW 2.2.3 Increased Catch-Up days available to 7</changes>
-      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
+    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="606" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="8.*" minTarget="7.9" sha="b5ae8efdbab9f47567950a6acce61494975a8072" url="http://172.16.0.32:8887/LMS_Virgin_Radio_Plugin/VirginRadioPlugin.zip" version="2.2.6">
+      <changes lang="EN">2.0.1 Improved current playing track info display</changes>
+      <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 5 day catch up listening.</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="422" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="92c491f69ba02f8b94885796098620bdc7a194fa" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.2.5/TimesRadioPlugin_2_2_5.zip" version="2.2.5">
-      <changes lang="EN">NEW 2.2.5 Show correctly formmated images.  Show progress bar for live radio programmes</changes>
+    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="422" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="8.*" minTarget="7.9" sha="1f7749f6827fc2852462610a905027132f0fa154" url="http://172.16.0.32:8887/LMS_TIMES_RADIO_PLUGIN/TimesRadioPlugin.zip" version="2.3.16">
+      <changes lang="EN">NEW 2.1.5  Bugfixes - Seeking for AOD + Material Icon compatability</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="809" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="383385076d4157180832ec66c7f8e4322f6b747b" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.5.2/GlobalPlayerUKPlugin_2_5_2.zip" version="2.5.2">
-      <changes lang="EN">NEW 2.5.2 Fixed live radio streams.  New aac hls stream source. </changes>
-      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
+    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="809" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="8.*" minTarget="7.9" sha="c4d6cf1b69ab2788fddbbac23198d1765833e9c5" url="http://172.16.0.32:8887/LMS_GlobalPlayer_Plugin/GlobalPlayerUKPlugin.zip" version="2.9.16">
+      <changes lang="EN">NEW 1.1.0 Favourite Series/Presenters and podcasts</changes>
+      <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live, Catchup, Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
-    <plugin name="RadioFavourites" category="radio" creator="ExpectingToFly" installations="792" link="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin" maxTarget="*" minTarget="7.9" sha="b60c8c2ea22123554c67a7d317ad87562eb2e479" url="https://github.com/expectingtofly/LMS_Radio_Favourites_Plugin/releases/download/1.2.0/RadioFavouritesPlugin_1_2_0.zip" version="1.2.0">
-      <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
-      <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
-      <title lang="EN">Radio Favourites</title>
+    <plugin name="UKRadioPlayer" category="misc" creator="ExpectingToFly" installations="119" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="b1d3ce8ca3bac710934bb412f5f4f1bd4a4a23a4" url="http://172.16.0.70:8887/LMS_UKRadioPlayer_Plugin/UKRadioPlayerPlugin.zip" version="1.1.3">
+      <desc lang="EN">UK Radio Player</desc>
+      <title lang="EN">UK Radio Player</title>
+    </plugin>
+    <plugin name="PluginManagerAPI" category="misc" creator="Innuos" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="7.9" sha="14b8298f8364d14fe5b808f0da1863037a198427" url="http://172.16.0.70:8887/LMS_PLUGINMANAGER_PLUGIN/pluginmanager.zip" version="1.0.9">
+      <desc lang="EN">Plugin Manager API</desc>
+      <title lang="EN">Plugin Manager API</title>
+    </plugin>
+    <plugin name="RESTAPI" category="misc" creator="ExpectingToFly" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="8.*" minTarget="8.2" sha="b2ba6668de60a4bee9dd329d16cc29f569d1d8c8" url="http://172.16.0.70:8887/LMS_REST_API_Plugin/RESTAPIPlugin.zip" version="0.0.96">
+      <desc lang="EN">RESTAPI</desc>
+      <title lang="EN">REST API</title>
+    </plugin>
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1094" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="7.9" sha="9e51c19cbe8c46ff2811d6892c443e849a06e86a" url="http://172.16.0.70:8887/Deezer.zip" version="2.10.0">
+      <desc lang="EN">Deezer for local LMS use</desc>
+      <title lang="EN">Deezer local</title>
     </plugin>
     <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="196" link="https://github.com/AF-1/lms-alternativeplaycount" maxTarget="*" minTarget="8.0" sha="ccc42e7dcef503f5c2d360370ce8577c8783db77" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.3/lms-alternativeplaycount-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists, virtual libraries or to skip specific tracks.</desc>
