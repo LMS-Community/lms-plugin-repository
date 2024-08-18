@@ -354,11 +354,6 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
-    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="700" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
-      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
-      <title lang="EN">RadioFeeds UK and Ireland</title>
-    </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="254" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
@@ -769,7 +764,7 @@
       <desc lang="EN">Start and stop tracks at a specific playback time or skip a specific part of the song (e.g. silence) by simply adding custom start, stop or skip times to a track's comments tag.</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="CustomTagImporter" category="scanning" creator="AF" installations="219" link="https://github.com/AF-1/#-custom-tag-importer" maxTarget="*" minTarget="7.9" sha="ae5728c6a294c6d0e4a866ddc52f034ae3e5a10b" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.3/lms-customtagimporter-1.2.3.zip" version="1.2.3">
+    <plugin name="CustomTagImporter" category="scanning" creator="AF" installations="219" link="https://github.com/AF-1/#-custom-tag-importer" maxTarget="*" minTarget="7.9" sha="6c7be0030c20843cde022dca60bc5dc9e6318f5d" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.4/lms-customtagimporter-1.2.4.zip" version="1.2.4">
       <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags).</desc>
       <title lang="EN">Custom Tag Importer</title>
     </plugin>
@@ -791,7 +786,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin using templates.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="287" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.0" sha="6207be3357460a4fec90f481d254c525fb2a8713" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.8/lms-ratingslight-2.7.8.zip" version="2.7.8">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="287" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.0" sha="bd3554ccf09d05b87ccb381c9f9cd82ca3067154" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.7.9/lms-ratingslight-2.7.9.zip" version="2.7.9">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
