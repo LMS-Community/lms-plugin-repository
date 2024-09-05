@@ -974,7 +974,7 @@
       <desc lang="EN">Allows the &quot;sleep&quot; mode for any given player to fade the music out over the entire sleep period, rather than playing at a constant volume until the last minute. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">SleepFade</title>
     </plugin>
-    <plugin name="SleepFade" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="243" link="https://tuxreborn.netlify.app/slim/SleepFade.html" maxTarget="8.*" minTarget="7.4" sha="d5e95afce7e58a41459173a6958a00896b92b0c4" url="https://tuxreborn.netlify.app/slim/slim7/SleepFade/SleepFade-2.2.7.zip" version="2.2.7">
+    <plugin name="SleepFade" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="243" link="https://tuxreborn.netlify.app/slim/SleepFade.html" maxTarget="9.*" minTarget="7.4" sha="d5e95afce7e58a41459173a6958a00896b92b0c4" url="https://tuxreborn.netlify.app/slim/slim7/SleepFade/SleepFade-2.2.7.zip" version="2.2.7">
       <changes lang="EN">2.2.7: allow use in LMS 8.* (untested); 2.2.0: web settings page so it's now usable for Radio, Receiver, and Touch; 2.1.7: works in 7.4, but needs web settings page for Radio, Receiver, and Touch; 7a5: resolve failure to power off when decreasing volume bug</changes>
       <desc lang="EN">Allows the &quot;sleep&quot; mode for any given player to fade the music out over the entire sleep period, rather than playing at a constant volume until the last minute. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">SleepFade</title>
