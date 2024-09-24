@@ -1,13 +1,5 @@
 <extensions>
   <applets>
-    <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
-      <desc lang="EN">Support for external USB Dacs and up to 192kHz sampling rates with the digital output.  Note: this app will install a custom linux kernel.  It will also disable analog when using usb/digital out.</desc>
-      <title lang="EN">Enhanced Digital Output</title>
-    </applet>
-    <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
-      <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
-      <title lang="EN">Kernel Updater</title>
-    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -726,8 +718,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="707" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="c25a6ab7668b11c8e3770748aff5fc05cd9a8d4e" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-39.zip" version="5.11.39">
-      <changes lang="EN">(5.11.39) Fix weather data retrieval.</changes>
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="707" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="c49524b538505efa81d180af92e8684e3319616e" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-40.zip" version="5.11.40">
+      <changes lang="EN">(5.11.40) Store sports team logos locally.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
