@@ -267,7 +267,7 @@
 				- Ajoute La musique d'Inter
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
-      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
+      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture Ã  la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
     <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" installations="224" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
@@ -277,10 +277,10 @@
       <changes lang="FR">
 				- Faire correspondre les URL de flux HLS
 			</changes>
-      <desc lang="EN">CBC Radio-Canada Français programme and track information
+      <desc lang="EN">CBC Radio-Canada FranÃ§ais programme and track information
 			</desc>
-      <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
-      <title lang="EN">CBC Radio-Canada Français</title>
+      <desc lang="FR">CBC Radio-Canada FranÃ§ais - info sur le programme et morceau de musique</desc>
+      <title lang="EN">CBC Radio-Canada FranÃ§ais</title>
     </plugin>
     <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="549" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="857c2d8637178026b9ea0408f7f93347e0cd66fd" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.24.zip" version="0.0.24">
       <changes lang="EN">
@@ -328,7 +328,7 @@
 			</changes>
       <desc lang="EN">Programme and track information including cover art for over 5500 radio stations</desc>
       <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 5500 stations de radio</desc>
-      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 5500 Radiosender</desc>
+      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen fÃ¼r mehr als 5500 Radiosender</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
