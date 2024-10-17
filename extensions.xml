@@ -1106,7 +1106,7 @@
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3447" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="7f82be977ccc2da45a0a9e58181c99f222487df9" url="https://www.herger.net/_data/RadioParadise-3.5.0.zip" version="3.5.0">
+    <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming. v3.5.1 - Reset to current &quot;live&quot; position after we have played something else." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3447" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="22c17a5a0c6430b5321a4ea2768a40a8418717a4" url="https://www.herger.net/_data/RadioParadise-3.5.1.zip" version="3.5.1">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
