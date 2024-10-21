@@ -69,7 +69,7 @@
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1  Windows and Linux users: please read the FAQ BEFORE installing.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="fa9975f1bc1bae2308c0ec0d30c705f249d53b5d" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.1.0.zip" version="1.1.0">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="68ed900748ddfd08ca3ebeecb45e0949611f4e8c" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.1.1.zip" version="1.1.1">
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
@@ -790,7 +790,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10045" maxTarget="*" minTarget="7.9.0" sha="1e3f35ff0446be170693d62c310340b5a9023b7c" url="https://github.com/CDrummond/lms-material/releases/download/5.4.0/lms-material-5.4.0.zip" version="5.4.0">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10045" maxTarget="*" minTarget="7.9.0" sha="0df28a42b6057d41d64ac4e0e9ba7604ba5dbd6a" url="https://github.com/CDrummond/lms-material/releases/download/5.4.1/lms-material-5.4.1.zip" version="5.4.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
