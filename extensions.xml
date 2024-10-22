@@ -65,11 +65,11 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="1a1e063eed0276132dd456ade9abd4db95a76ddf" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.1.0.zip" version="1.1.0">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="85ab4606aefb3421e3f9b491a0798c62c201e2a5" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.1.2.zip" version="1.1.2">
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1  Windows and Linux users: please read the FAQ BEFORE installing.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="68ed900748ddfd08ca3ebeecb45e0949611f4e8c" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.1.1.zip" version="1.1.1">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="f182f223db5c89359cb5c00cfa980e5a3ec04527" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.1.2.zip" version="1.1.2">
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (for 800 x 480 resolution, based on JogglerSkin). More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
