@@ -810,6 +810,10 @@
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
+    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="3515" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="07096810c65025d8ccadc87c397e4507b4aa8a25" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.5.5/Qobuz.zip" version="3.5.5">
+      <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
+      <title lang="EN">Qobuz</title>
+    </plugin>
     <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="391" maxTarget="8.*" minTarget="7.3" sha="e6867a6ff30fc021e5fd2beea856913a49bae320" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.2/SigGen-1.2.zip" version="1.2">
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
@@ -1101,10 +1105,6 @@
     <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="1287" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
-    </plugin>
-    <plugin name="Qobuz" category="musicservices" changes="v3.5.0: Works import options (thanks darrell &amp; SamY!). v3.5.4: Allow more than 500 tracks per album..." creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" email="slim@herger.net" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="3515" link="http://forums.slimdevices.com/showthread.php?97146-Qobuz-com-streaming-plugin" maxTarget="*" minTarget="7.9" sha="15f997ce95fde1f4884b8279fa692052e6fe20e1" url="https://www.herger.net/_data/Qobuz-3.5.4.zip" version="3.5.4">
-      <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
-      <title lang="EN">Qobuz</title>
     </plugin>
     <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming. v3.5.1 - Reset to current &quot;live&quot; position after we have played something else. v3.5.2 - Work around SSL memory leak." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3521" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="a77dab536641b736947108ae1c5781a0de2e4710" url="https://www.herger.net/_data/RadioParadise-3.5.2.zip" version="3.5.2">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
