@@ -1134,21 +1134,13 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming. v3.5.1 - Reset to current &quot;live&quot; position after we have played something else. v3.5.2 - Work around SSL memory leak." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3575" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="a77dab536641b736947108ae1c5781a0de2e4710" url="https://www.herger.net/_data/RadioParadise-3.5.2.zip" version="3.5.2">
+    <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming. v3.5.1 - Reset to current &quot;live&quot; position after we have played something else. v3.5.2 - Work around SSL memory leak. v3.5.3 - silence a warning" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3575" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="bce5739d515eb5dbf9376e87e728fc163b57f029" url="https://www.herger.net/_data/RadioParadise-3.5.3.zip" version="3.5.3">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
     <plugin name="Spotty" category="musicservices" changes="v4.11.2: Remove note about the broken state of Spotty..." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="9640" maxTarget="*" minTarget="7.7" sha="fd34a5d837dd5b1782b409c6dbda2af61ce7d2c4" url="https://downloads.nixda.ch/Spotty-4.11.2.zip" version="4.11.2">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
-    </plugin>
-    <plugin name="SpottyARMLegacyBin" category="misc" creator="Michael Herger" email="slim@herger.net" installations="449" maxTarget="*" minTarget="7.7" sha="5e07206e7c0b9b36baa765b375ea93f9466ec50a" target="unix" url="https://www.herger.net/_data/SpottyARMLegacyBin-0.12.0.zip" version="0.12.0">
-      <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6/7 based systems. Use these if your installation used to work pre Spotty 2.8.0, but stopped with the most recent helpers. Please note that these legacy versions come with certain limitations, eg. cannot stream OGG directly to your player.</desc>
-      <title lang="EN">Spotty Legacy Helper Application for ARMv6/7 architecture</title>
-    </plugin>
-    <plugin name="SpottyARMPi0Bin" category="misc" creator="Michael Herger" email="slim@herger.net" installations="282" maxTarget="*" minTarget="7.7" sha="23776e5447818c17021b5fe87f8fe993d8fb0e7c" target="unix" url="https://www.herger.net/_data/SpottyARMPi0Bin-0.35.0.zip" version="0.35.0">
-      <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6 based Raspberry Pi systems (0/1). Use these if your installation used to work pre Spotty 4.5.0, but stopped with the most recent helpers.</desc>
-      <title lang="EN">Spotty Helper Application for Raspberry Pi Zero/1st Generation</title>
     </plugin>
     <plugin name="TimeSpeller" category="information" creator="Michael Herger" email="slim@herger.net" installations="297" link="https://www.herger.net/TimeSpeller/" maxTarget="*" minTarget="7.0" sha="f0f3af71130b8333e633fc84003f017094e1be23" url="https://www.herger.net/_data/TimeSpeller-1.6a.zip" version="1.6">
       <title lang="DE">Zeit in Worten</title>
