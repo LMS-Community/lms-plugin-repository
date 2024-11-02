@@ -1111,7 +1111,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming. v3.5.1 - Reset to current &quot;live&quot; position after we have played something else. v3.5.2 - Work around SSL memory leak. v3.5.3 - silence a warning" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3621" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="bce5739d515eb5dbf9376e87e728fc163b57f029" url="https://www.herger.net/_data/RadioParadise-3.5.3.zip" version="3.5.3">
+    <plugin name="RadioParadise" category="radio" changes="v3.5.0 - Fix compatibility with latest Radio Paradise API for lossless streaming. v3.5.1 - Reset to current &quot;live&quot; position after we have played something else. v3.5.2 - Work around SSL memory leak. v3.5.4 - Avoid playing tracks from the past." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="3621" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="0237d8fcf81dbf6671ffd3ebbfd0634f3bd3ec59" url="https://www.herger.net/_data/RadioParadise-3.5.4.zip" version="3.5.4">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
