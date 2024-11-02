@@ -65,15 +65,15 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="aa511afd2dc589f67463d88e683dd203aa2352c5" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.2.2.zip" version="1.2.2">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="6daca6663dedf281688e668c3431e041e7e2d042" target="squeezeplay" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.2.3.zip" version="1.2.3">
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1 *** Windows and Linux users: please read the FAQ BEFORE installing. *** To remove the Dark Flat Skin properly, please use the skin's own uninstaller (Settings &gt; Advanced).</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="754d796aa7861c1bcbffe3cc6447e62f8cb9fd3d" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.2.2.zip" version="1.2.2">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="425a97512e1380cea787815d487da49931b52435" target="jivelite" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.2.3.zip" version="1.2.3">
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1 *** To remove the Dark Flat Skin properly, please use the skin's own uninstaller (Settings &gt; Advanced).</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="9a7837a0fecd80620e171255096a7543a8173b01" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.2.zip" version="1.2.2">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1/#-dark-flat-skin-picoreplayer-squeezeplay-sb-touch" maxTarget="*" sha="7f193a913c83b703f3f22c741f85ff019e87edab" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.3.zip" version="1.2.3">
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1. *** See FAQ for information on known SB Touch issue. *** To remove Dark Flat Skin properly, please use the skin's own uninstaller (Settings &gt; Advanced).</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
@@ -235,29 +235,6 @@
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
       <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
-    </plugin>
-    <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" installations="6" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
-      <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
-      <title lang="EN">iPeng</title>
-    </plugin>
-    <plugin name="PlaylistMan" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="1778" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistManPlugin.htm" maxTarget="*" minTarget="7.4" sha="115b579739089deff915e7e77898ec235e88b180" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PlaylistMan6.1.zip" version="6.1">
-      <desc lang="EN">Provides functionality to add songs or albums to any chosen playlist.</desc>
-      <title lang="EN">Playlist Manager</title>
-    </plugin>
-    <plugin name="DynamicMix" category="playlists" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="515" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/DynamicMixPlugin.htm" maxTarget="*" minTarget="7.4" sha="bf6aae9ee1824b5c0106afa64a0be205efb9759c" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/DynamicMix1.3.zip" version="1.3">
-      <desc lang="EN">Extension for Dynamic Playlist, using MusicIP to produce mixes.</desc>
-      <title lang="EN">Dynamic Mix</title>
-    </plugin>
-    <plugin name="FilesViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="257" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="e9e54f2726cc7690ac4cd7eb214da55783fe1285" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/FilesViewer1.1.zip" version="1.1">
-      <desc lang="EN">Provides capability to view text files on a SqueezeBox Classic player.</desc>
-      <title lang="EN">Files Viewer</title>
-    </plugin>
-    <plugin name="SongFileViewer" category="information" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="187" link="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewerPlugin.htm" maxTarget="*" minTarget="7.0a" sha="fac351ddf1d90b2c438589a6dd58d5a1bd138c5f" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/SongFileViewer1.3.zip" version="1.3">
-      <title lang="EN">Files Viewer</title>
-    </plugin>
-    <plugin name="PhilsLibraries" category="scanning" creator="Philip Meyer" email="phil@hergest.demon.co.uk" installations="127" maxTarget="*" minTarget="7.9.0" sha="6b0bf3fb5c9c89b50f62c6bac650326aea427eb5" url="http://penguinlovesmusic.de/wp-content/uploads/beta/pmplugins/PhilsLibraries0.1.zip" version="0.1">
-      <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
-      <title lang="EN">Phil's Libraries</title>
     </plugin>
     <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/radiofrance_svg.png" installations="1537" link="https://forums.slimdevices.com/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="b18c5872e43f66a66ffedbd439abaf49aed81fa9" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.14.zip" version="0.4.14">
       <changes lang="EN">
@@ -818,7 +795,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10362" maxTarget="*" minTarget="7.9.0" sha="ca690cb804dcb0efa1aa2055f546716a3cbb03d7" url="https://github.com/CDrummond/lms-material/releases/download/5.4.2/lms-material-5.4.2.zip" version="5.4.2">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10362" maxTarget="*" minTarget="7.9.0" sha="2675ebabcb1b617bbe4c25a2bf7a6f064671f619" url="https://github.com/CDrummond/lms-material/releases/download/5.4.3/lms-material-5.4.3.zip" version="5.4.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
