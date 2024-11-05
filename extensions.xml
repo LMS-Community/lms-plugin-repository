@@ -78,7 +78,7 @@
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="NPInfoPlusInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="7e00f01bf1f06e549e36942aa8a65010b8ab4b77" target="baby" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=NPInfoPlusInstaller-baby-1.1.0.zip" version="1.1.0">
-      <desc lang="EN">This applet installs a Now Playing screen that displays rating, year and audio metadata. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
+      <desc lang="EN">Display additional information on the Now Playing screen (rating, year, audio metadata, status icons). *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">NowPlaying Info Plus</title>
     </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" maxTarget="8.*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
