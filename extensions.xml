@@ -73,7 +73,7 @@
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="7f193a913c83b703f3f22c741f85ff019e87edab" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.3.zip" version="1.2.3">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="7eccd63b7d4e699b724b6dce06c3ff9e7c74bad2" target="fab4" url="http://af1.userspace.sosou.eu/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.4.zip" version="1.2.4">
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1. *** See FAQ for information on known SB Touch issue.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
