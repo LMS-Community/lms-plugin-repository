@@ -761,7 +761,7 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="238" link="https://github.com/AF-1/#-alternative-play-count" maxTarget="*" minTarget="8.2" sha="6fe7814b9624fe98ba1473029018162d8f4972c9" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.6/lms-alternativeplaycount-1.5.6.zip" version="1.5.6">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="238" link="https://github.com/AF-1/#-alternative-play-count" maxTarget="*" minTarget="8.2" sha="19d989f492fee58c58e8c055fffe5886851b3031" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.7/lms-alternativeplaycount-1.5.7.zip" version="1.5.7">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
@@ -770,7 +770,7 @@
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="143" link="https://github.com/AF-1/#-custom-skip" maxTarget="*" minTarget="8.2" sha="faa816cb0e68e76ad6453c7e9c5ac433b21223ef" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.5/lms-customskip-3.6.5.zip" version="3.6.5">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="143" link="https://github.com/AF-1/#-custom-skip" maxTarget="*" minTarget="8.2" sha="928c978da4e8431f272cb97c0e39654b997b70ee" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.6/lms-customskip-3.6.6.zip" version="3.6.6">
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -796,7 +796,7 @@
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon_svg.png" installations="620" link="https://github.com/AF-1/#-dynamic-playlist-creator" maxTarget="*" minTarget="8.4" sha="509fc553501b2bfa951eee7f76bb11fc3cf4c276" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.6.5/lms-dynamicplaylistcreator-1.6.5.zip" version="1.6.5">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon_svg.png" installations="620" link="https://github.com/AF-1/#-dynamic-playlist-creator" maxTarget="*" minTarget="8.4" sha="e5c19aba81c86640cb81256b3e93e0f9791beb70" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.6.6/lms-dynamicplaylistcreator-1.6.6.zip" version="1.6.6">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -808,7 +808,7 @@
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="250" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="6094de1292cd3475fe8ede15b2f89ab4b21ac253" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.7/lms-virtuallibrarycreator-1.3.7.zip" version="1.3.7">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="250" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="32a20a0fac0af0c9220ea118b7a25d3f0f124486" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.3.8/lms-virtuallibrarycreator-1.3.8.zip" version="1.3.8">
       <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
