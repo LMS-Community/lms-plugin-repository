@@ -1,10 +1,10 @@
 <extensions>
   <applets>
-    <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
+    <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" maxTarget="8.5.3" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
       <desc lang="EN">Support for external USB Dacs and up to 192kHz sampling rates with the digital output.  Note: this app will install a custom linux kernel.  It will also disable analog when using usb/digital out.</desc>
       <title lang="EN">Enhanced Digital Output</title>
     </applet>
-    <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
+    <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" maxTarget="8.5.3" minTarget="7.7" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
@@ -354,6 +354,10 @@
       <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 5500 stations de radio</desc>
       <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 5500 Radiosender</desc>
       <title lang="EN">Radio Now Playing</title>
+    </plugin>
+    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
+      <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
+      <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
     <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="824" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
       <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
