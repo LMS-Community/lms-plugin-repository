@@ -762,7 +762,7 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="241" link="https://github.com/AF-1/#-alternative-play-count" maxTarget="*" minTarget="8.2" sha="78f3bcd4e360a6d4d83f3f5f90f212fd241ba386" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.5.9/lms-alternativeplaycount-1.5.9.zip" version="1.5.9">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="241" link="https://github.com/AF-1/#-alternative-play-count" maxTarget="*" minTarget="8.2" sha="f37271136595a4bb1e74976933c430817c2c3305" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.6.0/lms-alternativeplaycount-1.6.0.zip" version="1.6.0">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
@@ -771,7 +771,7 @@
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="138" link="https://github.com/AF-1/#-custom-skip" maxTarget="*" minTarget="8.2" sha="928c978da4e8431f272cb97c0e39654b997b70ee" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.6/lms-customskip-3.6.6.zip" version="3.6.6">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="138" link="https://github.com/AF-1/#-custom-skip" maxTarget="*" minTarget="8.2" sha="7e6bf7c916baeb08e691240d87518587de3c789d" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.7/lms-customskip-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -791,7 +791,7 @@
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon_svg.png" installations="794" link="https://github.com/AF-1/#-dynamic-playlists" maxTarget="*" minTarget="8.0" sha="ef6f63260a9509a4425bc0dd4998a167ede64d73" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.4.9/lms-dynamicplaylists-4.4.9.zip" version="4.4.9">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon_svg.png" installations="794" link="https://github.com/AF-1/#-dynamic-playlists" maxTarget="*" minTarget="8.0" sha="35ec188da3450477342445fdaae2e3d46547a3d4" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.0/lms-dynamicplaylists-4.5.0.zip" version="4.5.0">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
@@ -801,11 +801,11 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/PotPourri/HTML/EN/plugins/PotPourri/html/images/ppt_icon_svg.png" installations="70" link="https://github.com/AF-1/#-potpourri" maxTarget="*" minTarget="8.4" sha="48bd1ea941d9ab3db1a77c8b51f5f39b80fe84b9" url="https://github.com/AF-1/lms-potpourri/releases/download/1.0.2/lms-potpourri-1.0.2.zip" version="1.0.2">
+    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/PotPourri/HTML/EN/plugins/PotPourri/html/images/ppt_icon_svg.png" installations="70" link="https://github.com/AF-1/#-potpourri" maxTarget="*" minTarget="8.4" sha="7d7895d50da7377f1c9a3310a2f69abfc9b77bea" url="https://github.com/AF-1/lms-potpourri/releases/download/1.0.3/lms-potpourri-1.0.3.zip" version="1.0.3">
       <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="333" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="0df6eb23af2b6192ceca73a7a0a8abe626768480" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.2/lms-ratingslight-2.8.2.zip" version="2.8.2">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="333" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="9da6b28f2fddc959502c11f9c4b823c1990d7745" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.3/lms-ratingslight-2.8.3.zip" version="2.8.3">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
