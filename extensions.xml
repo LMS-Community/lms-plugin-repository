@@ -289,7 +289,7 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/RadioNowPlaying_svg.png" installations="2724" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111952-announce-radio-now-playing-plugin?view=thread" maxTarget="*" minTarget="7.5" sha="cbe1bc1dc7fab326c7cecf303a7b57771cee46de" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.47.zip" version="0.0.47">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/RadioNowPlaying_svg.png" installations="2724" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111952-announce-radio-now-playing-plugin?view=thread" maxTarget="*" minTarget="7.5" sha="b9e6d7372d731504319e9e16cfb1a7cbdc5be4fb" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.47.zip" version="0.0.47">
       <changes lang="EN">
 				- Add 4EverFloyd - artist and title already present, augment with CoverSearch
 				- Add ALR Jazz Radio - artist and title already present, augment with CoverSearch
@@ -342,7 +342,7 @@
 				- Add translations - Danish tak @cfuttrup, German thanks Google Translate				
 				- Use a different timezone lookup API - timeapi.io
 				- Provide additional logging when CloudFlare is blocking access to metadata source
-				- Try to force insecure HTTPS if trying to get metadata from IPv4 address rather than hostname (needs LMS 9.0 to have an effect)
+				- Try to force insecure HTTPS if trying to get metadata from IP address rather than hostname (needs LMS 9.0 to have an effect)
 			</changes>
       <desc lang="EN">Programme and track information including cover art for over 5800 radio stations</desc>
       <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 5800 stations de radio</desc>
