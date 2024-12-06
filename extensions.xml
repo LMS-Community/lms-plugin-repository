@@ -289,69 +289,65 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/RadioNowPlaying_svg.png" installations="2724" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111952-announce-radio-now-playing-plugin?view=thread" maxTarget="*" minTarget="7.5" sha="eff84cfe91a1493828587dfa7fe099d50e5db054" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.46.zip" version="0.0.46">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/RadioNowPlaying_svg.png" installations="2724" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111952-announce-radio-now-playing-plugin?view=thread" maxTarget="*" minTarget="7.5" sha="cbe1bc1dc7fab326c7cecf303a7b57771cee46de" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.47.zip" version="0.0.47">
       <changes lang="EN">
-				- Add 113fm - artist, title and CoverSearch - 45 stations
-				- Add Agape's JPop/Anisong Radio - it has returned
-				- Add Amber Radio - aritst and title already present, add CoverSearch
-				- Add BluesWave Radio - artist, title and CoverSearch - includes flac
-				- Add Caracol Radio (co) - programme title, subtitle (presenter), duration and icon
-				- Add Do!!You!!! - artist, title, album, label, year - programme title and duration. Note - part-time station and song info updates late and sometimes not at all
-				- Add egoFM - artist, title and CoverSearch plus programme name for primary station when presenter involved (also has presenter name and image but they will probably not appear becasue no indication when song ends) - 4 simulcast (regional adverts?) plus 14 themed stations
-				- Add Forest Radio UK - artist, title and CoverSearch
-				- Add Giants of Jazz Radio - aritst and title already present, add CoverSearch
-				- Add Halloween Radio - existing artist and title augmented with CoverSearch - 5 stations
-				- Add Italo Melody - artist, title and cover art - includes flac but LMS does not like it
-				- Add Naga FM (in) - artist (often the name of a film), title, album (sometimes), duration, cover art - track information usually in Tamil language
-				- Add Nightwave Plaza - artist, title, album, duration and coverart
-				- Add Pacifica group of stations - https://pacificanetwork.org/
-				- - KPFT - Houston, TX - artist, title (already present) and CoverSearch - programme title, subtitle (presenter), description, duration and icon (sometimes) - 2 stations
-				- - KPFA - Berkeley, CA - programme title, subtitle and description
-				- - KPFK - Los Angeles, CA - artist, title (already present) and CoverSearch - programme title, subtitle (presenter), description, duration and icon (sometimes)
-				- - WBAI - New York, NY - programme title, subtitle and duration (relies on HTML parsing so could easily break)
-				- - WPFW-FM - Washington, DC - artist, title (already present) and CoverSearch - programme title, subtitle (presenter), description, duration and icon (sometimes)
-				- Add Q Rock Radio - artist, title and CoverSearch. Clearly in startup / experimental mode with stream type being experimented with and misconfigured audio input but added to test. Might not remain.
-				- Add Radio 50/50 - artist and title already present, add CoverSearch
-				- Add Radio Fretoise (fr) - artist, title, album, duration and cover art
-				- Add Radio Krov (sr) - artist, title, album, duration, cover art - includes flac
-				- Add Radio Neo (fr) - existing artist and title augmented with CoverSearch
-				- Add Rlocale (fr) - artist, title and CoverSearch - includes flac (sometimes no song info)
-				- Add Road FM (fr) - artist and title already present, add CoverSearch
-				- Add Sky Legend (fr) - station is back online
-				- Add Starter FM (au) - existing artist and title augmented with CoverSearch - 3 stations one of which has flac
-				- Add Soulshow Radio - existing artist and title augmented with CoverSearch
-				- Add Swiss Groove - existing artist and title augmented with album and CoverSearch
-				- Add WETA Classical - Arlington, VA - artist, title, composer, album, duration and CoverSearch - programme name and duration
-				- Add WVPB - Charleston, WV - programme title, subtitle (host), description and duration
-				- Add Your Classical - artist, title, composer, album, label, duration and CoverSearch - programme title, subtitle and duration for Your Classical (Classical 24) and MPR - 13 stations
-				- Add Zack FM - programme title, subtitle (presenter), icon, duration - no song info
-				- Remove Classical24 as now included in Your Classical
-				- For BDPST - new stream URLs
-				- For Broadcast Radio - update logo and station list
-				- For Caracol Radio (co) - slight change to metadata URL
-				- For Hawkesbury Radio (au) - flac stream has gone
-				- For Helia Radios (fr) - flac stream has gone
-				- For Jazz24 - change source of metadata so that album and duration are available
-				- For MaXXima (ch) - new stream URLs
-				- For Mediaworks (nz) - many changes including a few extra stations and less playlists
-				- For Radio Aristona (nl) - flac stream has gone
-				- For Retrosquad Radio (id) - flac stream has gone
-				- For Rondo (fi) - song metadata source changed
-				- For Sublime (nl) - data source changed
-				- For Dhectar (fr) - 3 extra stations added (flac) but no track info available for them
-				- For JB Radio2 - handle song duration differently and change the way that data is parsed ... as a consequence no longer using their cover art so now all via CoverSearch
-				- For walmradio.com - broadcaster had accidently removed json datafeed so use both json data and embedded ICY metadata
-				- For WFMU - if episode synopsis is missing then try to get it from programme synopsis - also recommend you try new WFMU plugin from @thickasabrick to get archived episodes
-				- Modify Azuracast processing so that programme details can be taken from live stream info if present - seen  at Radio Krov (sr)
-				- Cache downloaded station lists  - cache for 2 days. Next restart after that should result in the list being collected again.
-				- Changed and then reverted way that LMS setCurrentTitle is called to make it possible to scrobble to last.fm (if Internet radio scrobbling is enabled in LMS ...) - reverted because it caused recursion problems when playing to SB Boom
-				- Preferred stream types now a substring match
-				- Logo update - Radio Club 80 (cl), RTL (fr)
-				- Removed station(s) because ceased broadcasting - Radio Evening in the Galaxy, Supposed To Rot Radio
+				- Add 4EverFloyd - artist and title already present, augment with CoverSearch
+				- Add ALR Jazz Radio - artist and title already present, augment with CoverSearch
+				- Add CKUA - Alberta (ca) - artist, title, album and CoverSearch - programme title (sometimes) - their track changes were about 40 seconds ahead of the audio while testing (same on their web site)
+				- Add Celtic Radio - artist and title already present, augment with CoverSearch - 8 stations
+				- Add Christmas FM - artist and title already present, augment with CoverSearch - 3 stations
+				- Add Frisk Radio (uk) - artist, title, duration and CoverSearch - 5 stations
+				- Add MPB (ie) - artist, title and CoverSearch - programme name for Radio 1 (unless &quot;nonstop&quot;) - 5 stations.
+				- Add Mix 95.1 - Chambersburg, PA - artist, title and CoverSearch - appears to be geolocked to USA
+				- Add Nordic Lodge Radio - artist and title already present (but reversed so fixes that), augment with CoverSearch
+				- Add Ostseewelle HIT-RADIO (de) - artist, title and cover art - 22 stations
+				- Add Planet Ambi - artist and title already present, augment with CoverSearch - 2 stations
+				- Add Polskie Radio (pl) - programme name, description, duration and sometimes icon - might occasionally see artist and title with CoverSearch - EXPERIMENTAL - 9 stations for now and only HLS streams
+				- Add Radio G! - programme name, synopsis, icon and sometimes artst, title and CoverSearch - includes flac - convoluted parsing of their web page so could break easily
+				- Add Radio Pulsar (fr) - artist, title plus CoverSearch (because their art URL is speculative), plus sometimes, album, year, duration - sometimes programme name and icon
+				- Add Radio Vaticana - artist, title, duration, CoverSearch - programme (service) - different language streams, added 4 for now de,en,fr,it
+				- Add Radyo Modyan (tr) - artist and title already present, augment with CoverSearch - programme title and duration
+				- Add Rastapuls - artist and title already present, augment with CoverSearch
+				- Add Secret Rooftop Sessions - artist and title already present, augment with CoverSearch
+				- Add Sunshine Live (de) - artist, title, duration and CoverSearch - 27 stations
+				- Add The Christmas Station - artist, title cover art
+				- Add Virgin Radio (fr) - artist and title already present, add their cover art - 15 stations
+				- For 2MBS Fine Music Sydney (au) - add composer
+				- For Açık Radyo (tr) ... change to Apaçık Radyo (tr)
+				- For BRPR - Ashville, NC - slight change to matching of stream URLs
+				- For Dandelion Radio - background stream URL changed
+				- For Dhectar (fr) - added Dhectar Pop (flac) - but no song info available
+				- For KCRW - Santa Monica, CA - add higher resolution streams - thanks @stig-nygaard
+				- For La Urban (es) - some stream URLs changed and also metadata source
+				- For Ouest-France Groupe (fr) - streaming provider changed (including for Clazz)
+				- For RTL (be) - add Contact - Ostbelgien NOW - artist, title and CoverSearch
+				- For Radiomeuh - metadata URL changed
+				- For Regenbogen (de) - Update station list - now 36 was 27
+				- For Regenbogen 2 - becomes Rock FM (de) - now with 16 stations - their timings for tracks are still variable
+				- For SWR (de) - SWR Kultur is new name for SWR2
+				- For Somehow Jazz - metadata source changed
+				- For SuperStereo Chile - format of track details changed and now includes duration so use it - Added station SuperStereo Four+ and can see from their data that a Three+ is on the way so added that as well but will not work until they launch
+				- For Ultimix (fr) - now has 7 stations
+				- For VRT (be) - broadcaster metadata prerequisites changed - also added programme subtitle (presenter name) and changed broadcaster name to &quot;VRT (be)&quot; from &quot;vrt.be&quot;
+				- For Virginia Music - logo location changed
+				- For W Radio (co) - metadata (only programme info) API changed again
+				- For WFMT - Chicago, IL - use different metadata URL to avoid occasional 403/Forbidden - include local logo because remote one not always displayed properly - modify metadata fields so that more programme information is available
+				- For YLE (fi) - Metadata API key changed - Puha station closed down
+				- For YourClassical - metadata source changed
+				- For Zappa Stream - looks like track duration is now optional in their song metadata so adapt regex
+				- For beeRadio (nl) - flac is back on the main channel and there is a new Xmas stream
+				- Stations off-air - Chante Zouk
+				- Logo changed - PulsRadio (fr), Sky Legend (fr), TrancePulse (ie)
+				- Add ability for RNP to act as track details provider for WiiM streaming into LMS - thanks to @d6jg for testing
+				- Add translations - Danish tak @cfuttrup, German thanks Google Translate				
+				- Use a different timezone lookup API - timeapi.io
+				- Provide additional logging when CloudFlare is blocking access to metadata source
+				- Try to force insecure HTTPS if trying to get metadata from IPv4 address rather than hostname (needs LMS 9.0 to have an effect)
 			</changes>
-      <desc lang="EN">Programme and track information including cover art for over 5500 radio stations</desc>
-      <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 5500 stations de radio</desc>
-      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 5500 Radiosender</desc>
+      <desc lang="EN">Programme and track information including cover art for over 5800 radio stations</desc>
+      <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 5800 stations de radio</desc>
+      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 5800 Radiosender</desc>
+      <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 5800 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" maxTarget="*" minTarget="7.7" sha="3bfe33fd9c347a3146a0aa586d70fcf05904925b" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.3.0.zip" version="1.3.0">
