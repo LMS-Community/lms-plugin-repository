@@ -1065,7 +1065,7 @@
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
     </plugin>
-    <plugin name="CrackThatMF" category="hardware" creator="Michael Herger" email="slim@herger.net" icon="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTIwIDE5di0xMmgtMTZ2MTJ6bTAtMTZhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEgLTIgMmgtMTZhMiAyIDAgMCAxIC0yLTJ2LTE0YzAtMS4xMS45LTIgMi0yem0tNyAxNHYtMmg1djJ6bS0zLjQyLTQtNC4wMS00aDIuODNsMy4zIDMuM2MuMzkuMzkuMzkgMS4wMyAwIDEuNDJsLTMuMjggMy4yOGgtMi44M3oiLz48L3N2Zz4=" installations="43" maxTarget="*" minTarget="7.7" sha="5680df3a099cae8e4c6cc78d395afb96e41e852c" target="unix" url="https://www.herger.net/_data/CrackThatMF-0.2.0.zip" version="0.2.0">
+    <plugin name="CrackThatMF" category="hardware" creator="Michael Herger" email="slim@herger.net" icon="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTIwIDE5di0xMmgtMTZ2MTJ6bTAtMTZhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEgLTIgMmgtMTZhMiAyIDAgMCAxIC0yLTJ2LTE0YzAtMS4xMS45LTIgMi0yem0tNyAxNHYtMmg1djJ6bS0zLjQyLTQtNC4wMS00aDIuODNsMy4zIDMuM2MuMzkuMzkuMzkgMS4wMyAwIDEuNDJsLTMuMjggMy4yOGgtMi44M3oiLz48L3N2Zz4=" installations="43" maxTarget="*" minTarget="7.7" sha="5680df3a099cae8e4c6cc78d395afb96e41e852c" target="unix" url="http://www.herger.net/_data/CrackThatMF-0.2.0.zip" version="0.2.0">
       <desc lang="EN">This plugin tries to enable SSH on your Musical Fidelity Encore device. USE AT YOUR OWN RISK! DO NOT USE IF YOU ALREADY HAVE SSH ACCESS TO YOUR MF. Once access has been successfully established, you can uninstall the plugin again.</desc>
       <title lang="EN">Musical Fidelity Remote Access Enabler</title>
     </plugin>
@@ -1099,7 +1099,7 @@
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
     <plugin name="M6Encore" category="hardware" creator="Michael Herger" email="slim@herger.net" installations="66" maxTarget="*" minTarget="7.6" sha="5bd361d6f786347f6a8593a0f13fdc7a7dd9fcb0" url="https://www.herger.net/_data/M6Encore-0.1.0.zip" version="0.1.0">
-      <desc lang="EN">Support for Musical Fidelity M6 Encore</desc>
+      <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
     <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6108" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="6ebd5bcb634f555d86e5bca953a012011e702cf7" url="https://www.herger.net/_data/MusicArtistInfo-1.12.2.zip" version="1.12.2">
