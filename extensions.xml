@@ -582,7 +582,7 @@
     </plugin>
     <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2968" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="a128161e88d8a22ee1a1a8fcbf1f99e7b21af4c3" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.40.4/BBCSoundsPlugin_2_40_4.zip" version="2.40.4">
       <changes lang="EN">NEW 2.40.4 Fix repeated error logging on live stream connectivity failure. </changes>
-      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
+      <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
     <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" installations="771" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/2.2.3/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
