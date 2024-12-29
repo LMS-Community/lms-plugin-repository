@@ -746,7 +746,7 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" installations="822" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="96f23b87f91119a4b8082fa1e78243d630ac7bad" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-43.zip" version="5.11.43">
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="822" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="96f23b87f91119a4b8082fa1e78243d630ac7bad" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-43.zip" version="5.11.43">
       <changes lang="EN">(5.11.43) Added Danish translations.  Thanks @cfuttrup.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
