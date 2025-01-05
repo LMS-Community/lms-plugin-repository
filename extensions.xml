@@ -282,9 +282,10 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="611" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="b7f32d748cd8655263c353aaeb67755ea69c1783" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.25.zip" version="0.0.25">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="611" link="https://forums.slimdevices.com/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="c2177451f1d42871f39118c0c181a69ecea1d34a" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.26.zip" version="0.0.26">
       <changes lang="EN">
-				- Update station list - in comes christmas and out goes summer
+				- Change URL to get song metadata as previous has become unreliable from broadcaster
+				- Try to use additional source for metadata but can lead to data confusion
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
