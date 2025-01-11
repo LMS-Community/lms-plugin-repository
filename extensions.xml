@@ -1131,7 +1131,7 @@
       <desc lang="EN">Access pCP Settings pages from within the LMS Settings.</desc>
       <title lang="EN">piCorePlayer Support</title>
     </plugin>
-    <plugin name="PlayHistory" category="information" changes="v1.0.8 - add French translation (thanks Franck!); improve behaviour with Spotify Connect tracks." creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="1384" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="a7be58dedbe3cc269292996de366d4f55cf18cb0" url="https://www.herger.net/_data/PlayHistory-1.0.8.zip" version="1.0.8">
+    <plugin name="PlayHistory" category="information" changes="v1.0.9 - add album information when available (thanks Paul Webster!)" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="1384" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="60036d6a201ce8e1886d7b8bb440af0d6bfedf97" url="https://www.herger.net/_data/PlayHistory-1.0.9.zip" version="1.0.9">
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
