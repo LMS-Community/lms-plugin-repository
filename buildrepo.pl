@@ -205,6 +205,8 @@ for my $url (sort @{$includes->{repositories}}) {
 					$item->{installations} = $stats{$name} if $stats{$name};
 				}
 
+				$item->{link} =~ s/(wiki|forums)\.slimdevices\.com/$1.lyrion.org/;
+
 				print "  $content $name\n";
 				push @{ $out->{"${element}"}->{"$content"} ||= [] }, $item;
 			}
