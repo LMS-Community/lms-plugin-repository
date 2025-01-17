@@ -586,7 +586,7 @@
       <title lang="EN">Hide Menus</title>
     </plugin>
     <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="3152" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="13edbbe06a3f8d9bb8e22f32a4a4a064f00e47d1" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.40.5/BBCSoundsPlugin_2_40_5.zip" version="2.40.5">
-      <changes lang="EN">NEW 2.40.5 Fix for collections menu </changes>
+      <changes lang="EN">NEW 2.40.5 Fix for 'collections' menu </changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -600,8 +600,8 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="1161" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="cebaaf1de438b057a7fecd41eb932dbf845315b7" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.6.3/GlobalPlayerUKPlugin_2_6_3.zip" version="2.6.3">
-      <changes lang="EN">NEW 2.6.3 Refactored web socket handling</changes>
+    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="1161" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="e79961b045876fb73e16255707f4e1aa0a751273" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.7.0/GlobalPlayerUKPlugin_2_7_0.zip" version="2.7.0">
+      <changes lang="EN">NEW 2.7.0 Fixed programme transion pauses and corruption (At last !)</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
