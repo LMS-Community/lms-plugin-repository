@@ -847,7 +847,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper, Sam Yahres" email="chris.c.couper@gmail.com" installations="646" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="3a596f5c5f75be73f6adadd8e6f16c4bc1f15eae" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_5_3_2.zip" version="5.3.2">
+    <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper, Sam Yahres" email="chris.c.couper@gmail.com" installations="646" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="1067581fd5f8555fab0e4e9984464c2141e4ff2a" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_5_3_3.zip" version="5.3.3">
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
