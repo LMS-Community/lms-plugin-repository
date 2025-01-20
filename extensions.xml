@@ -1131,7 +1131,7 @@
       <desc lang="EN">Access pCP Settings pages from within the LMS Settings.</desc>
       <title lang="EN">piCorePlayer Support</title>
     </plugin>
-    <plugin name="PlayHistory" category="information" changes="v1.0.9 - add album information when available (thanks Paul Webster!)" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="1394" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="60036d6a201ce8e1886d7b8bb440af0d6bfedf97" url="https://www.herger.net/_data/PlayHistory-1.0.9.zip" version="1.0.9">
+    <plugin name="PlayHistory" category="information" changes="v1.0.10 - add album information when available (thanks Paul Webster!)" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="1394" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="024472a99bf17c923a72aa77363237f3a0f1dce6" url="https://www.herger.net/_data/PlayHistory-1.0.10.zip" version="1.0.10">
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
