@@ -822,8 +822,8 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Spotty fix for casting, mp3, aif change too" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="614" link="" maxTarget="*" minTarget="7.8.0" sha="d51a59c69f9c8a65800442529459f9a8599da56b" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.08d.zip" version="0.1.08d">
-      <desc lang="EN">DSP for Squeezebox server version 0.1.08d) - provides EQ and DSP. Fixes to custom-conv.conf </desc>
+    <plugin name="SqueezeDSP" category="tools" changes="Fixed issues with dropdowns not showing previously selected items" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="614" link="" maxTarget="*" minTarget="7.8.0" sha="e92a88c3b5e2434a4f460e842c565eb7f96ea909" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.09a.zip" version="0.1.09a">
+      <desc lang="EN">DSP for Squeezebox server version 0.1.09a) - provides EQ and DSP. Fixes to custom-conv.conf </desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
     <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="839" link="" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
