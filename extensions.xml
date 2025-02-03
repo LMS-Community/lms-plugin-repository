@@ -808,7 +808,7 @@
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="315" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="9830f9a6cf61b7b0707ca299dc9d78fb65e5ae5a" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.1/lms-virtuallibrarycreator-1.4.1.zip" version="1.4.1">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="315" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="8207cd0a4e580bbe7dd2d8d68526b7a5d1c3c5c8" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.2/lms-virtuallibrarycreator-1.4.2.zip" version="1.4.2">
       <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -846,7 +846,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper, Sam Yahres" email="chris.c.couper@gmail.com" installations="651" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="1067581fd5f8555fab0e4e9984464c2141e4ff2a" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_5_3_3.zip" version="5.3.3">
+    <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper, Sam Yahres" email="chris.c.couper@gmail.com" installations="651" link="https://github.com/aesculus/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="6a56ff07ea9501a5d202c8ad795dc2aaa22782da" url="https://github.com/aesculus/denonavpcontrol/raw/master/DenonAvpControl_5_3_4.zip" version="5.3.4">
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
