@@ -101,14 +101,6 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="Headphones" creator="bluegaspode / Stefan Hansel" link="" maxTarget="8.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
-      <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
-      <title lang="EN">Headphone Switcher</title>
-    </applet>
-    <applet name="Weather" creator="bluegaspode / Stefan Hansel" link="" maxTarget="7.*" minTarget="7.0" url="http://www.stagessound.de/squeeze/Weather.zip" version="1.4">
-      <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
-      <title lang="EN">Weather Forecast</title>
-    </applet>
     <applet name="SqueezeIR" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/squeezeir" maxTarget="*" minTarget="7.4" sha="abd03e5d1c31dc5cdc661e72750f65ac820187b5" target="jive|squeezeplay" url="http://www2.koukalaka.me.uk/squeezebox/repo/applets/SqueezeIR.zip" version="2.03">
       <changes lang="EN">See the change log (http://www.koukalaka.me.uk/squeezebox/squeezeir/change-log).</changes>
       <desc lang="EN">Use your Duet Controller's infra-red emitter to control other devices such as your amplifier.</desc>
