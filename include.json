@@ -53,7 +53,7 @@
 		"https://github.com/dfrein/lms-plugin-repository/raw/main/extensions.xml",
 		"https://raw.githubusercontent.com/philippe44/lms-deezer/main/repo/repo.xml",
 		"https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/myqobuz.xml",
-		"http://guillaumezin.github.io/DomoticzControl/repo.xml"
+		"https://guillaumezin.github.io/DomoticzControl/repo.xml"
 	],
 	"disabled": [
 		"https://grebrown-projects.googlecode.com/svn/repo.xml",
