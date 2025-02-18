@@ -134,6 +134,7 @@
     <title lang="PL">Pozostałe dodatki innych firm</title>
     <title lang="RU">Другие подключаемые модули сторонних изготовителей</title>
     <title lang="SV">Tillägg från tredje part</title>
+    <title lang="ZH_CN">第三方插件</title>
   </details>
   <patches>
     <patch name="60a51265-1938-4fd7-b703-12d3725870da" creator="Erland Isaksson" email="erland@isaksson.info" link="http://wiki.lyrion.org/index.php/Patch_Installer_applet" maxTarget="7.5" minTarget="7.5" sha="36f4342b81fcafdce691a55d85810d1d10465156" url="http://erland.github.io/squeezebox-patchinstaller/patches/CustomAlarmWindow/CustomAlarmWindow-1.0.patch" version="1.0">
