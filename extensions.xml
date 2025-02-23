@@ -1116,8 +1116,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="10640" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="28243f270d9338df789f1f085043939fb21455c1" url="https://www.herger.net/_data/MusicArtistInfo-1.12.3.zip" version="1.12.3">
-      <changes lang="EN">v1.12.0 - Store lyrics with time information as *.lrc, updated French translation (thanks Franck-Berry!), add option to hide some menu items (thanks AF-1!). v1.12.2 - Improve compatibilitty with LMS 9. v1.12.3 - Fix issue downloading artist artwork; browse artist directly, not via search, if we have an ID.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="10640" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="05b7c2a0494d904568b94d04b488762c9dc5974e" url="https://www.herger.net/_data/MusicArtistInfo-1.13.0.zip" version="1.13.0">
+      <changes lang="EN">v1.13.0 - Use new MAI API service to get artist artwork.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
