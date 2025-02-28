@@ -1120,8 +1120,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="10921" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="05b7c2a0494d904568b94d04b488762c9dc5974e" url="https://www.herger.net/_data/MusicArtistInfo-1.13.0.zip" version="1.13.0">
-      <changes lang="EN">v1.13.0 - Use new MAI API service to get artist artwork.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="10921" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="2cacd8dab040643e034bb1df72e57176259f44fd" url="https://www.herger.net/_data/MusicArtistInfo-1.13.1.zip" version="1.13.1">
+      <changes lang="EN">v1.13.0 - Use new MAI API service to get artist artwork. v1.13.1 - increase artist picture caching to 30 days.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
