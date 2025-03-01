@@ -813,11 +813,11 @@
       <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="351" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="c53f291900142156e275b4a20d15a769c4df82c1" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.4/lms-ratingslight-2.8.4.zip" version="2.8.4">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="351" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="cc3250b331428a479cd5e627155d7dd55d5a59e5" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.5/lms-ratingslight-2.8.5.zip" version="2.8.5">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="300" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="38aadf0417843816d1f96df40b6c3cb375875942" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.3/lms-virtuallibrarycreator-1.4.3.zip" version="1.4.3">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="300" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="c0aedfa32d1bd18ee2de439e5927503eb40f151f" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.4/lms-virtuallibrarycreator-1.4.4.zip" version="1.4.4">
       <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
