@@ -643,6 +643,10 @@
       <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
       <title lang="EN">QuickAccess</title>
     </plugin>
+    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="603" link="" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
+      <desc lang="EN">Automate transcoding and resampling</desc>
+      <title lang="EN">C-3PO Transcoding Helper</title>
+    </plugin>
     <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="365" link="" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
       <desc lang="EN">ArchiveOrg - a plugin that enables access to files on Archive.org</desc>
       <title lang="EN">ArchiveOrg V0.6 </title>
@@ -827,8 +831,8 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="0.1.10 - recompiled binary to .net 9. Initialised log file, better error handling for reading log files and presets. Fixed issue where a single Peak filter needed. Reading REW txt files fixed for shelves" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="625" link="" maxTarget="*" minTarget="7.8.0" sha="7ac88efb82affcb5a275b8bc03fd02ae97f1bdd8" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.10.zip" version="0.1.10">
-      <desc lang="EN">DSP for Squeezebox server version 0.1.10) - provides EQ and DSP. Additional Error handling </desc>
+    <plugin name="SqueezeDSP" category="tools" changes="enhanced binary compilation, improved impulse resampler normaliser with caching. Experimental OSX Arm64 native binary, impulse and temp folder now writable" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="625" link="" maxTarget="*" minTarget="7.8.0" sha="aafbaa1e26cd193053fc9a11f1e73f626e5f25c2" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/raw/main/SqueezeDSP-0.1.11d.zip" version="0.1.11d">
+      <desc lang="EN">DSP for Squeezebox server version 0.1.11d) - provides EQ and DSP. Number of small tweaks </desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
     <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="855" link="" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
