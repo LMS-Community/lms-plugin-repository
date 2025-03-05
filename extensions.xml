@@ -1079,7 +1079,7 @@
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
-    <plugin name="ClientCleanup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="834" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.0aa" sha="c6c82957568de4873423333fdd3805916b98f415" url="https://www.herger.net/_data/ClientCleanup-1.2.0.zip" version="1.2.0">
+    <plugin name="ClientCleanup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="834" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.0aaa" sha="9d0e15e3b00d1e03a02f6ff978431079032c0a79" url="https://www.herger.net/_data/ClientCleanup-1.3.0.zip" version="1.3.0">
       <desc lang="EN">Remove orphaned client configurations</desc>
       <title lang="EN">Client Cleanup</title>
     </plugin>
