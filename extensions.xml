@@ -851,7 +851,7 @@
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
-    <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="346" link="" maxTarget="8.*" minTarget="7.3" sha="e6867a6ff30fc021e5fd2beea856913a49bae320" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.2/SigGen-1.2.zip" version="1.2">
+    <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="346" link="" maxTarget="*" minTarget="7.3" sha="67f0908158495ca2598fc768d3733a027bcc5b0b" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.5/plugin-SigGen-1.5.zip" version="1.5">
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
