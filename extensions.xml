@@ -715,7 +715,7 @@
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" installations="1177" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="6f21791387e63c332f275308ae50732d13ed4527" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.17.2.zip" version="0.17.2">
+    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" installations="1177" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="acd1d1a71e5460121a5ccc274f10ff8716858c8d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.18.0.zip" version="0.18.0">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
@@ -1120,8 +1120,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="11187" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="2cacd8dab040643e034bb1df72e57176259f44fd" url="https://www.herger.net/_data/MusicArtistInfo-1.13.1.zip" version="1.13.1">
-      <changes lang="EN">v1.13.0 - Use new MAI API service to get artist artwork. v1.13.1 - increase artist picture caching to 30 days.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="11187" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="8f2ce31357f4cc69ba7e36ee682412388829f426" url="https://www.herger.net/_data/MusicArtistInfo-1.14.0.zip" version="1.14.0">
+      <changes lang="EN">v1.14.0 - add compatilbility with the upcoming LMS 9.1's artist portraits.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
