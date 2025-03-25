@@ -1155,8 +1155,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="10550" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="898c3048930c2ce8444b8e849e287b5f46568652" url="https://www.herger.net/_data/MusicArtistInfo-1.14.1.zip" version="1.14.1">
-      <changes lang="EN">v1.14.0 - add compatilbility with the upcoming LMS 9.1's artist portraits. v1.14.1 - always register artwork folder path if defined (and other artist picture related bug fixes).</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="10550" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="ba56bfaf9e11e0762c6c043aa1bc119e2faf47c1" url="https://www.herger.net/_data/MusicArtistInfo-1.15.0.zip" version="1.15.0">
+      <changes lang="EN">v1.15.0 - improve caching when no artwork folder is defined.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
