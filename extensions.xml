@@ -419,11 +419,11 @@
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
-    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/lms_mixcloud/master/HTML/EN/plugins/MixCloud/html/images/icon.png" installations="921" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="0056c1725e14f98c16cbd9b069f8a11819e344e1" target="mac" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-windows.zip" version="0.11">
+    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/lms_mixcloud/master/HTML/EN/plugins/MixCloud/html/images/icon.png" installations="921" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="0056c1725e14f98c16cbd9b069f8a11819e344e1" target="win" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-windows.zip" version="0.11">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
-    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/lms_mixcloud/master/HTML/EN/plugins/MixCloud/html/images/icon.png" installations="921" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="b225787042e239e42cdc83da6e300b77e1829834" target="win" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-macos.zip" version="0.11">
+    <plugin name="MixCloud" category="musicservices" creator="Christian Mueller, Daniel Vijge, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/lms_mixcloud/master/HTML/EN/plugins/MixCloud/html/images/icon.png" installations="921" link="https://github.com/danielvijge/lms_mixcloud" maxTarget="*" minTarget="8.2" sha="b225787042e239e42cdc83da6e300b77e1829834" target="mac" url="https://github.com/danielvijge/lms_mixcloud/releases/download/0.11/lms_mixcloud-0.11-macos.zip" version="0.11">
       <desc lang="EN">Play music from Mixcloud</desc>
       <title lang="EN">Mixcloud</title>
     </plugin>
