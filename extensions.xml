@@ -810,7 +810,7 @@
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/contextstats_icon_svg.png" installations="149" link="https://github.com/AF-1/#-context-stats" maxTarget="*" minTarget="8.4" sha="12f01087cdadf6564f91485d1943d40101768511" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.1/lms-contextstats-1.0.1.zip" version="1.0.1">
+    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/contextstats_icon_svg.png" installations="149" link="https://github.com/AF-1/#-context-stats" maxTarget="*" minTarget="8.4" sha="274962921fde1b8391db1fa7eaa5a25eaf6f055e" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.2/lms-contextstats-1.0.2.zip" version="1.0.2">
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
@@ -848,11 +848,11 @@
       <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="334" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="cc3250b331428a479cd5e627155d7dd55d5a59e5" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.5/lms-ratingslight-2.8.5.zip" version="2.8.5">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="334" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="ea2eb566eb79febeaf6bbc660509868fdb351d34" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.6/lms-ratingslight-2.8.6.zip" version="2.8.6">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="281" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="c0aedfa32d1bd18ee2de439e5927503eb40f151f" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.4/lms-virtuallibrarycreator-1.4.4.zip" version="1.4.4">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="281" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="a6a06a95d46d14fe0af4b57ad04e9cf29bff311f" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.5/lms-virtuallibrarycreator-1.4.5.zip" version="1.4.5">
       <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
