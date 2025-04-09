@@ -1184,7 +1184,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.11.150: Dutch update (thanks @blackfiction!), add URL to browse results." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="12278" link="" maxTarget="*" minTarget="7.7" sha="8649048ae6cd5d92d74d8db24520d0bc0811a2a6" url="https://downloads.nixda.ch/Spotty-4.11.5.zip" version="4.11.5">
+    <plugin name="Spotty" category="musicservices" changes="v4.11.5: Dutch update (thanks @blackfiction!), add URL to browse results." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="12278" link="" maxTarget="*" minTarget="7.7" sha="8649048ae6cd5d92d74d8db24520d0bc0811a2a6" url="https://downloads.nixda.ch/Spotty-4.11.5.zip" version="4.11.5">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
