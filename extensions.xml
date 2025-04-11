@@ -740,7 +740,7 @@
       <desc lang="EN">Accuradio - provides access to Accuradio streams</desc>
       <title lang="EN">Accuradio V1.*</title>
     </plugin>
-    <plugin name="Live365" category="radio" creator="bpa" installations="438" link="" maxTarget="*" minTarget="8.0" sha="f196a45807dc537ec061426a803008ddfde4e200" url="https://bpa-code.github.io/bpaplugins/Live365-V1_02.ZIP" version="1.02">
+    <plugin name="Live365" category="radio" creator="bpa" installations="438" link="" maxTarget="*" minTarget="8.0" sha="5dc9789e5237833b32b59bd920f2a7a1070145c9" url="https://bpa-code.github.io/bpaplugins/Live365-V1_03.ZIP" version="1.03">
       <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
       <title lang="EN">Live365 V1.*</title>
     </plugin>
