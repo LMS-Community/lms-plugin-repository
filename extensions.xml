@@ -284,10 +284,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="565" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="2e7c57ed9dab47c04bb29254bcaa9d0ef1fbcc81" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.27.zip" version="0.0.27">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="565" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="4f89446e5078cecb6344760632d5e1ddaa68f702" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.28.zip" version="0.0.28">
       <changes lang="EN">
-				- Update station list
-				- Add extra timezone API provider - lms-community.org - thanks @mherger
+				- Update stream data for some of the premium stations
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
@@ -859,7 +858,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="15638" link="" maxTarget="*" minTarget="7.9.0" sha="2c60a056a747415aa63fe4fc40d32e2e84a32c14" url="https://github.com/CDrummond/lms-material/releases/download/5.9.0/lms-material-5.9.0.zip" version="5.9.0">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="15638" link="" maxTarget="*" minTarget="7.9.0" sha="03f0701e5a84d230d82c19e5bbb7a34ac946f7a9" url="https://github.com/CDrummond/lms-material/releases/download/5.9.1/lms-material-5.9.1.zip" version="5.9.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
