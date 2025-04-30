@@ -878,6 +878,10 @@
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
+    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="4160" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="683b604984f0115cb475fbe8ef3676ac8f3da112" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.5.7/Qobuz.zip" version="3.5.7">
+      <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
+      <title lang="EN">Qobuz</title>
+    </plugin>
     <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="356" link="" maxTarget="*" minTarget="7.3" sha="67f0908158495ca2598fc768d3733a027bcc5b0b" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.5/plugin-SigGen-1.5.zip" version="1.5">
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
