@@ -878,10 +878,6 @@
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="4160" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="683b604984f0115cb475fbe8ef3676ac8f3da112" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.5.7/Qobuz.zip" version="3.5.7">
-      <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
-      <title lang="EN">Qobuz</title>
-    </plugin>
     <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="356" link="" maxTarget="*" minTarget="7.3" sha="67f0908158495ca2598fc768d3733a027bcc5b0b" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.5/plugin-SigGen-1.5.zip" version="1.5">
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
@@ -890,6 +886,10 @@
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
+    <plugin name="XSqueezeDisplay" category="information" creator="bossanova808" email="bossanova808@gmail.com" installations="223" link="" maxTarget="*" minTarget="7.7" sha="d8610a90537699b489c8451804bd6db455cdc410" url="https://github.com/bossanova808/repository.squeeze.bossanova808/raw/main/downloads/XSqueezeDisplay/XSqueezeDisplay-0.9.9.zip" version="0.9.9">
+      <desc lang="EN">Display Kodi (XBMC) Now Playing info on a Squeezebox SB2/3/Classic display.</desc>
+      <title lang="EN">XSqueezeDisplay</title>
+    </plugin>
     <plugin name="AutoRescan" category="scanning" creator="James Marsh; Stuart Hickinbottom" installations="1673" link="" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
@@ -897,6 +897,10 @@
     <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="3886" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="8903661dd3ea4799416f623caaa4e65c7ea5e86b" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.6.0/TIDAL.zip" version="1.6.0">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
+    </plugin>
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1823" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="8ef59f1f2852db6239eb5cc631bcf6976d246d4d" url="https://github.com/philippe44/lms-deezer/releases/download/3.1.4/Deezer.zip" version="3.1.4">
+      <desc lang="EN">Deezer for local LMS use</desc>
+      <title lang="EN">Deezer local</title>
     </plugin>
     <plugin name="RatingButtons" category="information" creator="flipflip" installations="158" link="https://github.com/phkehl/lms-plugins" maxTarget="*" minTarget="8.1.0" sha="8f1086f4db980b90ea47c997a4cb4f27882df9ca" url="https://raw.githubusercontent.com/phkehl/lms-plugins/main/RatingButtons-0.9.zip" version="0.9">
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
