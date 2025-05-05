@@ -874,7 +874,7 @@
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
-    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="975" link="" maxTarget="*" minTarget="8.5" sha="dc2a40fc303b08f4be8d9a186baaaf22b5451bf6" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/1.7.3/LocalPlayer.zip" version="1.7.3">
+    <plugin name="LocalPlayer" category="hardware" creator="Triode" email="triode1@btinternet.com" installations="975" link="" maxTarget="*" minTarget="8.5" sha="ef11558bd773a53a523baafe145767a3a382f43c" url="https://github.com/LMS-Community/plugin-LocalPlayer/releases/download/1.7.4/LocalPlayer.zip" version="1.7.4">
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
@@ -918,7 +918,7 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@pickartz.me" installations="612" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="633abcb6520ae7432a1ce82397f1715d2c7e3639" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.1.0/MyQobuz.zip" version="1.1.0">
+    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@pickartz.me" installations="612" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="96dc6525e311d74b91b93d59ce52a2d1bfee7ee2" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.2.0/MyQobuz.zip" version="1.2.0">
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
     </plugin>
