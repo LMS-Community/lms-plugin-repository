@@ -81,6 +81,10 @@
       <desc lang="EN">Display additional information on the Now Playing screen (rating, year, audio metadata, status icons). *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">NowPlaying Info Plus</title>
     </applet>
+    <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" link="" maxTarget="*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
+      <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
+      <title lang="EN">Display Off</title>
+    </applet>
     <applet name="FontReplacer" email="mcstayinskool@yahoo.com" link="" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
@@ -857,6 +861,14 @@
     <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="14757" link="" maxTarget="*" minTarget="7.9.0" sha="03f0701e5a84d230d82c19e5bbb7a34ac946f7a9" url="https://github.com/CDrummond/lms-material/releases/download/5.9.1/lms-material-5.9.1.zip" version="5.9.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
+    </plugin>
+    <plugin name="SqueezeDSP" category="tools" changes="enhanced binary compilation, improved impulse resampler normaliser with caching. Experimental OSX Arm64 native binary, impulse and temp folder now writable" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="550" link="" maxTarget="*" minTarget="7.8.0" sha="6332ea83e27b779d40c2f97cb2452922642cb9d2" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.21/SqueezeDSP-0.1.21.zip" version="0.1.21">
+      <desc lang="EN">DSP for Lyrion Music Server (version 0.1.21) - provides EQ and DSP.</desc>
+      <title lang="EN">SqueezeDSP</title>
+    </plugin>
+    <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="769" link="" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
+      <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
+      <title lang="EN">SqueezeboxEQ</title>
     </plugin>
     <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" installations="4069" link="" maxTarget="9.*" minTarget="7.9" sha="06d9f19f9a04b754d82e1beae4184e4249940a2a" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.12/plugin-DSDPlayer-1.12.zip" version="1.12">
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
