@@ -65,22 +65,6 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="4bcf56a64da63f41b2e0711b6f6373cc52b175fc" target="squeezeplay" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.2.8.zip" version="1.2.8">
-      <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1 *** Windows and Linux users: please read the FAQ BEFORE installing.</desc>
-      <title lang="EN">Dark Flat Skin Installer</title>
-    </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="e0854172f9611bf6cce3b4df90bcb53abe27fc09" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.2.8.zip" version="1.2.8">
-      <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). IMPORTANT - piCorePlayer 10: this applet requires the original jivelite. Does not work with jivelite-vis. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
-      <title lang="EN">Dark Flat Skin Installer</title>
-    </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="9d875b1a8d8765072d501e68833acf9bab91dcd9" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.8.zip" version="1.2.8">
-      <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1. *** See FAQ for information on known SB Touch issue.</desc>
-      <title lang="EN">Dark Flat Skin Installer</title>
-    </applet>
-    <applet name="NPInfoPlusInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="7e00f01bf1f06e549e36942aa8a65010b8ab4b77" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=NPInfoPlusInstaller-baby-1.1.0.zip" version="1.1.0">
-      <desc lang="EN">Display additional information on the Now Playing screen (rating, year, audio metadata, status icons). *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
-      <title lang="EN">NowPlaying Info Plus</title>
-    </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" link="" maxTarget="*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
       <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
       <title lang="EN">Display Off</title>
@@ -801,63 +785,6 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="265" link="https://github.com/AF-1/#-alternative-play-count" maxTarget="*" minTarget="8.2" sha="1b797efc262f3b25797b2c419bda760c3e68b416" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.6.4/lms-alternativeplaycount-1.6.4.zip" version="1.6.4">
-      <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
-      <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
-      <title lang="EN">Alternative Play Count</title>
-    </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/contextstats_icon_svg.png" installations="161" link="https://github.com/AF-1/#-context-stats" maxTarget="*" minTarget="8.4" sha="274962921fde1b8391db1fa7eaa5a25eaf6f055e" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.2/lms-contextstats-1.0.2.zip" version="1.0.2">
-      <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
-      <title lang="EN">Context Stats</title>
-    </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="145" link="https://github.com/AF-1/#-custom-skip" maxTarget="*" minTarget="8.2" sha="7e6bf7c916baeb08e691240d87518587de3c789d" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.7/lms-customskip-3.6.7.zip" version="3.6.7">
-      <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
-      <title lang="EN">Custom Skip</title>
-    </plugin>
-    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" installations="91" link="https://github.com/AF-1/#-custom-start-stop-times" maxTarget="*" minTarget="8.2" sha="70936cec244ece803cfe2e86c9baebc7677c4b33" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.1.9/lms-customstartstoptimes-1.1.9.zip" version="1.1.9">
-      <desc lang="EN">Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).</desc>
-      <title lang="EN">Custom Start Stop Times</title>
-    </plugin>
-    <plugin name="CustomTagImporter" category="scanning" creator="AF" installations="285" link="https://github.com/AF-1/#-custom-tag-importer" maxTarget="*" minTarget="7.9" sha="6c7be0030c20843cde022dca60bc5dc9e6318f5d" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.4/lms-customtagimporter-1.2.4.zip" version="1.2.4">
-      <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags).</desc>
-      <title lang="EN">Custom Tag Importer</title>
-    </plugin>
-    <plugin name="DarkDefaultSkin" category="skin" creator="AF" installations="440" link="https://github.com/AF-1/#%EF%B8%8F-dark-default-skin" maxTarget="8.*" minTarget="7.9" sha="975daac01a02a865d81f3b0f6b18648cdf55c9c3" url="https://github.com/AF-1/lms-darkdefaultskin/releases/download/1.0.8/lms-darkdefaultskin-1.0.8.zip" version="1.0.8">
-      <desc lang="EN">Dark-themed version of the LMS Default skin</desc>
-      <title lang="EN">Dark Default Skin</title>
-    </plugin>
-    <plugin name="DarkLogicSkin" category="skin" creator="AF" installations="256" link="https://github.com/AF-1/#-dark-logic-skin" maxTarget="*" minTarget="9.0" sha="ca192a8ae23f65f8055ddea925ba91239c432fe3" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.1/lms-darklogicskin-1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
-      <title lang="EN">Dark Logic Skin</title>
-    </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon_svg.png" installations="834" link="https://github.com/AF-1/#-dynamic-playlists" maxTarget="*" minTarget="8.0" sha="13ad00661e1c2e75f42c7bb2abf6db91f5309491" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.2/lms-dynamicplaylists-4.5.2.zip" version="4.5.2">
-      <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
-      <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
-      <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
-      <title lang="EN">Dynamic Playlists</title>
-    </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon_svg.png" installations="637" link="https://github.com/AF-1/#-dynamic-playlist-creator" maxTarget="*" minTarget="8.4" sha="5323c92a17feb73e82bc79915212228e1c09e21a" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.3/lms-dynamicplaylistcreator-1.7.3.zip" version="1.7.3">
-      <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
-      <title lang="EN">Dynamic Playlist Creator</title>
-    </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/PotPourri/HTML/EN/plugins/PotPourri/html/images/ppt_icon_svg.png" installations="143" link="https://github.com/AF-1/#-potpourri" maxTarget="*" minTarget="8.4" sha="ac4e5bbd251322afe3f0b152d40885d00058a0a9" url="https://github.com/AF-1/lms-potpourri/releases/download/1.0.4/lms-potpourri-1.0.4.zip" version="1.0.4">
-      <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
-      <title lang="EN">PotPourri</title>
-    </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="335" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="ea2eb566eb79febeaf6bbc660509868fdb351d34" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.6/lms-ratingslight-2.8.6.zip" version="2.8.6">
-      <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
-      <title lang="EN">Ratings Light</title>
-    </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="282" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="4db0929e4fa8528c0aa2c8de0babb5a307a8b21b" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.7/lms-virtuallibrarycreator-1.4.7.zip" version="1.4.7">
-      <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
-      <title lang="EN">Virtual Library Creator</title>
-    </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics_svg.png" installations="617" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.4" sha="34aee8b57996cf468189a11c3744eea942f26c7d" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.8.0/lms-visualstatistics-1.8.0.zip" version="1.8.0">
-      <desc lang="EN">Have a look at your library statistics with charts.</desc>
-      <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
-      <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
-      <title lang="EN">Visual Statistics</title>
-    </plugin>
     <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="14757" link="" maxTarget="*" minTarget="7.9.0" sha="03f0701e5a84d230d82c19e5bbb7a34ac946f7a9" url="https://github.com/CDrummond/lms-material/releases/download/5.9.1/lms-material-5.9.1.zip" version="5.9.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
@@ -881,10 +808,6 @@
     <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="4105" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="399318039271026b99b8bc5f4d74a1cdb6fdef46" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.5.8/Qobuz.zip" version="3.5.8">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
-    </plugin>
-    <plugin name="SigGen" category="tools" creator="Triode" email="triode1@btinternet.com" installations="360" link="" maxTarget="*" minTarget="7.3" sha="67f0908158495ca2598fc768d3733a027bcc5b0b" url="https://github.com/LMS-Community/plugin-SigGen/releases/download/1.5/plugin-SigGen-1.5.zip" version="1.5">
-      <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
-      <title lang="EN">Signal Generator</title>
     </plugin>
     <plugin name="DenonAvpControl" category="hardware" creator="Chris Couper, Sam Yahres" email="syahres@gmail.com" installations="561" link="https://github.com/SamInPgh/denonavpcontrol" maxTarget="*" minTarget="7.7" sha="7a8d5f91afd73777e0b784565ee93033036a213b" url="https://github.com/SamInPgh/denonavpcontrol/raw/master/DenonAvpControl_5_4.zip" version="5.4">
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
