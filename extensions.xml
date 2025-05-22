@@ -1162,8 +1162,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="8314" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="0f1249ce85629ffdee02582502c73efe466eb1f4" url="https://www.herger.net/_data/MusicArtistInfo-1.15.2.zip" version="1.15.2">
-      <changes lang="EN">v1.15.0 - improve caching when no artwork folder is defined. v1.15.2 - improve artist artwork lookup caching.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="8314" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="9e679e83fc6b99a549c5d93cae7de060ea1e606b" url="https://www.herger.net/_data/MusicArtistInfo-1.15.3.zip" version="1.15.3">
+      <changes lang="EN">v1.15.0 - improve caching when no artwork folder is defined. v1.15.3 - improve artist artwork lookup caching.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
