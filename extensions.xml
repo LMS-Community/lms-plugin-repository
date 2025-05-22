@@ -627,8 +627,8 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2948" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="5870f615275dae820a377fa50306994dffcda6fb" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.6/BBCSoundsPlugin_2_50_6.zip" version="2.50.6">
-      <changes lang="EN">NEW 2.50.6 Further sign-in fixes</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2948" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="922fd2684a2357e725f280cc48bc97a17e9cd146" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.7/BBCSoundsPlugin_2_50_7.zip" version="2.50.7">
+      <changes lang="EN">NEW 2.50.7 Further sign-in fixes</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -685,6 +685,10 @@
     <plugin name="QuickAccess" category="misc" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="179" link="" maxTarget="*" minTarget="7.0" sha="d2b80a4f9cb717115ee2413dae4a46d18e924a00" url="http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/QuickAccess_7_3.zip" version="7.3">
       <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
       <title lang="EN">QuickAccess</title>
+    </plugin>
+    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="532" link="" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
+      <desc lang="EN">Automate transcoding and resampling</desc>
+      <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
     <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="353" link="" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
       <desc lang="EN">ArchiveOrg - a plugin that enables access to files on Archive.org</desc>
