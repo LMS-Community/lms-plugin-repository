@@ -188,8 +188,7 @@ for my $url (sort @{$includes->{repositories}}) {
 		) };
 
 		if ($@) {
-			warn "bad xml ($url) $@";
-			next;
+			die "bad xml ($url) $@";
 		}
 
 		for my $content (qw(applet wallpaper sound plugin patch)) {
