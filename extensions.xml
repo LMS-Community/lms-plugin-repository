@@ -287,7 +287,7 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/RadioNowPlaying_svg.png" installations="4003" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111952-announce-radio-now-playing-plugin?view=thread" maxTarget="*" minTarget="7.5" sha="c24b084425f377ee339d731ed227a91b742e0b92" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.50.zip" version="0.0.50">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="4003" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="c24b084425f377ee339d731ed227a91b742e0b92" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.50.zip" version="0.0.50">
       <changes lang="EN">
 				- Add Alpha Boys School Radio - artist, title and CoverSearch
 				- Add Arrow Classic Rock (nl) - artist and title already present, add duration and CoverSearch - track transition data can be many seconds ahead of the audio so have added an assumed delay which could be wrong in the future of course
@@ -664,11 +664,6 @@
     <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="627" link="" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
-    </plugin>
-    <plugin name="DomoticzControl" category="tools" creator="Guillaume Zin" installations="33" link="" maxTarget="*" minTarget="7.4" sha="a6f4709113682a92571609ae87a242bf085e3bbc" url="https://guillaumezin.github.io/DomoticzControl/domoticzcontrol-v1.2.4.zip" version="1.2.4">
-      <desc lang="EN">Control your Domoticz devices from your Jive based player. Parameters are located in player settings</desc>
-      <desc lang="FR">Contrôle de vos périphériques Domoticz depuis votre platine basée sur Jive. Le paramétrage se fait dans l'onglet platine</desc>
-      <title lang="EN">Domoticz Control</title>
     </plugin>
     <plugin name="PowerSave" category="tools" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="835" link="" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://jasonholtzapple.github.io/slimdevices/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
       <desc lang="EN">Power off your squeezebox after a certain amount of time (idle or otherwise)</desc>
