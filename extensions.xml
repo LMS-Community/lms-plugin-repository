@@ -627,8 +627,8 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2920" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="922fd2684a2357e725f280cc48bc97a17e9cd146" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.7/BBCSoundsPlugin_2_50_7.zip" version="2.50.7">
-      <changes lang="EN">NEW 2.50.7 Further sign-in fixes</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2920" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="a641893aed5431e1ff9648a7c45a9731bdd92933" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.8/BBCSoundsPlugin_2_50_8.zip" version="2.50.8">
+      <changes lang="EN">NEW 2.50.8 Minor maintenance fixes</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
