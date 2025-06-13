@@ -873,7 +873,7 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Binary using sox for resampling, now that I have figured out the highest quality settings. Normaliser is based off FFT peak, as more accurate. Code tidy up. Transcoder, fixing issue with alac alc transcoder path " creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="541" link="" maxTarget="*" minTarget="7.8.0" sha="d38c98d5e923cce08b1db1c77ea5ed9bdc761532" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.25/SqueezeDSP-0.1.25.zip" version="0.1.24">
+    <plugin name="SqueezeDSP" category="tools" changes="Binary using sox for resampling, now that I have figured out the highest quality settings. Normaliser is based off FFT peak, as more accurate. Code tidy up. Transcoder, fixing issue with alac alc transcoder path " creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="541" link="" maxTarget="*" minTarget="7.8.0" sha="d38c98d5e923cce08b1db1c77ea5ed9bdc761532" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.25/SqueezeDSP-0.1.25.zip" version="0.1.25">
       <desc lang="EN">DSP for Lyrion Music Server (version 0.1.25) - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
