@@ -1166,8 +1166,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="8075" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="a84d96e50466149a8ca351e29b9f1c33b75643a1" url="https://www.herger.net/_data/MusicArtistInfo-1.16.0.zip" version="1.16.0">
-      <changes lang="EN">v1.16.0 - improved biography and album review lookup, using MusicBrainz' database for localized Wikipedia references.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="8075" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="923f2557bdf3ed0e0e5bd504671de93bd979fb1a" url="https://www.herger.net/_data/MusicArtistInfo-1.16.1.zip" version="1.16.1">
+      <changes lang="EN">v1.16.0 - improved biography and album review lookup, using MusicBrainz' database for localized Wikipedia references. v1.16.1 - fix drilling down the music folder to find local bio/review files.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
