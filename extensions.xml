@@ -73,8 +73,8 @@
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). IMPORTANT - piCorePlayer 10: this applet requires the original jivelite. Does not work with jivelite-vis. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="9d875b1a8d8765072d501e68833acf9bab91dcd9" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.8.zip" version="1.2.8">
-      <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1. *** See FAQ for information on known SB Touch issue.</desc>
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="42e702ae99d24d5a00393e400f1ef03f72118223" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.9.zip" version="1.2.9">
+      <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="NPInfoPlusInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="7e00f01bf1f06e549e36942aa8a65010b8ab4b77" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=NPInfoPlusInstaller-baby-1.1.0.zip" version="1.1.0">
@@ -259,7 +259,7 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/radiofrance_svg.png" installations="1516" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="7591198882391e7a1ec3c19bd682122245fd4cdb" url="http://www.dabdig.co.uk/slimserver-rep/RadioFrance-0.4.18.zip" version="0.4.18">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1516" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="7591198882391e7a1ec3c19bd682122245fd4cdb" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.18.zip" version="0.4.18">
       <changes lang="EN">
 				- Track cover art URL changed
 				- Try to find track details during FIP programmes that usually have no extra info
@@ -272,7 +272,7 @@
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
-    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" installations="232" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://www.dabdig.co.uk/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
+    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" installations="232" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="96837c17b8b5f3f5f9ac1572b648e096335e1088" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.5.zip" version="0.0.5">
       <changes lang="EN">
 				- Match the HLS stream URLs
 			</changes>
@@ -284,14 +284,15 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://dabdig.co.uk/slimserver-rep/images/planetradio_svg.png" installations="535" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="4f89446e5078cecb6344760632d5e1ddaa68f702" url="http://www.dabdig.co.uk/slimserver-rep/PlanetRadio-0.0.28.zip" version="0.0.28">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/planetradio_svg.png" installations="535" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="3fa444b0e666dedc8d30d10212d0effe91b94e3f" url="http://radionowplaying.com/slimserver-rep/PlanetRadio-0.0.29.zip" version="0.0.29">
       <changes lang="EN">
-				- Update stream data for some of the premium stations
+				- Correct handling of broadcaster local time
+				- Update station list
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="3933" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="c24b084425f377ee339d731ed227a91b742e0b92" url="http://www.dabdig.co.uk/slimserver-rep/RadioNowPlaying-0.0.50.zip" version="0.0.50">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="3933" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="c24b084425f377ee339d731ed227a91b742e0b92" url="http://radionowplaying.com/slimserver-rep/RadioNowPlaying-0.0.50.zip" version="0.0.50">
       <changes lang="EN">
 				- Add Alpha Boys School Radio - artist, title and CoverSearch
 				- Add Arrow Classic Rock (nl) - artist and title already present, add duration and CoverSearch - track transition data can be many seconds ahead of the audio so have added an assumed delay which could be wrong in the future of course
@@ -855,7 +856,7 @@
       <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="328" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="ea2eb566eb79febeaf6bbc660509868fdb351d34" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.6/lms-ratingslight-2.8.6.zip" version="2.8.6">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="328" link="https://github.com/AF-1/#-ratings-light" maxTarget="*" minTarget="8.2" sha="08e77df7eae7a7352b1da267b21b69fc91122882" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.7/lms-ratingslight-2.8.7.zip" version="2.8.7">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
