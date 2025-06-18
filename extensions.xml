@@ -860,7 +860,7 @@
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="281" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="4db0929e4fa8528c0aa2c8de0babb5a307a8b21b" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.7/lms-virtuallibrarycreator-1.4.7.zip" version="1.4.7">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="281" link="https://github.com/AF-1/#-virtual-library-creator" maxTarget="*" minTarget="8.4" sha="460feb1f4ebe5f8a66ef6a87b6d950426c68e3e7" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.4.8/lms-virtuallibrarycreator-1.4.8.zip" version="1.4.8">
       <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -874,8 +874,8 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Fixed Error in binary where no filter selected defaults to a filter with a single zero value sample, which if used will silence the output" creator="Jonathan Fox" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="531" link="" maxTarget="*" minTarget="7.8.0" sha="c36964914dc63e1435ab44eee68d615a161ee2ad" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.26/SqueezeDSP-0.1.26.zip" version="0.1.26">
-      <desc lang="EN">DSP for Lyrion Music Server (version 0.1.26) - provides EQ and DSP.</desc>
+    <plugin name="SqueezeDSP" category="tools" changes="Error in binary where no filter selected exits early, when first convolver finishes as it tries to write tail file - fixed" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="531" link="" maxTarget="*" minTarget="7.8.0" sha="118cdf2e0c82f4a5334b6a2e22e36f54ec6fb582" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.27/SqueezeDSP-0.1.27.zip" version="0.1.27">
+      <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
     <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="742" link="" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
