@@ -1147,7 +1147,7 @@
       <title lang="EN">Fileviewer</title>
       <title lang="DE">Dateibetrachter</title>
     </plugin>
-    <plugin name="IgnoreDirREManager" category="tools" creator="Michael Herger" email="slim@herger.net" installations="244" link="" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="https://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
+    <plugin name="IgnoreDirREManager" category="scanning" creator="Michael Herger" email="slim@herger.net" installations="244" link="" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="https://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
       <desc lang="EN">Set a regular expression to ignore files and folders when scanning or browsing folders.</desc>
       <desc lang="DE">Schliesse Dateien und Ordner mittels Regulärer Ausdrücke beim Durchsuchen der Musik aus.</desc>
       <title lang="EN">Ignore files and folders</title>
