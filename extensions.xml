@@ -1167,8 +1167,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7804" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="66403324aca6e34078a8388e38a5e17206db596e" url="https://www.herger.net/_data/MusicArtistInfo-1.17.3.zip" version="1.17.3">
-      <changes lang="EN">v1.17.0 - improved Wikipedia lookup, add links to more external sources like AllMusic, WhoSampled, Soundcloud etc. v1.17.3 - Use MBID when fetching info from the backend service.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7804" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="9016b861bdda071a6d17b48f9008860e195dab0d" url="https://www.herger.net/_data/MusicArtistInfo-1.17.4.zip" version="1.17.4">
+      <changes lang="EN">v1.17.0 - improved Wikipedia lookup, add links to more external sources like AllMusic, WhoSampled, Soundcloud etc. v1.17.4 - Improve MBID support, when looking up locally, as well as when reaching out to the backend service.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
