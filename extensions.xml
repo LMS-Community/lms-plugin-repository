@@ -803,8 +803,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="724" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="03420ee506b596dee3ce540d9753542e8be5ab4f" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-47.zip" version="5.11.47">
-      <changes lang="EN">(5.11.47) 2nd interim release addressing changes to weather data API.</changes>
+    <plugin name="SuperDateTime" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="724" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="8d221e9487f694c95dce4c61ddf5310d742ccc17" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-48.zip" version="5.11.48">
+      <changes lang="EN">(5.11.48) Addresses all changes to weather data API.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
