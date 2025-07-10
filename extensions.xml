@@ -65,15 +65,15 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="4bcf56a64da63f41b2e0711b6f6373cc52b175fc" target="squeezeplay" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.2.8.zip" version="1.2.8">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="8bec616441b929e86103005e2fd3cd4cfa504df5" target="squeezeplay" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.3.0.zip" version="1.3.0">
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1 *** Windows and Linux users: please read the FAQ BEFORE installing.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="e0854172f9611bf6cce3b4df90bcb53abe27fc09" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.2.8.zip" version="1.2.8">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="af5721f75af770704f3b731514003fc52df9644d" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.3.0.zip" version="1.3.0">
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). IMPORTANT - piCorePlayer 10: this applet requires the original jivelite. Does not work with jivelite-vis. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="42e702ae99d24d5a00393e400f1ef03f72118223" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.2.9.zip" version="1.2.9">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="a2daad6468b2357fdbe48f2a8cee5e81fe6fc249" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.3.0.zip" version="1.3.0">
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
@@ -259,14 +259,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1448" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="7591198882391e7a1ec3c19bd682122245fd4cdb" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.18.zip" version="0.4.18">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1448" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="187f2dcb6646945eebdfce5b4e3259ef6f061a22" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.19.zip" version="0.4.19">
       <changes lang="EN">
-				- Track cover art URL changed
-				- Try to find track details during FIP programmes that usually have no extra info
+				- Add France Musique Classique Love
 			</changes>
       <changes lang="FR">
-				- L'URL de la pochette du morceau a été modifiée.
-				- Essayez de trouver les détails du morceau lors des émissions FIP, qui ne contiennent généralement aucune information supplémentaire.
+				- Ajouter France Musique Classique Love
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
@@ -1262,6 +1260,10 @@
     <plugin name="SpottyBinFreeBSD" category="misc" creator="Richard Herman" email="richard@neversimple.eu" installations="289" link="" maxTarget="*" minTarget="7.7" sha="0ae76df01ed09eb83ac5ba5b0e71dfbd1788ba6d" target="unix" url="https://www.neversimple.eu/LMS-Files/SpottyBinFreeBSD-1.3.1.zip" version="1.3.1">
       <desc lang="EN">Spotty Helper Application for FreeBSD 13. This plugin requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for FreeBSD 13</title>
+    </plugin>
+    <plugin name="SugarCube" category="playlists" creator="Charles Parker" email="abuse@spicefly.com" installations="221" link="http://www.spicefly.com/" maxTarget="*" minTarget="7.0a" sha="f78d13a466270a6c3fe629ea326be7b1043bdd8f" url="http://www.spicefly.com/media/scube5x/SugarCube5.25.zip" version="5.25">
+      <desc lang="EN">Travel through your music Library using MusicIPs recommendations. Features Include Filter, Genre, Artist and Recipe Mixing, Trackstat Integration, Artist Blocking, Genre Blocking, Custom Track Weighting Routines, Coming Up Next Display, Sleep Mode, Volume Fade and lots more.  See www.spicefly.com for Details and Change Log.</desc>
+      <title lang="EN">Spicefly SugarCube</title>
     </plugin>
   </plugins>
 </extensions>
