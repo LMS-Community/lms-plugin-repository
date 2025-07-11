@@ -1136,7 +1136,7 @@
       <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
       <title lang="EN">Create docsets for Dash</title>
     </plugin>
-    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="473" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="ad9cdd3bf72f7dd21579dc24fcd689d0024ee403" url="https://www.herger.net/_data/DRS-1.5.7.zip" version="1.5.7">
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="473" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7ae5d1e5f65c9f33f3d6c6305c59d497d14394d" url="https://www.herger.net/_data/DRS-1.5.8.zip" version="1.5.8">
       <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
       <title lang="EN">Radio DRS Meta Information</title>
