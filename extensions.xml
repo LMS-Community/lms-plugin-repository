@@ -1119,8 +1119,8 @@
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1276" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="8106dabfaef540edb5178999ec5b2906c2dce491" url="https://www.herger.net/_data/Bandcamp-1.9.5.zip" version="1.9.5">
-      <changes lang="EN">v1.9.0: add support for &quot;Bandcamp Daily...&quot;. v1.9.5: fix URL parsing when playing from own collection.</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1276" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="4de5a25133b476fff0b48a22556b0fee94e941bf" url="https://www.herger.net/_data/Bandcamp-1.10.0.zip" version="1.10.0">
+      <changes lang="EN">v1.10.0: add support playlists.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
@@ -1136,7 +1136,7 @@
       <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
       <title lang="EN">Create docsets for Dash</title>
     </plugin>
-    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="473" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="c7ae5d1e5f65c9f33f3d6c6305c59d497d14394d" url="https://www.herger.net/_data/DRS-1.5.8.zip" version="1.5.8">
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="473" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="ebd84dd6689c4ef0f6db02b68338a49de3d432a2" url="https://www.herger.net/_data/DRS-1.5.9.zip" version="1.5.9">
       <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
       <title lang="EN">Radio DRS Meta Information</title>
@@ -1165,8 +1165,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7626" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="3a98b07002c7b05ccae98b2ed2897cc1ddde61fe" url="https://www.herger.net/_data/MusicArtistInfo-1.17.5.zip" version="1.17.5">
-      <changes lang="EN">v1.17.0 - improved Wikipedia lookup, add links to more external sources like AllMusic, WhoSampled, Soundcloud etc. v1.17.4 - Improve MBID support, when looking up locally, as well as when reaching out to the backend service. v1.17.5 - fix album lookup.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7626" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="2c2534eaf26d80ee8ce5d6e8b7530d4abcdc7bdb" url="https://www.herger.net/_data/MusicArtistInfo-1.18.0.zip" version="1.18.0">
+      <changes lang="EN">v1.18.0 - use the LMS Community API service for genre lookup based on MusicBrainz.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
