@@ -626,8 +626,8 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2789" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="a641893aed5431e1ff9648a7c45a9731bdd92933" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.8/BBCSoundsPlugin_2_50_8.zip" version="2.50.8">
-      <changes lang="EN">NEW 2.50.8 Minor maintenance fixes</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2789" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="a5e31999b5c0d61e2bd5dd5e796eeb1f5aa0ce5f" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.51.0/BBCSoundsPlugin_2_51_0.zip" version="2.51.0">
+      <changes lang="EN">NEW 2.51.0 New International Menu for listeners outside the UK</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -868,7 +868,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="13594" link="" maxTarget="*" minTarget="7.9.0" sha="3b4318d5fa3176d0d51644d072470909c30f0afd" url="https://github.com/CDrummond/lms-material/releases/download/5.10.4/lms-material-5.10.4.zip" version="5.10.4">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="13594" link="" maxTarget="*" minTarget="7.9.0" sha="b47205db6d21b65010615912bae0528a70e9287a" url="https://github.com/CDrummond/lms-material/releases/download/5.10.5/lms-material-5.10.5.zip" version="5.10.5">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
