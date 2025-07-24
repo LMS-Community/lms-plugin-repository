@@ -77,10 +77,6 @@
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="NPInfoPlusInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="7e00f01bf1f06e549e36942aa8a65010b8ab4b77" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=NPInfoPlusInstaller-baby-1.1.0.zip" version="1.1.0">
-      <desc lang="EN">Display additional information on the Now Playing screen (rating, year, audio metadata, status icons). *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
-      <title lang="EN">NowPlaying Info Plus</title>
-    </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" link="" maxTarget="*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
       <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
       <title lang="EN">Display Off</title>
@@ -872,7 +868,7 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Fixed issue where there is only a PEQ filter, then the checks for FIR filter cause early termination" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="523" link="" maxTarget="*" minTarget="7.8.0" sha="64dd6f63f8531fdbd582d2fcc4699ec599f1d99d" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.28/SqueezeDSP-0.1.28.zip" version="0.1.28">
+    <plugin name="SqueezeDSP" category="tools" changes="0.1.30 - Revised UI for usabliltity - see wiki." creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="523" link="" maxTarget="*" minTarget="7.8.0" sha="ee1eb8c0617ab57fc77e0447aaabd032705f567b" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.30/SqueezeDSP-0.1.30.zip" version="0.1.30">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
