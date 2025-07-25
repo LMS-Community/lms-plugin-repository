@@ -77,6 +77,10 @@
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="b05667a4c65e9fb1791e787b9a664e4f4226ed26" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-baby-1.3.0.zip" version="1.3.0">
+      <desc lang="EN">This applet installs the Dark Flat Skin on your SB Radio. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
+      <title lang="EN">Dark Flat Skin Installer</title>
+    </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" link="" maxTarget="*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
       <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
       <title lang="EN">Display Off</title>
@@ -812,7 +816,7 @@
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/contextstats_icon_svg.png" installations="152" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="a8044d2ccd170ba8d066d97b7bc6ad4c2d8378f6" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.3/lms-contextstats-1.0.3.zip" version="1.0.3">
+    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/contextstats_icon_svg.png" installations="152" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="62c59af3e209acb1a64818d6455b09b60a74556c" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.4/lms-contextstats-1.0.4.zip" version="1.0.4">
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
@@ -850,7 +854,7 @@
       <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="315" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="046bb6513f3dccc3b2f22f648a6c62a89eddd2e9" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.8/lms-ratingslight-2.8.8.zip" version="2.8.8">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="315" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="8a48cf339496f46b2e3d944e1c3edcaef7f4187f" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.9/lms-ratingslight-2.8.9.zip" version="2.8.9">
       <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -928,7 +932,7 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@pickartz.me" installations="536" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="96dc6525e311d74b91b93d59ce52a2d1bfee7ee2" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.2.0/MyQobuz.zip" version="1.2.0">
+    <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@pickartz.me" installations="536" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="27e3c8d5621c4c774f5750ddf35f5df3a6a32874" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.3.0/MyQobuz.zip" version="1.3.0">
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
     </plugin>
