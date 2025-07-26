@@ -811,12 +811,12 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="244" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="697e09ca037ea4a657f3e03dae5a053baaa54950" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.6.5/lms-alternativeplaycount-1.6.5.zip" version="1.6.5">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/AlternativePlayCount/HTML/EN/plugins/AlternativePlayCount/html/images/apc_icon.png" installations="244" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="697e09ca037ea4a657f3e03dae5a053baaa54950" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.6.5/lms-alternativeplaycount-1.6.5.zip" version="1.6.5">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/contextstats_icon_svg.png" installations="152" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="62c59af3e209acb1a64818d6455b09b60a74556c" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.4/lms-contextstats-1.0.4.zip" version="1.0.4">
+    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/cs_icon.png" installations="152" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="c57d426e49825394f723aca8c5778ca476986727" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.5/lms-contextstats-1.0.5.zip" version="1.0.5">
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
@@ -824,11 +824,11 @@
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
-    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" installations="77" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="d1733a44fa61dcda81f8d3ecee2df4261af3cda7" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.0/lms-customstartstoptimes-1.2.0.zip" version="1.2.0">
+    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/CustomStartStopTimes/HTML/EN/plugins/CustomStartStopTimes/html/images/csst_icon.png" installations="77" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="f6d4840ae71bfaf8bbe1d759f299ffb71a201680" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.1/lms-customstartstoptimes-1.2.1.zip" version="1.2.1">
       <desc lang="EN">Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="CustomTagImporter" category="scanning" creator="AF" installations="258" link="https://github.com/AF-1" maxTarget="*" minTarget="7.9" sha="c1af8a70c621b42e157732d6fd23916ffb557364" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.5/lms-customtagimporter-1.2.5.zip" version="1.2.5">
+    <plugin name="CustomTagImporter" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customtagimporter/main/CustomTagImporter/HTML/EN/plugins/CustomTagImporter/html/images/cti_icon.png" installations="258" link="https://github.com/AF-1" maxTarget="*" minTarget="7.9" sha="c7a851cd1fda0e0962f0ac02850bfbcb4827a0a4" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.6/lms-customtagimporter-1.2.6.zip" version="1.2.6">
       <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags).</desc>
       <title lang="EN">Custom Tag Importer</title>
     </plugin>
@@ -851,15 +851,15 @@
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
     <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/PotPourri/HTML/EN/plugins/PotPourri/html/images/ppt_icon_svg.png" installations="148" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="ebde6e1bc483dee30ba3c31840fe18bd6e3da103" url="https://github.com/AF-1/lms-potpourri/releases/download/1.0.6/lms-potpourri-1.0.6.zip" version="1.0.6">
-      <desc lang="EN">A collection of small features. Examples: change track order of saved/client playlists, set power-on volume level for players or time to turn off all players each day, export saved playlists to playlist files with custom file paths/extensions… Complete feature list, screenshots and more information on the GitHub page.</desc>
+      <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_icon.png" installations="314" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="8a48cf339496f46b2e3d944e1c3edcaef7f4187f" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.9/lms-ratingslight-2.8.9.zip" version="2.8.9">
-      <desc lang="EN">Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus.</desc>
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/RatingsLight/HTML/EN/plugins/RatingsLight/html/images/rl_icon.png" installations="314" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="8a48cf339496f46b2e3d944e1c3edcaef7f4187f" url="https://github.com/AF-1/lms-ratingslight/releases/download/2.8.9/lms-ratingslight-2.8.9.zip" version="2.8.9">
+      <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
     <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="261" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="336a500835769a6166dee2ef7aedc5c2ea630059" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.0/lms-virtuallibrarycreator-1.5.0.zip" version="1.5.0">
-      <desc lang="EN">A quick and easy way to create and manage your own virtual libraries/library views.</desc>
+      <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
     <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics_svg.png" installations="580" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="a3242c48f390d13215f17fc9a062daddbfc44193" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.8.1/lms-visualstatistics-1.8.1.zip" version="1.8.1">
