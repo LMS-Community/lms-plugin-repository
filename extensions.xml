@@ -836,21 +836,21 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DarkLogicSkin" category="skin" creator="AF" installations="265" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="ca192a8ae23f65f8055ddea925ba91239c432fe3" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.1/lms-darklogicskin-1.0.1.zip" version="1.0.1">
+    <plugin name="DarkLogicSkin" category="skin" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-darklogicskin/main/screenshots/dls_icon.png" installations="265" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="ca192a8ae23f65f8055ddea925ba91239c432fe3" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.1/lms-darklogicskin-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/DynamicPlaylists4/HTML/EN/plugins/DynamicPlaylists4/html/images/dpl_icon_svg.png" installations="766" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="b63d4e74f437f4767c2c101e525d0dd9d133207c" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.4/lms-dynamicplaylists-4.5.4.zip" version="4.5.4">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="766" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="b63d4e74f437f4767c2c101e525d0dd9d133207c" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.4/lms-dynamicplaylists-4.5.4.zip" version="4.5.4">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/DynamicPlaylistCreator/HTML/EN/plugins/DynamicPlaylistCreator/html/images/dplc_icon_svg.png" installations="592" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="876c66acec330b67e6be5c954380a96896175161" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.7/lms-dynamicplaylistcreator-1.7.7.zip" version="1.7.7">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_icon.png" installations="592" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="876c66acec330b67e6be5c954380a96896175161" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.7/lms-dynamicplaylistcreator-1.7.7.zip" version="1.7.7">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/PotPourri/HTML/EN/plugins/PotPourri/html/images/ppt_icon_svg.png" installations="147" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="ebde6e1bc483dee30ba3c31840fe18bd6e3da103" url="https://github.com/AF-1/lms-potpourri/releases/download/1.0.6/lms-potpourri-1.0.6.zip" version="1.0.6">
+    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_icon.png" installations="147" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="ebde6e1bc483dee30ba3c31840fe18bd6e3da103" url="https://github.com/AF-1/lms-potpourri/releases/download/1.0.6/lms-potpourri-1.0.6.zip" version="1.0.6">
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
@@ -858,11 +858,11 @@
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/VirtualLibraryCreator/HTML/EN/plugins/VirtualLibraryCreator/html/images/vlc_icon_svg.png" installations="258" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="336a500835769a6166dee2ef7aedc5c2ea630059" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.0/lms-virtuallibrarycreator-1.5.0.zip" version="1.5.0">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="258" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="336a500835769a6166dee2ef7aedc5c2ea630059" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.0/lms-virtuallibrarycreator-1.5.0.zip" version="1.5.0">
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/VisualStatistics/HTML/EN/plugins/VisualStatistics/html/images/visualstatistics_svg.png" installations="576" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="a3242c48f390d13215f17fc9a062daddbfc44193" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.8.1/lms-visualstatistics-1.8.1.zip" version="1.8.1">
+    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="576" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="a3242c48f390d13215f17fc9a062daddbfc44193" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.8.1/lms-visualstatistics-1.8.1.zip" version="1.8.1">
       <desc lang="EN">Have a look at your library statistics with charts.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
