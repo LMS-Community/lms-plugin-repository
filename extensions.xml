@@ -820,7 +820,7 @@
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
-    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/CustomSkip3/HTML/EN/plugins/CustomSkip3/html/images/cs_icon_svg.png" installations="131" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="a6c499636f197b7733985aaeb970ba11efe75c36" url="https://github.com/AF-1/lms-customskip/releases/download/3.6.9/lms-customskip-3.6.9.zip" version="3.6.9">
+    <plugin name="CustomSkip3" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customskip/main/screenshots/cs_repo_icon.png" installations="131" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="755c00797580b6960ab109a5e81aa591f4efb880" url="https://github.com/AF-1/lms-customskip/releases/download/3.7.0/lms-customskip-3.7.0.zip" version="3.7.0">
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
