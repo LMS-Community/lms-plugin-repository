@@ -81,6 +81,10 @@
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Radio. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
+    <applet name="NPInfoPlusInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" target="baby" version="1.1.2">
+      <desc lang="EN">** IMPORTANT **: This applet is deprecated / EOL. Please use the Dark Flat Skin applet instead. For more information on the DFS applet see: https://github.com/AF-1</desc>
+      <title lang="EN">NowPlaying Info Plus</title>
+    </applet>
     <applet name="DisplayOff" creator="Triode" email="triode1@btinternet.com" link="" maxTarget="*" minTarget="7.7" sha="c709e3d24b287132f62b3207ee7d1e9751f1bab6" target="fab4" url="http://ralph.irving.sdf.org/edo/DisplayOff-v0.1.zip" version="0.1">
       <desc lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
       <title lang="EN">Display Off</title>
