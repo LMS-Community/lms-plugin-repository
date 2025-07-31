@@ -220,6 +220,10 @@
       <desc lang="EN">Fixes the analog, digital, and headphone output at 100% regardless of the apparent Squeezebox volume setting.</desc>
       <title lang="EN">Volume Fixed at 100%</title>
     </patch>
+    <patch name="VersionComparisonFix" creator="Michael Herger" email="slim@herger.net" link="" maxTarget="7.7" minTarget="7.7" sha="502f20ed043ca48682add2016f48af927b9a369d" target="baby" url="https://www.herger.net/_data/SlimServer-0.3.lua.patch" version="0.3">
+      <desc lang="EN">Fixes the version comparison which is broken in Radio firmware 7.7.x. This issue leads to the Radio refusing to connect to LMS 8.</desc>
+      <title lang="EN">Version Comparison Fix</title>
+    </patch>
     <patch name="MoreRadioPresets" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/more-radio-presets" maxTarget="*" minTarget="7.4" sha="4dcc2ff0886795fcb788ddaa3e74cd585e24e04a" target="baby" url="http://www2.koukalaka.me.uk/squeezebox/repo/patches/MoreRadioPresets.patch" version="1.00">
       <desc lang="EN">Adds options for Presets 6-10 to the Shortcuts applet.</desc>
       <title lang="EN">More Radio Presets</title>
@@ -1113,6 +1117,117 @@
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
+    </plugin>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1120" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="00031cd062ce37d7496d096d96413b69b868f7e7" url="https://www.herger.net/_data/1001Albums-1.4.2.zip" version="1.4.2">
+      <changes lang="EN">v1.4.1: add support for Deezer plugin - thanks Paul Webster! v1.4.2: prioritize lossless services over lossy.</changes>
+      <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
+      <title lang="EN">1001 Albums you must hear before you die</title>
+    </plugin>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1258" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="4de5a25133b476fff0b48a22556b0fee94e941bf" url="https://www.herger.net/_data/Bandcamp-1.10.0.zip" version="1.10.0">
+      <changes lang="EN">v1.10.0: add support playlists.</changes>
+      <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
+      <title lang="EN">Band's Campout</title>
+    </plugin>
+    <plugin name="ClientCleanup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="760" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.0aaa" sha="9d0e15e3b00d1e03a02f6ff978431079032c0a79" url="https://www.herger.net/_data/ClientCleanup-1.3.0.zip" version="1.3.0">
+      <desc lang="EN">Remove orphaned client configurations</desc>
+      <title lang="EN">Client Cleanup</title>
+    </plugin>
+    <plugin name="CrackThatMF" category="hardware" creator="Michael Herger" email="slim@herger.net" icon="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTIwIDE5di0xMmgtMTZ2MTJ6bTAtMTZhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEgLTIgMmgtMTZhMiAyIDAgMCAxIC0yLTJ2LTE0YzAtMS4xMS45LTIgMi0yem0tNyAxNHYtMmg1djJ6bS0zLjQyLTQtNC4wMS00aDIuODNsMy4zIDMuM2MuMzkuMzkuMzkgMS4wMyAwIDEuNDJsLTMuMjggMy4yOGgtMi44M3oiLz48L3N2Zz4=" installations="42" link="" maxTarget="*" minTarget="7.7" sha="5680df3a099cae8e4c6cc78d395afb96e41e852c" target="unix" url="http://www.herger.net/_data/CrackThatMF-0.2.0.zip" version="0.2.0">
+      <desc lang="EN">This plugin tries to enable SSH on your Musical Fidelity Encore device. USE AT YOUR OWN RISK! DO NOT USE IF YOU ALREADY HAVE SSH ACCESS TO YOUR MF. Once access has been successfully established, you can uninstall the plugin again.</desc>
+      <title lang="EN">Musical Fidelity Remote Access Enabler</title>
+    </plugin>
+    <plugin name="DocsetCreator" category="tools" creator="Michael Herger" email="slim@herger.net" installations="53" link="" maxTarget="*" minTarget="7.9" sha="73dc6aca59179652dd28b0c049f0b9d36a4e95e4" url="http://www.herger.net/_data/DocsetCreator-0.5.0.zip" version="0.5.0">
+      <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
+      <title lang="EN">Create docsets for Dash</title>
+    </plugin>
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="464" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="ebd84dd6689c4ef0f6db02b68338a49de3d432a2" url="https://www.herger.net/_data/DRS-1.5.9.zip" version="1.5.9">
+      <desc lang="EN">Swiss Radio DRS Stream Meta Information Parser</desc>
+      <desc lang="DE">Schweizer Radio DRS Meta Informations Parser</desc>
+      <title lang="EN">Radio DRS Meta Information</title>
+    </plugin>
+    <plugin name="FileViewer" category="information" creator="Michael Herger" email="slim@herger.net" installations="194" link="https://www.herger.net/FileViewer/" maxTarget="*" minTarget="7.5" sha="033beae02e4a41d98597e2b87b5e9fe8bc1b7cdd" url="https://www.herger.net/_data/FileViewer-1.5.1.zip" version="1.5.1">
+      <title lang="EN">Fileviewer</title>
+      <title lang="DE">Dateibetrachter</title>
+    </plugin>
+    <plugin name="IgnoreDirREManager" category="scanning" creator="Michael Herger" email="slim@herger.net" installations="230" link="" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="https://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
+      <desc lang="EN">Set a regular expression to ignore files and folders when scanning or browsing folders.</desc>
+      <desc lang="DE">Schliesse Dateien und Ordner mittels Regulärer Ausdrücke beim Durchsuchen der Musik aus.</desc>
+      <title lang="EN">Ignore files and folders</title>
+      <title lang="DE">Dateien und Ordner ausschliessen</title>
+    </plugin>
+    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="144" link="" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
+      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
+      <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
+      <title lang="EN">Image Proxy configuration helper</title>
+    </plugin>
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="630" link="" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
+      <changes lang="EN">v2.3.0 - Improve tag mixing by getting more tracks to pick from, and balanced shuffle.</changes>
+      <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
+      <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
+    </plugin>
+    <plugin name="M6Encore" category="hardware" creator="Michael Herger" email="slim@herger.net" installations="67" link="" maxTarget="*" minTarget="7.6" sha="5bd361d6f786347f6a8593a0f13fdc7a7dd9fcb0" url="https://www.herger.net/_data/M6Encore-0.1.0.zip" version="0.1.0">
+      <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
+      <title lang="EN">Musical Fidelity M6 Encore</title>
+    </plugin>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7473" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="d64ef3e4bcc84386698e55bf7e7b7ff1b2aba2ea" url="https://www.herger.net/_data/MusicArtistInfo-1.18.2.zip" version="1.18.2">
+      <changes lang="EN">v1.18.0 - use the LMS Community API service for genre lookup based on MusicBrainz. v1.18.1 - show hint when no image cache folder is defined; use extid when reaching out for bio/review. v1.18.2 - improve caching of API results.</changes>
+      <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
+      <title lang="EN">Music and Artist Information</title>
+    </plugin>
+    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1828" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0a" sha="03cc5f66b9efa2ce9a8c88f10a29314063347d10" url="https://www.herger.net/_data/MusicInfoSCR-4.5.1.zip" version="4.5.1">
+      <desc lang="EN">The Music Information Screen plugin allows customization of the player's Now Playing screen and other elements.</desc>
+      <desc lang="DE">Das Musik-Informations Plugin erlaubt es, den Bildschirm weitgehend selber zu gestalten.</desc>
+      <title lang="EN">Music Information Screen</title>
+    </plugin>
+    <plugin name="NoSetup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="222" link="" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="https://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
+      <desc lang="EN">This plugins allows you to disable access to the settings pages from the Squeezebox Server's web interface.</desc>
+      <desc lang="DE">Mit diesem Plugin können Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
+      <title lang="EN">Enable/disable access to server settings</title>
+      <title lang="DE">Einstellungen aus-/einblenden</title>
+    </plugin>
+    <plugin name="Phishin" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Phishin/master/HTML/EN/plugins/Phishin/html/icon.png" installations="267" link="" maxTarget="*" minTarget="7.6" sha="647f84620f12ed3bbdcac66157148b3ca4613540" url="https://www.herger.net/_data/Phishin-0.1.3.zip" version="0.1.3">
+      <desc lang="EN">phish.in' - access to Live Phish Audio Streams</desc>
+      <title lang="EN">phish.in'</title>
+    </plugin>
+    <plugin name="PiCorePlayer" category="hardware" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/raspberry.png" installations="1589" link="" maxTarget="*" minTarget="7.7.6" sha="aeedeb894cd59b26e8f01baeac34ae2cc9be6f1a" url="http://www.herger.net/_data/PiCorePlayer-0.1.2.zip" version="0.1.2">
+      <desc lang="EN">Access pCP Settings pages from within the LMS Settings.</desc>
+      <title lang="EN">piCorePlayer Support</title>
+    </plugin>
+    <plugin name="PlayHistory" category="information" changes="v1.0.10 - add album information when available (thanks Paul Webster!)" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/playhistory.png" installations="1207" link="https://www.herger.net/slim-plugins" maxTarget="*" minTarget="7.6" sha="024472a99bf17c923a72aa77363237f3a0f1dce6" url="https://www.herger.net/_data/PlayHistory-1.0.10.zip" version="1.0.10">
+      <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
+      <title lang="EN">What Was That Tune?</title>
+    </plugin>
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="5012" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="fc6c6cb2e18ba1df85796006162f24f4b64db875" url="https://www.herger.net/_data/RadioParadise-3.6.0.zip" version="3.6.0">
+      <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
+      <title lang="EN">Radio Paradise</title>
+    </plugin>
+    <plugin name="Spotty" category="musicservices" changes="v4.11.5: Dutch update (thanks @blackfiction!), add URL to browse results." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="9377" link="" maxTarget="*" minTarget="7.7" sha="8649048ae6cd5d92d74d8db24520d0bc0811a2a6" url="https://downloads.nixda.ch/Spotty-4.11.5.zip" version="4.11.5">
+      <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
+      <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
+    </plugin>
+    <plugin name="SpottyARMPi0Bin" category="misc" creator="Michael Herger" email="slim@herger.net" installations="219" link="" maxTarget="*" minTarget="7.7" sha="23776e5447818c17021b5fe87f8fe993d8fb0e7c" target="unix" url="https://www.herger.net/_data/SpottyARMPi0Bin-0.35.0.zip" version="0.35.0">
+      <desc lang="EN">These are the legacy Spotty Helper Application for ARMv6 based Raspberry Pi systems (0/1). Use these if your installation used to work pre Spotty 4.5.0, but stopped with the most recent helpers.</desc>
+      <title lang="EN">Spotty Helper Application for Raspberry Pi Zero/1st Generation</title>
+    </plugin>
+    <plugin name="TimeSpeller" category="information" creator="Michael Herger" email="slim@herger.net" installations="241" link="https://www.herger.net/TimeSpeller/" maxTarget="*" minTarget="7.0" sha="f0f3af71130b8333e633fc84003f017094e1be23" url="https://www.herger.net/_data/TimeSpeller-1.6a.zip" version="1.6">
+      <title lang="DE">Zeit in Worten</title>
+      <title lang="EN">Date and Spelled time</title>
+      <title lang="ES">Reloj en Palabras</title>
+      <title lang="FR">L'heure en Mots</title>
+      <title lang="NL">De Tijd in Woorden</title>
+    </plugin>
+    <plugin name="MHCPAN" category="misc" creator="Michael Herger" email="slim@herger.net" link="" maxTarget="7.2" minTarget="7.0" sha="c930cf57e5814c55680098f3bcfad4e03a4138e3" target="win" url="https://www.herger.net/_data/MHCPAN.zip" version="0.1">
+      <desc lang="EN">Some perl modules for Windows that are required by some of my plugins (Meteo, AlbumReview, Biography)</desc>
+      <desc lang="DE">Perl-Module für Windows, die für einige meiner Plugins benötigt werden (Meteo, AlbumReview, Biography)</desc>
+      <title lang="EN">CPAN Modules (Windows)</title>
+      <title lang="DE">CPAN Module (Windows)</title>
+    </plugin>
+    <plugin name="WalkWithMe" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/walkwithme.png" installations="1004" link="" maxTarget="*" minTarget="7.6" sha="df3505b60cb582a36734bc9a0d4741176b898af1" url="https://www.herger.net/_data/WalkWithMe-1.1.3.zip" version="1.1.3">
+      <changes lang="EN">1.1.0: add option to grab a playlist form another player, rather than pushing it; try to improve behaviour when moving a RandomPlay list. v1.1.1: add CLI support. v1.1.2: improved French translation. v1.1.3: sort players by name</changes>
+      <desc lang="EN">Continue your listening on a different player - easily.</desc>
+      <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen Gerät weiterspielen.</desc>
+      <title lang="EN">Music Walk With Me</title>
+      <title lang="DE">Musik marschier mit mir</title>
     </plugin>
     <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="17" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.3+" minTarget="7.3" sha="a45bb0ee7e80e0eb9f01560e2eed7ccc3c6f2dc0" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.2.zip" version="3.5.2">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
