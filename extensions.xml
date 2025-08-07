@@ -655,6 +655,10 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
+    <plugin name="SqueezeSonic" category="misc" creator="foobarjo" email="jo@foobarjo.org" installations="91" link="https://github.com/foobarjo/SqueezeSonic" maxTarget="*" minTarget="7.6" sha="68ca53b475dc5e0e10f5a62f58b4198baeb96a51" url="https://ftp.foobarjo.org/LMS/squeezesonic/squeezesonic-stable-0.7.zip" version="0.7">
+      <desc lang="EN">Play music from a Subsonic API capable music library</desc>
+      <title lang="EN">SqueezeSonic</title>
+    </plugin>
     <plugin name="BMPFonts" category="hardware" creator="Daniel Frein" email="daniel.frein@gmail.com" installations="136" link="https://forums.lyrion.org/forum/user-forums/general-discussion/111149-new-bitmap-fonts-for-transporter-and-sb2-sb3/" maxTarget="*" minTarget="7.0" sha="d3fa0bd48b4d014d88745bf62451887036a7e088" url="https://github.com/dfrein/lms-plugin-repository/raw/main/BMPFonts-1.0.zip" version="1.0">
       <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
       <title lang="EN">BMPFonts Plugin</title>
