@@ -65,19 +65,19 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="6f379141bfd177a6cfed788fd9ede39c69faec6a" target="squeezeplay" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.3.1.zip" version="1.3.1">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="22659876b39b1b6ebdd167ef92b8e8e502733766" target="squeezeplay" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.3.2.zip" version="1.3.2">
       <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1 *** Windows and Linux users: please read the FAQ BEFORE installing.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="af5721f75af770704f3b731514003fc52df9644d" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.3.0.zip" version="1.3.0">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="ac6cdab93c7cd4f238db3ad4c66eff599dc26087" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.3.1.zip" version="1.3.1">
       <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). IMPORTANT - piCorePlayer 10: this applet requires the original jivelite. Does not work with jivelite-vis. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="a2daad6468b2357fdbe48f2a8cee5e81fe6fc249" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.3.0.zip" version="1.3.0">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="daa7ee7cfc884e99de848de8a378423b7f4ccbeb" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.3.1.zip" version="1.3.1">
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Touch. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="b05667a4c65e9fb1791e787b9a664e4f4226ed26" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-baby-1.3.0.zip" version="1.3.0">
+    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="bb7ed56dd5ece42b2ab3545f934cfb4d43b0b01e" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-baby-1.3.1.zip" version="1.3.1">
       <desc lang="EN">This applet installs the Dark Flat Skin on your SB Radio. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
