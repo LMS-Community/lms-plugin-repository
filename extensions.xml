@@ -420,7 +420,7 @@
       <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7100 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
-    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="0b317605a53cdb1bd0952b3e2a10218b56923727" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.9.97.zip" version="1.3.0">
+    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="0b317605a53cdb1bd0952b3e2a10218b56923727" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.9.97.zip" version="1.9.97">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
