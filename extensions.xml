@@ -650,8 +650,8 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2737" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="0f40f988a033280ba6f3f9ca054c8ed81c5c0a99" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.52.1/BBCSoundsPlugin_2_52_1.zip" version="2.52.1">
-      <changes lang="EN">NEW 2.52.1 New rewind to specific time menu on live radio</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2737" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="bd63abfcbd12734a0ff4da0258c09b41e43713db" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.52.2/BBCSoundsPlugin_2_52_2.zip" version="2.52.2">
+      <changes lang="EN">NEW 2.52.2 New rewind to specific time menu on live radio</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -765,7 +765,7 @@
       <desc lang="EN">Listen to iHeart Radio Live US,CA,AU,NZ and MX stations</desc>
       <title lang="EN">iHeart Radio - v1.2</title>
     </plugin>
-    <plugin name="RadioNet" category="radio" creator="bpa" installations="3946" link="" maxTarget="*" minTarget="7.9" sha="07cf62e4ee42979be18ee59bf866e994fd39f66f" url="https://bpa-code.github.io/bpaplugins/RadioNet-V3_3.ZIP" version="3.3">
+    <plugin name="RadioNet" category="radio" creator="bpa" installations="3946" link="" maxTarget="*" minTarget="7.9" sha="ce1b7da2625f9130927d282b2fa58910bf4c22e9" url="https://bpa-code.github.io/bpaplugins/RadioNet-V3_4.ZIP" version="3.4">
       <desc lang="EN">RadioNet - provides access to Radio.net internet radio directory</desc>
       <title lang="EN">RadioNet</title>
     </plugin>
