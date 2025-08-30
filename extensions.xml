@@ -1133,6 +1133,11 @@
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
     </plugin>
+    <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" installations="165" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="e39bf60f59b50f8b490563a25b0a98d31c9add40" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.3.zip" version="6.2.3">
+      <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
+      <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
+      <title lang="EN">IR Blaster</title>
+    </plugin>
     <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1118" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="00031cd062ce37d7496d096d96413b69b868f7e7" url="https://www.herger.net/_data/1001Albums-1.4.2.zip" version="1.4.2">
       <changes lang="EN">v1.4.1: add support for Deezer plugin - thanks Paul Webster! v1.4.2: prioritize lossless services over lossy.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
