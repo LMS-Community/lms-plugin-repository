@@ -1,5 +1,9 @@
 <extensions>
   <applets>
+    <applet name="JLCustomClock" creator="erland, tcutting" link="" maxTarget="*" minTarget="0.1" sha="58f65205e96852ac13da219b750525dbb60bab94" target="jivelite" url="http://jivelite.picoreplayer.org/JLCustomClock2_25_165.zip" version="2.25.165">
+      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
+      <title lang="EN">CustomClock for Jivelite</title>
+    </applet>
     <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" link="" maxTarget="*" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
       <desc lang="EN">Support for external USB Dacs and up to 192kHz sampling rates with the digital output.  Note: this app will install a custom linux kernel.  It will also disable analog when using usb/digital out.</desc>
       <title lang="EN">Enhanced Digital Output</title>
@@ -92,18 +96,6 @@
     <applet name="FontReplacer" email="mcstayinskool@yahoo.com" link="" maxTarget="8.*" minTarget="7.3" sha="46fcd68dbd04c44468349fda3e27e230cc532b37" url="http://downloads.nixda.ch/FontReplacer-1.4a.zip" version="1.4">
       <desc lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
       <title lang="EN">Font Replacer</title>
-    </applet>
-    <applet name="CustomClock" creator="erland, tcutting" link="" maxTarget="*" minTarget="0.1" sha="c4f6d3d143bc4876e843d3c1604ca469275b1cc7" target="jivelite" url="http://superdatetimewu.sourceforge.net/CustomClock_JL_1.01.004.zip" version="1.01.004">
-      <changes lang="EN">Initial Release.</changes>
-      <desc lang="EN">Modified Custom Clock for Jivelite</desc>
-      <title lang="EN">CustomClock</title>
-    </applet>
-    <applet name="LicenseManager" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="0.1" sha="5779593f514241d8794102a3400c9876967ccf90" target="jivelite" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanager&amp;filename=LicenseManager-1.1.67.zip" version="1.1.67">
-      <changes lang="EN">- Improved account id detection on standalone Squeezebox Touch
-                        </changes>
-      <desc lang="EN">License Manager applet, this is required for licensed applets to work and it will give you and overview of installed licensed applets and their licensing status.
-                        </desc>
-      <title lang="EN">License Manager</title>
     </applet>
     <applet name="Headphones" creator="bluegaspode / Stefan Hansel" link="" maxTarget="8.*" minTarget="7.0" sha="d5903e7cf0ec0abdced8c338871c0880a0c2aa8a" target="jive" url="http://www.stagessound.de/squeeze/Headphones.zip" version="1.0">
       <desc lang="EN">This applet allows to switch headphones manually for the controller. After installing you will find a new menu under 'Extras'</desc>
@@ -423,11 +415,6 @@
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="0b317605a53cdb1bd0952b3e2a10218b56923727" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.9.97.zip" version="1.9.97">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
-    </plugin>
-    <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="771" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
-      <changes lang="EN">Plugin icon now shows for more smartphone control apps</changes>
-      <desc lang="EN">Access RadioFeeds UK and Ireland on your Squeezebox including AAC+ and HLS streams (requires PlayHLS). We are the internet's most up-to-date directory of live streams for UK and Irish radio stations. Please register for a username before using at http://www.radiofeeds.co.uk/squeeze</desc>
-      <title lang="EN">RadioFeeds UK and Ireland</title>
     </plugin>
     <plugin name="SimpleLibraryViews" category="scanning" creator="Andy Hawkins" email="andy@gently.org.uk" installations="239" link="https://github.com/adhawkins/SimpleLibraryViews" maxTarget="*" minTarget="7.9.0" sha="c25d28d00d38bc9490664d80198c367b2d04d5f6" url="http://adhawkins.github.io/SimpleLibraryViews/SimpleLibraryViews-1.1.0.zip" version="1.1.0">
       <desc lang="EN">Plugin to easily generate library views.</desc>
@@ -1122,16 +1109,6 @@
     <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" installations="180" link="https://github.com/codechimp-org/lms-tvh" maxTarget="*" minTarget="7.7.6" sha="1935262b30ddaa6bc20d8da461cd60face8f1396" url="https://tvh.codechimp.org/tvh-1.4.32.zip" version="1.4.32">
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
-    </plugin>
-    <plugin name="xAP" category="tools" creator="Edward Pearson" installations="72" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
-      <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
-      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
-      <title lang="EN">xAP Home Automation</title>
-    </plugin>
-    <plugin name="xAP" category="tools" creator="Edward Pearson" installations="72" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="b8ea619bda57e42fcfb462ab0d43e177db081ed6" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.3.zip" version="2.4.3">
-      <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
-      <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
-      <title lang="EN">xAP Home Automation</title>
     </plugin>
     <plugin name="IRBlaster" category="hardware" creator="Felix Mueller" email="felix.mueller@gwendesign.com" installations="167" link="http://www.gwendesign.com/slimserver/dev_hard_and_software.htm" maxTarget="*" minTarget="7.5" sha="e39bf60f59b50f8b490563a25b0a98d31c9add40" url="http://www.gwendesign.com/sc/data/IRBlaster-6.2.3.zip" version="6.2.3">
       <desc lang="EN">IR Blaster can control other equipment (i.e. your amp) via IR sent out by your SB Classic, Transporter or SB Touch on some events (i.e. power on/off and volume up/down).</desc>
