@@ -1213,7 +1213,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.50.0: Deal with latest Spotify changes: no more Connect mode! Add oauth authentication. Sync with upstream librespot changes." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="9044" link="" maxTarget="*" minTarget="7.7" sha="55e41573d00023d8d3962c0566d6f8ae03c82720" url="https://downloads.nixda.ch/Spotty-4.50.0.zip" version="4.50.0">
+    <plugin name="Spotty" category="musicservices" changes="v4.50.1: new helpers based on librespot 0.7.1, restore Pi0 compatibility." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="9044" link="" maxTarget="*" minTarget="7.7" sha="8f93b5e8c85aa5b6bc248014e8b067c1d253194e" url="https://downloads.nixda.ch/Spotty-4.51.0.zip" version="4.51.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
