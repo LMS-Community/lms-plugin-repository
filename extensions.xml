@@ -1181,8 +1181,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7203" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="d64ef3e4bcc84386698e55bf7e7b7ff1b2aba2ea" url="https://www.herger.net/_data/MusicArtistInfo-1.18.2.zip" version="1.18.2">
-      <changes lang="EN">v1.18.0 - use the LMS Community API service for genre lookup based on MusicBrainz. v1.18.1 - show hint when no image cache folder is defined; use extid when reaching out for bio/review. v1.18.2 - improve caching of API results.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7203" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="081dfa12801785dc2ac2d9d07a956c8c86e79611" url="https://www.herger.net/_data/MusicArtistInfo-1.19.0.zip" version="1.19.0">
+      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
