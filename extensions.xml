@@ -412,7 +412,7 @@
       <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7100 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
-    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="0b317605a53cdb1bd0952b3e2a10218b56923727" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-1.9.97.zip" version="1.9.97">
+    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="d72fc6c2b228eedc0e46e3c4b49b87eb31d3d84a" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-2.0.0.zip" version="2.0.0">
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
@@ -884,7 +884,7 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="13088" link="" maxTarget="*" minTarget="7.9.0" sha="3910645c290ac8d4882563869b087887fd338663" url="https://github.com/CDrummond/lms-material/releases/download/5.10.6/lms-material-5.10.6.zip" version="5.10.6">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="13088" link="" maxTarget="*" minTarget="7.9.0" sha="a90084648404b7c61288cb666508b2a730ae474b" url="https://github.com/CDrummond/lms-material/releases/download/5.11.0/lms-material-5.11.0.zip" version="5.11.0">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -1111,7 +1111,7 @@
       <desc lang="EN">Allows you to lock the analog and digital output levels of any Squeezebox, Transporter, or SliMP3. Can either prevent any changes in volume, or simply set a maximum volume. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">VolumeLock</title>
     </plugin>
-    <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" email="squeeze@codechimp.org" installations="183" link="https://tvh.codechimp.org" maxTarget="*" minTarget="7.7.6" sha="52cfd66b4afb7df5e5a95a3e0cb1dcf79c5219a9" url="https://tvh.codechimp.org/tvh-1.4.35.zip" version="1.4.35">
+    <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" installations="183" link="https://tvh.codechimp.org" maxTarget="*" minTarget="7.7.6" sha="30de11b68be97b8bd12398615798a01e55a58005" url="https://tvh.codechimp.org/tvh-1.4.36.zip" version="1.4.36">
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
