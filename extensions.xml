@@ -1111,7 +1111,7 @@
       <desc lang="EN">Allows you to lock the analog and digital output levels of any Squeezebox, Transporter, or SliMP3. Can either prevent any changes in volume, or simply set a maximum volume. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">VolumeLock</title>
     </plugin>
-    <plugin name="TVH" category="hardware" creator="Andrew Jackson, Luke Easter" installations="183" link="https://tvh.codechimp.org" maxTarget="*" minTarget="7.7.6" sha="30de11b68be97b8bd12398615798a01e55a58005" url="https://tvh.codechimp.org/tvh-1.4.36.zip" version="1.4.36">
+    <plugin name="TVH" category="hardware" creator="CodeChimp" installations="183" link="https://tvh.codechimp.org" maxTarget="*" minTarget="7.7.6" sha="10ccda729d29083ca37adacac843f62d2e5891e8" url="https://tvh.codechimp.org/tvh-1.4.38.zip" version="1.4.38">
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
