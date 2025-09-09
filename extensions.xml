@@ -222,16 +222,6 @@
     </patch>
   </patches>
   <plugins>
-    <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="403" link="http://forums.lyrion.org/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="9dbd38554ba46a69dbd3cc8efed85ab72b550adf" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.24.zip" version="1.2.24">
-      <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books.</desc>
-      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher.</desc>
-      <title lang="EN">Bookmarks</title>
-    </plugin>
-    <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="97" link="http://forums.lyrion.org/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
-      <title lang="EN">Disable Shuffle</title>
-    </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
       <desc lang="EN">A Skin optimized for iPhone and iPod touch. Not intended to replace any main skin for PC/MAC. See manual at http://penguinlovesmusic.com</desc>
       <title lang="EN">iPeng</title>
@@ -817,8 +807,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="708" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="89ff2b6d85a99bf7c76b59b3f1a21db1b1221498" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-54.zip" version="5.11.54">
-      <changes lang="EN">Added Icons for Pollen Forecasts and Air Quality Observations. Thanks @PetGeer</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="708" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="3d9584cfd45295a972882f37efb7d1f2a2f1fb7c" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-55.zip" version="5.11.55">
+      <changes lang="EN">Implemented @urknall's fix for weathermaps.  Thanks @urknall</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
