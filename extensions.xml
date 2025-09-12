@@ -948,6 +948,10 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
+    <plugin name="WFMU" category="radio" creator="Todd Mazierski" icon="https://raw.githubusercontent.com/toddmazierski/lms-wfmu-plugin/main/plugin/HTML/EN/plugins/WFMU/html/images/icon_svg.png" installations="10" link="https://github.com/toddmazierski/lms-wfmu-plugin" maxTarget="*" minTarget="7.9" sha="c28ee7830765550866fe342ded18ba2fd129b3f1" url="https://github.com/toddmazierski/lms-wfmu-plugin/releases/download/v0.1/lms-wfmu-plugin-0.1.zip" version="0.1">
+      <desc lang="EN">Play radio streams and archived programs from WFMU</desc>
+      <title lang="EN">WFMU</title>
+    </plugin>
     <plugin name="MyQobuz" category="musicservices" creator="Ulrich Pickartz" email="ulrich.pickartz@pickartz.me" installations="507" link="https://github.com/upickartz/plugin-MyQobuz" maxTarget="*" minTarget="7.8" sha="6ce6ff0788422892a4ba29abb28588445d523c1a" url="https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/release/1.3.1/MyQobuz.zip" version="1.3.1">
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
