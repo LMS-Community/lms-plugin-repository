@@ -862,7 +862,7 @@
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_repo_icon.png" installations="592" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="876c66acec330b67e6be5c954380a96896175161" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.7/lms-dynamicplaylistcreator-1.7.7.zip" version="1.7.7">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_repo_icon.png" installations="592" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="34eefe29f9878f2d48f858fbd6a9dedd1d42fbba" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.8/lms-dynamicplaylistcreator-1.7.8.zip" version="1.7.8">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
