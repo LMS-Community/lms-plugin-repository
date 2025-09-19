@@ -888,7 +888,7 @@
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="0.1.30 - Revised UI for usabliltity - see wiki." creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="554" link="" maxTarget="*" minTarget="7.8.0" sha="ee1eb8c0617ab57fc77e0447aaabd032705f567b" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.30/SqueezeDSP-0.1.30.zip" version="0.1.30">
+    <plugin name="SqueezeDSP" category="tools" changes="binary changed to fix gapless issues and fix for aiff header" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="554" link="" maxTarget="*" minTarget="7.8.0" sha="ada57702400727329a6bf26b77e4144002f70692" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.31/SqueezeDSP-0.1.31.zip" version="0.1.31">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
