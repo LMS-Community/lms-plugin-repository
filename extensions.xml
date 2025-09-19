@@ -817,8 +817,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="701" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="30efc047cbf28b1c577abb5d7209f696718715cc" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-56.zip" version="5.11.56">
-      <changes lang="EN">Fixed College Football Scores</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="701" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="21e3191a163e28f4ec305f9fb7eb9870e7c18a36" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-57.zip" version="5.11.57">
+      <changes lang="EN">Fixed display of game time for Active College Football (CFB) games.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
