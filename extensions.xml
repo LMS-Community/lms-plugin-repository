@@ -701,6 +701,10 @@
       <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
       <title lang="EN">QuickAccess</title>
     </plugin>
+    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="477" link="" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="http://marcoc1712.it/downloads/C3PO-v2.03.02.zip" version="2.03.02">
+      <desc lang="EN">Automate transcoding and resampling</desc>
+      <title lang="EN">C-3PO Transcoding Helper</title>
+    </plugin>
     <plugin name="ArchiveOrg" category="musicservices" creator="bpa" installations="336" link="" maxTarget="*" minTarget="8.3" sha="d17abcb7e0c77eebea75d0bced7ee339e9e0897e" url="https://bpa-code.github.io/bpaplugins/ArchiveOrg-V0_6.ZIP" version="0.6">
       <desc lang="EN">ArchiveOrg - a plugin that enables access to files on Archive.org</desc>
       <title lang="EN">ArchiveOrg V0.6 </title>
