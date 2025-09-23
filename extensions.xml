@@ -1189,8 +1189,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7174" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f78b78b16b5f74cd8c9418205089d8a80a6e096a" url="https://www.herger.net/_data/MusicArtistInfo-1.19.1.zip" version="1.19.1">
-      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.1 - don't label AI generated biography &quot;wikipedia&quot;.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="7174" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f42e9aae6bfacba839386c263f47339e4f6f4c28" url="https://www.herger.net/_data/MusicArtistInfo-1.19.2.zip" version="1.19.2">
+      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.1 - don't label AI generated biography &quot;wikipedia&quot;. v1.19.2 - improve layout in Default skin; respect rate limiting.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
