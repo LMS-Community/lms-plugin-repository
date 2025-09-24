@@ -892,15 +892,15 @@
       <desc lang="EN">Start playback when powered on or reconnected</desc>
       <title lang="EN">Auto Play</title>
     </plugin>
-    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="95cfa5ac5885d76f1fbce0e9a03e38e255bd4dda" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-linux-0.7.0.zip" version="0.7.0">
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="4578ff9b04772a8eb4604e2255fad94b360e53d5" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.1/lms-blissmixer-linux-0.7.1.zip" version="0.7.1">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="b8962ffc8322534764925b34a5b26e45b2d8c5b8" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-mac-0.7.0.zip" version="0.7.0">
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="fe096b36c96b34a245679341bea367f50c667787" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.1/lms-blissmixer-mac-0.7.1.zip" version="0.7.1">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="ea17ee9878ecdbc5f28e08e7d5d2df48f1a9799a" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-windows-0.7.0.zip" version="0.7.0">
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="f5752885c924385eee14170e9d827296ffd0325e" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.1/lms-blissmixer-windows-0.7.1.zip" version="0.7.1">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
@@ -1245,7 +1245,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8805" link="" maxTarget="*" minTarget="7.7" sha="4a2c1e6c71974de7f11a34902bebe55e169f6cb0" url="https://downloads.nixda.ch/Spotty-4.51.1.zip" version="4.51.1">
+    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling. v4.51.2: fix auth failure; improve communication wrt. the requirement for a Premium subscription." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8805" link="" maxTarget="*" minTarget="7.7" sha="a28d414190fff5308dbcff368c7d860ad7298bd2" url="https://downloads.nixda.ch/Spotty-4.51.2.zip" version="4.51.2">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
