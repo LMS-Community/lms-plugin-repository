@@ -888,9 +888,33 @@
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
       <title lang="EN">Visual Statistics</title>
     </plugin>
+    <plugin name="AutoPlay" category="misc" creator="Craig Drummond" installations="10" link="" maxTarget="*" minTarget="7.9.0" sha="30498cb127105569c34ea4fe4bc2f883cfdbed60" url="https://github.com/CDrummond/lms-autoplay/releases/download/0.0.1/lms-autoplay-0.0.1.zip" version="0.0.1">
+      <desc lang="EN">Start playback when powered on or reconnected</desc>
+      <title lang="EN">Auto Play</title>
+    </plugin>
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="95cfa5ac5885d76f1fbce0e9a03e38e255bd4dda" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-linux-0.7.0.zip" version="0.7.0">
+      <desc lang="EN">Bliss Mixer for DSTM</desc>
+      <title lang="EN">Bliss Mixer</title>
+    </plugin>
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="b8962ffc8322534764925b34a5b26e45b2d8c5b8" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-mac-0.7.0.zip" version="0.7.0">
+      <desc lang="EN">Bliss Mixer for DSTM</desc>
+      <title lang="EN">Bliss Mixer</title>
+    </plugin>
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="89" link="" maxTarget="*" minTarget="7.9.0" sha="ea17ee9878ecdbc5f28e08e7d5d2df48f1a9799a" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.0/lms-blissmixer-windows-0.7.0.zip" version="0.7.0">
+      <desc lang="EN">Bliss Mixer for DSTM</desc>
+      <title lang="EN">Bliss Mixer</title>
+    </plugin>
     <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="13017" link="" maxTarget="*" minTarget="7.9.0" sha="c5afa17e7beef3322a4a339aa2cdd14a1c722422" url="https://github.com/CDrummond/lms-material/releases/download/5.11.2/lms-material-5.11.2.zip" version="5.11.2">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
+    </plugin>
+    <plugin name="MIPMixer" category="misc" creator="Craig Drummond" installations="13" link="" maxTarget="*" minTarget="7.9.0" sha="b0e2877b1681a2f5788da49c7f1fb2f9468875dc" url="https://github.com/CDrummond/lms-mipmixer/releases/download/0.0.5/lms-mipmixer-0.0.5.zip" version="0.0.5">
+      <desc lang="EN">MusicIP Mixer for DSTM</desc>
+      <title lang="EN">MIP Mixer</title>
+    </plugin>
+    <plugin name="QueueLimit" category="misc" creator="Craig Drummond" link="" maxTarget="*" minTarget="7.9.0" sha="2958e09bad767b7e13dabe4a7eeea6a7464c67f7" url="https://github.com/CDrummond/lms-queuelimit/releases/download/0.0.1/lms-queuelimit-0.0.1.zip" version="0.0.1">
+      <desc lang="EN">Limit queue history size</desc>
+      <title lang="EN">Queue Limit</title>
     </plugin>
     <plugin name="SqueezeDSP" category="tools" changes="binary changed to fix gapless issues and fix for aiff header" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="556" link="" maxTarget="*" minTarget="7.8.0" sha="ada57702400727329a6bf26b77e4144002f70692" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.31/SqueezeDSP-0.1.31.zip" version="0.1.31">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
