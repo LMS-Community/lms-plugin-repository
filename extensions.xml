@@ -416,7 +416,7 @@
       <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
-    <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="278" link="" maxTarget="*" minTarget="7.7" sha="53d5ef2d634e2970fb579000b498e7804ef94583" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.0.zip" version="2.0">
+    <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="278" link="" maxTarget="*" minTarget="7.7" sha="53d5ef2d634e2970fb579000b498e7804ef94583" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.0.zip" version="2.0">
       <desc lang="EN">Spotty Helper Application for FreeBSD 14. This plugin requires the Spotty plugin.</desc>
       <title lang="EN">Spotty Helper FreeBSD</title>
     </plugin>
