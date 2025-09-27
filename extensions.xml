@@ -892,15 +892,15 @@
       <desc lang="EN">Start playback when powered on or reconnected</desc>
       <title lang="EN">Auto Play</title>
     </plugin>
-    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="95" link="" maxTarget="*" minTarget="7.9.0" sha="c55aa73f60b1eac6543ca4d883ece554fdf193fa" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.2/lms-blissmixer-linux-0.7.2.zip" version="0.7.2">
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="95" link="" maxTarget="*" minTarget="7.9.0" sha="c228bb11f3677cb448eb05e6fae193d26cd5f6c1" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.0/lms-blissmixer-linux-0.8.0.zip" version="0.8.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="95" link="" maxTarget="*" minTarget="7.9.0" sha="a3de8f66eeb16bb2d58a1a698da09213417c7308" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.2/lms-blissmixer-mac-0.7.2.zip" version="0.7.2">
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="95" link="" maxTarget="*" minTarget="7.9.0" sha="5bfb33701051fa29ce2021a3dcaf17663b9204e2" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.0/lms-blissmixer-mac-0.8.0.zip" version="0.8.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="95" link="" maxTarget="*" minTarget="7.9.0" sha="0f7d8e224fc2ffd971f9d620a3de901473164ffc" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.7.2/lms-blissmixer-windows-0.7.2.zip" version="0.7.2">
+    <plugin name="BlissMixer" category="misc" creator="Craig Drummond" installations="95" link="" maxTarget="*" minTarget="7.9.0" sha="8cb247859fe983cd381e29483949662d3336d41d" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.0/lms-blissmixer-windows-0.8.0.zip" version="0.8.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
@@ -916,7 +916,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="binary changed to fix gapless issues and fix for aiff header" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="559" link="" maxTarget="*" minTarget="7.8.0" sha="ada57702400727329a6bf26b77e4144002f70692" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.31/SqueezeDSP-0.1.31.zip" version="0.1.31">
+    <plugin name="SqueezeDSP" category="tools" changes="binary changed to fix gapless issues, fix to loading presets" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="559" link="" maxTarget="*" minTarget="7.8.0" sha="3b004b5ad11fd40753192b38fc71d0d4fdae151e" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/V0.1.32/SqueezeDSP-0.1.32.zip" version="0.1.32">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
