@@ -821,8 +821,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="692" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="a083afeba5dd47d3a559b098337919d82d1fe6fd" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-58.zip" version="5.11.58">
-      <changes lang="EN">Fixed CFB team selection and team name display on legacy players. (Boom, SB3, Transporter)</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="692" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="68264e6d2cc71d4aef0f4db8a00854c35ddad214" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-0.zip" version="5.12.0">
+      <changes lang="EN">Adds Professional Soccer Scores.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
