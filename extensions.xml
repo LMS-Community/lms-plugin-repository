@@ -105,6 +105,16 @@
       <desc lang="EN">This applet installs a new screensaver which allows to show current Weather condition and a forecast of the next 3 days. With the 'Extras'-menu you can also start the Forecast manually. Be sure to configure your location after installation !</desc>
       <title lang="EN">Weather Forecast</title>
     </applet>
+    <applet name="SqueezeIR" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/squeezeir" maxTarget="*" minTarget="7.4" sha="abd03e5d1c31dc5cdc661e72750f65ac820187b5" target="jive|squeezeplay" url="http://www2.koukalaka.me.uk/squeezebox/repo/applets/SqueezeIR.zip" version="2.03">
+      <changes lang="EN">See the change log (http://www.koukalaka.me.uk/squeezebox/squeezeir/change-log).</changes>
+      <desc lang="EN">Use your Duet Controller's infra-red emitter to control other devices such as your amplifier.</desc>
+      <title lang="EN">Squeeze IR</title>
+    </applet>
+    <applet name="LineInButton" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/line-in-button" maxTarget="*" minTarget="7.4" sha="bb28c392eea7cc8b58c344d7ab6233949e344847" target="baby" url="http://www2.koukalaka.me.uk/squeezebox/repo/applets/LineInButton.zip" version="1.01">
+      <changes lang="EN">See the change log (http://www.koukalaka.me.uk/squeezebox/line-in-button/change-log).</changes>
+      <desc lang="EN">Enables the radio's line input to be selected by holding the Home or Sleep buttons on the device or remote.</desc>
+      <title lang="EN">Line-In Button</title>
+    </applet>
   </applets>
   <details>
     <title lang="CS">Jiné pluginy třetích stran</title>
@@ -205,6 +215,10 @@
     <patch name="VersionComparisonFix" creator="Michael Herger" email="slim@herger.net" link="" maxTarget="7.7" minTarget="7.7" sha="502f20ed043ca48682add2016f48af927b9a369d" target="baby" url="https://www.herger.net/_data/SlimServer-0.3.lua.patch" version="0.3">
       <desc lang="EN">Fixes the version comparison which is broken in Radio firmware 7.7.x. This issue leads to the Radio refusing to connect to LMS 8.</desc>
       <title lang="EN">Version Comparison Fix</title>
+    </patch>
+    <patch name="MoreRadioPresets" creator="Indifference_Engine" link="http://www.koukalaka.me.uk/squeezebox/more-radio-presets" maxTarget="*" minTarget="7.4" sha="4dcc2ff0886795fcb788ddaa3e74cd585e24e04a" target="baby" url="http://www2.koukalaka.me.uk/squeezebox/repo/patches/MoreRadioPresets.patch" version="1.00">
+      <desc lang="EN">Adds options for Presets 6-10 to the Shortcuts applet.</desc>
+      <title lang="EN">More Radio Presets</title>
     </patch>
   </patches>
   <plugins>
