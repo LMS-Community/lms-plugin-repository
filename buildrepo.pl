@@ -2,6 +2,7 @@
 
 use strict;
 
+use Cwd;
 use JSON;
 use LWP::UserAgent;
 use JSON;
@@ -11,6 +12,7 @@ use XML::Simple;
 use constant INCLUDE_FILE => 'include.json';
 use constant REPO_FILE    => 'extensions.xml';
 use constant STATS_URL    => 'https://stats.lms-community.org/api/stats/plugins?days=30';
+use constant CACHE_FOLDER => '.download-cache';
 
 my $categoriesMap = {
 	'Accuradio' => 'radio',
@@ -174,8 +176,28 @@ for my $url (sort @{$includes->{repositories}}) {
 			$content = `curl -m35 -L -s $url`;
 			$content =~ s/^\s+|\s+$//g;
 		}
+
+		if (!$content) {
+			my $cache_file = cacheFileName($url);
+
+			if (-f $cache_file) {
+				warn "using cached version $cache_file\n";
+				open(my $fh, '<', $cache_file) or warn "Could not read cache file: $!";
+				$content = <$fh>;
+				close($fh);
+			} else {
+				warn "no cached version available: $cache_file\n";
+			}
+		}
 	} else {
 		$content = $resp->decoded_content;
+
+		my $cache_file = cacheFileName($url);
+
+		# Write content to cache file
+		open(my $fh, '>', $cache_file) or warn "Could not write cache file $cache_file: $!";
+		print $fh $content;
+		close($fh);
 	}
 
 	if ($content) {
@@ -218,5 +240,16 @@ XMLout($out,
 	RootName   => 'extensions',
 	KeyAttr    => [ 'name' ],
 );
+
+sub cacheFileName {
+	my ($cache_file) = @_;
+	$cache_file =~ s{^https?://}{};
+	$cache_file =~ s/[^a-zA-Z0-9.]/_/g;  # replace non-alphanumeric chars with underscore
+	$cache_file = CACHE_FOLDER . '/' . $cache_file;
+
+	mkdir CACHE_FOLDER unless -d CACHE_FOLDER;
+
+	return getcwd() . '/' . $cache_file;
+}
 
 1;

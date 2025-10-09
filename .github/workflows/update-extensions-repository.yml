@@ -14,10 +14,20 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Install depedencies
-        run: sudo apt-get install libjson-perl libxml-simple-perl libwww-perl
+        run: |
+          if [ "$ACT" == "true" ]; then
+            sudo apt-get update
+          fi
+          sudo apt-get install -y libjson-perl libxml-simple-perl libwww-perl
 
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Cache downloads
+        uses: actions/cache@v4
+        with:
+          key: lms-extensions-repo
+          path: .download-cache
 
       - name: Merge repository files
         id: merge
@@ -28,7 +38,9 @@ jobs:
       - name: Push Changes (if needed and reasonable)
         if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < env.MAX_REMOVAL_DIFF
         run: |
-          if [ -z "$(git status --porcelain)" ]; then
+          if [ "$ACT" == "true" ]; then
+            echo "Running in ACT mode, skipping git push"
+          elif [ -z "$(git status --porcelain)" ]; then
             echo No changes to commit
           else
             git config user.name "LMS Extensions Repository Updater"
