@@ -15,3 +15,11 @@ As the result of this action it saves an updated extensions.xml file.
 
 `include.json` contains a list URLs to plugin repositories to be included in the central `extensions.xml` file.
 If a plugin author wants his plugins to be included in the default list of extensions in LMS, just add the URL to his repository XML file to this list and re-run the build script.
+
+## Run the workflow locally using `act`
+
+Install `act` (see https://nektosact.com). Then run:
+
+```bash
+act --pull=false workflow_dispatch -P ubuntu-24.04=catthehacker/ubuntu:act-latest --workflows .github/workflows/update-extensions-repository.yml
+```
