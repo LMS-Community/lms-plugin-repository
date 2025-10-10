@@ -182,7 +182,7 @@ for my $url (sort @{$includes->{repositories}}) {
 
 			if (-f $cache_file) {
 				warn "using cached version $cache_file\n";
-				open(my $fh, '<', $cache_file) or warn "Could not read cache file: $!";
+				open(my $fh, '<:utf8', $cache_file) or warn "Could not read cache file: $!";
 				$content = <$fh>;
 				close($fh);
 			} else {
@@ -195,7 +195,7 @@ for my $url (sort @{$includes->{repositories}}) {
 		my $cache_file = cacheFileName($url);
 
 		# Write content to cache file
-		open(my $fh, '>', $cache_file) or warn "Could not write cache file $cache_file: $!";
+		open(my $fh, '>:utf8', $cache_file) or warn "Could not write cache file $cache_file: $!";
 		print $fh $content;
 		close($fh);
 	}

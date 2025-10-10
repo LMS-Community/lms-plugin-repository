@@ -26,8 +26,9 @@ jobs:
       - name: Cache downloads
         uses: actions/cache@v4
         with:
-          key: lms-extensions-repo
           path: .download-cache
+          key: lms-extensions-repo-${{ hashFiles('extensions.xml') }}
+          restore-keys: lms-extensions-repo
 
       - name: Merge repository files
         id: merge
