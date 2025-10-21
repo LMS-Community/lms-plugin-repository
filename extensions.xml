@@ -649,8 +649,8 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="iBroadcast" category="musicservices" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" installations="7" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="50d0643cecd951160e3844297aa050075c1b5efd" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/1.0.1/LMS_iBroadcast_Plugin_1_0_1.zip" version="1.0.1">
-      <changes lang="EN">New 1.0.1  Added support for iBroadcasts custom tags, replay gain and track ratings</changes>
+    <plugin name="iBroadcast" category="musicservices" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" installations="7" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="f54ddabd1f8cad4f21294526c49f410de6fce65c" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/1.0.2/LMS_iBroadcast_Plugin_1_0_2.zip" version="1.0.2">
+      <changes lang="EN">New 1.0.2  Added support for iBroadcasts custom tags and track ratings</changes>
       <desc lang="EN">iBroadcast online personal music library integration.  Fully integrate and stream your online iBroadcast music library from your LMS Music Library.</desc>
       <title lang="EN">iBroadcast Online Music Library</title>
     </plugin>
@@ -788,7 +788,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3854" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="15f67e4fcc05359ace47d0d9024779eddec62f80" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.3.zip" version="1.8.3">
+    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3854" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="a7e67ca7b26fe68ca88316a519d0157bee9e969a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.4.zip" version="1.8.4">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
@@ -796,7 +796,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3050" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="1b61883904c392fb0b54f269cb2002be85f50367" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.10.zip" version="1.9.10">
+    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3050" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="ae6861ff6fe35d36116dc36dc0e7f0cff241f295" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.11.zip" version="1.9.11">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
