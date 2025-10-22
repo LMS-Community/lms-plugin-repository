@@ -255,12 +255,12 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1391" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="187f2dcb6646945eebdfce5b4e3259ef6f061a22" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.19.zip" version="0.4.19">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1391" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="284d7162505270e70bdf5eb98974ca492c4c9880" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.20.zip" version="0.4.20">
       <changes lang="EN">
-				- Add France Musique Classique Love
+				- Add Mon petit France Inter
 			</changes>
       <changes lang="FR">
-				- Ajouter France Musique Classique Love
+				- Ajoute Mon petit France Inter
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
@@ -796,7 +796,7 @@
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3052" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="60c522520fd7759a4de4fa30761c650308607387" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.12.zip" version="1.9.12">
+    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3052" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="620ad341884cc5785fe5dc6c1562ea6b17c785fc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.13.zip" version="1.9.13">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
