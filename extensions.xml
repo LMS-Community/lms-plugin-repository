@@ -814,7 +814,7 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="252" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="697e09ca037ea4a657f3e03dae5a053baaa54950" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.6.5/lms-alternativeplaycount-1.6.5.zip" version="1.6.5">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="252" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="542606316f697c4571e8c05d6109666b99a7e673" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.6.6/lms-alternativeplaycount-1.6.6.zip" version="1.6.6">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
@@ -843,13 +843,13 @@
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="753" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="b63d4e74f437f4767c2c101e525d0dd9d133207c" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.4/lms-dynamicplaylists-4.5.4.zip" version="4.5.4">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="753" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="35ac1134bc514e9485120b78c33eaf5bdf0ab44e" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.5/lms-dynamicplaylists-4.5.5.zip" version="4.5.5">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_repo_icon.png" installations="583" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="34eefe29f9878f2d48f858fbd6a9dedd1d42fbba" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.8/lms-dynamicplaylistcreator-1.7.8.zip" version="1.7.8">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_repo_icon.png" installations="583" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="60afcee4834414a916f5df30dd94356ed914fc63" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.9/lms-dynamicplaylistcreator-1.7.9.zip" version="1.7.9">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
