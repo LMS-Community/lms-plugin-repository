@@ -1,6 +1,6 @@
 <extensions>
   <applets>
-    <applet name="JLCustomClock" creator="erland, tcutting" link="" maxTarget="*" minTarget="0.1" sha="c39bbdb03b564e83bd15bf20a80e71e65f295877" target="jivelite" url="http://jivelite.picoreplayer.org/JLCustomClock2_25_166.zip" version="2.25.166">
+    <applet name="JLCustomClock" creator="erland, tcutting" link="" maxTarget="*" minTarget="0.1" sha="f5ec537cbc445281a2b4a918b2149da806ca7afa" target="jivelite" url="http://jivelite.picoreplayer.org/JLCustomClock2_26_001.zip" version="2.26.001">
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
       <title lang="EN">CustomClock for Jivelite</title>
     </applet>
