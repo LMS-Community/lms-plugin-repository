@@ -57,7 +57,8 @@
 		"https://raw.githubusercontent.com/philippe44/lms-deezer/main/repo/repo.xml",
 		"https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/myqobuz.xml",
 		"https://guillaumezin.github.io/DomoticzControl/repo.xml",
-		"https://raw.githubusercontent.com/toddmazierski/lms-wfmu-plugin/main/repo.xml"
+		"https://raw.githubusercontent.com/toddmazierski/lms-wfmu-plugin/main/repo.xml",
+		"https://github.com/paul-1/plugin-SiriusXM/releases/latest/download/repo.xml"
 	],
 	"disabled": [
 		"https://grebrown-projects.googlecode.com/svn/repo.xml",
