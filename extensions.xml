@@ -634,11 +634,6 @@
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live and 7 day catch up for Virgin Radio, Talk Radio, talkSport and Times Radio, includes all News UK stations</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/TimesRadio_svg.png" installations="384" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="cbd0defe07ca988ad994ecac58fab2403d45cc9c" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.3.0/TimesRadioPlugin_2_3_0.zip" version="2.3.0">
-      <changes lang="EN">NEW 2.3.0 FIX : Restore functionality after API changes</changes>
-      <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
-      <title lang="EN">Times Radio</title>
-    </plugin>
     <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="954" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="89fe2ddd0ea85534a0c20c7979541d596646fd0b" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.7.1/GlobalPlayerUKPlugin_2_7_1.zip" version="2.7.1">
       <changes lang="EN">NEW 2.7.1 Fixed programme transition pauses and corruption (At last !)</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
