@@ -649,8 +649,8 @@
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
     </plugin>
-    <plugin name="iBroadcast" category="musicservices" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" installations="15" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="677546327573491623d2e1cbed1dba54e46d95e8" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/1.0.3/LMS_iBroadcast_Plugin_1_0_3.zip" version="1.0.3">
-      <changes lang="EN">New 1.0.3  Added support for iBroadcasts custom tags and track ratings</changes>
+    <plugin name="iBroadcast" category="musicservices" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" installations="15" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="6b6e039860d1a96c58e40d535bb4eda7a71b4d21" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/1.1.2/LMS_iBroadcast_Plugin_1_1_2.zip" version="1.1.2">
+      <changes lang="EN">New 1.1.2  Added support for import of playlists and improved gapless play</changes>
       <desc lang="EN">iBroadcast online personal music library integration.  Fully integrate and stream your online iBroadcast music library from your LMS Music Library.</desc>
       <title lang="EN">iBroadcast Online Music Library</title>
     </plugin>
