@@ -847,7 +847,7 @@
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="755" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="34c1b398b133e8be46997044ecc51fbcd6e173af" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.6/lms-dynamicplaylists-4.5.6.zip" version="4.5.6">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="755" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="0ba71692a0f33966c576304a7223296f254f88c4" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.5.7/lms-dynamicplaylists-4.5.7.zip" version="4.5.7">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
