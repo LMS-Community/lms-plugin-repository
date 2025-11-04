@@ -891,7 +891,7 @@
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12938" link="" maxTarget="*" minTarget="7.9.0" sha="efb80817be9c36c53be773831fd924402704a69d" url="https://github.com/CDrummond/lms-material/releases/download/6.0.0/lms-material-6.0.0.zip" version="6.0.0">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12938" link="" maxTarget="*" minTarget="7.9.0" sha="183e83c4ddde6751b39e02e52369b1a3dd548be5" url="https://github.com/CDrummond/lms-material/releases/download/6.0.1/lms-material-6.0.1.zip" version="6.0.1">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -903,7 +903,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="binary changed to fix gapless issues, fix to loading presets" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="532" link="" maxTarget="*" minTarget="7.8.0" sha="a606657efd40697c8d9d7a66b7801312f24a0ef6" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.33/SqueezeDSP-0.1.33.zip" version="0.1.33">
+    <plugin name="SqueezeDSP" category="tools" changes="preset should load and apply in one go. tooltip colours fixed" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="532" link="" maxTarget="*" minTarget="7.8.0" sha="663bfd0998bef95e242c758f0eea9c40e8436778" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.34/SqueezeDSP-0.1.34.zip" version="0.1.34">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
