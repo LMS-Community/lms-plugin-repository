@@ -808,8 +808,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="671" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="490da6eb9bafa55f7d9f454310838bcf46e28f62" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-1.zip" version="5.12.1">
-      <changes lang="EN">Fixed MLB Game Start Time.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="671" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="6b3a943a543ef280e66b400498dffc44e335fb2b" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-2.zip" version="5.12.2">
+      <changes lang="EN">Fixed College Basketball (CBB) scores.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
