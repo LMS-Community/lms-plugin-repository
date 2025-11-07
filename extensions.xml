@@ -1236,7 +1236,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling. v4.51.2: fix auth failure; improve communication wrt. the requirement for a Premium subscription." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8581" link="" maxTarget="*" minTarget="7.7" sha="a28d414190fff5308dbcff368c7d860ad7298bd2" url="https://downloads.nixda.ch/Spotty-4.51.2.zip" version="4.51.2">
+    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling. v4.51.2: fix auth failure; improve communication wrt. the requirement for a Premium subscription. v4.51.3: new helpers to fix playback." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8581" link="" maxTarget="*" minTarget="7.7" sha="f54ecb34d66abbf1740e04b26a3576421053c669" url="https://downloads.nixda.ch/Spotty-4.51.3.zip" version="4.51.3">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
