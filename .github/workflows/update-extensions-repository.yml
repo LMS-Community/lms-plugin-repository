@@ -14,15 +14,17 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Install depedencies
+        if: ${{ !env.ACT }}
         uses: awalsh128/cache-apt-pkgs-action@latest
         with:
           packages: libjson-perl libxml-simple-perl libwww-perl
           version: 1
-        # run: |
-        #   if [ "$ACT" == "true" ]; then
-        #     sudo apt-get update
-        #   fi
-        #   sudo apt-get install -y libjson-perl libxml-simple-perl libwww-perl
+
+      - name: Install depedencies (ACT mode)
+        if: ${{ env.ACT }}
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libjson-perl libxml-simple-perl libwww-perl
 
       - name: Checkout
         uses: actions/checkout@v4
