@@ -395,7 +395,7 @@
       <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
     <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="283" link="" maxTarget="*" minTarget="7.7" sha="c1e5ac70b017b4c212a8203dc0cec1f7749205b1" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.0.9.zip" version="2.0.9">
-      <desc lang="EN">Spotty Helper Application for FreeBSD 14. This plugin requires the Spotty plugin.</desc>
+      <desc lang="EN">Spotty Helper for FreeBSD 14. Requires Spotty plugin.</desc>
       <title lang="EN">Spotty Helper FreeBSD</title>
     </plugin>
     <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="733" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
