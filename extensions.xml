@@ -943,8 +943,8 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="39" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="1a7237590cd1b3a00c0ef6f9e1f56727d2c17def" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.0.1/MobileTranscode-1.0.1.zip" version="1.0.1">
-      <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables Opus and faster transcoding.</desc>
+    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="39" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="12f9f7e43b16636b5fcc58f99f3277120b3839ae" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.1.0/MobileTranscode-1.1.0.zip" version="1.1.0">
+      <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables Opus and OGG Vorbis transcoding.</desc>
       <title lang="EN">Mobile Transcode Rules</title>
     </plugin>
     <plugin name="Fleck" category="misc" creator="nbeversl" installations="87" link="https://fleck-theme.org/" maxTarget="*" minTarget="7.9.0" sha="bc9e893745f910b2c2f758b9ce68c2295b5dcc44" url="https://github.com/nbeversl/fleck-lyrion/releases/download/0.0.75/FleckSkin-0.0.75.zip" version="0.0.75">
