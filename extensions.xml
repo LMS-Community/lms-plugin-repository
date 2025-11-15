@@ -286,108 +286,86 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="3465" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="12e5fc237290489b2cc24cdc9827b015938b2179" url="http://radionowplaying.com/slimserver-rep/RadioNowPlaying-0.0.52.zip" version="0.0.52">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="3465" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="1264421069199950e8821a88be31c6430f866aa3" url="http://radionowplaying.com/slimserver-rep/RadioNowPlaying-0.0.53.zip" version="0.0.53">
       <changes lang="EN">
-			- Add 100Hitz - artist, title (already present) and CoverSearch - 12 stations (some included in GotRadio) - first track often plays without info 
-			- Add 1st Greek New Age Radio (gr) - for primary station artist and title already present, add CoverSearch - for Greek Oldies ... flac but no track info - 2 stations
-			- Add Arkansas Public Media - for most stations - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 7 stations (KUAR, KLRE, KASU, KUAF*3 and KTXK (no info for KTXK)
-			- Add balearic fm Programme (mix) title, subtitle, duration and icon
-			- Add Central Florida Public Media - Orlando, FL - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 3 stations
-			- Add Chercán radio - artist, title (already present) and CoverSearch
-			- Add Connecticut Public Radio - Hartford, CT - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely)
-			- Add Delaware Public Media - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely)
-			- Add Eesti Rahvusringhääling (ee) - artist, title and CoverSearch - programme title, duration and icon - 5 stations
-			- Add Energy FM (uk) - artist, title (already present) and CoverSearch (but are continuos mix with no chance of a cover) - 3 stations
-			- Add GotRadio - artist, title (already present) and CoverSearch - 36 stations (some included in 100Hitz) - first track often plays without info
-			- Add Hawaii Public Radio - Honolulu, HI - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add Iowa Public Radio - Des Moines, IA - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 3 stations
-			- Add Joy Hits - artist, title and CoverSearch - includes flac
-			- Add KAOS 89.3FM - Olympia, WA - artist, title and CoverSearch - programme title
-			- Add KAPY Valley 104.9fm - Snoqualmie Valley, WA - artist, title, album and CoverSearch - often no track info during named programmes
-			- Add KAXE - Grand Rapids, MN - Programme: title, description and icon - Song: artist, title, album, year, label, duration and cover (not always available or timely)
-			- Add KCND Prairie Public - Fargo, ND - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 3 stations
-			- Add KGBK - Larned, KS - artist, title and CoverSearch (the metadata fields are switched in their data)
-			- Add KOSU - Oklahoma City, OK - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add KQBL - Boise, ID - artist, title and cover art - 3 stations geolocked USA-only - thanks @newboi for starting things off with HD3
-			- Add KVCU Radio 1190 - Boulder, CO - artist, title, album and label - programme title, subtitle and duration
-			- Add Louisville Public Media - Louisville, KY - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 3 stations
-			- Add Midnight Cafe Radio - artist, title, year, duration and CoverSearch plus programme title (only 2 per day) - 2 stations one of which is part-time
-			- Add Mississippi Public Broadcasting - Jackson, MS - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add MRG.fm - artist, title, album, duration and CoverSearch - 16 stations
-			- Add Nebraska Public Media - Lincoln, NE - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add Nevada Public Radio - Las Vegas, NV - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add New Hampshire Public Radio - Concord, NH - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 1 station
-			- Add Noise Radio - artist, title, album, duration and CoverSearch
-			- Add Pink Unicorn (uz) - artist, title (already present) and CoverSearch
-			- Add Radio Brennpunkt - artist, title, album, duration and cover art
-			- Add Radio IIII (dk) - programme title, description, duration and icon
-			- Add Radio Radieschen (at) - artist, title and CoverSearch
-			- Add Roll FM (fi) - artist, title (already present) and CoverSearch - programme title, duration and icon - their song metadata updates are not always timely
-			- Add RTL (it) - for most stations - artist, title, duration and cover art. For RTL 102.5 FM also show programme name, subtitle amd icon - 8 stations but RTL 102.5 Traffic does not play for now
-			- Add Shirley &amp; Spinoza Radio - artist, title (already present) and CoverSearch
-			- Add Sky (ee) - artist and title already present, add CoverSearch - 22 stations
-			- Add SmoothFm (pt) - artist, title and CoverSearch - 7 stations
-			- Add South Carolina Public Radio - Columbia, SC - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add South Dakota Public Broadcasting - Vermillion, SD - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely) - 2 stations
-			- Add True Black Metal Radio - artist, title (already present) and CoverSearch
-			- Add WNPN The Public's Radio - Providence, RI - Programme: title, description and icon - Song: artist, title, album, year, label, duration and CoverSearch (not always available or timely)
+			- Add 3fach (ch) - artist, title and Coversearch
+			- Add CH Media (ch) - includes Flashback FM, Radio 24, Radio 32, Radio Argovia, RADIO BERN1, Radio Central, Radio EVIVA, Radio FM1, Radio Melody, Radio Pilatus, Sunshine, Virgin Radio Switzerland
+			- Add CH Media (ch) - artist, title and cover art plus for main stations programme title, subtitle (presenter) and icon - 47 stations (most geolocked)
+			- Add Cosmic Fuzz FM - artist, title (already present), album, year, duration and cover art
+			- Add Decibel (nl) - artist, title and CoverSearch - track info might not appear until song change
+			- Add electroradio.fm - artist, title (already present) and cover art
+			- Add Energy (ch) - artist, title and cover art - plus, for the primary stations, programme title, presenter and icon - often large delays in new track information becoming avilable - 32 stations (geolocked themed stations)
+			- Add Helges Radio Station (ch) - artist, title and CoverSearch - truncates some track info
+			- Add Jukebox - Nonstop Music (ch) - artist, title (already present) and sometimes, album and duration plus CoverSearch
+			- Add KingMonkey - arist, title and CoverSearch - 2 stations ... 1 has Flac and the other is old TV TestCard music
+			- Add lfm LA Radio (ch) - artist, title (already present), duration, cover art - programme title, subtitle (presenter), duration and icon (for primary station) - 4 stations (MediaOne Group)
+			- Add Melody (ch) - artist, title (already present), duration, cover art - 8 stations
+			- Add Metal Express Radio - artist, title, album, year and cover art - programme title and duration
+			- Add my105 (ch) - artist, title (already present) and CoverSearch - 22 stations
+			- Add NTS - programme title, synopsis, duration and icon - 2 stations - looks like paying subscribers can get tracklists so let me know if you have access and I can try to see if I can grab the data for you
+			- Add One FM (ch) - artist, title (already present), duration, cover art - 22 stations some same as from Radio Lac (ch) and might identify as from there (MediaOne Group)
+			- Add Radio BeO (ch) - artist, title and cover art - programme title and duration
+			- Add Radio Blitz (ch) - artist, title and CoverSearch
+			- Add Radio Grischa (ch) - artist, title (already present), album, duration and CoverSearch
+			- Add Radio Gwendalyn (ch) - artist, title, album and CoverSearch
+			- Add Radio Is A Foreign Country - more to raise awareness of the interesting (for some at least) station since the track info often will not result in cover art being found
+			- Add Radio Lac (ch) - artist, title (already present), duration, cover art - 22 stations but most are same as from One FM (ch) and might identify as from there (MediaOne Group)
+			- Add Radio Munot (ch) - artist, title, label, year and CoverSearch - programme title, subtitle, duration and icon (although unlikely to appear) - sometimes they forget to update their song info
+			- Add Radio Orbital - artist, title and CoverSearch
+			- Add Radio Top (ch) - artist, title and CoverSearch
+			- Add Radio1 (ch) - artist, title and cover art - programme title (presenter)
+			- Add Rhône FM (ch) - artist, title and CoverSearch
+			- Add Rockit Radio (ch) - artist, title, year, duration and cover art - 3 stations (geolocked)
+			- Add Rouge (ch) - artist, title (already present), duration, cover art - 22 stations but most are same as from One FM (ch) and might identify as from there (MediaOne Group)
+			- Add rundfunk.fm (ch) - artist, title, album, duration and CoverSearch
+			- Add soundz (ch) - artist, title and CoverSearch
+			- Add Springsteen FM - artist, title (already present), album, duration and cover art
+			- Add Sunradio (ch) - artist, title, duration, album (sometimes) and CoverSearch
+			- Add SwissCountryRadio (ch) - artist, title, album, duration and CoverSearch
+			- Add The Kyoto Connection (jp) - artist, title, album (often) and CoverSearch
+			- Add The SID Station - artist, title and covert art
+			- Add then Removed Radio Eviva (ch) - artist, title and Coversearch plus for main station programme title, subtitle (presenter) and icon - 7 stations (most geolocked)
+			- Add then Removed Radio Pilatus (ch) - artist, title and Coversearch plus for main station programme title, subtitle (presenter) and icon - 22 stations (most geolocked)
+			- Add Totally Radio (au) - artist, title (already present), year, label, duration and cover art - 12 themed streams - inserted adverts seem to sometimes mess up their timings
+			- Add Vertical Radio (ch) - artist, title and CoverSearch
+			- Add Yes FM (ch) - artist, title, duration and cover art (MediaOne Group)
 
-			- For ABC (au) - experiment to try to help for those who do not see metadata updates
-			- For AIDAradio (de) - logo changed and their .m3u link appears to be unreliable so expose the direct link
-			- For Amber Sound 107.2FM - metadata source changed (always a risk when parsing HTML)
-			- For Antenne (de) - try to avoid CoverSearch on more jingles
-			- For ARD (de) - MDR KULTUR - Das Radio now has artist and title swapped
-			- For ARD (de) - Use a new API to access song and programme info for NDR stations
-			- For Bayerischer Rundfunk (de) - add some alternative MP3 stream URLs
-			- For BDPST (hu) - ignore artist name when it is info@ email address
-			- For BigRRadio - old logos gone
-			- For Blues Music Fan - stream URL changed and now it is a higher bitrate - thanks @jfbuk
-			- For classicnl (nl) - they have switched the artist and title fields in their data - also are incorrectly encoding accented characters so handle that as well (escape encoding iso-8859-1 rather than utf-8 ... aka &quot;mojibake&quot;)
-			- For Delite Radio (uk) - add programme title, subtitle, duration and icon
-			- For Eazy 102.5FM (th) - song metadata API changed, logo moved as well
-			- For Great American Songbook - try to avoid CoverSearch on more jingles
-			- For Hot 102.7 (za) - logos changed and 3 stations added
-			- For Jammin Vibez Radio - stream URLs changed again
-			- For Jazz de Ville - change of metadata provider (but same inaccurate timings) - now also have album, year and duration - not using their cover art because it is often (perhaps always) an artist picture - &quot;Dance&quot; becomes &quot;Party&quot; - stream URLs changed as well although old ones still work (for now at least)
-			- For Jazz Radio (fr) - update station list - now 36 but not all have song info
-			- For Jazz24 - stream URLs changed
-			- For KBHR 570 - Cicely, AK - stream URL changed but, for now at least, no song info available
-			- For KCRW - Santa Monica, CA - logo moved
-			- For Kemonia (it) -  flac stream gone
-			- For Le Son Parisien (fr) - ignore advert in metadata
-			- For Met 107 (th) - song metadata URL changed, add programme title
-			- For Metro (no) - new stations (now 8) and stream and logo URLs changed
-			- For Nation Broadcasting (uk) - slight change to stream URL matching (needed because of changes at other broadcaster - Metro (no))
-			- For NRK (no) - station NRK P13 becomes NRK P3 Musikk
-			- For Piraten Kanon - stream URLs changed (again)
-			- For Radio Calico - add extra flac stream
-			- For Rock Antenne (de) - assume song info is UTF-8 encoded and try to avoid CoverSearch on jingles
-			- For SmoothJazz.com.pl Radio (pl) - add flac stream
-			- For Starter FM (au) - they have blocked direct linking to their logos so use copy
-			- For the NRJ (fr) group of stations (nrj, Chérie FM, Nostalgie and Rire et Chansons) the stream URLs have changed. Geolocked (EU-only perhaps)
-			- For Whisperings - try not to present adverts as real tracks
-			- For WHYY - Philadelphia, PA - logo on site now .webp so switch to own copy
-			- For WNYC - New York, NY - add Composer to track title
-			- For WPKN - Bridgeport, CT - stream URL changed
-			- For WRTI - Philadelphia, PA - stream URLs changed
-			- For Wyoming Public Media - Laramie, WY - add composer to the classical station
-			- For Your Classical - update station list (adds &quot;Pixel &amp; Plot&quot;)
+			- For 1fm - source of list of stations changed and album no longer present in song metadata
+			- For 80s Mixed - avoid CoverSearch for some adverts
+			- For American Roots - stream URLs changed
+			- For Antenne 1 HitRadio (de) - stream URLs changed - they have changed streaming host which also means change to metadata source
+			- For ARD (de) - change metadata source for MDR KULTUR - Das Radio - now have artist, title, album, label, composer, duration and CoverSearch plus programme title, description (if available) and duration
+			- For Facifica Network stations (KPFA, KPFK, KPFT, WBAI, WPFT) - make them searchable using Pacifica
+			- For Great American Songbook - a few more jingles to avoid performing CoverSearch on
+			- For Gylne Hits Radio (no) - ignore advert 
+			- For Hi On Line Radio - add duration
+			- For https://www.mediaonegroup.ch/ stations (Urban, Rock Star, Kiss Collector, Lac, One FM, lfm) ... ignore default cover art image
+			- For IP music (ch) - modify stream match regex to handle additional stream URLs
+			- For KNKX - Seattle, WA - changed streaming provider
+			- For LoRa (ch) - change primary stream URL to match one used by RadioNet
+			- For Megarock Radio - this is parsing their HTML to find track details ... and their web page had changed
+			- For Radio Planeta (es) - do not do CoverSearch for artist that starts with @ as this is almost certainly an advert
+			- For Regenbogen (de) and RPR1. (de) - match extra stream URLs to prevent battle with LMS 9.1 default cover art finder
+			- For RFM (fr) - updated station list, now 27. However, they seem to be having problems with their song data
+			- For Spoon Radio - slight change to stream URL matching to catch version used by radio.net
+			- For stations using CentovaCast metadata, allow the creation of a composer field
+			- For Sunshine Live (de) - update station list - possibly geolocked - now 32 stations
+			- For Sveriges Radio (se) - stream URLs changed
+			- For Your Classical - increase the maximum duration of a song to 1 hour
 
-			- Typing mistake meant that extended characters were not being handled correctly - Radio 50/50, Mi AMiGO International, Delite Radio (uk)
-			- Update logo - Bayerischer Rundfunk (de), Met 107 (th), Soul Rhythms Radio
+			- Update logos for: Cappuccino Radio, Eirewave (uk), Epic Prog Radio, KABL Radio - San Francisco, CA, KUVO The Drop, Megarock Radio, Regenbogen (de), RPR1. (de), WBGO - Newark, NJ, WUMB - Boston, MA
 
-			- Closed down - Q Rock Radio, Spacial Sound Radio
-
-			- Adjust polling timer for stations with no explicit duration
-			- Change station data load process so that a failed load from cache results in the file being removed (so that a new copy is downloaded on next restart)
-			- Change test for song year so that old match not used
-			- Make composer available in CoverSearch requests
-			- Put brief message on player and controller screen (if it supports it and is on and even then does not always appear) when starting to play a station that RNP supports - can disable via Settings
+			- Another attempt at preventing RNP taking action on items in client playlist after the now playing one
+			- Change for handling of json that is embedded in other content (such as HTML) so that decode_safely is not called - it caused problems with data from Your Classical
+			- Do not include composer in CoverSearch lookup if not added to song info
+			- Fix the preservation of the Announce/ShowBriefly setting
+			- Modify duration parsing to handle extra format hh:mm:ss.n
+			- When percent-decoding some text strings, apply UTF8 conversion if configured
 			</changes>
-      <desc lang="EN">Programme and track information including cover art for over 7300 radio stations</desc>
-      <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 7300 stations de radio</desc>
-      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 7300 Radiosender</desc>
-      <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7300 radiostationer</desc>
+      <desc lang="EN">Programme and track information including cover art for over 7500 radio stations</desc>
+      <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 7500 stations de radio</desc>
+      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 7500 Radiosender</desc>
+      <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7500 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
     <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="d72fc6c2b228eedc0e46e3c4b49b87eb31d3d84a" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-2.0.0.zip" version="2.0.0">
