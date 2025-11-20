@@ -645,10 +645,6 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="SiriusXM" catagory="musicservices" category="misc" creator="paul-1" icon="https://raw.githubusercontent.com/paul-1/plugin-SiriusXM/main/Plugins/SiriusXM/HTML/EN/plugins/SiriusXM/html/images/SiriusXMLogo.png" installations="61" link="https://github.com/paul-1/plugin-SiriusXM" maxTarget="*" minTarget="8.3" sha="9e19df3b57f96a359b5de07135085a4fd21d69a9" url="https://github.com/paul-1/plugin-SiriusXM/releases/download/v0.5.12/SiriusXM-0.5.12.zip" version="0.5.12">
-      <desc lang="EN">Stream SiriusXM satellite radio through Lyrion Music Server</desc>
-      <title lang="EN">SiriusXM</title>
-    </plugin>
     <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="554" link="" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
       <desc lang="EN">Daughter of Pandora</desc>
       <title lang="EN">Pyrrha</title>
