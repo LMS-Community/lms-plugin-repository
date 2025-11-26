@@ -1168,8 +1168,8 @@
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
-    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="142" link="" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
-      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
+    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="142" link="" maxTarget="*" minTarget="7.9" sha="9b6fb09dfb719f1bd5f3f52cb5f87b870b12dc15" url="https://www.herger.net/_data/ImageProxy-1.1.2.zip" version="1.1.2">
+      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring. v1.1.1: always define an output format and quality (wsrv.nl)</changes>
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
