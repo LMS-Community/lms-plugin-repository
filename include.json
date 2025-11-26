@@ -20,7 +20,6 @@
 		"https://www.hickinbottom.com/sc-plugins/repo.xml",
 		"https://www2.koukalaka.me.uk/squeezebox/repo/repo.xml",
 		"http://www.radiofeeds.co.uk/mypicks/repo.xml",
-		"https://www.spicefly.com/media/scube4x/install.xml",
 		"https://www.stagessound.de/bluegaspode.xml",
 		"https://raw.githubusercontent.com/bklaas/fontreplacer/master/repo.xml",
 		"https://jasonholtzapple.github.io/slimdevices/repo.xml",
@@ -61,20 +60,21 @@
 		"https://github.com/paul-1/plugin-SiriusXM/releases/latest/download/repo.xml"
 	],
 	"disabled": [
-		"https://grebrown-projects.googlecode.com/svn/repo.xml",
+		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
+		"http://triodeplugins.herger.net/repo.xml",
 		"http://www.koldware.net/SlimStuff/repodata.xml",
 		"http://www.whizziwig.com/static/squeezecloud/public.xml",
-		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
-		"https://richiezed.com/squeezefamily/repo.xml",
-		"https://mrw-plugins.googlecode.com/svn/trunk/repo.xml",
-		"https://mrthreeplates.googlecode.com/svn/LMS-plugins/repo.xml",
+		"https://ampache-squeezecenter.googlecode.com/svn/tags/repo.xml",
+		"https://grebrown-projects.googlecode.com/svn/repo.xml",
+		"https://kdfplugins.googlecode.com/svn/trunk/repo.xml",
 		"https://mdmplugins.googlecode.com/svn/trunk/repo.xml",
+		"https://mrthreeplates.googlecode.com/svn/LMS-plugins/repo.xml",
+		"https://mrw-plugins.googlecode.com/svn/trunk/repo.xml",
+		"https://richiezed.com/squeezefamily/repo.xml",
 		"https://squeezecenter-seeqpod.googlecode.com/svn/trunk/repodata.xml",
 		"https://triodeplugins.googlecode.com/svn/trunk/repo.xml",
-		"http://triodeplugins.herger.net/repo.xml",
-		"https://kdfplugins.googlecode.com/svn/trunk/repo.xml",
 		"https://weathertime.googlecode.com/svn/trunk/repo.xml",
-		"https://ampache-squeezecenter.googlecode.com/svn/tags/repo.xml"
+		"https://www.spicefly.com/media/scube4x/install.xml"
 	],
 	"title": [
 		{
