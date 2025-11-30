@@ -278,10 +278,9 @@
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
       <title lang="EN">CBC Radio-Canada Français</title>
     </plugin>
-    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/planetradio_svg.png" installations="501" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="3fa444b0e666dedc8d30d10212d0effe91b94e3f" url="http://radionowplaying.com/slimserver-rep/PlanetRadio-0.0.29.zip" version="0.0.29">
+    <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/planetradio_svg.png" installations="501" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="ea36dc21bb0a6f920d08fe74b4940e28a0691e3c" url="http://radionowplaying.com/slimserver-rep/PlanetRadio-0.0.30.zip" version="0.0.30">
       <changes lang="EN">
-				- Correct handling of broadcaster local time
-				- Update station list
+				- Update station list - Christmas
 			</changes>
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
