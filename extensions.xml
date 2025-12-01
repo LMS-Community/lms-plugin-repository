@@ -920,7 +920,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="46" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="a2a838efee4536864bd17f633f7d3fdf7a1dea01" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.2.1/MobileTranscode-1.2.1.zip" version="1.2.1">
+    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="46" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="3758866d5060c23c165a689d2b8b103f241b3ae4" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.2.2/MobileTranscode-1.2.2.zip" version="1.2.2">
       <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables WAV, Opus and OGG Vorbis transcoding.</desc>
       <title lang="EN">Mobile Transcode Rules</title>
     </plugin>
