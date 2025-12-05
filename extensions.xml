@@ -916,7 +916,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="3010" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="0a4bfeca2f1f9b6838b1dd10f3f4d82fff08faf0" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.7.2/TIDAL.zip" version="1.7.2">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="3010" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="9fb05c163be3bcd636f2339cd40f056f6bc51c68" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.8.0/TIDAL.zip" version="1.8.0">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
@@ -1130,13 +1130,13 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1108" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="b7522cd11f95f0124fea3656151a3e7f88446286" url="https://www.herger.net/_data/1001Albums-1.5.1.zip" version="1.5.1">
-      <changes lang="EN">v1.5.0: Add browsing by rating. Speed up processing of larger collections. v1.5.1: try to mitigate DB initialization error.</changes>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1108" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="21d972f15107329d4e7ee4e786f16a7f37bdc922" url="https://www.herger.net/_data/1001Albums-1.6.0.zip" version="1.6.0">
+      <changes lang="EN">v1.6.0: add support for Material's Home Extras.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1242" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="30895979795d3ba099c9df02a224fab69d53d8d3" url="https://www.herger.net/_data/Bandcamp-1.11.0.zip" version="1.11.0">
-      <changes lang="EN">v1.11.0: fix genre browsing.</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1242" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="b0ed7975ce3bce906b3c3d7e8fcba21ba902f0a1" url="https://www.herger.net/_data/Bandcamp-1.12.0.zip" version="1.12.0">
+      <changes lang="EN">v1.12.0: add support for Material's Home Extras; allow deletion of recent searches and listens (thanks @jbylsma!).</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
@@ -1213,7 +1213,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling. v4.51.2: fix auth failure; improve communication wrt. the requirement for a Premium subscription. v4.51.3: new helpers to fix playback." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8391" link="" maxTarget="*" minTarget="7.7" sha="f54ecb34d66abbf1740e04b26a3576421053c669" url="https://downloads.nixda.ch/Spotty-4.51.3.zip" version="4.51.3">
+    <plugin name="Spotty" category="musicservices" changes="v4.52.0: add support for Material's Home Extras." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8391" link="" maxTarget="*" minTarget="7.7" sha="c2311c229839e76a45f0f2674a97f9dce3e63b0b" url="https://downloads.nixda.ch/Spotty-4.52.0.zip" version="4.52.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
