@@ -936,7 +936,7 @@
       <desc lang="EN">Use remote buttons and the default web interace to rate songs on Squeezebox Classic, Boom and Transporter</desc>
       <title lang="EN">Rating Buttons</title>
     </plugin>
-    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" installations="4438" link="" maxTarget="*" minTarget="8.4" sha="a1bcfa915edf32fac3627c857ae4b07757f3d25d" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.0.9/plugin-CommunityFirmware-0.0.9.zip" version="0.0.9">
+    <plugin name="CommunityFirmware" category="misc" creator="Michael Herger, Ralph Irving" email="ralph_irving@hotmail.com" installations="4438" link="" maxTarget="*" minTarget="8.4" sha="7fea41abca5451e2dff4bc9d0de4868b5190e5ca" url="https://github.com/ralph-irving/plugin-CommunityFirmware/releases/download/0.1.0/plugin-CommunityFirmware-0.1.0.zip" version="0.1.0">
       <desc lang="EN">Community Firmware for SqueezeBox Touch/Radio/Controller</desc>
       <title lang="EN">Community Firmware</title>
     </plugin>
