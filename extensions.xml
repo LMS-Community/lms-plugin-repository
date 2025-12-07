@@ -952,11 +952,6 @@
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
     </plugin>
-    <plugin name="SqueezeScrobbler" category="misc" creator="SqueezeScrobbler Team" email="james.craig@london.com" link="http://slimscrobbler.sourceforge.net/" maxTarget="7+" minTarget="7.4" sha="23db3ffbcca3e97af943eaaaa14eccd415fc5cec" url="http://mesh.dl.sourceforge.net/sourceforge/slimscrobbler/SqueezeScrobbler-1.2.8.zip" version="1.2.8">
-      <changes lang="EN" />
-      <desc lang="EN">LastFM radio playback and scrobbling of played music. Works for regions not covered by the SlimDevices included plugin</desc>
-      <title lang="EN">SqueezeScrobbler</title>
-    </plugin>
     <plugin name="AllQuiet" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="142" link="https://tuxreborn.netlify.app/slim/AllQuiet.html" maxTarget="9.*" minTarget="7.0" sha="c77e104c48ab75bc834550d19389c944c8ce9128" url="https://tuxreborn.netlify.app/slim/slim7/AllQuiet/AllQuiet-2.1.18.zip" version="2.1.18">
       <changes lang="EN">2.1.18: updated URL and email in plugin info; 2.1.15: allow in LMS &gt; 8 (untested); 2.1.14: allow use in LMS 8.* (untested); 2.1.13: new repository URL; 2.1.12: display message on Radio &amp; Touch screens if paused by AllQuiet; 2.1.10: squelch deprecation warnings in 7.4, support --noweb; 2.1.9: change to new numbering scheme; 7a9: fix pause API call bug</changes>
       <desc lang="EN">Silence all players simply by holding the Sleep button; all players will display the name of the player that asked for silence, in case you need help. Also provides a CLI command to silence/pause all players and display a custom message. (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
