@@ -281,81 +281,40 @@
       <desc lang="EN">Programme, track and podcast information for Planet Radio / Rayo / Bauer Media</desc>
       <title lang="EN">Planet Radio</title>
     </plugin>
-    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="3481" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="1264421069199950e8821a88be31c6430f866aa3" url="http://radionowplaying.com/slimserver-rep/RadioNowPlaying-0.0.53.zip" version="0.0.53">
+    <plugin name="RadioNowPlaying" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/RadioNowPlaying_svg.png" installations="3481" link="http://www.radionowplaying.com" maxTarget="*" minTarget="7.5" sha="81643e85b105e21e213c09ad6626eab9141c99ac" url="http://radionowplaying.com/slimserver-rep/RadioNowPlaying-0.0.54.zip" version="0.0.54">
       <changes lang="EN">
-			- Add 3fach (ch) - artist, title and Coversearch
-			- Add CH Media (ch) - includes Flashback FM, Radio 24, Radio 32, Radio Argovia, RADIO BERN1, Radio Central, Radio EVIVA, Radio FM1, Radio Melody, Radio Pilatus, Sunshine, Virgin Radio Switzerland
-			- Add CH Media (ch) - artist, title and cover art plus for main stations programme title, subtitle (presenter) and icon - 47 stations (most geolocked)
-			- Add Cosmic Fuzz FM - artist, title (already present), album, year, duration and cover art
-			- Add Decibel (nl) - artist, title and CoverSearch - track info might not appear until song change
-			- Add electroradio.fm - artist, title (already present) and cover art
-			- Add Energy (ch) - artist, title and cover art - plus, for the primary stations, programme title, presenter and icon - often large delays in new track information becoming avilable - 32 stations (geolocked themed stations)
-			- Add Helges Radio Station (ch) - artist, title and CoverSearch - truncates some track info
-			- Add Jukebox - Nonstop Music (ch) - artist, title (already present) and sometimes, album and duration plus CoverSearch
-			- Add KingMonkey - arist, title and CoverSearch - 2 stations ... 1 has Flac and the other is old TV TestCard music
-			- Add lfm LA Radio (ch) - artist, title (already present), duration, cover art - programme title, subtitle (presenter), duration and icon (for primary station) - 4 stations (MediaOne Group)
-			- Add Melody (ch) - artist, title (already present), duration, cover art - 8 stations
-			- Add Metal Express Radio - artist, title, album, year and cover art - programme title and duration
-			- Add my105 (ch) - artist, title (already present) and CoverSearch - 22 stations
-			- Add NTS - programme title, synopsis, duration and icon - 2 stations - looks like paying subscribers can get tracklists so let me know if you have access and I can try to see if I can grab the data for you
-			- Add One FM (ch) - artist, title (already present), duration, cover art - 22 stations some same as from Radio Lac (ch) and might identify as from there (MediaOne Group)
-			- Add Radio BeO (ch) - artist, title and cover art - programme title and duration
-			- Add Radio Blitz (ch) - artist, title and CoverSearch
-			- Add Radio Grischa (ch) - artist, title (already present), album, duration and CoverSearch
-			- Add Radio Gwendalyn (ch) - artist, title, album and CoverSearch
-			- Add Radio Is A Foreign Country - more to raise awareness of the interesting (for some at least) station since the track info often will not result in cover art being found
-			- Add Radio Lac (ch) - artist, title (already present), duration, cover art - 22 stations but most are same as from One FM (ch) and might identify as from there (MediaOne Group)
-			- Add Radio Munot (ch) - artist, title, label, year and CoverSearch - programme title, subtitle, duration and icon (although unlikely to appear) - sometimes they forget to update their song info
-			- Add Radio Orbital - artist, title and CoverSearch
-			- Add Radio Top (ch) - artist, title and CoverSearch
-			- Add Radio1 (ch) - artist, title and cover art - programme title (presenter)
-			- Add Rhône FM (ch) - artist, title and CoverSearch
-			- Add Rockit Radio (ch) - artist, title, year, duration and cover art - 3 stations (geolocked)
-			- Add Rouge (ch) - artist, title (already present), duration, cover art - 22 stations but most are same as from One FM (ch) and might identify as from there (MediaOne Group)
-			- Add rundfunk.fm (ch) - artist, title, album, duration and CoverSearch
-			- Add soundz (ch) - artist, title and CoverSearch
-			- Add Springsteen FM - artist, title (already present), album, duration and cover art
-			- Add Sunradio (ch) - artist, title, duration, album (sometimes) and CoverSearch
-			- Add SwissCountryRadio (ch) - artist, title, album, duration and CoverSearch
-			- Add The Kyoto Connection (jp) - artist, title, album (often) and CoverSearch
-			- Add The SID Station - artist, title and covert art
-			- Add then Removed Radio Eviva (ch) - artist, title and Coversearch plus for main station programme title, subtitle (presenter) and icon - 7 stations (most geolocked)
-			- Add then Removed Radio Pilatus (ch) - artist, title and Coversearch plus for main station programme title, subtitle (presenter) and icon - 22 stations (most geolocked)
-			- Add Totally Radio (au) - artist, title (already present), year, label, duration and cover art - 12 themed streams - inserted adverts seem to sometimes mess up their timings
-			- Add Vertical Radio (ch) - artist, title and CoverSearch
-			- Add Yes FM (ch) - artist, title, duration and cover art (MediaOne Group)
+			- Add Joulu Radio (fi) - artist, title and CoverSearch - 8 stations (looks like it runs from Nov 1 to Jan 6)
+			- Add KALX - Berkeley, CA - artist, title, album, year and CoverSearch - programme title, subtitle (DJ) and synopsis
+			- Add KCPR - San Luis Obispo, CA - artist, title, album, duration and cover art
+			- Add KPTZ - Port Townsend, WA - artist, title, album, year, label, CoverSearch - programme title and subtitle
+			- Add Salland1 (nl) - artist, title and CoverSearch - includes flac
+			- Add WMPG - Portland, ME - artist, title, album, year and CoverSearch - programme title, subtitle (DJ) and synopsis
+			- Add WTIP North Shore Community Radio - Grand Marais, MN - artist, title, album, year and CoverSearch - programme title, subtitle (DJ) and synopsis
+			- Add WVPH 90.3 The Core - Piscataway, NJ - artist, title and CoverSearch
 
-			- For 1fm - source of list of stations changed and album no longer present in song metadata
-			- For 80s Mixed - avoid CoverSearch for some adverts
-			- For American Roots - stream URLs changed
-			- For Antenne 1 HitRadio (de) - stream URLs changed - they have changed streaming host which also means change to metadata source
-			- For ARD (de) - change metadata source for MDR KULTUR - Das Radio - now have artist, title, album, label, composer, duration and CoverSearch plus programme title, description (if available) and duration
-			- For Facifica Network stations (KPFA, KPFK, KPFT, WBAI, WPFT) - make them searchable using Pacifica
-			- For Great American Songbook - a few more jingles to avoid performing CoverSearch on
-			- For Gylne Hits Radio (no) - ignore advert 
-			- For Hi On Line Radio - add duration
-			- For https://www.mediaonegroup.ch/ stations (Urban, Rock Star, Kiss Collector, Lac, One FM, lfm) ... ignore default cover art image
-			- For IP music (ch) - modify stream match regex to handle additional stream URLs
-			- For KNKX - Seattle, WA - changed streaming provider
-			- For LoRa (ch) - change primary stream URL to match one used by RadioNet
-			- For Megarock Radio - this is parsing their HTML to find track details ... and their web page had changed
-			- For Radio Planeta (es) - do not do CoverSearch for artist that starts with @ as this is almost certainly an advert
-			- For Regenbogen (de) and RPR1. (de) - match extra stream URLs to prevent battle with LMS 9.1 default cover art finder
-			- For RFM (fr) - updated station list, now 27. However, they seem to be having problems with their song data
-			- For Spoon Radio - slight change to stream URL matching to catch version used by radio.net
-			- For stations using CentovaCast metadata, allow the creation of a composer field
-			- For Sunshine Live (de) - update station list - possibly geolocked - now 32 stations
-			- For Sveriges Radio (se) - stream URLs changed
-			- For Your Classical - increase the maximum duration of a song to 1 hour
+			- For Antenne Kärnten (at) - use API to collect song info (not including their cover art) rather than embedded ICY data (which resolves faulty accented characters issue) but means song end not detected
+			- For Sing-Sing (bis) - metadata source URL changed
+			- For RTL (fr) - add some hidden HLS urls to try to stop metadata being intercepted by others
+			- For WDR (de) - correct accented character in two station names
+			- For Kemonia (it) - flac is back and they changed the format of their song info
+			- For WZUM - Pittburgh, PA - change logo because original being returned as WEBP which LMS image handler does not like
+			- For The Jazz Groove - add The Christmas Station (but only for Premium subscribers at The Jazz Groove)
+			- For KCRW - Santa Monica, CA - metadata formats changed
+			- For Linn Radio - stream URLs changed. Also, stop using their low-res cover art
+			- For Espace group of stations in France, update station lists - AllZIC Radio (70 stations), Alpes 1 (fr)(5), Generations (fr)(24), Jazz Radio (fr)(36), La Radio Plus - Là La Radio (fr)(7), M Radio (fr)(39), Nice Radio (fr)(6), ODS Radio (fr)(6), Radio Espace (fr)(11), RVA Radio (fr)(9), Virage Radio (fr)(8)
+			- For Dhectar (fr) - now 4 stations and still one with flac
+			- For Organ Media - stream URLs changed
 
-			- Update logos for: Cappuccino Radio, Eirewave (uk), Epic Prog Radio, KABL Radio - San Francisco, CA, KUVO The Drop, Megarock Radio, Regenbogen (de), RPR1. (de), WBGO - Newark, NJ, WUMB - Boston, MA
+			- Logo changed - CBC (ca), KKUP - Santa Clara, CA (site moved), Virginia Music, Welle Niederrhein (de)
 
-			- Another attempt at preventing RNP taking action on items in client playlist after the now playing one
-			- Change for handling of json that is embedded in other content (such as HTML) so that decode_safely is not called - it caused problems with data from Your Classical
-			- Do not include composer in CoverSearch lookup if not added to song info
-			- Fix the preservation of the Announce/ShowBriefly setting
-			- Modify duration parsing to handle extra format hh:mm:ss.n
-			- When percent-decoding some text strings, apply UTF8 conversion if configured
+			- Tonic Ska Radio closed down
+
+			- Modify ICECAST data parsing to avoid warning when there is a title but no artist
+			- Do not do remote lookup for cover art if artist same as station name
+			- Some logging added during startup to show if a different plugin has registered stream URL matches that RNP expected to control
+			- Correct long-standing (since 0.0.48) bug that prevented some stream matching unless debug was enabled at startup
+			- Avoid flipping between cover art and station logo when adding composer to title
+			- Make it easier to specify URL-encoding being required for keyword substitutions - needed for KCRW new song API that needs programme title as parameter
 			</changes>
       <desc lang="EN">Programme and track information including cover art for over 7500 radio stations</desc>
       <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 7500 stations de radio</desc>
