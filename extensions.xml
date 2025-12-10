@@ -561,8 +561,8 @@
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" installations="618" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="7e88843d161272fd8051d5b4b352f1f73456cfb4" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.04/VirginRadioPlugin_3_0_4.zip" version="3.0.4">
-      <changes lang="EN">NEW 3.0.4 Fix Live Streaming for Virgin Radio Genre stations (Chilled, Legends etc)</changes>
+    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" installations="618" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e1ffd6566cdd5206cfde78bacb10fc07edac7c3" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.0.5/VirginRadioPlugin_3_0_5.zip" version="3.0.5">
+      <changes lang="EN">NEW 3.0.5 Fix Live Streaming streams</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live and 7 day catch up for Virgin Radio, Talk Radio, talkSport and Times Radio, includes all News UK stations</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
@@ -1127,8 +1127,8 @@
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
-    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="617" link="" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
-      <changes lang="EN">v2.3.0 - Improve tag mixing by getting more tracks to pick from, and balanced shuffle.</changes>
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="617" link="" maxTarget="*" minTarget="7.9" sha="422698d90c97db0ed1c56efdffaad15aad3c9ea6" url="https://www.herger.net/_data/LastMix-2.4.0.zip" version="2.4.0">
+      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
