@@ -571,8 +571,8 @@
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="938" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="b40226f2fca2b226ac8c2df7b8d9b31710817878" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.7.2/GlobalPlayerUKPlugin_2_7_2.zip" version="2.7.2">
-      <changes lang="EN">NEW 2.7.2 override legacy UA string</changes>
+    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="938" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="294dd4160dceb294100a712f55bc68fa30961468" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.7.3/GlobalPlayerUKPlugin_2_7_3.zip" version="2.7.3">
+      <changes lang="EN">NEW 2.7.3 Improve websocket error handling</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
