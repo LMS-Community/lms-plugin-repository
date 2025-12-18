@@ -835,7 +835,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Added new Visualiser for Loudness and PEQ Settings" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="570" link="" maxTarget="*" minTarget="7.8.0" sha="a3c7b929bf7fb82b32cba5d8ba165462d1ca1b1a" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.40/SqueezeDSP-0.1.40.zip" version="0.1.40">
+    <plugin name="SqueezeDSP" category="tools" changes="large number of tweaks to styling, scales better to small screens" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="570" link="" maxTarget="*" minTarget="7.8.0" sha="ea11462d2074f69750238cc256e1e758faa6470e" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.41/SqueezeDSP-0.1.41.zip" version="0.1.41">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
