@@ -740,8 +740,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="655" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="6b3a943a543ef280e66b400498dffc44e335fb2b" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-2.zip" version="5.12.2">
-      <changes lang="EN">Fixed College Basketball (CBB) scores.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="655" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="524848f100be692e42bc5a911be255224651996d" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-3.zip" version="5.12.3">
+      <changes lang="EN">Implemented short soccer team names.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
