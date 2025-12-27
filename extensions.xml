@@ -1140,8 +1140,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6843" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="309e5be3f58fcb138d343ce4abaa017ebf0e8727" url="https://www.herger.net/_data/MusicArtistInfo-1.19.4.zip" version="1.19.4">
-      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.3 - read images from cache folder if no artist picture folder has been defined. v1.19.4 - tweak artist artwork scan: scan for all roles, but limit download to main artists only.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6843" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="1eb1411de5cda0825383deaa5c8edbedfc6fd726" url="https://www.herger.net/_data/MusicArtistInfo-1.19.5.zip" version="1.19.5">
+      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.5: fix genre lookup for TIDAL albums.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -1172,7 +1172,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.60.0: Fix authorization compatibility with latest Spotify API changes." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8194" link="" maxTarget="*" minTarget="7.7" sha="f215ff6051de0d6bfe6b0aff40a1255cdb213bed" url="https://downloads.nixda.ch/Spotty-4.60.0.zip" version="4.60.0">
+    <plugin name="Spotty" category="musicservices" changes="v4.60.0: Fix authorization compatibility with latest Spotify API changes. v4.60.1: improve playlist folder import script handling." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="8194" link="" maxTarget="*" minTarget="7.7" sha="f8574a57cb062c416d6ec58782c6e33d2c37566a" url="https://downloads.nixda.ch/Spotty-4.60.1.zip" version="4.60.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
