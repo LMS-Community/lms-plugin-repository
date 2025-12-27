@@ -745,6 +745,10 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
+    <plugin name="Mixlr" category="misc" creator="Peter Oliver" email="lms-mixlr@mavit.org.uk" link="https://gitlab.com/mavit/lms-mixlr" maxTarget="*" minTarget="8.0" sha="243a83b6cf8cc0ccf0346528898a5c8d20672385" url="https://mavit.gitlab.io/lms-mixlr/lms-mixlr-0.0.6.zip" version="0.0.6">
+      <desc lang="EN">Play Mixlr broadcasts (by adding the URL to the queue).</desc>
+      <title lang="EN">Mixlr</title>
+    </plugin>
     <plugin name="DatabaseQuery" category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" installations="156" link="http://wiki.lyrion.org/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
       <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
