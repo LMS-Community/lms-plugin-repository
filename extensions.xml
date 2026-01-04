@@ -12,6 +12,15 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
+    <applet name="CustomClock" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="8.3" sha="4b83d69a5c3280b5becc59a5782db4bbd51e2aa4" url="http://hashsum.org/LMS/CustomClock-2.25.167.zip" version="2.25.167">
+      <changes lang="EN">
+			- various fixes and lms imageproxy support
+			</changes>
+      <desc lang="EN">
+			A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.
+			</desc>
+      <title lang="EN">Custom Clock</title>
+    </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
@@ -321,10 +330,6 @@
       <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 7500 Radiosender</desc>
       <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7500 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
-    </plugin>
-    <plugin name="Spottyi86pcsolarisBin" category="misc" creator="Reiner Paulus" email="lms@hashsum.org" link="" maxTarget="*" minTarget="7.7" sha="d72fc6c2b228eedc0e46e3c4b49b87eb31d3d84a" target="unix" url="http://www.hashsum.org/LMS/Spottyi86pcsolarisBin-2.0.0.zip" version="2.0.0">
-      <desc lang="EN">Spotty Helper Application for Solaris/Illumos. This plug-in requires the Spotty plugin.</desc>
-      <title lang="EN">Spotty Helper Application for Solaris/Illumos</title>
     </plugin>
     <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="78" link="" maxTarget="*" minTarget="7.7" sha="c1e5ac70b017b4c212a8203dc0cec1f7749205b1" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.0.9.zip" version="2.0.9">
       <desc lang="EN">Spotty Helper for FreeBSD 14+. Requires Spotty plugin.</desc>
