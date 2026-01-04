@@ -740,8 +740,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="656" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="2e0dac90d66dd046e7d15c01ab3e64b2d63d8d21" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-4.zip" version="5.12.4">
-      <changes lang="EN">Fixed college football scores.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="656" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="55913796a3e069724be73a92a072b8c5107131d1" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-5.zip" version="5.12.5">
+      <changes lang="EN">Fixed display of short soccer team names on legacy devices. (Boom, SB3, Transporter)</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
