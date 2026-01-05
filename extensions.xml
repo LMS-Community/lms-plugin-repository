@@ -1145,8 +1145,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6803" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="1eb1411de5cda0825383deaa5c8edbedfc6fd726" url="https://www.herger.net/_data/MusicArtistInfo-1.19.5.zip" version="1.19.5">
-      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.5: fix genre lookup for TIDAL albums.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6803" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="9591c04c7510a088ac63410398c814fe17aa3dd6" url="https://www.herger.net/_data/MusicArtistInfo-1.19.6.zip" version="1.19.6">
+      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.5: fix genre lookup for TIDAL albums. v1.19.6: optinally create placeholder files for all contributors, no matter the role.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
