@@ -12,7 +12,7 @@
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
-    <applet name="CustomClock" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="8.3" sha="4b83d69a5c3280b5becc59a5782db4bbd51e2aa4" url="http://hashsum.org/LMS/CustomClock-2.25.167.zip" version="2.25.167">
+    <applet name="CustomClock" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="8.3" sha="cd744b315ece8953a742f852227ca13c1f172270" url="http://hashsum.org/LMS/CustomClock-2.26.001.zip" version="2.26.001">
       <changes lang="EN">
 			- various fixes and lms imageproxy support
 			</changes>
