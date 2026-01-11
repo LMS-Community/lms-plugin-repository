@@ -1,6 +1,12 @@
 <extensions>
   <applets>
-    <applet name="JLCustomClock" creator="erland, tcutting" link="" maxTarget="*" minTarget="0.1" sha="f5ec537cbc445281a2b4a918b2149da806ca7afa" target="jivelite" url="http://jivelite.picoreplayer.org/JLCustomClock2_26_001.zip" version="2.26.001">
+    <applet name="CustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="8.3.0" sha="5033cda0591a66df5a040855fe80f671f750703d" url="http://lms.hashsum.org/CustomClock_2_28_001.zip" version="2.28.001">
+      <changes lang="EN"> - various fixes and lms imageproxy support </changes>
+      <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.</desc>
+      <title lang="EN">CustomClock</title>
+    </applet>
+    <applet name="JLCustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="8.3.0" sha="39cf44328eeda559f48b745f3121afa8c54e3064" target="jivelite" url="http://lms.hashsum.org/JLCustomClock_2_28_001.zip" version="2.28.001">
+      <changes lang="EN"> - various fixes and lms imageproxy support </changes>
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
       <title lang="EN">CustomClock for Jivelite</title>
     </applet>
@@ -11,15 +17,6 @@
     <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" link="" maxTarget="*" minTarget="7.7" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
-    </applet>
-    <applet name="CustomClock" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="8.3" sha="cd744b315ece8953a742f852227ca13c1f172270" url="http://hashsum.org/LMS/CustomClock/CustomClock-2.26.001.zip" version="2.26.001">
-      <changes lang="EN">
-			- various fixes and lms imageproxy support
-			</changes>
-      <desc lang="EN">
-			A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.
-			</desc>
-      <title lang="EN">Custom Clock</title>
     </applet>
     <applet name="AlbumFlow" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="5dee58ece394484b013d5e7e1f744f19d838528d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip" version="1.2.24">
       <changes lang="EN">- Available for free, no longer requires a license
@@ -838,7 +835,7 @@
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12504" link="" maxTarget="*" minTarget="7.9.0" sha="1ade594330db820f6bf6c4bf5ce7686082758994" url="https://github.com/CDrummond/lms-material/releases/download/6.1.2/lms-material-6.1.2.zip" version="6.1.2">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12504" link="" maxTarget="*" minTarget="7.9.0" sha="2a598c04c3691be833751b73de7928657b159486" url="https://github.com/CDrummond/lms-material/releases/download/6.1.3/lms-material-6.1.3.zip" version="6.1.3">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
@@ -1085,6 +1082,11 @@
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
+    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="287" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="46a6132d358213bdedf6f94bd055246b9c67223f" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_12_0.zip" version="2.12.0">
+      <changes lang="EN">- Clock Styles Update</changes>
+      <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
+      <title lang="EN">Custom Clock Helper</title>
+    </plugin>
     <plugin name="xAP" category="tools" creator="Edward Pearson" installations="69" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
       <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
@@ -1100,8 +1102,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1067" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="21d972f15107329d4e7ee4e786f16a7f37bdc922" url="https://www.herger.net/_data/1001Albums-1.6.0.zip" version="1.6.0">
-      <changes lang="EN">v1.6.0: add support for Material's Home Extras.</changes>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1067" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="341b9b1fb3a76283cfd72f2d1a820e98bf682c78" url="https://www.herger.net/_data/1001Albums-1.6.1.zip" version="1.6.1">
+      <changes lang="EN">v1.6.0: add support for Material's Home Extras. v1.6.1: auto update Home Extra.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
