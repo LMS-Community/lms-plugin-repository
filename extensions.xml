@@ -1,11 +1,11 @@
 <extensions>
   <applets>
-    <applet name="CustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="46fc0d7ba0ce01f13d2b94c7ac02f4bf4181bbc8" target="jive|fab4|baby" url="http://lms.hashsum.org/CustomClock_2_28_3.zip" version="2.28.3">
+    <applet name="CustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="f2909cfeb15b1ff08dbbb1cfd183ef3f44ef53af" target="jive|fab4|baby" url="http://lms.hashsum.org/CustomClock_2_29_0.zip" version="2.29.0">
       <changes lang="EN"> - various fixes and lms imageproxy support</changes>
       <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.</desc>
       <title lang="EN">CustomClock</title>
     </applet>
-    <applet name="JLCustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="4c98cd92ea6ead6ff83dfb4aef6b5191462f47e7" target="jivelite" url="http://lms.hashsum.org/JLCustomClock_2_28_3.zip" version="2.28.3">
+    <applet name="JLCustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="610afb03c80cb62ae46fe597156ad02e0763ae84" target="jivelite" url="http://lms.hashsum.org/JLCustomClock_2_29_0.zip" version="2.29.0">
       <changes lang="EN"> - various fixes and lms imageproxy support</changes>
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
       <title lang="EN">CustomClock for Jivelite</title>
@@ -1082,7 +1082,7 @@
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
-    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="286" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="4f1900e65701815f388c1f9fd8d9c4aeb6918e4e" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_28_3.zip" version="2.28.3">
+    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="286" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="ed7fcc3e2ba4f5c25ce3bf664867790d3b908134" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_29_0.zip" version="2.29.0">
       <changes lang="EN">- Clock Styles Updates</changes>
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
