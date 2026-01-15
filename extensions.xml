@@ -809,7 +809,7 @@
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="266" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="93cf5c4fc6343d1d5bd4999f1a9cf6b654f262eb" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.2/lms-virtuallibrarycreator-1.5.2.zip" version="1.5.2">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="266" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="37c3b37246cef3b54218462528506f02a5037c7b" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.3/lms-virtuallibrarycreator-1.5.3.zip" version="1.5.3">
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
