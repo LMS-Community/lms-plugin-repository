@@ -823,19 +823,19 @@
       <desc lang="EN">Start playback when powered on or reconnected</desc>
       <title lang="EN">Auto Play</title>
     </plugin>
-    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="117" link="" maxTarget="*" minTarget="7.9.0" sha="812223168618639a7d1d53d2cca517cc9abcfa2f" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.2/lms-blissmixer-linux-0.8.2.zip" version="0.8.2">
+    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="117" link="" maxTarget="*" minTarget="7.9.0" sha="15861f7fe390cd8243b1b744156c36c1cf407977" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-linux-0.9.0.zip" version="0.9.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="117" link="" maxTarget="*" minTarget="7.9.0" sha="c586dc0efe6eb6ba4da1cd0af0052265be135b58" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.2/lms-blissmixer-mac-0.8.2.zip" version="0.8.2">
+    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="117" link="" maxTarget="*" minTarget="7.9.0" sha="d99bf8d0fa8b40ced52b58e4c18364ce0b0d617a" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-mac-0.9.0.zip" version="0.9.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="117" link="" maxTarget="*" minTarget="7.9.0" sha="b452769864106c9f9827a22883aa2e9a297623a9" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.8.2/lms-blissmixer-windows-0.8.2.zip" version="0.8.2">
+    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="117" link="" maxTarget="*" minTarget="7.9.0" sha="b25e57065a9665abc5d9682a4e5681442dd35569" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-windows-0.9.0.zip" version="0.9.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12417" link="" maxTarget="*" minTarget="7.9.0" sha="2a598c04c3691be833751b73de7928657b159486" url="https://github.com/CDrummond/lms-material/releases/download/6.1.3/lms-material-6.1.3.zip" version="6.1.3">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="12417" link="" maxTarget="*" minTarget="7.9.0" sha="fa84eba114614bf7dbe9f13451859690316d26b2" url="https://github.com/CDrummond/lms-material/releases/download/6.1.4/lms-material-6.1.4.zip" version="6.1.4">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
