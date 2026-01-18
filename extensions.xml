@@ -1087,7 +1087,7 @@
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
     </plugin>
-    <plugin name="SuperDateTimeMacroExtender" category="misc" creator="Reiner Paulus" link="https://github.com/urknall/SuperDateTimeMacroExtender" maxTarget="*" minTarget="7.4" sha="4fbb2f115fa18ef171fa5d7940879ad8908a1d4d" url="https://urknall.github.io/lms-repo/SuperDateTimeMacroExtender_1_0.zip" version="1.0">
+    <plugin name="SuperDateTimeMacroExtender" category="misc" creator="Reiner Paulus" link="https://github.com/urknall/SuperDateTimeMacroExtender" maxTarget="*" minTarget="7.4" sha="14f8d0775e1dde7ef9f38269214cf5266ff22047" url="https://urknall.github.io/lms-repo/SuperDateTimeMacroExtender_1_1.zip" version="1.1">
       <changes lang="EN">- Initial release</changes>
       <desc lang="EN">Adds JSON-backed macro expansion to SuperDateTime</desc>
       <title lang="EN">SuperDateTime Macro Extender</title>
