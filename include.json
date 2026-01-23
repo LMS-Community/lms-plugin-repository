@@ -58,7 +58,8 @@
 		"https://guillaumezin.github.io/DomoticzControl/repo.xml",
 		"https://raw.githubusercontent.com/toddmazierski/lms-wfmu-plugin/main/repo.xml",
 		"https://github.com/paul-1/plugin-SiriusXM/releases/latest/download/repo.xml",
-		"https://mavit.gitlab.io/lms-mixlr/extensions.xml"
+		"https://mavit.gitlab.io/lms-mixlr/extensions.xml",
+		"https://raw.githubusercontent.com/onmomo/lms-squeeze-plex-hub/refs/heads/develop/repo/repo.xml"
 	],
 	"disabled": [
 		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
