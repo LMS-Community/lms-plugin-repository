@@ -865,7 +865,7 @@
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="3210" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="a266267029b775ad109d81237cef6edf96d6b349" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.6.6/Qobuz.zip" version="3.6.6">
+    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="3210" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="3cf4193b7a96a70c521bc8de2ef15e5ac209fa74" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.6.7/Qobuz.zip" version="3.6.7">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
@@ -896,6 +896,10 @@
     <plugin name="Fleck" category="misc" creator="nbeversl" installations="115" link="https://fleck-theme.org/" maxTarget="*" minTarget="7.9.0" sha="bc9e893745f910b2c2f758b9ce68c2295b5dcc44" url="https://github.com/nbeversl/fleck-lyrion/releases/download/0.0.75/FleckSkin-0.0.75.zip" version="0.0.75">
       <desc lang="EN">A skin focused on album art, easy browsing by disc, and thorough search functionality. Plays to the client device through the browser. Optimized for mobile screens.</desc>
       <title lang="EN">Fleck Skin</title>
+    </plugin>
+    <plugin name="SqueezePlexHub" category="information" creator="Christian Moser" link="https://github.com/onmomo/lms-squeeze-plex-hub" maxTarget="*" minTarget="8.0" sha="1c71c3242cf48a80028b5c8d69069399a8b666ed" url="https://github.com/onmomo/lms-squeeze-plex-hub/releases/download/v1.0.0/LMS-SqueezePlexHub.zip" version="1.0.0">
+      <desc lang="EN">A Lyrion Music Server plugin that bridges Plex metadata into LMS when tracks are streamed through the Squeeze Plex Hub application.</desc>
+      <title lang="EN">Squeeze Plex Hub</title>
     </plugin>
     <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1408" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="8ef59f1f2852db6239eb5cc631bcf6976d246d4d" url="https://github.com/philippe44/lms-deezer/releases/download/3.1.4/Deezer.zip" version="3.1.4">
       <desc lang="EN">Deezer for local LMS use</desc>
