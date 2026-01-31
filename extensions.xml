@@ -1155,8 +1155,8 @@
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
-    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="584" link="" maxTarget="*" minTarget="7.9" sha="422698d90c97db0ed1c56efdffaad15aad3c9ea6" url="https://www.herger.net/_data/LastMix-2.4.0.zip" version="2.4.0">
-      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler.</changes>
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="584" link="" maxTarget="*" minTarget="7.9" sha="1c0df8bb1f61bed6fa81d7fc2b68431e206832d6" url="https://www.herger.net/_data/LastMix-2.4.1.zip" version="2.4.1">
+      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler. v2.4.1 - Fix compatibility with older LMS versions; bug fixes.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
