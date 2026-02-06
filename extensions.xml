@@ -352,7 +352,7 @@
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
     </plugin>
-    <plugin name="SqueezeCloud" category="musicservices" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/SqueezeCloud/master/HTML/EN/plugins/SqueezeCloud/html/images/icon.png" installations="1523" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="f435d4cb5480a9103a3a53515c62b3a781eeab94" url="https://github.com/danielvijge/SqueezeCloud/releases/download/0.18/SqueezeCloud-0.18.zip" version="0.18">
+    <plugin name="SqueezeCloud" category="musicservices" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/SqueezeCloud/master/HTML/EN/plugins/SqueezeCloud/html/images/icon.png" installations="1523" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="86f7e08ab7d0a27ccfa573f85428e76d347806d3" url="https://github.com/danielvijge/SqueezeCloud/releases/download/0.19/SqueezeCloud-0.19.zip" version="0.19">
       <desc lang="EN">Play music from SoundCloud</desc>
       <title lang="EN">SoundCloud</title>
     </plugin>
