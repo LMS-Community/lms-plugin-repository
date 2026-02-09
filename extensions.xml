@@ -901,6 +901,10 @@
       <desc lang="EN">A Lyrion Music Server plugin that bridges Plex metadata into LMS when tracks are streamed through the Squeeze Plex Hub application.</desc>
       <title lang="EN">Squeeze Plex Hub</title>
     </plugin>
+    <plugin name="UnifiedHiFi" category="misc" creator="Muness Castle" installations="13" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="41c345ced24a167389d7df25c1be6f822f8b15cc" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v3.3.0/lms-unified-hifi-control-3.3.0.zip" version="3.3.0">
+      <desc lang="EN">Source-agnostic hi-fi control bridge for Roon, LMS, HQPlayer, and hardware knobs. Provides HTTP APIs, MQTT integration, and web UI for controlling your audio system from anywhere.</desc>
+      <title lang="EN">Unified Hi-Fi Control</title>
+    </plugin>
     <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1366" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="8ef59f1f2852db6239eb5cc631bcf6976d246d4d" url="https://github.com/philippe44/lms-deezer/releases/download/3.1.4/Deezer.zip" version="3.1.4">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
