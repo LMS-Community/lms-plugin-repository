@@ -1196,7 +1196,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix. v3.6.1 - remove streaming options which aren't available." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4877" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="39288a9369ca8768ba2c10e8e05acadfdc722cec" url="https://www.herger.net/_data/RadioParadise-3.6.1.zip" version="3.6.1">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix. v3.6.1 - remove streaming options which aren't available. v3.6.2 - prevent redirect loop." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4877" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="6b18a0274528df8c809cea1b0200081ddbea2f89" url="https://www.herger.net/_data/RadioParadise-3.6.2.zip" version="3.6.2">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
