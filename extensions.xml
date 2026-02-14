@@ -748,10 +748,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="637" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="7d2add21468cdb8ffbb820aa055a4bdb27b88392" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-6.zip" version="5.12.6">
-      <changes lang="EN">Remove stale soccer score data when league setting changed to &quot;None&quot; and/or teams cleared.  
-			Fix typos of MLB and WNBA team names.  Thanks @urknall
-			</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="637" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="59c49d63f76f5c025199f5fedf39d88c5dd7cc50" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-7.zip" version="5.12.7">
+      <changes lang="EN">API changes for CBB and Soccer sports scores.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
