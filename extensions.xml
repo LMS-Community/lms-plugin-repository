@@ -797,7 +797,7 @@
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
-    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_repo_icon.png" installations="561" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="60afcee4834414a916f5df30dd94356ed914fc63" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.7.9/lms-dynamicplaylistcreator-1.7.9.zip" version="1.7.9">
+    <plugin name="DynamicPlaylistCreator" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylistcreator/main/screenshots/dplc_repo_icon.png" installations="561" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="3f07180de326d013877116dcd313290cfa1aca3e" url="https://github.com/AF-1/lms-dynamicplaylistcreator/releases/download/1.8.0/lms-dynamicplaylistcreator-1.8.0.zip" version="1.8.0">
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
@@ -809,7 +809,7 @@
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="260" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="37c3b37246cef3b54218462528506f02a5037c7b" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.3/lms-virtuallibrarycreator-1.5.3.zip" version="1.5.3">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="260" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="53c73e743fc59c54fc80b5a680443dfb75d73f64" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.4/lms-virtuallibrarycreator-1.5.4.zip" version="1.5.4">
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -1166,7 +1166,7 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6475" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="3f6f9a67b062fa0dea3742f7635a7c577b7f214b" url="https://www.herger.net/_data/MusicArtistInfo-1.20.0.zip" version="1.20.0">
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6475" link="" maxTarget="*" minTarget="7.6" sha="3f6f9a67b062fa0dea3742f7635a7c577b7f214b" url="https://www.herger.net/_data/MusicArtistInfo-1.20.0.zip" version="1.20.0">
       <changes lang="EN">v1.20.0 - provide works reviews for classical music.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
