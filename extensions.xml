@@ -352,7 +352,7 @@
       <desc lang="EN">Browse and play shows from wefunkradio.com</desc>
       <title lang="EN">Wefunk Radio</title>
     </plugin>
-    <plugin name="SqueezeCloud" category="musicservices" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/SqueezeCloud/master/HTML/EN/plugins/SqueezeCloud/html/images/icon.png" installations="1530" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="bbb67da24dcf85e10b153b512f2e8ba1c1636db3" url="https://github.com/danielvijge/SqueezeCloud/releases/download/0.20/SqueezeCloud-0.20.zip" version="0.20">
+    <plugin name="SqueezeCloud" category="musicservices" creator="Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman, KwarkLabs" icon="https://raw.githubusercontent.com/danielvijge/SqueezeCloud/master/HTML/EN/plugins/SqueezeCloud/html/images/icon.png" installations="1530" link="https://github.com/danielvijge/SqueezeCloud" maxTarget="*" minTarget="7.5" sha="8e24f150d8e4281801dcb7184b8745ba4cc4acab" url="https://github.com/danielvijge/SqueezeCloud/releases/download/0.21/SqueezeCloud-0.21.zip" version="0.21">
       <desc lang="EN">Play music from SoundCloud</desc>
       <title lang="EN">SoundCloud</title>
     </plugin>
@@ -762,7 +762,7 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="258" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="5e82c19617b3e4b3eac9acb6c5f6b5ec77545ca2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.7.0/lms-alternativeplaycount-1.7.0.zip" version="1.7.0">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="258" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="381ca2787fb55b75c71cf6eff4d61aeee822d8b4" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.7.1/lms-alternativeplaycount-1.7.1.zip" version="1.7.1">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué.</desc>
       <title lang="EN">Alternative Play Count</title>
@@ -805,11 +805,11 @@
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="313" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="94a0b5dfe3c2b1652fc532ee9b868c1050bddda3" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.0/lms-ratingslight-3.0.0.zip" version="3.0.0">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="313" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="5e1fc3e11ba9339ce5dd3bd1b8a9824d7f09e831" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.1/lms-ratingslight-3.0.1.zip" version="3.0.1">
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="262" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="53c73e743fc59c54fc80b5a680443dfb75d73f64" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.4/lms-virtuallibrarycreator-1.5.4.zip" version="1.5.4">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="262" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="e4b6b13b981794cd14489280ac9f1b799ba86a2d" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.5/lms-virtuallibrarycreator-1.5.5.zip" version="1.5.5">
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -847,7 +847,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="large number of tweaks to styling, scales better to small screens" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="541" link="" maxTarget="*" minTarget="7.8.0" sha="ea11462d2074f69750238cc256e1e758faa6470e" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.41/SqueezeDSP-0.1.41.zip" version="0.1.41">
+    <plugin name="SqueezeDSP" category="tools" changes="Major performance improvements  in engine, tweaks to UI" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="541" link="" maxTarget="*" minTarget="7.8.0" sha="a682aa2bc63fe87d6ee4ce89f425dce091e6f047" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.50/SqueezeDSP-0.1.50.zip" version="0.1.50">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
