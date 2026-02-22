@@ -1166,8 +1166,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6490" link="" maxTarget="*" minTarget="7.6" sha="3f6f9a67b062fa0dea3742f7635a7c577b7f214b" url="https://www.herger.net/_data/MusicArtistInfo-1.20.0.zip" version="1.20.0">
-      <changes lang="EN">v1.20.0 - provide works reviews for classical music.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6490" link="" maxTarget="*" minTarget="8.0" sha="a8f9efb3bac62724762100593a97bfb9fc37602c" url="https://www.herger.net/_data/MusicArtistInfo-1.21.0.zip" version="1.21.0">
+      <changes lang="EN">v1.20.0 - provide works reviews for classical music. 1.21.0 - improve lyrics search and caching.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
