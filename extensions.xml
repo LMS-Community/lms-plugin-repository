@@ -903,7 +903,7 @@
       <desc lang="EN">Source-agnostic hi-fi control bridge for Roon, LMS, HQPlayer, and hardware knobs. Provides HTTP APIs, MQTT integration, and web UI for controlling your audio system from anywhere.</desc>
       <title lang="EN">Unified Hi-Fi Control</title>
     </plugin>
-    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1365" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="65bc9e15bceb826f104175de06f4922dc9f60b13" url="https://github.com/philippe44/lms-deezer/releases/download/3.2.0/Deezer.zip" version="3.2.0">
+    <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1365" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="ecf68b6b76916ce2098e454363e6670a34d3d5cf" url="https://github.com/philippe44/lms-deezer/releases/download/3.2.1/Deezer.zip" version="3.2.1">
       <desc lang="EN">Deezer for local LMS use</desc>
       <title lang="EN">Deezer local</title>
     </plugin>
