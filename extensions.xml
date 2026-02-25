@@ -1115,13 +1115,13 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1043" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="00031cd062ce37d7496d096d96413b69b868f7e7" url="https://www.herger.net/_data/1001Albums-1.4.2.zip" version="1.4.2">
-      <changes lang="EN">v1.4.1: add support for Deezer plugin - thanks Paul Webster! v1.4.2: prioritize lossless services over lossy.</changes>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="1043" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="341b9b1fb3a76283cfd72f2d1a820e98bf682c78" url="https://www.herger.net/_data/1001Albums-1.6.1.zip" version="1.6.1">
+      <changes lang="EN">v1.6.0: add support for Material's Home Extras. v1.6.1: auto update Home Extra.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1195" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="30895979795d3ba099c9df02a224fab69d53d8d3" url="https://www.herger.net/_data/Bandcamp-1.11.0.zip" version="1.11.0">
-      <changes lang="EN">v1.11.0: fix genre browsing.</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1195" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="b0ed7975ce3bce906b3c3d7e8fcba21ba902f0a1" url="https://www.herger.net/_data/Bandcamp-1.12.0.zip" version="1.12.0">
+      <changes lang="EN">v1.12.0: add support for Material's Home Extras; allow deletion of recent searches and listens (thanks @jbylsma!).</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
@@ -1152,13 +1152,13 @@
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
-    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="147" link="" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
-      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
+    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="147" link="" maxTarget="*" minTarget="7.9" sha="9b6fb09dfb719f1bd5f3f52cb5f87b870b12dc15" url="https://www.herger.net/_data/ImageProxy-1.1.2.zip" version="1.1.2">
+      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring. v1.1.1: always define an output format and quality (wsrv.nl)</changes>
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
-    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="594" link="" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
-      <changes lang="EN">v2.3.0 - Improve tag mixing by getting more tracks to pick from, and balanced shuffle.</changes>
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="594" link="" maxTarget="*" minTarget="7.9" sha="1c0df8bb1f61bed6fa81d7fc2b68431e206832d6" url="https://www.herger.net/_data/LastMix-2.4.1.zip" version="2.4.1">
+      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler. v2.4.1 - Fix compatibility with older LMS versions; bug fixes.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
@@ -1166,8 +1166,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6482" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f42e9aae6bfacba839386c263f47339e4f6f4c28" url="https://www.herger.net/_data/MusicArtistInfo-1.19.2.zip" version="1.19.2">
-      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.1 - don't label AI generated biography &quot;wikipedia&quot;. v1.19.2 - improve layout in Default skin; respect rate limiting.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6482" link="" maxTarget="*" minTarget="8.0" sha="ad8f201d8f8e4ad4664e2928c1ab4d0eea8d68de" url="https://www.herger.net/_data/MusicArtistInfo-1.22.0.zip" version="1.22.0">
+      <changes lang="EN">v1.20.0 - provide works reviews for classical music. 1.22.0 - improve lyrics search and caching.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -1194,11 +1194,11 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4920" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="fc6c6cb2e18ba1df85796006162f24f4b64db875" url="https://www.herger.net/_data/RadioParadise-3.6.0.zip" version="3.6.0">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix. v3.6.1 - remove streaming options which aren't available. v3.6.2 - prevent redirect loop." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4920" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="6b18a0274528df8c809cea1b0200081ddbea2f89" url="https://www.herger.net/_data/RadioParadise-3.6.2.zip" version="3.6.2">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling. v4.51.2: fix auth failure; improve communication wrt. the requirement for a Premium subscription." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="7517" link="" maxTarget="*" minTarget="7.7" sha="a28d414190fff5308dbcff368c7d860ad7298bd2" url="https://downloads.nixda.ch/Spotty-4.51.2.zip" version="4.51.2">
+    <plugin name="Spotty" category="musicservices" changes="v4.60.0: Fix authorization compatibility with latest Spotify API changes. v4.60.6: improve compatibility with restricted custom client IDs (thanks @urknall!). v4.60.7: fix error handling on http failures." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="7517" link="" maxTarget="*" minTarget="7.7" sha="7f53e3b2dd5dedfac104f3906515022d722c5474" url="https://downloads.nixda.ch/Spotty-4.60.7.zip" version="4.60.7">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
