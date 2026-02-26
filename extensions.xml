@@ -1090,7 +1090,7 @@
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
-    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="302" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="513a2d347721f562fd11ca9fa3ac5f2d77104d70" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_29_1.zip" version="2.29.1">
+    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="302" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="426c1d470a40f04950af4a1307a2de3e4b1678f2" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_29_2.zip" version="2.29.2">
       <changes lang="EN">- Clock Styles Updates</changes>
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
@@ -1157,8 +1157,8 @@
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
-    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="593" link="" maxTarget="*" minTarget="7.9" sha="1c0df8bb1f61bed6fa81d7fc2b68431e206832d6" url="https://www.herger.net/_data/LastMix-2.4.1.zip" version="2.4.1">
-      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler. v2.4.1 - Fix compatibility with older LMS versions; bug fixes.</changes>
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="593" link="" maxTarget="*" minTarget="7.9" sha="2353cb542d352b268a80b83a31da74fb0447c73b" url="https://www.herger.net/_data/LastMix-2.4.2.zip" version="2.4.2">
+      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler. v2.4.1 - Fix compatibility with older LMS versions; bug fixes. v2.4.2 - Fix username when loving a track.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
