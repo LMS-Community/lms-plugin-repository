@@ -1166,8 +1166,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6469" link="" maxTarget="*" minTarget="8.0" sha="31f3b188ba1a71ed388506e4586ffe86b07e7239" url="https://www.herger.net/_data/MusicArtistInfo-1.23.0.zip" version="1.23.0">
-      <changes lang="EN">v1.20.0 - provide works reviews for classical music. v1.22.0 - improve lyrics search and caching. v1.23.0 - improved language (Chinese) and Markdown support.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6469" link="" maxTarget="*" minTarget="8.0" sha="1454be0818bef46685ad24096c1453e264020272" url="https://www.herger.net/_data/MusicArtistInfo-1.23.1.zip" version="1.23.1">
+      <changes lang="EN">v1.20.0 - provide works reviews for classical music. v1.22.0 - improve lyrics search and caching. v1.23.0 - improved language (Chinese) and Markdown support. v1.23.1 - fix crasher on Lyrics lookup</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -1194,7 +1194,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix. v3.6.1 - remove streaming options which aren't available. v3.6.2 - prevent redirect loop." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4923" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="6b18a0274528df8c809cea1b0200081ddbea2f89" url="https://www.herger.net/_data/RadioParadise-3.6.2.zip" version="3.6.2">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix. v3.6.2 - prevent redirect loop. v3.6.3 - try to skip invalid announcements; bug fixes." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4923" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="a5a1f652c6bad6911ef7e62e4fc34d593f2cbf93" url="https://www.herger.net/_data/RadioParadise-3.6.3.zip" version="3.6.3">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
