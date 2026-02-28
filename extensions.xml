@@ -564,23 +564,23 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2453" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="bd63abfcbd12734a0ff4da0258c09b41e43713db" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.52.2/BBCSoundsPlugin_2_52_2.zip" version="2.52.2">
-      <changes lang="EN">NEW 2.52.2 New rewind to specific time menu on live radio</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2453" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="dd152d7f0448621f1341fd1a4db5d1118867836a" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.53.2/BBCSoundsPlugin_2_53_2.zip" version="2.53.2">
+      <changes lang="EN">NEW 2.53.2 Cosmetic changes to Material skin scrollable lists ; 2.53.1 Add 2 new Material Skin Scrollable Lists; 2.53.0 Add support for Material Skins Home Screen Scrollable Lists</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" installations="575" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="7e88843d161272fd8051d5b4b352f1f73456cfb4" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.04/VirginRadioPlugin_3_0_4.zip" version="3.0.4">
-      <changes lang="EN">NEW 3.0.4 Fix Live Streaming for Virgin Radio Genre stations (Chilled, Legends etc)</changes>
+    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" installations="575" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e1ffd6566cdd5206cfde78bacb10fc07edac7c3" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.0.5/VirginRadioPlugin_3_0_5.zip" version="3.0.5">
+      <changes lang="EN">NEW 3.0.5 Fix Live Streaming streams</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live and 7 day catch up for Virgin Radio, Talk Radio, talkSport and Times Radio, includes all News UK stations</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
-    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/TimesRadio_svg.png" installations="326" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="cbd0defe07ca988ad994ecac58fab2403d45cc9c" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.3.0/TimesRadioPlugin_2_3_0.zip" version="2.3.0">
-      <changes lang="EN">NEW 2.3.0 FIX : Restore functionality after API changes</changes>
+    <plugin name="TimesRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/TimesRadio_svg.png" installations="326" link="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN" maxTarget="*" minTarget="7.9" sha="3fd77aa01b1971ff154693750964330d025f9756" url="https://github.com/expectingtofly/LMS_TIMES_RADIO_PLUGIN/releases/download/2.3.1/TimesRadioPlugin_2_3_1.zip" version="2.3.1">
+      <changes lang="EN">NEW 2.3.1 FIX Times Radio Streaming</changes>
       <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
       <title lang="EN">Times Radio</title>
     </plugin>
-    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="868" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="89fe2ddd0ea85534a0c20c7979541d596646fd0b" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.7.1/GlobalPlayerUKPlugin_2_7_1.zip" version="2.7.1">
-      <changes lang="EN">NEW 2.7.1 Fixed programme transion pauses and corruption (At last !)</changes>
+    <plugin name="GlobalPlayerUK" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" installations="868" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="294dd4160dceb294100a712f55bc68fa30961468" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.7.3/GlobalPlayerUKPlugin_2_7_3.zip" version="2.7.3">
+      <changes lang="EN">NEW 2.7.3 Improve websocket error handling</changes>
       <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
       <title lang="EN">Global Player (UK)</title>
     </plugin>
@@ -588,6 +588,11 @@
       <changes lang="EN">New 1.2.0 Radio Favourites Editor in preferences;  Folders as standard Favourites</changes>
       <desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
       <title lang="EN">Radio Favourites</title>
+    </plugin>
+    <plugin name="iBroadcast" category="musicservices" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" installations="30" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="3bcf539ceb4762d1d2bc491a9f183533847c749c" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/1.1.3/LMS_iBroadcast_Plugin_1_1_3.zip" version="1.1.3">
+      <changes lang="EN">New 1.1.3  Improved album artist handling</changes>
+      <desc lang="EN">iBroadcast online personal music library integration.  Fully integrate and stream your online iBroadcast music library from your LMS Music Library.</desc>
+      <title lang="EN">iBroadcast Online Music Library</title>
     </plugin>
     <plugin name="SqueezeSonic" category="misc" creator="foobarjo" email="jo@foobarjo.org" installations="111" link="https://github.com/foobarjo/SqueezeSonic" maxTarget="*" minTarget="7.6" sha="0733f01f218a3df84bbb94a10e16df12d3172573" url="https://ftp.foobarjo.org/LMS/squeezesonic/squeezesonic-stable-0.8.zip" version="0.8">
       <desc lang="EN">Play music from a Subsonic API capable music library</desc>
