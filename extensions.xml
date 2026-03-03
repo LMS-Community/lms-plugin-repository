@@ -1090,7 +1090,7 @@
       <desc lang="EN">TVHeadend Radio Plugin for Lyrion Media Server</desc>
       <title lang="EN">TVH</title>
     </plugin>
-    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="308" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="5fcdbdc188b52dc5418da125e515356c62e75391" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_29_3.zip" version="2.29.3">
+    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="308" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="ef685199861139b311254c3c1359bf5bea6d3c91" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_29_4.zip" version="2.29.4">
       <changes lang="EN">- Clock Styles Updates And Fixes</changes>
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
