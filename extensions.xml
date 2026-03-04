@@ -862,7 +862,7 @@
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="560" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="a5a0578ee4389f5937ee5ed055d4aa1672d88fcc" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.8.3/lms-visualstatistics-1.8.3.zip" version="1.8.3">
+    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="560" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="9fb646076a624b7b2c761e756c945f68fb978b3d" url="https://github.com/AF-1/lms-visualstatistics/releases/download/1.8.5/lms-visualstatistics-1.8.5.zip" version="1.8.5">
       <desc lang="EN">Have a look at your library statistics with charts.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
