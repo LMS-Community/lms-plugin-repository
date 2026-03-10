@@ -896,7 +896,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Major performance improvements  in engine, tweaks to UI" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="528" link="" maxTarget="*" minTarget="7.8.0" sha="a682aa2bc63fe87d6ee4ce89f425dce091e6f047" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.50/SqueezeDSP-0.1.50.zip" version="0.1.50">
+    <plugin name="SqueezeDSP" category="tools" changes="Further performance improvements  in engine, code cleanup, startup improved, autoeq lookup" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="528" link="" maxTarget="*" minTarget="7.8.0" sha="9fb3ff3be31f55d8bd05480740cc974722957ec9" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.51/SqueezeDSP-0.1.51.zip" version="0.1.51">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
@@ -1215,8 +1215,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6413" link="" maxTarget="*" minTarget="8.0" sha="de0103db1a3a891e3e87c56b7f9e289b25d92ec3" url="https://www.herger.net/_data/MusicArtistInfo-1.24.0.zip" version="1.24.0">
-      <changes lang="EN">v1.20.0 - provide works reviews for classical music. v1.24.0 - improve support for localized content, let use define preferred language.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6413" link="" maxTarget="*" minTarget="8.0" sha="ef15f7435b0fd5681eb55d9255376369634defc1" url="https://www.herger.net/_data/MusicArtistInfo-1.24.1.zip" version="1.24.1">
+      <changes lang="EN">v1.20.0 - provide works reviews for classical music. v1.24.0 - improve support for localized content, let use define preferred language. v1.24.1 - fix following Wikipedia redirects.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
