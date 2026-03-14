@@ -1186,7 +1186,7 @@
       <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
       <title lang="EN">Create docsets for Dash</title>
     </plugin>
-    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="467" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="ebd84dd6689c4ef0f6db02b68338a49de3d432a2" url="https://www.herger.net/_data/DRS-1.5.9.zip" version="1.5.9">
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="467" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="66d276d3b9f039a6f9bb61981837b9982e16f026" url="https://www.herger.net/_data/DRS-1.5.10.zip" version="1.5.10">
       <desc lang="EN">Swiss Radio SRF Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio SRF Meta Informations Parser</desc>
       <title lang="EN">Radio SRF Meta Information</title>
@@ -1215,8 +1215,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6379" link="" maxTarget="*" minTarget="8.0" sha="9b6ece3364a7df6fa2b4bd0790f6129fb9c30d47" url="https://www.herger.net/_data/MusicArtistInfo-1.25.0.zip" version="1.25.0">
-      <changes lang="EN">v1.24.0 - improve support for localized content, let use define preferred language. v1.24.1 - fix following Wikipedia redirects. v1.25.0 - provide track (or album) reviews for radio tracks where we don't have album information.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6379" link="" maxTarget="*" minTarget="8.0" sha="fd1cbecf7857cb9620a349c0608b4c6f18f45e3b" url="https://www.herger.net/_data/MusicArtistInfo-1.26.0.zip" version="1.26.0">
+      <changes lang="EN">v1.24.0 - improve support for localized content, let use define preferred language. v1.24.1 - fix following Wikipedia redirects. v1.25.0 - provide track (or album) reviews for radio tracks where we don't have album information. v1.26.0 - use album title to help disamibugate artists by name.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
