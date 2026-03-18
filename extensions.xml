@@ -268,19 +268,13 @@
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
-    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/logo/CBCCanadaFrancais.png" installations="204" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="eaea50cd03fac02e0c50e216cede7f95beaa62a0" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.6.zip" version="0.0.6">
+    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/logo/CBCCanadaFrancais.png" installations="204" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="aa0b758f6ffe3904cfc9ce88243470cc7fae4371" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.7.zip" version="0.0.7">
       <changes lang="EN">
-				- Support new metadata formats
-				- Show programme segment name when available - replacing host
-				- Use the CoverSearch service for album cover art
-				- Add support for extra geolocked streams - Hip-hop, Atmosphère, Rock and Les Fêtes
+				- Add plugin package name for relaying to lms-community.org
 			</changes>
       <changes lang="FR">
-				- Prise en charge des nouveaux formats de métadonnées
-				- Afficher le nom du segment de programme lorsqu'il est disponible - en remplacement de l'animateur
-				- Utilisez le service CoverSearch pour trouver des illustrations de pochettes d'albums.
-				- Ajout de la prise en charge de flux géo-restreints supplémentaires - Hip-hop, Atmosphère, Rock et Les Fêtes
-				</changes>
+				- Ajouter le nom du package du plugin pour le relais vers lms-community.org
+			</changes>
       <desc lang="EN">CBC Radio-Canada Français programme and track information
 			</desc>
       <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
