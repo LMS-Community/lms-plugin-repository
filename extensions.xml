@@ -257,12 +257,22 @@
       <desc lang="EN">Creates new libraries for &quot;Not Rated&quot; and &quot;Rated High&quot;, dependent on Erlands TrackStat plugin</desc>
       <title lang="EN">Phil's Libraries</title>
     </plugin>
-    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1254" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="fd6c0b9875c0b63eb5510a4f8376a678f68d1c7e" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.21.zip" version="0.4.21">
+    <plugin name="RadioFrance" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/radiofrance_svg.png" installations="1254" link="https://forums.lyrion.org/forum/user-forums/fran-ais/103535-annonce-plugin-pour-radio-france-fip-france-musique-et-mouv?p=1287025#post1287025" maxTarget="*" minTarget="7.5" sha="78a9d5fb0aaf9bd642739af662415fe9a5eaac9d" url="http://radionowplaying.com/slimserver-rep/RadioFrance-0.4.22.zip" version="0.4.22">
       <changes lang="EN">
-				- Add FIP Cultes
+				- Update stations logos and some 'ici' station names
+				- For Mouv - all secondary stations closed
+				- Add Mon tout petit France Inter
+				- For France Info, use programme specific icons
+				- Thanks @Atmis
+				- Radio France removed some of their APIs so change plugin to try to adapt
 			</changes>
       <changes lang="FR">
-				- Ajoute FIP Cultes
+				- Mettre à jour les logos des stations et certains noms de stations 'ici' 
+				- Pour Mouv - toutes les stations secondaires sont fermées
+				- Ajouter Mon tout petit France Inter
+				- Pour France Info, utiliser des icônes spécifiques au programme
+				- Merci @Atmis
+				- Radio France a supprimé certaines de ses API, il faut donc changer de plugin pour tenter de s'adapter.
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
