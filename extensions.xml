@@ -1252,7 +1252,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix. v3.6.2 - prevent redirect loop. v3.6.3 - try to skip invalid announcements; bug fixes." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4813" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="a5a1f652c6bad6911ef7e62e4fc34d593f2cbf93" url="https://www.herger.net/_data/RadioParadise-3.6.3.zip" version="3.6.3">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0: add shortcut to play best quality stream of each mix. v3.6.3: try to skip invalid announcements; bug fixes. v3.6.4: fix warning about missing string." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4813" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="970e2e8910c1e814247db167cb0bad016d5dd46a" url="https://www.herger.net/_data/RadioParadise-3.6.4.zip" version="3.6.4">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
