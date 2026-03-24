@@ -820,12 +820,12 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="247" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="8afcc23b4246fdae5bee11a554c5c609b16c45f2" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.8.2/lms-alternativeplaycount-1.8.2.zip" version="1.8.2">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="247" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="61983e65025e84c2a948aadfae338ac557651f47" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.8.3/lms-alternativeplaycount-1.8.3.zip" version="1.8.3">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Optionally records a detailed play history with timestamps, player and rating at the time of play, with display for individual tracks, albums, artists or all tracks. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Si vous le sautez avant, il compte comme sauté, pas comme joué. Permet d'enregistrer un historique de lecture détaillé avec date et heure, lecteur et évaluation au moment de la lecture. Utilisez les données avec d'autres plugins pour créer/lire des listes de lecture intelligentes (listes de lecture dynamiques), créer des bibliothèques virtuelles ou sauter des morceaux.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/cs_icon.png" installations="172" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="ec8cbe04252b3a967645054fda10bd76f82d997b" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.8/lms-contextstats-1.0.8.zip" version="1.0.8">
+    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/cs_icon.png" installations="172" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="c7e632ca72c7be7b4b1a1a45b13ca7b35b2a012d" url="https://github.com/AF-1/lms-contextstats/releases/download/1.0.9/lms-contextstats-1.0.9.zip" version="1.0.9">
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
@@ -833,7 +833,7 @@
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
-    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/CustomStartStopTimes/HTML/EN/plugins/CustomStartStopTimes/html/images/csst_icon.png" installations="67" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="f6d4840ae71bfaf8bbe1d759f299ffb71a201680" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.1/lms-customstartstoptimes-1.2.1.zip" version="1.2.1">
+    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/CustomStartStopTimes/HTML/EN/plugins/CustomStartStopTimes/html/images/csst_icon.png" installations="67" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="52bcd5cf6c61fc0fe3637a0554cea1f5f601c53f" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.2/lms-customstartstoptimes-1.2.2.zip" version="1.2.2">
       <desc lang="EN">Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
@@ -905,10 +905,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Further performance improvements  in engine, code cleanup, startup improved, autoeq lookup" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="513" link="" maxTarget="*" minTarget="7.8.0" sha="9fb3ff3be31f55d8bd05480740cc974722957ec9" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.51/SqueezeDSP-0.1.51.zip" version="0.1.51">
-      <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
-      <title lang="EN">SqueezeDSP</title>
-    </plugin>
+    <plugin name="SqueezeDSP" category="tools" changes="ReplayGain added, Headphone crossfeed, tweak to UI and autoeq saves, fir filter strength added, convolver gain heavily tuned" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="513" link="" maxTarget="*" minTarget="7.8.0" sha="3dee16ab8d3d3a22d071167f4d95bb140f1daa48" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.60/SqueezeDSP-0.1.60.zip" version="0.1.60" />
     <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="553" link="" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
       <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
