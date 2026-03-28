@@ -832,7 +832,7 @@
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
-    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/CustomStartStopTimes/HTML/EN/plugins/CustomStartStopTimes/html/images/csst_icon.png" installations="66" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="5433bfa7039068d2646090a6fdf481294a2e635f" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.3/lms-customstartstoptimes-1.2.3.zip" version="1.2.3">
+    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/CustomStartStopTimes/HTML/EN/plugins/CustomStartStopTimes/html/images/csst_icon.png" installations="66" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="aa304841e0935a0ef09538130a9e4a722eae6fd2" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.4/lms-customstartstoptimes-1.2.4.zip" version="1.2.4">
       <desc lang="EN">Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
@@ -863,7 +863,7 @@
       <title lang="EN">PotPourri</title>
     </plugin>
     <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="310" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="ef57fab8785afadffa73fb1d6316a55ea5dfffe9" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.4/lms-ratingslight-3.0.4.zip" version="3.0.4">
-      <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with LMS browse menus.</desc>
+      <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with optional LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
     <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="268" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="e4b6b13b981794cd14489280ac9f1b799ba86a2d" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.5.5/lms-virtuallibrarycreator-1.5.5.zip" version="1.5.5">
