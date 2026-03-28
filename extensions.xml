@@ -805,9 +805,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="615" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="f13c932e666a32c8c4a8a7b11202b5e56d84d8ef" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-8.zip" version="5.12.8">
-      <changes lang="EN">Add forecasted Relative Humidity. Macro variable = %!h
-            Cleanup College Basketball (CBB) and Soccer code.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="615" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="2ee28ff1d481674350b972429afd3f8c486e595a" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-9.zip" version="5.12.9">
+      <changes lang="EN">Fixed active NHL game detection.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
