@@ -10,11 +10,11 @@
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
       <title lang="EN">CustomClock for Jivelite</title>
     </applet>
-    <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" link="" maxTarget="9.0.1.17084" minTarget="7.8.*" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
+    <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" link="" maxTarget="*" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
       <desc lang="EN">Support for external USB Dacs and up to 192kHz sampling rates with the digital output.  Note: this app will install a custom linux kernel.  It will also disable analog when using usb/digital out.</desc>
       <title lang="EN">Enhanced Digital Output</title>
     </applet>
-    <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" link="" maxTarget="9.0.1.17084" minTarget="7.8.*" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
+    <applet name="SetupKernelUpdater" creator="Triode" email="ralph.irving@gmail.com" link="" maxTarget="*" minTarget="7.7" sha="65056836c7ed2a2c6c72c5f79505583f48e437b8" target="fab4" url="http://ralph.irving.sdf.org/edo/SetupKernelUpdater-v0.3.zip" version="0.3">
       <desc lang="EN">Experienced users only.  Applet to install trial kernel versions to test USB audio support.  Kernels are installed at your own risk</desc>
       <title lang="EN">Kernel Updater</title>
     </applet>
@@ -819,7 +819,7 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="247" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="61983e65025e84c2a948aadfae338ac557651f47" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.8.3/lms-alternativeplaycount-1.8.3.zip" version="1.8.3">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="247" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="2ccf5384e378426b13e31bd75f0fd59be707d4c9" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.8.4/lms-alternativeplaycount-1.8.4.zip" version="1.8.4">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Optionally records a detailed play history with timestamps, player and rating at the time of play, with display for individual tracks, albums, artists or all tracks. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Si vous le sautez avant, il compte comme sauté, pas comme joué. Permet d'enregistrer un historique de lecture détaillé avec date et heure, lecteur et évaluation au moment de la lecture. Utilisez les données avec d'autres plugins pour créer/lire des listes de lecture intelligentes (listes de lecture dynamiques), créer des bibliothèques virtuelles ou sauter des morceaux.</desc>
       <title lang="EN">Alternative Play Count</title>
@@ -862,7 +862,7 @@
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="309" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="ef57fab8785afadffa73fb1d6316a55ea5dfffe9" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.4/lms-ratingslight-3.0.4.zip" version="3.0.4">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="309" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="9438b4ba153253d1c84960877185b37fb9eeb80f" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.5/lms-ratingslight-3.0.5.zip" version="3.0.5">
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with optional LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -904,7 +904,10 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="ReplayGain added, Headphone crossfeed, tweak to UI and autoeq saves, fir filter strength added, convolver gain heavily tuned" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="511" link="" maxTarget="*" minTarget="7.8.0" sha="3dee16ab8d3d3a22d071167f4d95bb140f1daa48" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.60/SqueezeDSP-0.1.60.zip" version="0.1.60" />
+    <plugin name="SqueezeDSP" category="tools" changes="Added strict album gain and track gain, tweaked autoeq dropdown, tidied up transcoder template, rebuilt in go 1.26" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="511" link="" maxTarget="*" minTarget="7.8.0" sha="154d720ca9b66f2574bc684cde0213b867e12db1" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.61/SqueezeDSP-0.1.61.zip" version="0.1.61">
+      <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
+      <title lang="EN">SqueezeDSP</title>
+    </plugin>
     <plugin name="InguzEQ" category="tools" changes="Split templates for config into separate file, and plugin now detects when the template has changed and re-writes config based off this. Amended template for flac and added in wmal setting for 24 bit." creator="Jonathan Fox" installations="551" link="" maxTarget="*" minTarget="7.3.0" sha="aa7addf843707b2bb40cde3e4eefde75f52da1a1" sha1-tool="https://emn178.github.io/online-tools/sha1_checksum.html" url="https://github.com/Foxenfurter/SqueezeBoxEQ/raw/main/SqueezeboxEQ-0.9.39.zip" version="0.9.39">
       <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
