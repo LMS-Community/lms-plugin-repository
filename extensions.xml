@@ -1220,8 +1220,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6259" link="" maxTarget="*" minTarget="8.0" sha="7dbe8942f2e02c344b234fadade797b3536d6dd3" url="https://www.herger.net/_data/MusicArtistInfo-1.26.1.zip" version="1.26.1">
-      <changes lang="EN">v1.24.0 - improve support for localized content, let use define preferred language. v1.24.1 - fix following Wikipedia redirects. v1.25.0 - provide track (or album) reviews for radio tracks where we don't have album information. v1.26.1 - use album title to help disamibugate artists by name.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6259" link="" maxTarget="*" minTarget="8.0" sha="4febc20a6287c6754906d6c0b91f60d0e4ce2f35" url="https://www.herger.net/_data/MusicArtistInfo-1.27.0.zip" version="1.27.0">
+      <changes lang="EN">v1.27.0 - improve lyrics lookup.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
