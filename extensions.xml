@@ -844,7 +844,7 @@
       <desc lang="EN">Dark-themed version of the LMS Default skin</desc>
       <title lang="EN">Dark Default Skin</title>
     </plugin>
-    <plugin name="DarkLogicSkin" category="skin" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-darklogicskin/main/screenshots/dls_icon.png" installations="315" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="ca192a8ae23f65f8055ddea925ba91239c432fe3" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.1/lms-darklogicskin-1.0.1.zip" version="1.0.1">
+    <plugin name="DarkLogicSkin" category="skin" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-darklogicskin/main/screenshots/dls_icon.png" installations="315" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="45de96cfe7b7fa253be37409c148e5c0a00cc295" url="https://github.com/AF-1/lms-darklogicskin/releases/download/1.0.2/lms-darklogicskin-1.0.2.zip" version="1.0.2">
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
