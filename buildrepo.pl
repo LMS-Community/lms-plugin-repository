@@ -19,6 +19,7 @@ my $categoriesMap = {
 	'AlternativePlayCount' => 'information',
 	'ArchiveOrg' => 'musicservices',
 	'ARDAudiothek' => 'radio',
+	'Audius' => 'musicservices',
 	'AutoDisplay' => 'tools',
 	'AutoRepo' => 'tools',
 	'AutoRescan' => 'scanning',
@@ -227,6 +228,20 @@ for my $url (sort @{$includes->{repositories}}) {
 				}
 
 				$item->{link} =~ s/(wiki|forums)\.slimdevices\.com/$1.lyrion.org/;
+
+				if ($item->{desc} && !ref $item->{desc}) {
+					$item->{desc} = [{
+						lang => 'EN',
+						content => $item->{desc}
+					}];
+				}
+
+				if ($item->{title} && !ref $item->{title}) {
+					$item->{title} = [{
+						lang => 'EN',
+						content => $item->{title}
+					}];
+				}
 
 				print "  $content $name\n";
 				push @{ $out->{"${element}"}->{"$content"} ||= [] }, $item;

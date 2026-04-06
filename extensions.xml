@@ -621,8 +621,8 @@
       <desc lang="EN">Makes it possible to hide standard browse menus, typically used together with Custom Browse to replace them with a customized version (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Hide Menus</title>
     </plugin>
-    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2393" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="ebeb2c3856a2e1d6677c820a8e8914dcb549953d" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.54.5/BBCSoundsPlugin_2_54_5.zip" version="2.54.5">
-      <changes lang="EN">NEW 2.54.3 Added Explore menu. Upgraded MediaSelector. 2.54.5 Fix - ensure https stream selection</changes>
+    <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" installations="2393" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="ad303f11bdce5c15ef7c4d2dfd6e1eb251f562c4" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.54.6/BBCSoundsPlugin_2_54_6.zip" version="2.54.6">
+      <changes lang="EN">NEW 2.54.6 Improved BBC Account synchronisation  2.54.5 Fix - ensure https stream selection 2.54.3 Added Explore menu. Upgraded MediaSelector.</changes>
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
@@ -810,7 +810,10 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="Audius" category="misc" creator="Mauricio Farias" desc="Audius streaming plugin for Lyrion (Open Audio Protocol)" installations="6" link="" maxTarget="*" minTarget="7.9" sha="fe9dd4178dbd8360e77f113d4058d545416c9594" title="Audius" url="https://mauriciofarias.github.io/Lyrion-Audius/Audius-26.04.zip" version="26.04" />
+    <plugin name="Audius" category="musicservices" creator="Mauricio Farias" installations="6" link="" maxTarget="*" minTarget="7.9" sha="fe9dd4178dbd8360e77f113d4058d545416c9594" url="https://mauriciofarias.github.io/Lyrion-Audius/Audius-26.04.zip" version="26.04">
+      <desc lang="EN">Audius streaming plugin for Lyrion (Open Audio Protocol)</desc>
+      <title lang="EN">Audius</title>
+    </plugin>
     <plugin name="Mixlr" category="misc" creator="Peter Oliver" email="lms-mixlr@mavit.org.uk" installations="13" link="https://gitlab.com/mavit/lms-mixlr" maxTarget="*" minTarget="8.0" sha="243a83b6cf8cc0ccf0346528898a5c8d20672385" url="https://mavit.gitlab.io/lms-mixlr/lms-mixlr-0.0.6.zip" version="0.0.6">
       <desc lang="EN">Play Mixlr broadcasts (by adding the URL to the queue).</desc>
       <title lang="EN">Mixlr</title>
