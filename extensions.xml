@@ -810,6 +810,7 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
+    <plugin name="Audius" category="misc" creator="Mauricio Farias" desc="Audius streaming plugin for Lyrion (Open Audio Protocol)" link="" maxTarget="*" minTarget="7.9" sha="fe9dd4178dbd8360e77f113d4058d545416c9594" title="Audius" url="https://mauriciofarias.github.io/Lyrion-Audius/Audius-26.04.zip" version="26.04" />
     <plugin name="Mixlr" category="misc" creator="Peter Oliver" email="lms-mixlr@mavit.org.uk" installations="14" link="https://gitlab.com/mavit/lms-mixlr" maxTarget="*" minTarget="8.0" sha="243a83b6cf8cc0ccf0346528898a5c8d20672385" url="https://mavit.gitlab.io/lms-mixlr/lms-mixlr-0.0.6.zip" version="0.0.6">
       <desc lang="EN">Play Mixlr broadcasts (by adding the URL to the queue).</desc>
       <title lang="EN">Mixlr</title>
