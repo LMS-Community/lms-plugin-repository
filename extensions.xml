@@ -810,10 +810,6 @@
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
-    <plugin name="Audius" category="musicservices" creator="Mauricio Farias" installations="8" link="" maxTarget="*" minTarget="7.9" sha="fe9dd4178dbd8360e77f113d4058d545416c9594" url="https://mauriciofarias.github.io/Lyrion-Audius/Audius-26.04.zip" version="26.04">
-      <desc lang="EN">Audius streaming plugin for Lyrion (Open Audio Protocol)</desc>
-      <title lang="EN">Audius</title>
-    </plugin>
     <plugin name="Mixlr" category="misc" creator="Peter Oliver" email="lms-mixlr@mavit.org.uk" installations="13" link="https://gitlab.com/mavit/lms-mixlr" maxTarget="*" minTarget="8.0" sha="243a83b6cf8cc0ccf0346528898a5c8d20672385" url="https://mavit.gitlab.io/lms-mixlr/lms-mixlr-0.0.6.zip" version="0.0.6">
       <desc lang="EN">Play Mixlr broadcasts (by adding the URL to the queue).</desc>
       <title lang="EN">Mixlr</title>
@@ -1227,8 +1223,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6179" link="" maxTarget="*" minTarget="8.0" sha="4febc20a6287c6754906d6c0b91f60d0e4ce2f35" url="https://www.herger.net/_data/MusicArtistInfo-1.27.0.zip" version="1.27.0">
-      <changes lang="EN">v1.27.0 - improve lyrics lookup.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="6179" link="" maxTarget="*" minTarget="8.0" sha="637e1cdfad9fa12a73fd72ab6518bf76099196ac" url="https://www.herger.net/_data/MusicArtistInfo-1.27.1.zip" version="1.27.1">
+      <changes lang="EN">v1.27.0 - improve lyrics lookup. v1.27.1 - improve LRClib proxying.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
