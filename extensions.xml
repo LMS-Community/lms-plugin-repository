@@ -668,13 +668,14 @@
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
-    <plugin name="SiriusXM" catagory="musicservices" category="misc" creator="paul-1" icon="https://raw.githubusercontent.com/paul-1/plugin-SiriusXM/main/Plugins/SiriusXM/HTML/EN/plugins/SiriusXM/html/images/SiriusXMLogo.png" installations="126" link="https://github.com/paul-1/plugin-SiriusXM" maxTarget="*" minTarget="8.3" sha="ab0ca876af1c48ba649a9442bee93545443b5199" url="https://github.com/paul-1/plugin-SiriusXM/releases/download/v1.0.0/SiriusXM-1.0.0.zip" version="1.0.0">
+    <plugin name="SiriusXM" catagory="musicservices" category="misc" creator="paul-1" icon="https://raw.githubusercontent.com/paul-1/plugin-SiriusXM/main/Plugins/SiriusXM/HTML/EN/plugins/SiriusXM/html/images/SiriusXMLogo.png" installations="126" link="https://github.com/paul-1/plugin-SiriusXM" maxTarget="*" minTarget="8.3" sha="57bb1e448857cf104760eda2b5e9a454c7e46cba" url="https://github.com/paul-1/plugin-SiriusXM/releases/download/v1.0.1/SiriusXM-1.0.1.zip" version="1.0.1">
       <changes lang="EN">
               - Add precaching of playlist and segmenets
               - Track login cookies independantly of channel cookies.
               - Cache cookies, channel data and retain between restarts(prevents login on every channel change)
               - Download the smallest playlist size needed.
               - Track Playing timestamp against xmplaylist.com play time for metadata sync.
+              - Make sure player is not a sync-slave when updating metadata (1.0.1)
             </changes>
       <desc lang="EN">Stream SiriusXM satellite radio through Lyrion Music Server</desc>
       <title lang="EN">SiriusXM</title>
