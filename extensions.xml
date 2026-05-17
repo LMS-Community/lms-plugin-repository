@@ -817,8 +817,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="594" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="2ee28ff1d481674350b972429afd3f8c486e595a" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-9.zip" version="5.12.9">
-      <changes lang="EN">Fixed active NHL game detection.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="594" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="cb7011bbad7c405eb28348003c6f8bcd22023dc0" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-10.zip" version="5.12.10">
+      <changes lang="EN">Updated NBA and WNBA data URLs.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -1235,8 +1235,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="5992" link="" maxTarget="*" minTarget="8.0" sha="b436bec8ae80b93cabe1594ff0094a6e9754ec71" url="https://www.herger.net/_data/MusicArtistInfo-1.29.0.zip" version="1.29.0">
-      <changes lang="EN">v1.29.0 - improve handling of instrumental tracks; try to avoid unnecessary API calls by queuing them up.</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="5992" link="" maxTarget="*" minTarget="8.0" sha="185e79cf72e54c5b0bedf9479a88659c503b9931" url="https://www.herger.net/_data/MusicArtistInfo-1.29.1.zip" version="1.29.1">
+      <changes lang="EN">v1.29.0 - improve handling of instrumental tracks; try to avoid unnecessary API calls by queuing them up. v1.29.1 - tweaking the lyrics lookup</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
