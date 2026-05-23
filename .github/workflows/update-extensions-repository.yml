@@ -7,6 +7,8 @@ on:
 
 env:
   MAX_REMOVAL_DIFF: 3
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 
 jobs:
   merge:
