@@ -62,7 +62,8 @@
 		"https://github.com/paul-1/plugin-SiriusXM/releases/latest/download/repo.xml",
 		"https://mavit.gitlab.io/lms-mixlr/extensions.xml",
 		"https://raw.githubusercontent.com/onmomo/lms-squeeze-plex-hub/refs/heads/develop/repo/repo.xml",
-		"https://chernyshalexander.github.io/YandexMusicLMS/public.xml"
+		"https://chernyshalexander.github.io/YandexMusicLMS/public.xml",
+		"https://raw.githubusercontent.com/millerdev/lms-ultralight/master/repo.xml"
 	],
 	"disabled": [
 		"https://mauriciofarias.github.io/Lyrion-Audius/repo.xml",
