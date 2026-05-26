@@ -956,7 +956,7 @@
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
-    <plugin name="UltralightSkin" category="skin" creator="Daniel Miller" email="dmiller@dimagi.com" link="https://github.com/millerdev/lms-ultralight" maxTarget="*" minTarget="7.9" sha="7deffc1ab1ae112d1ce4b0a096c9195a25cd9af0" url="https://github.com/millerdev/lms-ultralight/releases/download/v0.6.0/UltralightSkin-v0.6.0.zip" version="0.6.0">
+    <plugin name="UltralightSkin" category="skin" creator="Daniel Miller" email="millerdev@gmail.com" link="https://github.com/millerdev/lms-ultralight" maxTarget="*" minTarget="7.9" sha="7deffc1ab1ae112d1ce4b0a096c9195a25cd9af0" url="https://github.com/millerdev/lms-ultralight/releases/download/v0.6.0/UltralightSkin-v0.6.0.zip" version="0.6.0">
       <desc lang="EN">A modern, responsive skin for Lyrion Music Server. Touch-friendly interface with a clean design, suitable for mobile and desktop use.</desc>
       <title lang="EN">Ultralight</title>
     </plugin>
