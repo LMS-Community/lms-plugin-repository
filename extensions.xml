@@ -817,8 +817,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="604" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="cb7011bbad7c405eb28348003c6f8bcd22023dc0" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-10.zip" version="5.12.10">
-      <changes lang="EN">Updated NBA and WNBA data URLs.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="604" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="ab12203f1078ab05caae252db5faeb4bcf555e99" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-11.zip" version="5.12.11">
+      <changes lang="EN">Added expansion teams Portland Fire and Toronto Tempo to WNBA.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
