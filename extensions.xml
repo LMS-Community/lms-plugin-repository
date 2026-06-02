@@ -874,7 +874,7 @@
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="297" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="645a1697f67e88032d3c329b6f8f0b075f73cc23" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.7/lms-ratingslight-3.0.7.zip" version="3.0.7">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="297" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="74fbf204c7ad182f043b94042a77897900ee06e9" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.0.8/lms-ratingslight-3.0.8.zip" version="3.0.8">
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with optional LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
