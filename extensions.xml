@@ -848,7 +848,7 @@
       <desc lang="EN">Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
-    <plugin name="CustomTagImporter" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customtagimporter/main/screenshots/cti_icon.png" installations="238" link="https://github.com/AF-1" maxTarget="*" minTarget="7.9" sha="f9bb6241899be888ef49ccc1c4729c42b5ffab4e" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.7/lms-customtagimporter-1.2.7.zip" version="1.2.7">
+    <plugin name="CustomTagImporter" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customtagimporter/main/screenshots/cti_icon.png" installations="238" link="https://github.com/AF-1" maxTarget="*" minTarget="7.9" sha="f160c0237ec3b090dd249305c1a6fae718330216" url="https://github.com/AF-1/lms-customtagimporter/releases/download/1.2.8/lms-customtagimporter-1.2.8.zip" version="1.2.8">
       <desc lang="EN">Scans track information from custom tags in your music files (incl. rating tags).</desc>
       <title lang="EN">Custom Tag Importer</title>
     </plugin>
