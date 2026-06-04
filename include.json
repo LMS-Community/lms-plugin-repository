@@ -24,7 +24,6 @@
 		"https://guillaumezin.github.io/DomoticzControl/repo.xml",
 		"https://jasonholtzapple.github.io/slimdevices/repo.xml",
 		"https://lms.hashsum.org/repo.xml",
-		"https://marcoc1712.it/downloads/repository.xml",
 		"https://master.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml?viasf=1",
 		"https://master.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml?viasf=1",
 		"https://master.dl.sourceforge.net/project/sdt-weather-com/repo.xml?viasf=1",
@@ -66,6 +65,7 @@
 		"https://www.stagessound.de/bluegaspode.xml"
 	],
 	"disabled": [
+		"https://marcoc1712.it/downloads/repository.xml - anti bot barrier blocking access to the repo",
 		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
 		"http://triodeplugins.herger.net/repo.xml",
 		"http://www.koldware.net/SlimStuff/repodata.xml",
