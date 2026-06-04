@@ -145,7 +145,7 @@ my $ua = LWP::UserAgent->new(
 	}
 );
 
-$ua->agent('Mozilla/5.0, LMS buildrepo');
+$ua->agent('Mozilla/5.0, LMS buildrepo (lyrion.org)');
 
 my $statsResp = $ua->get(STATS_URL);
 my %stats;
@@ -211,6 +211,7 @@ for my $url (sort @{$includes->{repositories}}) {
 		) };
 
 		if ($@) {
+			print "bad xml ($url): $@\n";
 			die "bad xml ($url) $@";
 		}
 
