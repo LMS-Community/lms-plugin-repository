@@ -211,7 +211,7 @@ for my $url (sort @{$includes->{repositories}}) {
 		) };
 
 		if ($@) {
-			print "bad xml ($url): $@\n";
+			print "bad xml ($url): $@\n\n$content\n";
 			die "bad xml ($url) $@";
 		}
 
