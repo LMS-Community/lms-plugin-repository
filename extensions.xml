@@ -881,7 +881,7 @@
       <desc lang="EN">Accuradio - provides access to Accuradio streams</desc>
       <title lang="EN">Accuradio V1.*</title>
     </plugin>
-    <plugin name="Live365" category="radio" creator="bpa" installations="302" link="" maxTarget="*" minTarget="8.0" sha="5dc9789e5237833b32b59bd920f2a7a1070145c9" url="https://bpa-code.github.io/bpaplugins/Live365-V1_03.ZIP" version="1.03">
+    <plugin name="Live365" category="radio" creator="bpa" installations="302" link="" maxTarget="*" minTarget="8.0" sha="d1af0a42c0bc038fb6308a43f23eecfab6c91d99" url="https://bpa-code.github.io/bpaplugins/Live365-V1_04.ZIP" version="1.04">
       <desc lang="EN">Live365 - provides access to Live365 directory of internet stations</desc>
       <title lang="EN">Live365 V1.*</title>
     </plugin>
@@ -909,23 +909,23 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="4016" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="ddd8ebece156583c2692f68a031808a2bcc6cf24" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.3.9.zip" version="3.3.9">
+    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="4016" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="b476044fb08f95630afd951c93615a13a2cd383d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.4.1.zip" version="3.4.1">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
-    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="2854" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="8e5cbb5704c4167e4a7b3bdefa2f4d25ff619153" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.310.zip" version="0.310">
+    <plugin name="YouTube" category="musicservices" creator="Philippe" email="philippe_44@outlook.com" installations="2854" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="97b69c842c67f649b61727d5fc9ec988d21cfcd1" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.410.0.zip" version="0.410.0">
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3288" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="85bda2ca914c0911f8d028bd3c0860859d5bdd09" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.7.7.zip" version="1.7.7">
+    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3288" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="1c8c8ac44eb2af322ec23147b66bd41cc5dfd64f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.5.zip" version="1.8.5">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1818" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="0802d3008852709d2dc91be04cd1fdfd001699b0" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.3.9.zip" version="3.3.9">
+    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1818" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="2da753d6e0a4cba51ec30873a6fd2faf97069405" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.4.1.zip" version="3.4.1">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2787" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="578c834567937986f54c61ddf287a79b3aecad6e" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.7.2.zip" version="1.7.2">
+    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2787" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="620ad341884cc5785fe5dc6c1562ea6b17c785fc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.13.zip" version="1.9.13">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -933,8 +933,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="592" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="9.*" minTarget="7.4" sha="490da6eb9bafa55f7d9f454310838bcf46e28f62" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-1.zip" version="5.12.1">
-      <changes lang="EN">Fixed MLB Game Start Time.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="592" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="0cf6e68a196b4b0f9682f51c8bf7f8f53311b1e6" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-12.zip" version="5.12.12">
+      <changes lang="EN">Added FIFA World Cup to soccer league pull down selection.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -1304,13 +1304,13 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="937" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="341b9b1fb3a76283cfd72f2d1a820e98bf682c78" url="https://www.herger.net/_data/1001Albums-1.6.1.zip" version="1.6.1">
-      <changes lang="EN">v1.6.0: add support for Material's Home Extras. v1.6.1: auto update Home Extra.</changes>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="937" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="00031cd062ce37d7496d096d96413b69b868f7e7" url="https://www.herger.net/_data/1001Albums-1.4.2.zip" version="1.4.2">
+      <changes lang="EN">v1.4.1: add support for Deezer plugin - thanks Paul Webster! v1.4.2: prioritize lossless services over lossy.</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1110" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="b0ed7975ce3bce906b3c3d7e8fcba21ba902f0a1" url="https://www.herger.net/_data/Bandcamp-1.12.0.zip" version="1.12.0">
-      <changes lang="EN">v1.12.0: add support for Material's Home Extras; allow deletion of recent searches and listens (thanks @jbylsma!).</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1110" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="30895979795d3ba099c9df02a224fab69d53d8d3" url="https://www.herger.net/_data/Bandcamp-1.11.0.zip" version="1.11.0">
+      <changes lang="EN">v1.11.0: fix genre browsing.</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
@@ -1326,7 +1326,7 @@
       <desc lang="EN">Export your music library as a Docset to be used with Dash (http://kapeli.com/dash). This allows you to quickly search your library on your Mac computer without firing up the Logitech Media Server web UI.</desc>
       <title lang="EN">Create docsets for Dash</title>
     </plugin>
-    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="456" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="66d276d3b9f039a6f9bb61981837b9982e16f026" url="https://www.herger.net/_data/DRS-1.5.10.zip" version="1.5.10">
+    <plugin name="DRS" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/srf.svg" installations="456" link="https://www.herger.net/DRS/" maxTarget="*" minTarget="7.5" sha="ebd84dd6689c4ef0f6db02b68338a49de3d432a2" url="https://www.herger.net/_data/DRS-1.5.9.zip" version="1.5.9">
       <desc lang="EN">Swiss Radio SRF Stream Meta Information Parser</desc>
       <desc lang="DE">Schweizer Radio SRF Meta Informations Parser</desc>
       <title lang="EN">Radio SRF Meta Information</title>
@@ -1341,13 +1341,13 @@
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
-    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="139" link="" maxTarget="*" minTarget="7.9" sha="9b6fb09dfb719f1bd5f3f52cb5f87b870b12dc15" url="https://www.herger.net/_data/ImageProxy-1.1.2.zip" version="1.1.2">
-      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring. v1.1.1: always define an output format and quality (wsrv.nl)</changes>
+    <plugin name="ImageProxy" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/resize.svg" installations="139" link="" maxTarget="*" minTarget="8.3" sha="bd18503e51f6aca590c0c1a76c7eca59d9652596" url="https://www.herger.net/_data/ImageProxy-1.1.1.zip" version="1.1.1">
+      <changes lang="EN">v1.1.0: Add option to add headers for external image proxies; improve daemon monitoring.</changes>
       <desc lang="EN">Allows you to configure external image proxies to be used by LMS. Offload the heavy image processing to an external service.</desc>
       <title lang="EN">Image Proxy configuration helper</title>
     </plugin>
-    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="544" link="" maxTarget="*" minTarget="7.9" sha="2353cb542d352b268a80b83a31da74fb0447c73b" url="https://www.herger.net/_data/LastMix-2.4.2.zip" version="2.4.2">
-      <changes lang="EN">v2.4.0 - Add &quot;Artist Mix&quot; artist menu item; add back a &quot;Love Track&quot; handler. v2.4.1 - Fix compatibility with older LMS versions; bug fixes. v2.4.2 - Fix username when loving a track.</changes>
+    <plugin name="LastMix" category="playlists" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/LastMix/master/HTML/EN/plugins/LastMix/html/icon.png" installations="544" link="" maxTarget="*" minTarget="7.9" sha="8a9564f6630c7cf67fd370900fa5bd244ffed72b" url="https://www.herger.net/_data/LastMix-2.3.0.zip" version="2.3.0">
+      <changes lang="EN">v2.3.0 - Improve tag mixing by getting more tracks to pick from, and balanced shuffle.</changes>
       <desc lang="EN">LastMix allows you to create Last.fm based mixes for the &quot;Don't Stop The Music&quot; plugin.</desc>
       <title lang="EN">LastMix - Don't Stop The Music support using Last.fm.</title>
     </plugin>
@@ -1355,8 +1355,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="5833" link="" maxTarget="*" minTarget="8.0" sha="c78d4a65453a19eb6c38c8fa8201547a274cff66" url="https://www.herger.net/_data/MusicArtistInfo-1.29.2.zip" version="1.29.2">
-      <changes lang="EN">v1.29.0 - improve handling of instrumental tracks; try to avoid unnecessary API calls by queuing them up. v1.29.2 - tweaking the lyrics lookup</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="5833" link="https://www.herger.net/MusicArtistInfo/" maxTarget="*" minTarget="7.6" sha="f42e9aae6bfacba839386c263f47339e4f6f4c28" url="https://www.herger.net/_data/MusicArtistInfo-1.19.2.zip" version="1.19.2">
+      <changes lang="EN">v1.19.0 - add support for AI generated Artist Biographies. v1.19.1 - don't label AI generated biography &quot;wikipedia&quot;. v1.19.2 - improve layout in Default skin; respect rate limiting.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
@@ -1383,11 +1383,11 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0: add shortcut to play best quality stream of each mix. v3.6.5: fix redirect loop discovery." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4625" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="c36c2838bd43bd69607f95a7510209a0bd3e492c" url="https://www.herger.net/_data/RadioParadise-3.6.5.zip" version="3.6.5">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0 - add shortcut to play best quality stream of each mix." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4625" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="fc6c6cb2e18ba1df85796006162f24f4b64db875" url="https://www.herger.net/_data/RadioParadise-3.6.0.zip" version="3.6.0">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.60.0: Fix authorization compatibility with latest Spotify API changes. v4.60.6: improve compatibility with restricted custom client IDs (thanks @urknall!). v4.60.8: Minor tweaks." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6754" link="" maxTarget="*" minTarget="7.7" sha="62999cde295f3d9cb21d19a19e79f04ccdfee135" url="https://downloads.nixda.ch/Spotty-4.60.8.zip" version="4.60.8">
+    <plugin name="Spotty" category="musicservices" changes="v4.51.0: new helpers based on librespot 0.7.1, restore Pi0 compatibility. v4.51.1: improve helper cleanup and token refresh handling. v4.51.2: fix auth failure; improve communication wrt. the requirement for a Premium subscription." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6754" link="" maxTarget="*" minTarget="7.7" sha="a28d414190fff5308dbcff368c7d860ad7298bd2" url="https://downloads.nixda.ch/Spotty-4.51.2.zip" version="4.51.2">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
