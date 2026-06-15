@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Install depedencies
         if: ${{ !env.ACT }}
-        uses: awalsh128/cache-apt-pkgs-action@latest
+        uses: awalsh128/cache-apt-pkgs-action@v1.6.1
         with:
           packages: libjson-perl libxml-simple-perl libwww-perl
           version: 1
