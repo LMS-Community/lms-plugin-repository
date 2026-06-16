@@ -62,7 +62,8 @@
 		"https://www.gwendesign.com/sc/repo/repo.xml",
 		"https://www.herger.net/slim-plugins/repo.xml",
 		"https://www.hickinbottom.com/sc-plugins/repo.xml",
-		"https://www.stagessound.de/bluegaspode.xml"
+		"https://www.stagessound.de/bluegaspode.xml",
+		"https://raw.githubusercontent.com/hjelev/lyr-radio-browser/master/repo.xml"
 	],
 	"disabled": [
 		"https://marcoc1712.it/downloads/repository.xml - anti bot barrier blocking access to the repo",
