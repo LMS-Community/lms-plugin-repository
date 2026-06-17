@@ -1068,7 +1068,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="RadioBrowser" category="radio" creator="hjelev" email="jeleff@gmail.com" link="https://masoko.net/lyr-radio-browser/" maxTarget="9.*" minTarget="8.0" sha="f5663a5824e356cade82e336c2bef09882016912" url="https://github.com/hjelev/lyr-radio-browser/releases/download/v0.2.10/RadioBrowser-0.2.10.zip" version="0.2.10">
+    <plugin name="RadioBrowser" category="radio" creator="hjelev" email="jeleff@gmail.com" link="https://masoko.net/lyr-radio-browser/" maxTarget="9.*" minTarget="8.0" sha="65ff35a642f75ab9199fa77c90f17bfbb2635170" url="https://github.com/hjelev/lyr-radio-browser/releases/download/v0.2.12/RadioBrowser-0.2.12.zip" version="0.2.12">
       <desc lang="EN">Browse and play internet radio stations from the community-driven Radio Browser directory (api.radio-browser.info). Search, top stations, by tag/genre and by country.</desc>
       <title lang="EN">Radio Browser</title>
     </plugin>
