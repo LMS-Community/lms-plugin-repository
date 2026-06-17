@@ -1068,6 +1068,10 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
+    <plugin name="RadioBrowser" category="radio" creator="hjelev" email="jeleff@gmail.com" link="https://masoko.net/lyr-radio-browser/" maxTarget="9.*" minTarget="8.0" sha="498c5f9fbc3c3c58420cad6ead200a1c7e2bad63" url="https://github.com/hjelev/lyr-radio-browser/releases/download/v0.2.9/RadioBrowser-0.2.9.zip" version="0.2.9">
+      <desc lang="EN">Browse and play internet radio stations from the community-driven Radio Browser directory (api.radio-browser.info). Search, top stations, by tag/genre and by country.</desc>
+      <title lang="EN">Radio Browser</title>
+    </plugin>
     <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="2424" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="c97617210093d4743db20c3de1438592f3f53980" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.8.1/TIDAL.zip" version="1.8.1">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
