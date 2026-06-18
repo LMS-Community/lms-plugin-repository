@@ -75,12 +75,12 @@
                         </desc>
       <title lang="EN">License Manager</title>
     </applet>
-    <applet name="CustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="893b9a4758dd36ce498eb0a9dd01d1867ace7603" target="jive|fab4|baby" url="http://lms.hashsum.org/CustomClock_2_29_1.zip" version="2.29.1">
+    <applet name="CustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="1bcea12b51ff2a1181789b9b92957420aeb39957" target="jive|fab4|baby" url="http://lms.hashsum.org/CustomClock_2_29_2.zip" version="2.29.2">
       <changes lang="EN"> - various fixes and lms imageproxy support</changes>
       <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.</desc>
       <title lang="EN">CustomClock</title>
     </applet>
-    <applet name="JLCustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="cd53664d561983156702eece82f3c64401797dee" target="jivelite" url="http://lms.hashsum.org/JLCustomClock_2_29_1.zip" version="2.29.1">
+    <applet name="JLCustomClock" creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="50d5fc6c46a7212910664b8050ff4894c5edb34c" target="jivelite" url="http://lms.hashsum.org/JLCustomClock_2_29_2.zip" version="2.29.2">
       <changes lang="EN"> - various fixes and lms imageproxy support</changes>
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
       <title lang="EN">CustomClock for Jivelite</title>
