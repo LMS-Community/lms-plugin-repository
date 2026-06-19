@@ -933,8 +933,8 @@
       <desc lang="EN">Reliable HTTP connection for LMS</desc>
       <title lang="EN">Reliable HTTP</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="587" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="0cf6e68a196b4b0f9682f51c8bf7f8f53311b1e6" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-12.zip" version="5.12.12">
-      <changes lang="EN">Added FIFA World Cup to soccer league pull down selection.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="587" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="ffb236baacf6d67f2d49791356d810b94c56ba89" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-13.zip" version="5.12.13">
+      <changes lang="EN">Tweaked weather API calls.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -1313,8 +1313,8 @@
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
-    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1093" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="b0ed7975ce3bce906b3c3d7e8fcba21ba902f0a1" url="https://www.herger.net/_data/Bandcamp-1.12.0.zip" version="1.12.0">
-      <changes lang="EN">v1.12.0: add support for Material's Home Extras; allow deletion of recent searches and listens (thanks @jbylsma!).</changes>
+    <plugin name="Bandcamp" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/bandcamp.png" installations="1093" link="https://www.herger.net/slim/" maxTarget="*" minTarget="7.6" sha="8f009be2437f5f9b79782a4078bfc4d7e256bed6" url="https://www.herger.net/_data/Bandcamp-1.12.1.zip" version="1.12.1">
+      <changes lang="EN">v1.12.0: add support for Material's Home Extras; allow deletion of recent searches and listens (thanks @jbylsma!). v1.12.1: fix issue with track playback in queues (thanks @benroeder).</changes>
       <desc lang="EN">Browse and play artists and tracks from bandcamp.com.</desc>
       <title lang="EN">Band's Campout</title>
     </plugin>
