@@ -53,7 +53,7 @@ jobs:
             echo No changes to commit
           else
             git config user.name "LMS Extensions Repository Updater"
-            git config user.email "noreply-extensions-updater@logitech.com"
+            git config user.email "noreply-gitmaster@lms-community.org"
             git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
             git push
           fi
