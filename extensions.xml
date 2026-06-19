@@ -1032,7 +1032,7 @@
       <desc lang="EN">Limit queue history size</desc>
       <title lang="EN">Queue Limit</title>
     </plugin>
-    <plugin name="SqueezeDSP" category="tools" changes="Added strict album gain and track gain, tweaked autoeq dropdown, tidied up transcoder template, rebuilt in go 1.26" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="480" link="" maxTarget="*" minTarget="7.8.0" sha="154d720ca9b66f2574bc684cde0213b867e12db1" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.61/SqueezeDSP-0.1.61.zip" version="0.1.61">
+    <plugin name="SqueezeDSP" category="tools" changes="Direct Encoding of MP3 and Flac, simplified conversion rules, downsamples to match player, caches track gain" creator="Jonathan Fox" icon="https://raw.githubusercontent.com/Foxenfurter/SqueezeDSP/refs/heads/main/SqueezeDSP/HTML/EN/plugins/SqueezeDSP/images/squeezedsp-blu.png" info="https://github.com/Foxenfurter/SqueezeDSP/blob/main/README.md" installations="480" link="" maxTarget="*" minTarget="7.8.0" sha="ce042dd693370f4467f02491f9741a1c87a92a79" url="https://github.com/Foxenfurter/SqueezeDSP/releases/download/v0.1.71/SqueezeDSP-0.1.71.zip" version="0.1.71">
       <desc lang="EN">DSP for Lyrion Music Server - provides EQ and DSP.</desc>
       <title lang="EN">SqueezeDSP</title>
     </plugin>
