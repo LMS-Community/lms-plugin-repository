@@ -40,6 +40,7 @@
 		"https://raw.githubusercontent.com/LMS-Community/plugin-LocalPlayer/master/repo.xml",
 		"https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/repo/repo.xml",
 		"https://raw.githubusercontent.com/LMS-Community/plugin-SigGen/master/repo.xml",
+		"https://raw.githubusercontent.com/marcoc1712/LyrionMc2Repo/refs/heads/main/repo.xml",
 		"https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/repo/repo.xml",
 		"https://raw.githubusercontent.com/millerdev/lms-ultralight/master/repo.xml",
 		"https://raw.githubusercontent.com/mtxmiller/MobileTranscode/main/repo.xml",
@@ -66,7 +67,6 @@
 		"https://raw.githubusercontent.com/hjelev/lyr-radio-browser/master/repo.xml"
 	],
 	"disabled": [
-		"https://marcoc1712.it/downloads/repository.xml - anti bot barrier blocking access to the repo",
 		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
 		"http://triodeplugins.herger.net/repo.xml",
 		"http://www.koldware.net/SlimStuff/repodata.xml",
