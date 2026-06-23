@@ -524,7 +524,7 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
-    <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="24" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="be582947f4f73f3f8732ff25a4d597e6be62eb01" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.81/YM.zip" version="0.81">
+    <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="24" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="500deccdd4b4c9e9f6e53d6fd10e3b40521e4368" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.82/YM.zip" version="0.82">
       <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
       <title lang="EN">yandex</title>
     </plugin>
