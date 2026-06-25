@@ -952,7 +952,7 @@
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Si vous le sautez avant, il compte comme sauté, pas comme joué. Permet d'enregistrer un historique de lecture détaillé avec date et heure, lecteur et évaluation au moment de la lecture. Utilisez les données avec d'autres plugins pour créer/lire des listes de lecture intelligentes (listes de lecture dynamiques), créer des bibliothèques virtuelles ou sauter des morceaux.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/cs_icon.png" installations="183" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="b4fed1f524805e8153da8d586107895b3a138911" url="https://github.com/AF-1/lms-contextstats/releases/download/1.1.1/lms-contextstats-1.1.1.zip" version="1.1.1">
+    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/cs_icon.png" installations="183" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="5490b5fe742263782146eedbfdadf4c8f3cd8f54" url="https://github.com/AF-1/lms-contextstats/releases/download/1.1.2/lms-contextstats-1.1.2.zip" version="1.1.2">
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
