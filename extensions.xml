@@ -1072,7 +1072,7 @@
       <desc lang="EN">Browse and play internet radio stations from the community-driven Radio Browser directory (api.radio-browser.info). Search, top stations, by tag/genre and by country.</desc>
       <title lang="EN">Radio Browser</title>
     </plugin>
-    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="373" link="" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="https://github.com/marcoc1712/C-3PO/releases/download/2.03.02/C3PO-v2.03.02.zip" version="2.03.02">
+    <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="373" link="" maxTarget="*" minTarget="7.8.0" sha="482b59623440db8c63de58c6e698dade0206013e" url="https://github.com/marcoc1712/C-3PO/releases/download/2.03.02/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
