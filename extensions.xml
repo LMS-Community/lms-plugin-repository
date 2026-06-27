@@ -90,7 +90,7 @@
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="ac6cdab93c7cd4f238db3ad4c66eff599dc26087" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.3.1.zip" version="1.3.1">
-      <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). IMPORTANT - piCorePlayer 10: this applet requires the original jivelite. Does not work with jivelite-vis. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
+      <desc lang="EN">This applet installs the Dark Flat Skin on your piCorePlayer (800 x 480 resolution). IMPORTANT - piCorePlayer 10+: this applet requires the original jivelite. Does not work with jivelite-vis. *** More information, screenshots and FAQ on https://github.com/AF-1</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="daa7ee7cfc884e99de848de8a378423b7f4ccbeb" target="fab4" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-fab4-1.3.1.zip" version="1.3.1">
@@ -998,7 +998,7 @@
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
-    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="514" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="8e6cddb1bd181e4d402ecd1129dd7c2e4d43f676" url="https://github.com/AF-1/lms-visualstatistics/releases/download/2.0.2/lms-visualstatistics-2.0.2.zip" version="2.0.2">
+    <plugin name="VisualStatistics" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-visualstatistics/main/screenshots/vs_icon.png" installations="514" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="1aa527ccefb92e7e51e287f905dcbba18c8abf18" url="https://github.com/AF-1/lms-visualstatistics/releases/download/2.0.3/lms-visualstatistics-2.0.3.zip" version="2.0.3">
       <desc lang="EN">Have a look at your library statistics with charts.</desc>
       <desc lang="FR">Explorez les statistiques de votre librairie avec des graphiques.</desc>
       <desc lang="NL">Bekijk jouw mediabibliotheek statistieken door middel van grafieken.</desc>
