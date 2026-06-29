@@ -889,7 +889,7 @@
       <desc lang="EN">Add providers to podcast</desc>
       <title lang="EN">Podcast Extensions</title>
     </plugin>
-    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" installations="804" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="acd1d1a71e5460121a5ccc274f10ff8716858c8d" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.18.0.zip" version="0.18.0">
+    <plugin name="Groups" category="tools" creator="Philippe" email="philippe_44@outlook.com" installations="804" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="07425b3dcefafd45621fdcc26f3e0d3e0c54a493" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.18.1.zip" version="0.18.1">
       <desc lang="EN">on-the-fly group creation</desc>
       <title lang="EN">Group Players</title>
     </plugin>
