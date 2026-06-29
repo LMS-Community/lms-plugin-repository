@@ -1048,6 +1048,16 @@
       <desc lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
       <title lang="EN">Local Player</title>
     </plugin>
+    <plugin name="NonLatinForSBClassic" category="information" creator="Michael Herger" link="https://github.com/LMS-Community/plugin-NonLatinForSBClassic" maxTarget="*" minTarget="9.2" sha="aaa7fa97f6d1eeec20cd7be236a5750b858e1c9a" url="https://github.com/LMS-Community/plugin-NonLatinForSBClassic/releases/download/1.0.0/NonLatinForSBClassic.zip" version="1.0.0">
+      <desc lang="EN">The Go Noto Universal font allows you to render non-latin characters on the graphics capable ip3k based players (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
+      <desc lang="DE">Die Go Noto Universal-Schriftart erm�glicht es Ihnen, nicht-lateinische Zeichen auf den grafikalisch leistungsf�higen ip3k-basierten Playern wiederzugeben (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
+      <desc lang="FR">La police Go Noto Universal vous permet de rendre les caract�res non-latins sur les lecteurs bas�s sur ip3k capables de graphiques (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
+      <desc lang="NL">Het Go Noto Universal lettertype stelt u in staat niet-Latijnse tekens weer te geven op grafisch capable ip3k-gebaseerde spelers (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
+      <title lang="DE">Nicht-lateinische Texte auf der Squeezebox Classic Familie darstellen</title>
+      <title lang="EN">Render non-latin text on the Squeezebox Classic family</title>
+      <title lang="FR">Rendre du texte non-latin sur la famille Squeezebox Classic</title>
+      <title lang="NL">Niet-Latijnse tekst weergeven op de Squeezebox Classic-familie</title>
+    </plugin>
     <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="2688" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="9ac1ecd5df878cc3c74df1555ebc7123dc855935" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.7.0/Qobuz.zip" version="3.7.0">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
