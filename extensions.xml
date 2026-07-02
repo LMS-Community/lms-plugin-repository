@@ -524,7 +524,11 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
-    <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="29" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="500deccdd4b4c9e9f6e53d6fd10e3b40521e4368" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.82/YM.zip" version="0.82">
+    <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="29" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="15ea5e289240a7b01cb2eaa20b12c499a9646340" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.83/ym083.zip" version="0.83">
+      <changes lang="EN">fix: Add track numbers to scanned albums;
+                               fix: Use trackPosition.index for TRACKNUM in scanned albums;
+                               fix: Sort album/audiobook tracks numerically by trackNumber
+            </changes>
       <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
       <title lang="EN">yandex</title>
     </plugin>
