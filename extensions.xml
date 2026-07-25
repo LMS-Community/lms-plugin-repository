@@ -1012,15 +1012,15 @@
       <desc lang="EN">Start playback when powered on or reconnected</desc>
       <title lang="EN">Auto Play</title>
     </plugin>
-    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="144" link="" maxTarget="*" minTarget="7.9.0" sha="15861f7fe390cd8243b1b744156c36c1cf407977" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-linux-0.9.0.zip" version="0.9.0">
+    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="144" link="" maxTarget="*" minTarget="7.9.0" sha="0aa1e9b930a1eb89c38cddce88f171afb6ff2483" target="unix" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.10.0/lms-blissmixer-linux-0.10.0.zip" version="0.10.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="144" link="" maxTarget="*" minTarget="7.9.0" sha="d99bf8d0fa8b40ced52b58e4c18364ce0b0d617a" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-mac-0.9.0.zip" version="0.9.0">
+    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="144" link="" maxTarget="*" minTarget="7.9.0" sha="4b3baef77f8785d04070a8974bf303ad89159256" target="mac" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.10.0/lms-blissmixer-mac-0.10.0.zip" version="0.10.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="144" link="" maxTarget="*" minTarget="7.9.0" sha="b25e57065a9665abc5d9682a4e5681442dd35569" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.9.0/lms-blissmixer-windows-0.9.0.zip" version="0.9.0">
+    <plugin name="BlissMixer" category="playlists" creator="Craig Drummond" installations="144" link="" maxTarget="*" minTarget="7.9.0" sha="3992922d9738ff2ef835281ec382e080e1f420c2" target="windows" url="https://github.com/CDrummond/lms-blissmixer/releases/download/0.10.0/lms-blissmixer-windows-0.10.0.zip" version="0.10.0">
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
