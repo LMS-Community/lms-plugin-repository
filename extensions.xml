@@ -1332,7 +1332,7 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="893" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="d4b1be3ab9c1f67330aa1d9a3c6e4c8e0d5fea71" url="https://www.herger.net/_data/1001Albums-1.7.0.zip" version="1.7.0">
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="893" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="69192840aa4d5d94a71e26ac10a8761aea60145b" url="https://www.herger.net/_data/1001Albums-1.7.0.zip" version="1.7.0">
       <changes lang="EN">v1.7.0: add support for the SpotOn plugin (@woorszt).</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
