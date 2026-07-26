@@ -951,12 +951,12 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_repo_icon.png" installations="248" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="821dad346e2b07b30d99fc84730d345c0f6d2c7a" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.9.2/lms-alternativeplaycount-1.9.2.zip" version="1.9.2">
+    <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="248" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="821dad346e2b07b30d99fc84730d345c0f6d2c7a" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.9.2/lms-alternativeplaycount-1.9.2.zip" version="1.9.2">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Optionally records a detailed play history with timestamps, player and rating at the time of play, with display for individual tracks, albums, artists or all tracks. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Si vous le sautez avant, il compte comme sauté, pas comme joué. Permet d'enregistrer un historique de lecture détaillé avec date et heure, lecteur et évaluation au moment de la lecture. Utilisez les données avec d'autres plugins pour créer/lire des listes de lecture intelligentes (listes de lecture dynamiques), créer des bibliothèques virtuelles ou sauter des morceaux.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
-    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/ContextStats/HTML/EN/plugins/ContextStats/html/images/cs_icon.png" installations="172" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="e47cd979de98e68905c4009c8eade422a2679e28" url="https://github.com/AF-1/lms-contextstats/releases/download/1.1.4/lms-contextstats-1.1.4.zip" version="1.1.4">
+    <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/screenshots/cs_icon.png" installations="172" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="e47cd979de98e68905c4009c8eade422a2679e28" url="https://github.com/AF-1/lms-contextstats/releases/download/1.1.4/lms-contextstats-1.1.4.zip" version="1.1.4">
       <desc lang="EN">Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.</desc>
       <title lang="EN">Context Stats</title>
     </plugin>
@@ -964,7 +964,7 @@
       <desc lang="EN">Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
-    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/CustomStartStopTimes/HTML/EN/plugins/CustomStartStopTimes/html/images/csst_icon.png" installations="63" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="aa304841e0935a0ef09538130a9e4a722eae6fd2" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.4/lms-customstartstoptimes-1.2.4.zip" version="1.2.4">
+    <plugin name="CustomStartStopTimes" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-customstartstoptimes/main/screenshots/csst_icon.png" installations="63" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="aa304841e0935a0ef09538130a9e4a722eae6fd2" url="https://github.com/AF-1/lms-customstartstoptimes/releases/download/1.2.4/lms-customstartstoptimes-1.2.4.zip" version="1.2.4">
       <desc lang="EN">Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).</desc>
       <title lang="EN">Custom Start Stop Times</title>
     </plugin>
@@ -1113,6 +1113,12 @@
     <plugin name="UnifiedHiFi" category="misc" creator="Muness Castle" installations="48" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="dadf360cb740e67922ab2ef669080e7223b2c4a9" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v3.3.2/lms-unified-hifi-control-3.3.2.zip" version="3.3.2">
       <desc lang="EN">Source-agnostic hi-fi control bridge for Roon, LMS, HQPlayer, and hardware knobs. Provides HTTP APIs, MQTT integration, and web UI for controlling your audio system from anywhere.</desc>
       <title lang="EN">Unified Hi-Fi Control</title>
+    </plugin>
+    <plugin name="RadioHelsinki" category="musicservices" creator="Miska" link="https://github.com/patapovich/rh-ondemand-lyrion" maxTarget="*" minTarget="8.2" sha="ed649061cfa22366ac6394a869a7844bc8fe881e" url="https://github.com/patapovich/rh-ondemand-lyrion/releases/download/v1.4.0/RadioHelsinki-1.4.0.zip" version="1.4.0">
+      <desc lang="EN">Browse and play Radio Helsinki on-demand programs, podcasts and clips.</desc>
+      <desc lang="FI">Selaa ja kuuntele Radio Helsingin ohjelmia, podcasteja ja klippej�.</desc>
+      <title lang="EN">Radio Helsinki</title>
+      <title lang="FI">Radio Helsinki</title>
     </plugin>
     <plugin name="Deezer" category="musicservices" creator="philippe_44, Michael Herger" installations="1194" link="https://github.com/philippe44/lms-deezer" maxTarget="*" minTarget="8.3" sha="ecf68b6b76916ce2098e454363e6670a34d3d5cf" url="https://github.com/philippe44/lms-deezer/releases/download/3.2.1/Deezer.zip" version="3.2.1">
       <desc lang="EN">Deezer for local LMS use</desc>
@@ -1326,8 +1332,8 @@
       <desc lang="DE">IR Blaster erlaubt es, andere Geraete (z.B. einen Verstaerker) mittels IR zu steuern, wenn gewisse Ereignisse eintreten (z.B. Ein- und Ausschalten oder Lautstaekeaenderung) der SB Classic, Transporter oder SB Touch.</desc>
       <title lang="EN">IR Blaster</title>
     </plugin>
-    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="893" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="341b9b1fb3a76283cfd72f2d1a820e98bf682c78" url="https://www.herger.net/_data/1001Albums-1.6.1.zip" version="1.6.1">
-      <changes lang="EN">v1.6.0: add support for Material's Home Extras. v1.6.1: auto update Home Extra.</changes>
+    <plugin name="1001Albums" category="musicservices" creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/1001Albums/master/HTML/EN/plugins/1001Albums/html/icon_svg.png" installations="893" link="https://1001albumsgenerator.com" maxTarget="*" minTarget="7.9.0" sha="d4b1be3ab9c1f67330aa1d9a3c6e4c8e0d5fea71" url="https://www.herger.net/_data/1001Albums-1.7.0.zip" version="1.7.0">
+      <changes lang="EN">v1.7.0: add support for the SpotOn plugin (@woorszt).</changes>
       <desc lang="EN">A book with 1001 albums chosen by a panel of music critics to be the most important and influential in popular music. This plugin will help you listen to them all. One album a day.</desc>
       <title lang="EN">1001 Albums you must hear before you die</title>
     </plugin>
