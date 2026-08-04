@@ -913,7 +913,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3787" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="6bc78dc9013c069934a81f65debe484d028ada08" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.4.3.zip" version="3.4.3">
+    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3787" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="00e1ca7c9cdd44a88859b33b6390491caadb9858" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.4.4.zip" version="3.4.4">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -921,7 +921,7 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3100" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="2b92c291a87502b47fb58f27b47ed5cbc0b29f5a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.6.zip" version="1.8.6">
+    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3100" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="e749046c2c9c3fc33cb4982b8479037a509600d1" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.7.zip" version="1.8.7">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
