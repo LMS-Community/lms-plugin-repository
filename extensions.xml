@@ -226,12 +226,12 @@
   <plugins>
     <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="331" link="http://forums.lyrion.org/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="9dbd38554ba46a69dbd3cc8efed85ab72b550adf" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.24.zip" version="1.2.24">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books.</desc>
-      <desc lang="DE">Lesezeichen f�r k�rzlich geh�rte Alben. N�tzlich f�r H�rspiele und H�rb�cher.</desc>
+      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher.</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="64" link="http://forums.lyrion.org/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Erm�glicht es die Shuffle, Repeat und &quot;an Playliste anh�ngen&quot;-Modi f�r alle Clients zu sperren. Sie k�nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -267,15 +267,15 @@
 				- Radio France removed some of their APIs so change plugin to try to adapt
 			</changes>
       <changes lang="FR">
-				- Mettre à jour les logos des stations et certains noms de stations 'ici' 
-				- Pour Mouv - toutes les stations secondaires sont fermées
+				- Mettre Ã  jour les logos des stations et certains noms de stations 'ici' 
+				- Pour Mouv - toutes les stations secondaires sont fermÃ©es
 				- Ajouter Mon tout petit France Inter
-				- Pour France Info, utiliser des icônes spécifiques au programme
+				- Pour France Info, utiliser des icÃ´nes spÃ©cifiques au programme
 				- Merci @Atmis
-				- Radio France a supprimé certaines de ses API, il faut donc changer de plugin pour tenter de s'adapter.
+				- Radio France a supprimÃ© certaines de ses API, il faut donc changer de plugin pour tenter de s'adapter.
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
-      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture à la demande</desc>
+      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture Ã  la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
     <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/logo/CBCCanadaFrancais.png" installations="185" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="ed9e415fb243e72eca485b723401bcb209087bf4" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.8.zip" version="0.0.8">
@@ -283,12 +283,12 @@
 				- One of the data sources changed with the result that some stations did not have their metadata fetched
 			</changes>
       <changes lang="FR">
-				- L'une des sources de données a changé, ce qui a eu pour conséquence que les métadonnées de certaines stations n'ont pas pu être récupérées
+				- L'une des sources de donnÃ©es a changÃ©, ce qui a eu pour consÃ©quence que les mÃ©tadonnÃ©es de certaines stations n'ont pas pu Ãªtre rÃ©cupÃ©rÃ©es
 			</changes>
-      <desc lang="EN">CBC Radio-Canada Français programme and track information
+      <desc lang="EN">CBC Radio-Canada FranÃ§ais programme and track information
 			</desc>
-      <desc lang="FR">CBC Radio-Canada Français - info sur le programme et morceau de musique</desc>
-      <title lang="EN">CBC Radio-Canada Français</title>
+      <desc lang="FR">CBC Radio-Canada FranÃ§ais - info sur le programme et morceau de musique</desc>
+      <title lang="EN">CBC Radio-Canada FranÃ§ais</title>
     </plugin>
     <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/planetradio_svg.png" installations="405" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="ea36dc21bb0a6f920d08fe74b4940e28a0691e3c" url="http://radionowplaying.com/slimserver-rep/PlanetRadio-0.0.30.zip" version="0.0.30">
       <changes lang="EN">
@@ -318,10 +318,10 @@
 				- Add CKUT - Montreal, QC (ca) - artist, title, album and CoverSearch - programme title, synopsis and duration
 				- Add CKUW - Winnipeg, MB (ca) - programme title, subtitle and duration - sometimes artist, title, album, label and CoverSearch
 				- Add Cherry FM - Yakima, WA - artist, title, duration and cover art
-				- Add Cidade FM (pt) - artist, title, album and cover art (song timings variable) - programme name (except for Música NonStop), icon and duration - 4 stations
+				- Add Cidade FM (pt) - artist, title, album and cover art (song timings variable) - programme name (except for MÃºsica NonStop), icon and duration - 4 stations
 				- Add Classic Rock Hard Radio - artist, title, album and CoverSearch
 				- Add Colorado Public Radio - Centennial, CO - artist, title, album, label, composer (Classical station), duration and CoverSearch - programme title
-				- Add Distorsión.FM - artist, title and CoverSarch - includes flac (but LMS does not like it much)
+				- Add DistorsiÃ³n.FM - artist, title and CoverSarch - includes flac (but LMS does not like it much)
 				- Add East Village Radio - New York, NY - artist, title and CoverSearch
 				- Add Europa FM (ro) - artist, title and cover art - programme title (and some fields that are not seen ... description, durationn and icon)
 				- Add Evropa 2 (cz) - artist, title, album, duration and cover art - programme title, subtitle (presenter), duration and icon
@@ -367,12 +367,12 @@
 				- Add Radio Energy (it) - artist, title and cover art - 4 stations
 				- Add Radio Italia (it) - artist, title and CoverSearch - programme name on primary station - 2 stations
 				- Add Radio Italo4you - artist, title, album and CoverSearch
-				- Add Radio România (ro) programme title and duration for many - artist, title and CoverSearch for small number of stations - 26 stations but many without any metadata
+				- Add Radio RomÃ¢nia (ro) programme title and duration for many - artist, title and CoverSearch for small number of stations - 26 stations but many without any metadata
 				- Add Radio Teddy (de) - artist, title and CoverSearch - 27 stations
 				- Add Radio Terminal (si) - artist, title and CoverSearch
 				- Add Radyo Eksen (tr) - artist, title and CoverSearch
 				- Add Radyo Modart (tr) - artist, title, duration (sometimes) and CoverSearch - programme title, description and subtitle
-				- Add Radyo ODTÜ (tr) - artist, title and CoverSearch - 9 stations (song metadata sourced in MessagePack format)
+				- Add Radyo ODTÃ (tr) - artist, title and CoverSearch - 9 stations (song metadata sourced in MessagePack format)
 				- Add Solar Radio - programme title, description, duration and icon
 				- Add Spokane Public Radio - Spokane, WA - programme title, subtitle, duration - artist, title, album, label, duration and cover art - song details not always available - 3 stations (NPR)
 				- Add Starpoint Radio - programme title, subtitle (DJ), duration and icon
@@ -423,7 +423,7 @@
 				- Add WYEP - Pittsburgh, PA - NPR station has programme info and sometimes song info. Jazzworks - artists, title, album and Coversearch - 3 stations (NPR)
 				- Add WYMS - Milwaukee, WI - artist, title, album and label - 3 stations but not same info on all
 				- Add WZBC - Newton, MA - artist, title, album, label, year and cover art - programme title, subtitle, duration and icon
-				- Add ZUN rádio (cz) - artist, title and CoverSearch - programme title
+				- Add ZUN rÃ¡dio (cz) - artist, title and CoverSearch - programme title
 				- Add Zoe Gold (be) - artist, title, album, year, duration and CoverSearch
 				- Add lalala (gr) - artist, title, duration and cover art - 8 stations
 				- Add radio.co - autoregistration of stations that use radio.co as their streaming provider - 2 stations included as placeholders (ACRN and Folk'd Up Radio) - artist, title, album, duration and cover art. There are some others already included as stand-alone stations and might move them to here in the future.
@@ -449,12 +449,12 @@
 				- For Nova (fr) - metadata source changed
 				- For Organ Media (Positively Baroque station) - metadata source changed
 				- For Progressieve Rock (nl) - syntax of metadata changed
-				- For RTÉ (ie) - add &quot;RTE&quot; as a searchable name so the accented character does not have to be entered to find it
+				- For RTÃ (ie) - add &quot;RTE&quot; as a searchable name so the accented character does not have to be entered to find it
 				- For RTL (be) - update station list and icons - now 18 stations
 				- For Radio Brennpunkt - update stream match regex
-				- For Radio Frétoise (fr) - metadata source changed
+				- For Radio FrÃ©toise (fr) - metadata source changed
 				- For Radio Jeunes Reims (fr) - metadata source changed
-				- For Radio Köln (de) - add hidden redirected streams so that LMS 9.2 RadioArtwork plugin does not start a battle
+				- For Radio KÃ¶ln (de) - add hidden redirected streams so that LMS 9.2 RadioArtwork plugin does not start a battle
 				- For Radio La Belle Aventure - stream URLs and metadata source changed
 				- For Retrosquad Radio (id) - change some stream URLs (flac gone)
 				- For SWR (de) - extra stream URLs plus update station logos
@@ -478,7 +478,7 @@
 				- Update Broadcast Radio directory - now 192 stations
 				- Updated metadata URL for a few stations to try to make them more future proof - ISEKOI Radio, Radiobilly365.com, rundfunk.fm (ch), Starter FM (au)
 
-				- Add a hidden field that is used in search, primarily so that an alternative station name can be added - such as Melodia for Μελωδία (Greek)
+				- Add a hidden field that is used in search, primarily so that an alternative station name can be added - such as Melodia for ÎÎµÎ»ÏÎ´Î¯Î± (Greek)
 				- Add ability to test for recording type in source data to determine if song is from an album rather than just relying on a name being present in the checked title field
 				- Add duration to a few stations - (Inhailer (WGUC), Radio Artifact, The Christmas Station)
 				- Add optional conversion of underscore to space in song title to (was already available for artist) - done because of Radio Romania Vacanta Fresh
@@ -503,7 +503,7 @@
 			</changes>
       <desc lang="EN">Programme and track information including cover art for over 7900 radio stations</desc>
       <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 7900 stations de radio</desc>
-      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen für mehr als 7900 Radiosender</desc>
+      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen fÃ¼r mehr als 7900 Radiosender</desc>
       <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7900 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
@@ -810,7 +810,7 @@
     </plugin>
     <plugin name="DomoticzControl" category="tools" creator="Guillaume Zin" installations="32" link="" maxTarget="*" minTarget="7.4" sha="a6f4709113682a92571609ae87a242bf085e3bbc" url="https://guillaumezin.github.io/DomoticzControl/domoticzcontrol-v1.2.4.zip" version="1.2.4">
       <desc lang="EN">Control your Domoticz devices from your Jive based player. Parameters are located in player settings</desc>
-      <desc lang="FR">Contrôle de vos périphériques Domoticz depuis votre platine basée sur Jive. Le paramétrage se fait dans l'onglet platine</desc>
+      <desc lang="FR">ContrÃ´le de vos pÃ©riphÃ©riques Domoticz depuis votre platine basÃ©e sur Jive. Le paramÃ©trage se fait dans l'onglet platine</desc>
       <title lang="EN">Domoticz Control</title>
     </plugin>
     <plugin name="PowerSave" category="tools" creator="Jason Holtzapple" email="jasonholtzapple@gmail.com" installations="637" link="" maxTarget="*" minTarget="7.4" sha="4cf01f941dea1f79914ae1251ae0f9df6230a43c" url="http://jasonholtzapple.github.io/slimdevices/plugins/powersave/7.4.1/PowerSave-7.4.1.zip" version="7.4.1">
@@ -953,7 +953,7 @@
     </plugin>
     <plugin name="AlternativePlayCount" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-alternativeplaycount/main/screenshots/apc_icon.png" installations="249" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="3ffb86487c3d35f3ff9299fd2258cb725eaa17d6" url="https://github.com/AF-1/lms-alternativeplaycount/releases/download/1.9.3/lms-alternativeplaycount-1.9.3.zip" version="1.9.3">
       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Optionally records a detailed play history with timestamps, player and rating at the time of play, with display for individual tracks, albums, artists or all tracks. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.</desc>
-      <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Définissez une durée après laquelle un morceau est considéré comme joué. Si vous le sautez avant, il compte comme sauté, pas comme joué. Permet d'enregistrer un historique de lecture détaillé avec date et heure, lecteur et évaluation au moment de la lecture. Utilisez les données avec d'autres plugins pour créer/lire des listes de lecture intelligentes (listes de lecture dynamiques), créer des bibliothèques virtuelles ou sauter des morceaux.</desc>
+      <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise Ã  reflÃ©ter votre vrai historique de lecture. DÃ©finissez une durÃ©e aprÃ¨s laquelle un morceau est considÃ©rÃ© comme jouÃ©. Si vous le sautez avant, il compte comme sautÃ©, pas comme jouÃ©. Permet d'enregistrer un historique de lecture dÃ©taillÃ© avec date et heure, lecteur et Ã©valuation au moment de la lecture. Utilisez les donnÃ©es avec d'autres plugins pour crÃ©er/lire des listes de lecture intelligentes (listes de lecture dynamiques), crÃ©er des bibliothÃ¨ques virtuelles ou sauter des morceaux.</desc>
       <title lang="EN">Alternative Play Count</title>
     </plugin>
     <plugin name="ContextStats" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-contextstats/main/screenshots/cs_icon.png" installations="178" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="e47cd979de98e68905c4009c8eade422a2679e28" url="https://github.com/AF-1/lms-contextstats/releases/download/1.1.4/lms-contextstats-1.1.4.zip" version="1.1.4">
@@ -982,7 +982,7 @@
     </plugin>
     <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="650" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="26c7cf1211a1c8751e37eeef1ae5e40c893cbb48" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.6.0/lms-dynamicplaylists-4.6.0.zip" version="4.6.0">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
-      <desc lang="FR">Jouez des mix continus de musique basés sur des critères de sélection définis dans les listes de lecture dynamiques.</desc>
+      <desc lang="FR">Jouez des mix continus de musique basÃ©s sur des critÃ¨res de sÃ©lection dÃ©finis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
       <title lang="EN">Dynamic Playlists</title>
     </plugin>
@@ -990,8 +990,8 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="171" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="37f07e1633c498cbf2a7cbe6291dd42bc4bc8e19" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.4/lms-potpourri-1.1.4.zip" version="1.1.4">
-      <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
+    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="171" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="20b973a1ec334678fb2393dbbfd6702fd06f56aa" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.5/lms-potpourri-1.1.5.zip" version="1.1.5">
+      <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracksâ¦ Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
     <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="301" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="00e581709e781c4c1bebc440628d39b1fd79932f" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.1.4/lms-ratingslight-3.1.4.zip" version="3.1.4">
@@ -1054,8 +1054,8 @@
     </plugin>
     <plugin name="NonLatinForSBClassic" category="information" creator="Michael Herger" link="https://github.com/LMS-Community/plugin-NonLatinForSBClassic" maxTarget="*" minTarget="9.2" sha="9660db6e3022ea3cafc09fe455d33e65f44ef28e" url="https://github.com/LMS-Community/plugin-NonLatinForSBClassic/releases/download/1.1.1/NonLatinForSBClassic.zip" version="1.1.1">
       <desc lang="EN">The Go Noto Universal font allows you to render non-latin characters on the graphics capable ip3k based players (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
-      <desc lang="DE">Die Go Noto Universal-Schriftart erm�glicht es Ihnen, nicht-lateinische Zeichen auf den grafikalisch leistungsf�higen ip3k-basierten Playern wiederzugeben (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
-      <desc lang="FR">La police Go Noto Universal vous permet de rendre les caract�res non-latins sur les lecteurs bas�s sur ip3k capables de graphiques (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
+      <desc lang="DE">Die Go Noto Universal-Schriftart ermöglicht es Ihnen, nicht-lateinische Zeichen auf den grafikalisch leistungsfähigen ip3k-basierten Playern wiederzugeben (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
+      <desc lang="FR">La police Go Noto Universal vous permet de rendre les caractères non-latins sur les lecteurs basés sur ip3k capables de graphiques (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
       <desc lang="NL">Het Go Noto Universal lettertype stelt u in staat niet-Latijnse tekens weer te geven op grafisch capable ip3k-gebaseerde spelers (Squeezebox Transporter, Squeezebox Boom, Squeezebox Classic, Squeezebox 2, Squeezebox 3, Squeezebox G).</desc>
       <title lang="DE">Nicht-lateinische Texte auf der Squeezebox Classic Familie darstellen</title>
       <title lang="EN">Render non-latin text on the Squeezebox Classic family</title>
@@ -1116,7 +1116,7 @@
     </plugin>
     <plugin name="RadioHelsinki" category="musicservices" creator="Miska" link="https://github.com/patapovich/rh-ondemand-lyrion" maxTarget="*" minTarget="8.2" sha="ed649061cfa22366ac6394a869a7844bc8fe881e" url="https://github.com/patapovich/rh-ondemand-lyrion/releases/download/v1.4.0/RadioHelsinki-1.4.0.zip" version="1.4.0">
       <desc lang="EN">Browse and play Radio Helsinki on-demand programs, podcasts and clips.</desc>
-      <desc lang="FI">Selaa ja kuuntele Radio Helsingin ohjelmia, podcasteja ja klippej�.</desc>
+      <desc lang="FI">Selaa ja kuuntele Radio Helsingin ohjelmia, podcasteja ja klippejä.</desc>
       <title lang="EN">Radio Helsinki</title>
       <title lang="FI">Radio Helsinki</title>
     </plugin>
@@ -1135,6 +1135,12 @@
     <plugin name="SqueezeESP32" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="488" link="https://github.com/sle118/squeezelite-esp32" maxTarget="*" minTarget="7.9" sha="590aaf4311716815585ebd9770c656cba54e4134" url="http://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/SqueezeESP32.zip" version="0.602">
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
+    </plugin>
+    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="110" link="" maxTarget="*" minTarget="8.0" sha="cefe1e3f1215a94c604987719ef15baf956296ef" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.4.0/SpotOn-v3.4.0.zip" version="3.4.0">
+      <desc lang="EN">Spotify plugin for Lyrion Music Server</desc>
+      <desc lang="DE">Spotify-Plugin fuer Lyrion Music Server</desc>
+      <title lang="EN">SpotOn</title>
+      <title lang="DE">SpotOn</title>
     </plugin>
     <plugin name="WFMU" category="radio" creator="Todd Mazierski" icon="https://raw.githubusercontent.com/toddmazierski/lms-wfmu-plugin/main/plugin/HTML/EN/plugins/WFMU/html/images/icon_svg.png" installations="77" link="https://github.com/toddmazierski/lms-wfmu-plugin" maxTarget="*" minTarget="7.9" sha="c28ee7830765550866fe342ded18ba2fd129b3f1" url="https://github.com/toddmazierski/lms-wfmu-plugin/releases/download/v0.1/lms-wfmu-plugin-0.1.zip" version="0.1">
       <desc lang="EN">Play radio streams and archived programs from WFMU</desc>
@@ -1365,7 +1371,7 @@
     </plugin>
     <plugin name="IgnoreDirREManager" category="scanning" creator="Michael Herger" email="slim@herger.net" installations="174" link="" maxTarget="*" minTarget="7.9" sha="d9b063d500cff9b46d9cdd9c4bbe910b8046ba9e" url="https://www.herger.net/_data/IgnoreDirREManager-0.1.zip" version="0.1">
       <desc lang="EN">Set a regular expression to ignore files and folders when scanning or browsing folders.</desc>
-      <desc lang="DE">Schliesse Dateien und Ordner mittels Regulärer Ausdrücke beim Durchsuchen der Musik aus.</desc>
+      <desc lang="DE">Schliesse Dateien und Ordner mittels RegulÃ¤rer AusdrÃ¼cke beim Durchsuchen der Musik aus.</desc>
       <title lang="EN">Ignore files and folders</title>
       <title lang="DE">Dateien und Ordner ausschliessen</title>
     </plugin>
@@ -1395,7 +1401,7 @@
     </plugin>
     <plugin name="NoSetup" category="tools" creator="Michael Herger" email="slim@herger.net" installations="175" link="" maxTarget="*" minTarget="7.0" sha="e78981ba711281741f972700b4c94ea9c8b2be14" url="https://www.herger.net/_data/NoSetup-2.5.2.zip" version="2.5.2">
       <desc lang="EN">This plugins allows you to disable access to the settings pages from the Squeezebox Server's web interface.</desc>
-      <desc lang="DE">Mit diesem Plugin können Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
+      <desc lang="DE">Mit diesem Plugin kÃ¶nnen Sie die Einstellungsseiten des Squeezebox Servers ausblenden.</desc>
       <title lang="EN">Enable/disable access to server settings</title>
       <title lang="DE">Einstellungen aus-/einblenden</title>
     </plugin>
@@ -1415,7 +1421,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.61.0: Add workaround for failing playback (CDN fix), helper version v2.1.0." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6358" link="" maxTarget="*" minTarget="7.7" sha="13424d946d4d9353cf8f1916558cc68ffca1bf75" url="https://downloads.nixda.ch/Spotty-4.61.0.zip" version="4.61.0">
+    <plugin name="Spotty" category="musicservices" changes="v4.62.0: Add player auth again, working around Spotify's latest f... up." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6358" link="" maxTarget="*" minTarget="7.7" sha="06c89ad2eeb1898415bb1666a0c83a3b2079dd54" url="https://downloads.nixda.ch/Spotty-4.62.0.zip" version="4.62.0">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
@@ -1428,14 +1434,14 @@
     </plugin>
     <plugin name="MHCPAN" category="misc" creator="Michael Herger" email="slim@herger.net" link="" maxTarget="7.2" minTarget="7.0" sha="c930cf57e5814c55680098f3bcfad4e03a4138e3" target="win" url="https://www.herger.net/_data/MHCPAN.zip" version="0.1">
       <desc lang="EN">Some perl modules for Windows that are required by some of my plugins (Meteo, AlbumReview, Biography)</desc>
-      <desc lang="DE">Perl-Module für Windows, die für einige meiner Plugins benötigt werden (Meteo, AlbumReview, Biography)</desc>
+      <desc lang="DE">Perl-Module fÃ¼r Windows, die fÃ¼r einige meiner Plugins benÃ¶tigt werden (Meteo, AlbumReview, Biography)</desc>
       <title lang="EN">CPAN Modules (Windows)</title>
       <title lang="DE">CPAN Module (Windows)</title>
     </plugin>
     <plugin name="WalkWithMe" category="tools" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/walkwithme.png" installations="778" link="" maxTarget="*" minTarget="7.6" sha="df3505b60cb582a36734bc9a0d4741176b898af1" url="https://www.herger.net/_data/WalkWithMe-1.1.3.zip" version="1.1.3">
       <changes lang="EN">1.1.0: add option to grab a playlist form another player, rather than pushing it; try to improve behaviour when moving a RandomPlay list. v1.1.1: add CLI support. v1.1.2: improved French translation. v1.1.3: sort players by name</changes>
       <desc lang="EN">Continue your listening on a different player - easily.</desc>
-      <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen Gerät weiterspielen.</desc>
+      <desc lang="DE">Einfach die aktuelle Wiedergabeliste auf einem anderen GerÃ¤t weiterspielen.</desc>
       <title lang="EN">Music Walk With Me</title>
       <title lang="DE">Musik marschier mit mir</title>
     </plugin>
