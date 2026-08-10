@@ -990,11 +990,11 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="171" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="7acf4dbb36646a1077f465d22fc77acfaaa08671" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.3/lms-potpourri-1.1.3.zip" version="1.1.3">
+    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="171" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="37f07e1633c498cbf2a7cbe6291dd42bc4bc8e19" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.4/lms-potpourri-1.1.4.zip" version="1.1.4">
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks… Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="301" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="862c432f44266b42d69b43561ec6fa5d49f1d4f5" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.1.3/lms-ratingslight-3.1.3.zip" version="3.1.3">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="301" link="https://github.com/AF-1" maxTarget="*" minTarget="8.2" sha="00e581709e781c4c1bebc440628d39b1fd79932f" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.1.4/lms-ratingslight-3.1.4.zip" version="3.1.4">
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with optional LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
