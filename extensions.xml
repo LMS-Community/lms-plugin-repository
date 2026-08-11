@@ -990,7 +990,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="170" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="dd0f80d1b64139e02b6e1571f7af2f2031cdf999" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.6/lms-potpourri-1.1.6.zip" version="1.1.6">
+    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="170" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="07a5cc35a97742272c2675b64b6de36e48f70a61" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.7/lms-potpourri-1.1.7.zip" version="1.1.7">
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracksâ¦ Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
@@ -1421,7 +1421,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.62.0: Add player auth again, working around Spotify's latest f... up." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6352" link="" maxTarget="*" minTarget="7.7" sha="06c89ad2eeb1898415bb1666a0c83a3b2079dd54" url="https://downloads.nixda.ch/Spotty-4.62.0.zip" version="4.62.0">
+    <plugin name="Spotty" category="musicservices" changes="v4.62.0: Add player auth again, working around Spotify's latest f... up. v4.62.1: pCP compatible binaries, UX tweaks, translations." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6352" link="" maxTarget="*" minTarget="7.7" sha="9d1d65f9bb0159cfd4d40c2b8352b16c37dda402" url="https://downloads.nixda.ch/Spotty-4.62.1.zip" version="4.62.1">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
