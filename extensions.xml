@@ -787,27 +787,6 @@
       <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
       <title lang="EN">BMPFonts Plugin</title>
     </plugin>
-    <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" installations="1014" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="7a1190b80d1aaf9eb908b1a8cccac59bd2400664" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.2.zip" version="1.3.2">
-      <changes lang="EN">v1.3.2: Bugfixes and increased image resolution.</changes>
-      <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
-      <title lang="EN">ARD Audiothek</title>
-    </plugin>
-    <plugin name="SiriusXM" catagory="musicservices" category="misc" creator="paul-1" icon="https://raw.githubusercontent.com/paul-1/plugin-SiriusXM/main/Plugins/SiriusXM/HTML/EN/plugins/SiriusXM/html/images/SiriusXMLogo.png" installations="146" link="https://github.com/paul-1/plugin-SiriusXM" maxTarget="*" minTarget="8.3" sha="57bb1e448857cf104760eda2b5e9a454c7e46cba" url="https://github.com/paul-1/plugin-SiriusXM/releases/download/v1.0.1/SiriusXM-1.0.1.zip" version="1.0.1">
-      <changes lang="EN">
-              - Add precaching of playlist and segmenets
-              - Track login cookies independantly of channel cookies.
-              - Cache cookies, channel data and retain between restarts(prevents login on every channel change)
-              - Download the smallest playlist size needed.
-              - Track Playing timestamp against xmplaylist.com play time for metadata sync.
-              - Make sure player is not a sync-slave when updating metadata (1.0.1)
-            </changes>
-      <desc lang="EN">Stream SiriusXM satellite radio through Lyrion Music Server</desc>
-      <title lang="EN">SiriusXM</title>
-    </plugin>
-    <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="468" link="" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
-      <desc lang="EN">Daughter of Pandora</desc>
-      <title lang="EN">Pyrrha</title>
-    </plugin>
     <plugin name="DomoticzControl" category="tools" creator="Guillaume Zin" installations="31" link="" maxTarget="*" minTarget="7.4" sha="a6f4709113682a92571609ae87a242bf085e3bbc" url="https://guillaumezin.github.io/DomoticzControl/domoticzcontrol-v1.2.4.zip" version="1.2.4">
       <desc lang="EN">Control your Domoticz devices from your Jive based player. Parameters are located in player settings</desc>
       <desc lang="FR">ContrÃ´le de vos pÃ©riphÃ©riques Domoticz depuis votre platine basÃ©e sur Jive. Le paramÃ©trage se fait dans l'onglet platine</desc>
