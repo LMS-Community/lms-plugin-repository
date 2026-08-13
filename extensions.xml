@@ -278,7 +278,7 @@
       <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture Ã  la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
-    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/logo/CBCCanadaFrancais.png" installations="181" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="ed9e415fb243e72eca485b723401bcb209087bf4" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.8.zip" version="0.0.8">
+    <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/logo/CBCCanadaFrancais.png" installations="181" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="16bea13880068e925bbb6c04a71e441f3cacbc5e" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.9.zip" version="0.0.9">
       <changes lang="EN">
 				- One of the data sources changed with the result that some stations did not have their metadata fetched
 			</changes>
