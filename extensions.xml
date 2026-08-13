@@ -1421,7 +1421,7 @@
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
-    <plugin name="Spotty" category="musicservices" changes="v4.62.0: Add player auth again, working around Spotify's latest f... up. v4.62.1: pCP compatible binaries, UX tweaks, translations." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6353" link="" maxTarget="*" minTarget="7.7" sha="9d1d65f9bb0159cfd4d40c2b8352b16c37dda402" url="https://downloads.nixda.ch/Spotty-4.62.1.zip" version="4.62.1">
+    <plugin name="Spotty" category="musicservices" changes="v4.62.0: Add player auth again, working around Spotify's latest f... up. v4.62.1: pCP compatible binaries, UX tweaks, translations. v4.62.2: IPv6 fallback." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/Spotty-Plugin/master/HTML/EN/plugins/Spotty/html/images/93aac68fb06348598c1e67734dfaceee.png" installations="6353" link="" maxTarget="*" minTarget="7.7" sha="ef0af5f38a17b45d6803e3f3891154d0a490ca05" url="https://downloads.nixda.ch/Spotty-4.62.2.zip" version="4.62.2">
       <desc lang="EN">The next generation Spotify implementation for Squeezebox.</desc>
       <title lang="EN">Spotify for Squeezebox. Still Spotty.</title>
     </plugin>
