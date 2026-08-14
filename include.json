@@ -67,7 +67,8 @@
 		"https://www.herger.net/slim-plugins/repo.xml",
 		"https://www.hickinbottom.com/sc-plugins/repo.xml",
 		"https://www.stagessound.de/bluegaspode.xml",
-		"https://raw.githubusercontent.com/hjelev/lyr-radio-browser/master/repo.xml"
+		"https://raw.githubusercontent.com/hjelev/lyr-radio-browser/master/repo.xml",
+		"https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/repo.xml"
 	],
 	"disabled": [
 		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
