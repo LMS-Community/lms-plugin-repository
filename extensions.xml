@@ -1110,7 +1110,7 @@
       <desc lang="EN">A Lyrion Music Server plugin that bridges Plex metadata into LMS when tracks are streamed through the Squeeze Plex Hub application.</desc>
       <title lang="EN">Squeeze Plex Hub</title>
     </plugin>
-    <plugin name="UnifiedHiFi" category="misc" creator="Muness Castle" installations="50" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="6efc715e1ca417e71c29e98795e99dfc3238990c" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v3.5.0/lms-unified-hifi-control-3.5.0.zip" version="3.5.0">
+    <plugin name="UnifiedHiFi" category="misc" creator="Muness Castle" installations="50" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="4fddda7269b12ff7bb2cbebfb413398470a96105" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v3.5.1/lms-unified-hifi-control-3.5.1.zip" version="3.5.1">
       <desc lang="EN">Source-agnostic hi-fi control bridge for Roon, LMS, HQPlayer, and hardware knobs. Provides HTTP APIs, MQTT integration, and web UI for controlling your audio system from anywhere.</desc>
       <title lang="EN">Unified Hi-Fi Control</title>
     </plugin>
