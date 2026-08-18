@@ -1136,7 +1136,7 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="150" link="" maxTarget="*" minTarget="8.0" sha="6a4bd97faa675cf1cf0314297b4accd28434ecbe" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.2/SpotOn-v3.5.2.zip" version="3.5.2">
+    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="150" link="" maxTarget="*" minTarget="8.0" sha="9de8c7e8d2dadcb49d8629f882a4fe1d07508e71" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.5/SpotOn-v3.5.5.zip" version="3.5.5">
       <desc lang="EN">Spotify plugin for Lyrion Music Server</desc>
       <desc lang="DE">Spotify-Plugin fuer Lyrion Music Server</desc>
       <title lang="EN">SpotOn</title>
@@ -1417,7 +1417,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0: add shortcut to play best quality stream of each mix. v3.6.5: fix redirect loop discovery." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4435" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="c36c2838bd43bd69607f95a7510209a0bd3e492c" url="https://www.herger.net/_data/RadioParadise-3.6.5.zip" version="3.6.5">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0: add shortcut to play best quality stream of each mix. v3.6.5: fix redirect loop discovery. v3.6.6: fix displaying menu item in Radios on ip3k based players." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4435" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="65081d5863ff0fa2d07a8f9dfbf06afe5e97b266" url="https://www.herger.net/_data/RadioParadise-3.6.6.zip" version="3.6.6">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
