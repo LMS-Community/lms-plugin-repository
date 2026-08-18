@@ -511,8 +511,8 @@
       <desc lang="EN">Select any of the other players that are connected to your Logitech Media Server and provides ways of controlling them.</desc>
       <title lang="EN">Other Players</title>
     </plugin>
-    <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="32" link="" maxTarget="*" minTarget="7.7" sha="c1e5ac70b017b4c212a8203dc0cec1f7749205b1" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.0.9.zip" version="2.0.9">
-      <desc lang="EN">Spotty Helper for FreeBSD 14+. Requires Spotty plugin.</desc>
+    <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="32" link="" maxTarget="*" minTarget="7.7" sha="27686c148c5da245feea610c9d383d15083c220d" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.1.2.zip" version="2.1.2">
+      <desc lang="EN">Spotty Helper for FreeBSD 15.1. Requires Spotty plugin.</desc>
       <title lang="EN">Spotty Helper FreeBSD</title>
     </plugin>
     <plugin name="RadioFeedsSBS" category="radio" creator="The AlienBBC Team and Vincent Lo" installations="611" link="http://www.radiofeeds.co.uk/squeeze/" maxTarget="*" minTarget="7.3" sha="fc5974e3ac3f77c388393772ce6440d6dbd8c83a" url="http://www.radiofeeds.co.uk/mypicks/RadioFeedsSBS_1_0_3.zip" version="1.03">
@@ -1136,7 +1136,7 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="150" link="" maxTarget="*" minTarget="8.0" sha="9de8c7e8d2dadcb49d8629f882a4fe1d07508e71" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.5/SpotOn-v3.5.5.zip" version="3.5.5">
+    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="150" link="" maxTarget="*" minTarget="8.0" sha="dd58ea6bd744c1db3844dd614b3a614ff782ea06" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.6/SpotOn-v3.5.6.zip" version="3.5.6">
       <desc lang="EN">Spotify plugin for Lyrion Music Server</desc>
       <desc lang="DE">Spotify-Plugin fuer Lyrion Music Server</desc>
       <title lang="EN">SpotOn</title>
