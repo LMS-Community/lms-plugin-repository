@@ -26,7 +26,7 @@
 		"https://lms.hashsum.org/repo.xml",
 		"https://master.dl.sourceforge.net/project/bpaplugins/OtherPlugins/bpapluginsrepo.xml?viasf=1",
 		"https://master.dl.sourceforge.net/project/lms-plugins-philippe44/repo-sf.xml?viasf=1",
-		"https://master.dl.sourceforge.net/project/sdt-weather-com/repo.xml?viasf=1",
+		"https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/repo.xml",
 		"https://mavit.gitlab.io/lms-mixlr/extensions.xml",
 		"https://mspertus.github.io/lms-downloads/repo.xml",
 		"https://raw.githubusercontent.com/AF-1/sobras/main/repos/lms/public.xml",
