@@ -754,8 +754,8 @@
       <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
       <title lang="EN">BBC Sounds</title>
     </plugin>
-    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" installations="478" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="9db0210c3edad37a7f9bb8a71a458e221615fc99" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.0.6/VirginRadioPlugin_3_0_6.zip" version="3.0.6">
-      <changes lang="EN">NEW 3.0.6 Fix Broken API link</changes>
+    <plugin name="VirginRadio" category="radio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" installations="478" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="2db1203e37be4cae194067bd0a7f1d3bee745461" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.0.7/VirginRadioPlugin_3_0_7.zip" version="3.0.7">
+      <changes lang="EN">NEW 3.0.7 Fix Broken API links for meta data and schedules</changes>
       <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live and 7 day catch up for Virgin Radio, Talk Radio, talkSport and Times Radio, includes all News UK stations</desc>
       <title lang="EN">Virgin Radio (UK)</title>
     </plugin>
@@ -1019,7 +1019,7 @@
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10530" link="" maxTarget="*" minTarget="7.9.0" sha="8e7830a148acab4971b9acd0654ae2cee6254521" url="https://github.com/CDrummond/lms-material/releases/download/6.4.6/lms-material-6.4.6.zip" version="6.4.6">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10530" link="" maxTarget="*" minTarget="7.9.0" sha="3b7ed61523ef9faf563d5082e16eeae5090ba3f1" url="https://github.com/CDrummond/lms-material/releases/download/6.4.7/lms-material-6.4.7.zip" version="6.4.7">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
