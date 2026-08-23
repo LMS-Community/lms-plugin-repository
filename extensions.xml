@@ -1136,7 +1136,7 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="171" link="" maxTarget="*" minTarget="8.0" sha="c8df64557b244d472597a8c4439647ffbcc2f53c" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.7/SpotOn-v3.5.7.zip" version="3.5.7">
+    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="171" link="" maxTarget="*" minTarget="8.0" sha="a1f73ceeb9310cb5fc3cfc72fbc7ed51dec9a10c" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.8/SpotOn-v3.5.8.zip" version="3.5.8">
       <desc lang="EN">Spotify plugin for Lyrion Music Server</desc>
       <desc lang="DE">Spotify-Plugin fuer Lyrion Music Server</desc>
       <title lang="EN">SpotOn</title>
