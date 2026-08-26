@@ -511,7 +511,7 @@
       <desc lang="EN">Select any of the other players that are connected to your Logitech Media Server and provides ways of controlling them.</desc>
       <title lang="EN">Other Players</title>
     </plugin>
-    <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="31" link="" maxTarget="*" minTarget="7.7" sha="f3e0252794b5502172935c7bab9d1e1925ecebbe" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.1.2.zip" version="2.1.2">
+    <plugin name="SpottyBinFreeBSD" category="misc" creator="Karl Jeacle" email="karl@jeacle.ie" installations="31" link="" maxTarget="*" minTarget="7.7" sha="3d96de6911c5cd38109f0e3bde05ec0e989325a2" target="unix" url="http://www.jeacle.ie/lyrion/SpottyBinFreeBSD-2.1.2.zip" version="2.1.2">
       <desc lang="EN">Spotty Helper for FreeBSD 14+. Requires Spotty plugin.</desc>
       <title lang="EN">Spotty Helper FreeBSD</title>
     </plugin>
