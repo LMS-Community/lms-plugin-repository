@@ -1073,8 +1073,8 @@
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="548" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="1a24362c847bfd230788d53e888fe8dfb79994fe" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.16/SuperDateTime.zip" version="5.12.16">
-      <changes lang="EN">Removed city name from NFL team names.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="548" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="d86a1cd56064f3dd392947ed140ba49236910f65" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.17/SuperDateTime.zip" version="5.12.17">
+      <changes lang="EN">Fixed NCAA college football scores for 2026 season.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
