@@ -985,7 +985,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="MigrationAssistant" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-migrationassistant/main/screenshots/miga_icon.png" installations="6" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="f3114ea2336647920f75ec82b9a1917a6049d29e" url="https://github.com/AF-1/lms-migrationassistant/releases/download/1.0.1/lms-migrationassistant-1.0.1.zip" version="1.0.1">
+    <plugin name="MigrationAssistant" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-migrationassistant/main/screenshots/miga_icon.png" installations="6" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="1856d416e7d8c4f562cc1507950bb0914314039c" url="https://github.com/AF-1/lms-migrationassistant/releases/download/1.0.2/lms-migrationassistant-1.0.2.zip" version="1.0.2">
       <desc lang="EN">Helps you back up and restore server, plugin and player preferences, playlists and per-track statistics when migrating to a new installation.</desc>
       <title lang="EN">Migration Assistant</title>
     </plugin>
@@ -1085,6 +1085,10 @@
     <plugin name="AutoRescan" category="scanning" creator="James Marsh; Stuart Hickinbottom" installations="1168" link="" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
+    </plugin>
+    <plugin name="EchoClassic" category="skin" creator="Felipe Freitas" icon="https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/EchoClassic/HTML/echoclassic/html/images/icon.svg" installations="19" link="https://github.com/fdfreitas88/echoclassic" maxTarget="*" minTarget="8.0" sha="b319da25ddbe2b4e1b5e66de9e8d37fd5aa15134" url="https://github.com/fdfreitas88/echoclassic/releases/download/v3.5.3/EchoClassic-3.5.3.zip" version="3.5.3">
+      <desc lang="EN">A responsive classic iPad-style LMS interface with advanced library, queue, player, signal-path and optional DSP controls.</desc>
+      <title lang="EN">Echo Classic</title>
     </plugin>
     <plugin name="RadioBrowser" category="radio" creator="hjelev" email="jeleff@gmail.com" installations="123" link="https://masoko.net/lyr-radio-browser/" maxTarget="9.*" minTarget="8.0" sha="85cbf6133ebe5977300d0d8cfe5dd51e75687ec8" url="https://github.com/hjelev/lyr-radio-browser/releases/download/v0.3.9/RadioBrowser-0.3.9.zip" version="0.3.9">
       <desc lang="EN">Browse and play internet radio stations from the community-driven Radio Browser directory (api.radio-browser.info). Search, top stations, by tag/genre and by country.</desc>
