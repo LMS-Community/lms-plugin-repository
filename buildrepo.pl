@@ -204,6 +204,8 @@ for my $url (sort @{$includes->{repositories}}) {
 	if ($content) {
 		print "$url\n";
 
+		utf8::encode($content);
+
 		my $xml = eval { XMLin($content,
 			SuppressEmpty => 1,
 			KeyAttr    => [],
