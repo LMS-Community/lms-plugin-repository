@@ -989,7 +989,7 @@
       <desc lang="EN">Helps you back up and restore server, plugin and player preferences, playlists and per-track statistics when migrating to a new installation.</desc>
       <title lang="EN">Migration Assistant</title>
     </plugin>
-    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="164" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="07a5cc35a97742272c2675b64b6de36e48f70a61" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.7/lms-potpourri-1.1.7.zip" version="1.1.7">
+    <plugin name="PotPourri" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-potpourri/main/screenshots/ppt_repo_icon.png" installations="164" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="2cd4a960b2397871ec8b2590df8d937362b7fd84" url="https://github.com/AF-1/lms-potpourri/releases/download/1.1.8/lms-potpourri-1.1.8.zip" version="1.1.8">
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracksâ¦ Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
@@ -1023,7 +1023,7 @@
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10519" link="" maxTarget="*" minTarget="7.9.0" sha="3b7ed61523ef9faf563d5082e16eeae5090ba3f1" url="https://github.com/CDrummond/lms-material/releases/download/6.4.7/lms-material-6.4.7.zip" version="6.4.7">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10519" link="" maxTarget="*" minTarget="7.9.0" sha="4fcdd5e64d9549d136d131fb7ba2af0a036d5bbb" url="https://github.com/CDrummond/lms-material/releases/download/6.4.9/lms-material-6.4.9.zip" version="6.4.9">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
