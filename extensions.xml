@@ -1086,7 +1086,7 @@
       <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
-    <plugin name="EchoClassic" category="skin" creator="Felipe Freitas" icon="https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/EchoClassic/HTML/echoclassic/html/images/icon.svg" installations="24" link="https://github.com/fdfreitas88/echoclassic" maxTarget="*" minTarget="8.0" sha="772994fe9855bf6d7cd470d5d2bdfa64c3c82573" url="https://github.com/fdfreitas88/echoclassic/releases/download/v3.5.6-rc1/EchoClassic-3.5.6-rc1.zip" version="3.5.6-rc1">
+    <plugin name="EchoClassic" category="skin" creator="Felipe Freitas" icon="https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/EchoClassic/HTML/echoclassic/html/images/icon.svg" installations="24" link="https://github.com/fdfreitas88/echoclassic" maxTarget="*" minTarget="8.0" sha="a91a2db305237b299df30111113cf03c889781bd" url="https://github.com/fdfreitas88/echoclassic/releases/download/v3.5.6/EchoClassic-3.5.6.zip" version="3.5.6">
       <desc lang="EN">A responsive classic iPad-style LMS interface with advanced library, queue, player, signal-path and optional DSP controls.</desc>
       <title lang="EN">Echo Classic</title>
     </plugin>
