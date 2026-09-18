@@ -1170,7 +1170,7 @@
       <desc lang="EN">Save albums from your library or any streaming service to a Listen Later list, with automatic Played tracking</desc>
       <title lang="EN">Listen Later</title>
     </plugin>
-    <plugin name="ListenBrainzFreshReleases" category="misc" creator="CrystalGipsy" installations="16" link="" maxTarget="*" minTarget="9.0.0" sha="f7d7aabf09230bbc59dbd24af87187e7e484e41b" url="https://simonarnold002.github.io/LMS-ListenBrainz-New-Releases/ListenBrainzFreshReleases.zip" version="0.9.149">
+    <plugin name="ListenBrainzFreshReleases" category="musicservices" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-ListenBrainz-New-Releases/main/ListenBrainzFreshReleases/HTML/EN/plugins/ListenBrainzFreshReleases/html/images/ListenBrainzFreshReleasesIcon.png" installations="16" link="" maxTarget="*" minTarget="9.0.0" sha="5a40a9725cb4a25ff549cbe3350a5522ef83e36e" url="https://simonarnold002.github.io/LMS-ListenBrainz-New-Releases/ListenBrainzFreshReleases.zip" version="1.0.13">
       <desc lang="EN">Browse your ListenBrainz Fresh Releases feed in Lyrion Music Server</desc>
       <title lang="EN">ListenBrainz Fresh Releases</title>
     </plugin>
