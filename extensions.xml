@@ -1170,7 +1170,11 @@
       <desc lang="EN">Save albums from your library or any streaming service to a Listen Later list, with automatic Played tracking</desc>
       <title lang="EN">Listen Later</title>
     </plugin>
-    <plugin name="PitchforkReviews" category="musicservices" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-Pitchfork-Reviews/main/PitchforkReviews/HTML/EN/plugins/PitchforkReviews/html/images/PitchforkReviewsIcon.png" installations="26" link="" maxTarget="*" minTarget="9.0.0" sha="05f78548ca63e58ac0c2062e7a00d4a4f43736ea" url="https://simonarnold002.github.io/LMS-Pitchfork-Reviews/PitchforkReviews.zip" version="1.0.0">
+    <plugin name="ListenBrainzFreshReleases" category="misc" creator="CrystalGipsy" installations="16" link="" maxTarget="*" minTarget="9.0.0" sha="f7d7aabf09230bbc59dbd24af87187e7e484e41b" url="https://simonarnold002.github.io/LMS-ListenBrainz-New-Releases/ListenBrainzFreshReleases.zip" version="0.9.149">
+      <desc lang="EN">Browse your ListenBrainz Fresh Releases feed in Lyrion Music Server</desc>
+      <title lang="EN">ListenBrainz Fresh Releases</title>
+    </plugin>
+    <plugin name="PitchforkReviews" category="musicservices" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-Pitchfork-Reviews/main/PitchforkReviews/HTML/EN/plugins/PitchforkReviews/html/images/PitchforkReviewsIcon.png" installations="26" link="" maxTarget="*" minTarget="9.0.0" sha="0e3786b4ed9febf0f890d8b82e15b4eeafaf8f21" url="https://simonarnold002.github.io/LMS-Pitchfork-Reviews/PitchforkReviews.zip" version="1.0.1">
       <desc lang="EN">Browse Pitchfork album reviews in Lyrion Music Server and play the album from your streaming library</desc>
       <title lang="EN">Pitchfork Reviews</title>
     </plugin>
