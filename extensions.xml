@@ -1417,8 +1417,8 @@
       <desc lang="EN">Support for Musical Fidelity M6 Encore to your LMS</desc>
       <title lang="EN">Musical Fidelity M6 Encore</title>
     </plugin>
-    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="5583" link="" maxTarget="*" minTarget="8.0" sha="a59c09d9faad5af72e93fe34069570c129bbc685" url="https://www.herger.net/_data/MusicArtistInfo-1.30.0.zip" version="1.30.0">
-      <changes lang="EN">v1.30.0 - disable artist picture lookup if no image folder is specified</changes>
+    <plugin name="MusicArtistInfo" category="information" creator="Michael Herger" email="slim@herger.net" icon="https://www.herger.net/slim-plugins/icons/mai.svg" installations="5583" link="" maxTarget="*" minTarget="8.0" sha="abdadaff723495f2d0d3332f24e3f0356352e701" url="https://www.herger.net/_data/MusicArtistInfo-1.30.1.zip" version="1.30.1">
+      <changes lang="EN">v1.30.0 - disable artist picture lookup if no image folder is specified. v1.30.1 - fix creation of .missing placeholder files.</changes>
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
