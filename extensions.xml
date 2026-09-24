@@ -1043,7 +1043,7 @@
       <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
     </plugin>
-    <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" installations="3435" link="" maxTarget="9.*" minTarget="7.9" sha="06d9f19f9a04b754d82e1beae4184e4249940a2a" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.12/plugin-DSDPlayer-1.12.zip" version="1.12">
+    <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" installations="3435" link="" maxTarget="9.*" minTarget="7.9" sha="98388d8cad67646569ff4c7331870435099b6426" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.14/plugin-DSDPlayer-1.14.zip" version="1.14">
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
     </plugin>
