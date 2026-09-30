@@ -1158,7 +1158,7 @@
       <desc lang="EN">MyQobuz view to Qobuz</desc>
       <title lang="EN">MyQobuz Extensions</title>
     </plugin>
-    <plugin name="EversoloScreenControl" category="hardware" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-Eversolo-Screen-Control/main/EversoloScreenControl/HTML/EN/plugins/EversoloScreenControl/html/images/icon_256.png" installations="7" link="" maxTarget="*" minTarget="8.0.0" sha="269d7f67f81968d8cf4e0db27a7553a756b83e0b" url="https://simonarnold002.github.io/LMS-Eversolo-Screen-Control/EversoloScreenControl.zip" version="2.2.1">
+    <plugin name="EversoloScreenControl" category="hardware" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-Eversolo-Screen-Control/main/EversoloScreenControl/HTML/EN/plugins/EversoloScreenControl/html/images/icon_256.png" installations="7" link="" maxTarget="*" minTarget="8.0.0" sha="197a5a962d87d649b58e6908aaa371ea7434a205" url="https://simonarnold002.github.io/LMS-Eversolo-Screen-Control/EversoloScreenControl.zip" version="2.3.2">
       <desc lang="EN">Turns on and keeps display on whilst playing and turns off display when no music playing after 30sec</desc>
       <title lang="EN">Eversolo Screen Control</title>
     </plugin>
@@ -1170,7 +1170,7 @@
       <desc lang="EN">Save albums from your library or any streaming service to a Listen Later list, with automatic Played tracking</desc>
       <title lang="EN">Listen Later</title>
     </plugin>
-    <plugin name="ListenBrainzFreshReleases" category="musicservices" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-ListenBrainz-New-Releases/main/ListenBrainzFreshReleases/HTML/EN/plugins/ListenBrainzFreshReleases/html/images/ListenBrainzFreshReleasesIcon.png" installations="20" link="" maxTarget="*" minTarget="9.0.0" sha="5a40a9725cb4a25ff549cbe3350a5522ef83e36e" url="https://simonarnold002.github.io/LMS-ListenBrainz-New-Releases/ListenBrainzFreshReleases.zip" version="1.0.13">
+    <plugin name="ListenBrainzFreshReleases" category="musicservices" creator="CrystalGipsy" icon="https://raw.githubusercontent.com/SimonArnold002/LMS-ListenBrainz-New-Releases/main/ListenBrainzFreshReleases/HTML/EN/plugins/ListenBrainzFreshReleases/html/images/ListenBrainzFreshReleasesIcon.png" installations="20" link="" maxTarget="*" minTarget="9.0.0" sha="46beb2729a4a98b7cec124723c0320c97ff1cc3e" url="https://simonarnold002.github.io/LMS-ListenBrainz-New-Releases/ListenBrainzFreshReleases.zip" version="1.0.33">
       <desc lang="EN">Browse your ListenBrainz Fresh Releases feed in Lyrion Music Server</desc>
       <title lang="EN">ListenBrainz Fresh Releases</title>
     </plugin>
