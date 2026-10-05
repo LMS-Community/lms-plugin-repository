@@ -191,6 +191,22 @@ for my $url (sort @{$includes->{repositories}}) {
 			}
 		}
 	} else {
+		# Sourceforge would sometimes redirect in HTML?!? Need to handle these manually:
+		if (my $refresh = $resp->header('Refresh')) {
+			if ($refresh =~ /url\s*=\s*(.+)$/i) {
+				my $next_url = $1;
+
+				# Strip outer single or double quotes if present
+				$next_url =~ s/^["']|["']$//g;
+
+				# Resolve relative URLs against the original base URI
+				$next_url = URI->new_abs($next_url, $resp->base);
+
+				print "Found Refresh header. Fetching: $next_url\n";
+				$resp = $ua->get($next_url);
+			}
+		}
+
 		$content = $resp->decoded_content;
 
 		my $cache_file = cacheFileName($url);
