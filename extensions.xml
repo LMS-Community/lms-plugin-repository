@@ -85,8 +85,8 @@
       <desc lang="EN">Modified Custom Clock for Jivelite</desc>
       <title lang="EN">CustomClock for Jivelite</title>
     </applet>
-    <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="22659876b39b1b6ebdd167ef92b8e8e502733766" target="squeezeplay" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-squeezeplay-1.3.2.zip" version="1.3.2">
-      <desc lang="EN">This applet installs the Dark Flat Skin for Squeezeplay (800 x 480 resolution). *** More information, screenshots and FAQ on https://github.com/AF-1 *** Windows and Linux users: please read the FAQ BEFORE installing.</desc>
+    <applet creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="bb7ed56dd5ece42b2ab3545f934cfb4d43b0b01e" target="baby" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-baby-1.3.1.zip" version="1.3.1">
+      <desc lang="EN">This applet installs the Dark Flat Skin on your SB Radio. ***  More information, screenshots and FAQ on https://github.com/AF-1.</desc>
       <title lang="EN">Dark Flat Skin Installer</title>
     </applet>
     <applet name="DarkFlatSkinInstaller" creator="AF" link="https://github.com/AF-1" maxTarget="*" sha="ac6cdab93c7cd4f238db3ad4c66eff599dc26087" target="jivelite" url="http://af1.jerq.org/lms_applets/download.php?filename=DarkFlatSkinInstaller-pcp-1.3.1.zip" version="1.3.1">
@@ -849,8 +849,8 @@
       <desc lang="EN">A Plugin to enable an audio CD in the PC CD drive to be played through LogitechMediaServer. Requires CDDA2WAV to be installed. Use icedax for Ubuntu.</desc>
       <title lang="EN">CDplayer</title>
     </plugin>
-    <plugin name="WaveInput" category="hardware" creator="Joe Bryan updated by bpa" email="baltontwo@eircom.net" installations="417" link="http://forums.lyrion.org/showthread.php?t=35718" maxTarget="*" minTarget="7.4" sha="17ef1a564e97c439ed09956127aa1eccf9f57613" target="win" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputWin-v105.ZIP" version="1.05">
-      <desc lang="EN">A Plugin to enable Windows PC audio to be captured and played through LogitechMediaServer</desc>
+    <plugin category="hardware" creator="bpa" email="baltontwo@eircom.net" installations="417" link="http://forums.lyrion.org/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
+      <desc lang="EN">A Plugin to enable Linux PC audio to be captured and played through LogitechMediaServer. Default setup uses ALSA but OSS also works.</desc>
       <title lang="EN">WaveInput</title>
     </plugin>
     <plugin name="WaveInput" category="hardware" creator="bpa" email="baltontwo@eircom.net" installations="417" link="http://forums.lyrion.org/showthread.php?t=49584" maxTarget="*" minTarget="7.4" sha="5b12cffa13f955baa16266f2609eebad2ebec265" target="unix" url="http://downloads.sourceforge.net/project/bpaplugins/OtherPlugins/WaveInputLinux-v104_7.6.ZIP" version="1.04">
@@ -913,7 +913,7 @@
       <desc lang="EN">Play LCI/TF1 video</desc>
       <title lang="EN">LCI</title>
     </plugin>
-    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3680" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="254996077c3f6aaab17a40e8d1bc8beba9691441" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.4.10.zip" version="3.4.10">
+    <plugin name="UPnPBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3680" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="8.0" sha="00e1ca7c9cdd44a88859b33b6390491caadb9858" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-3.4.4.zip" version="3.4.4">
       <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
       <title lang="EN">UPnP/DLNA bridge</title>
     </plugin>
@@ -921,15 +921,15 @@
       <desc lang="EN">Play YouTube video</desc>
       <title lang="EN">YouTube</title>
     </plugin>
-    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3033" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="5dbfc4e224ba2268d2700ec78db53a025d441c21" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.12.zip" version="1.8.12">
+    <plugin name="RaopBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="3033" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="8.0" sha="e749046c2c9c3fc33cb4982b8479037a509600d1" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-1.8.7.zip" version="1.8.7">
       <desc lang="EN">Use AirPlay devices in LMS</desc>
       <title lang="EN">AirPlay bridge</title>
     </plugin>
-    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1727" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="d65db983a2aac68491792a2b69949af0d3d56186" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.5.4.zip" version="3.5.4">
+    <plugin name="CastBridge" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="1727" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="8.0" sha="d2213b3142d29ca7d11784c713f11de256f32c3c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-3.4.3.zip" version="3.4.3">
       <desc lang="EN">Use Chromecast devices in LMS</desc>
       <title lang="EN">Chromecast bridge</title>
     </plugin>
-    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2615" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="cd37a39b3d9583017544901f810d3dc94d702300" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.16.zip" version="1.9.16">
+    <plugin name="ShairTunes2W" category="hardware" creator="Philippe" email="philippe_44@outlook.com" installations="2615" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="8.0" sha="620ad341884cc5785fe5dc6c1562ea6b17c785fc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-1.9.13.zip" version="1.9.13">
       <desc lang="EN">Airtunes for LMS (with Windows)</desc>
       <title lang="EN">ShairTunes2 (fork)</title>
     </plugin>
@@ -1082,8 +1082,8 @@
       <desc lang="EN">Display Kodi (XBMC) Now Playing info on a Squeezebox SB2/3/Classic display.</desc>
       <title lang="EN">XSqueezeDisplay</title>
     </plugin>
-    <plugin name="AutoRescan" category="scanning" creator="James Marsh; Stuart Hickinbottom" installations="1128" link="" maxTarget="*" minTarget="7.7" sha="fed9cb93d2e667228ee53fd4e142d56c464c5437" target="windows|unix" url="https://github.com/doctorjames/AutoRescan/raw/master/releases/AutoRescan-1.4.2.zip" version="1.4.2">
-      <desc lang="EN">AutoRescan detects changes to your music folder and automatically triggers a rescan of that directory if any files have been added, removed or changed.</desc>
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="1128" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
+      <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
     <plugin name="EchoClassic" category="skin" creator="Felipe Freitas" icon="https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/EchoClassic/HTML/echoclassic/html/images/icon.png" installations="40" link="https://github.com/fdfreitas88/echoclassic" maxTarget="*" minTarget="8.0" sha="f31cfb052adc8603c05cdc5038d6fbe40666e20d" url="https://github.com/fdfreitas88/echoclassic/releases/download/v3.5.11/EchoClassic-3.5.11.zip" version="3.5.11">
