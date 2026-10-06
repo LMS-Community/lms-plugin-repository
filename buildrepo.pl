@@ -6,6 +6,7 @@ use Cwd;
 use JSON;
 use LWP::UserAgent;
 use JSON;
+use POSIX qw(INT_MAX);
 use XML::Simple;
 # use Data::Dumper;
 
@@ -130,12 +131,18 @@ my $categoriesMap = {
 my %categories = map { $_ => 1 } values %$categoriesMap;
 
 my $includes;
+my $current;
 
 eval {
 	open my $fh, '<', INCLUDE_FILE;
 	$/ = undef;
 	$includes = decode_json(<$fh>);
 	close $fh;
+
+	$current = XMLin(REPO_FILE,
+		SuppressEmpty => undef,
+		KeyAttr => [ 'name' ],
+	);
 } || die "$@";
 
 my $ua = LWP::UserAgent->new(
@@ -262,6 +269,12 @@ for my $url (sort @{$includes->{repositories}}) {
 					}];
 				}
 
+				my $currentVersion = eval { $current->{$element}->{$content}->{$name}->{version}; };
+				if ($currentVersion && $item->{version} && compareVersions($currentVersion, $item->{version}) < 0) {
+					warn "do NOT downgrade - use data from latest committed merged repo file. Current: $currentVersion. 'new': " . $item->{version};
+					$item = $current->{$element}->{$content}->{$name};
+				}
+
 				print "  $content $name\n";
 				push @{ $out->{"${element}"}->{"$content"} ||= [] }, $item;
 			}
@@ -284,6 +297,120 @@ sub cacheFileName {
 	mkdir CACHE_FOLDER unless -d CACHE_FOLDER;
 
 	return getcwd() . '/' . $cache_file;
+}
+
+# copy of package Slim::Utils::Versions;
+
+sub _parseVersionPart {
+	my ($part, $result) = @_;
+
+	if (!$part) {
+		return $part;
+	}
+
+	my $rest = undef;
+
+	if ($part =~ /^(.+?)\.(.*)$/) {
+		$part = $1;
+		$rest = $2;
+	}
+
+	if ($part eq '*') {
+
+		$result->[0] = POSIX::INT_MAX();
+		$result->[1] = '';
+
+	} elsif ($part =~ s/^(-?\d+)//) {
+
+		$result->[0] = $1;
+	}
+
+	if ($part && $part eq '+') {
+
+		$result->[0]++;
+		$result->[1] = 'pre';
+
+	} elsif ($part && $part =~ /^([A-Za-z]+)?([+-]?\d+)?([A-Za-z]+)?/) {
+
+		$result->[1] = $1 || undef;
+		$result->[2] = $2 || 0;
+		$result->[3] = $3 || undef;
+	}
+
+	return $rest;
+}
+
+sub _string_cmp {
+	my ($n1, $n2) = @_;
+
+	if (!$n1) {
+		return defined $n2;
+	}
+
+	if (!$n2) {
+		return -1;
+	}
+
+	return $n1 cmp $n2;
+}
+
+sub _compareVersionPart {
+	my ($left, $right) = @_;
+
+	my $ret = $left->[0] <=> $right->[0];
+
+	if ($ret) {
+		return $ret;
+	}
+
+	$ret = _string_cmp($left->[1], $right->[1]);
+
+	if ($ret) {
+		return $ret;
+	}
+
+	$ret = $left->[2] <=> $right->[2];
+
+	if ($ret) {
+		return $ret;
+	}
+
+	return _string_cmp($left->[3], $right->[3]);
+}
+
+=head2 compareVersions( $left, $right )
+
+Returns: 1 if $left > $right, 0 if $left == $right, -1 if $left < $right
+
+=cut
+
+sub compareVersions {
+	my ($left, $right) = @_;
+
+	my $result;
+
+	if (!$left || !$right) {
+		return 1;
+	}
+
+	my ($a, $b) = ($left, $right);
+
+	while ($a || $b) {
+
+		my $va = [ 0, undef, 0, undef ];
+		my $vb = [ 0, undef, 0, undef ];
+
+		$a = _parseVersionPart($a, $va);
+		$b = _parseVersionPart($b, $vb);
+
+		$result = _compareVersionPart($va, $vb);
+
+		if ($result) {
+			last;
+		}
+	}
+
+	return $result || 0;
 }
 
 1;
