@@ -73,7 +73,8 @@
 		"https://www.hickinbottom.com/sc-plugins/repo.xml",
 		"https://www.stagessound.de/bluegaspode.xml",
 		"https://raw.githubusercontent.com/hjelev/lyr-radio-browser/master/repo.xml",
-		"https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/repo.xml"
+		"https://raw.githubusercontent.com/fdfreitas88/echoclassic/main/repo.xml",
+		"https://raw.githubusercontent.com/cdybdahl/lms-archive-org/master/repository.xml"
 	],
 	"disabled": [
 		"http://petherton.pwp.blueyonder.co.uk/SlimServer/repository.xml",
