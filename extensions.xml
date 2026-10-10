@@ -37,11 +37,10 @@
       <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock with a daylight map of the earth in the background. It's possible to configure what kind of date/time information you like to show and you can select background among a number of different perspectives.</desc>
       <title lang="EN">Daylight Clock</title>
     </applet>
-    <applet name="CustomClock" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.4" sha="226becb58ed993c358e971395e1e9a14c4056041" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclock&amp;filename=CustomClock-2.12.140.zip" version="2.12.140">
-      <changes lang="EN">- Available for free, no longer requires a license
-                        </changes>
+    <applet creator="erland, tcutting, urknall" link="" maxTarget="*" minTarget="0.1" sha="7eaa721d7fd8caa9d7ebaf278a2ad46a12620003" target="jive|fab4|baby" url="http://lms.hashsum.org/CustomClock_2_29_3.zip" version="2.29.3">
+      <changes lang="EN"> - various fixes and lms imageproxy support</changes>
       <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.</desc>
-      <title lang="EN">Custom Clock</title>
+      <title lang="EN">CustomClock</title>
     </applet>
     <applet name="PatchInstaller" creator="Erland Isaksson" email="erland@isaksson.info" link="http://erland.isaksson.info" maxTarget="*" minTarget="7.5" sha="7fd692b41fc201e92aba0e8e58f8c7c5752edf78" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-patchinstaller&amp;filename=PatchInstaller-1.2.36.zip" version="1.2.36">
       <changes lang="EN">- Changed due to Google shutting down Google Code service
@@ -142,7 +141,7 @@
       <desc lang="EN">Makes it possible open a third party applet when an alarm is triggered instead of the standard alarm snooze popup, this patch doesn't add any user visible features it just adds an API which other plugins can use</desc>
       <title lang="EN">Custom alarm window</title>
     </patch>
-    <patch creator="gerko" link="" maxTarget="7.7" minTarget="7.6" sha="b678ce8e26fb738f90b586d2b0d6ea4875341ef6" url="http://erland.github.io/squeezebox-patchinstaller/patches/LowerFallbackAlarm/LowerFallbackAlarm-2.0.patch" version="2.0">
+    <patch name="LowerFallbackAlarm" creator="gerko" link="" maxTarget="7.5" minTarget="7.5" sha="a68d50e73483637c5a61430318a2a58b8a85c06b" url="http://erland.github.io/squeezebox-patchinstaller/patches/LowerFallbackAlarm/LowerFallbackAlarm-1.0.patch" version="1.0">
       <desc lang="EN">Decreases the volume on the fallback alarm used when the server doesn't trigger an alarm correctly</desc>
       <title lang="EN">Low Volume Fallback Alarm</title>
     </patch>
@@ -567,18 +566,15 @@
       <desc lang="EN">Automatically makes all third party plugin repositories that are listed on the Logitech wiki site available through Extension Downloader. The plugin doesn't actually read the wiki page directly since that would open up a security hole, instead it reads the repositories from a list available on the lms-autorepo GitHub project. New repostories added to the wiki page will be added after they have been checked so they provide serious plugins and not spam urls. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Auto Repositories</title>
     </plugin>
-    <plugin name="TrackStat" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="141" link="http://wiki.lyrion.org/index.php/TrackStat_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d1330f4c5747ed65bc2c1e86d97431d7fe2165ab" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.8.zip" version="2.8">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4
-			- Corrected so internet meta data is shown correctly on Now Playing screen if one of the TRACKSTAT title formats is used
-			- Added possibility to request parameters from top rated albums and most played album playlist templates for SQL Playlist
-			- Added predefiend SQL Playlist playlists for playing top rated or most played albums in a genre, artist or year
-			- Improved logic releated to finding moved tracks on multi disk albums when a TrackStat backup is restored</changes>
+    <plugin category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="141" link="http://wiki.lyrion.org/index.php/TrackStat_plugin" maxTarget="7.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
+      <changes lang="EN">- Available for free, no longer requires a license
+                        </changes>
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
-    <plugin name="TrackStat" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="141" link="http://wiki.lyrion.org/index.php/TrackStat_plugin" maxTarget="7.5.*" minTarget="7.4.0" sha="436fcda65d80ce98c3234978b07cc9c24b429aaa" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-2.11.3760.zip" version="2.11.3760">
-      <changes lang="EN">- Corrected issue where playlist templates that requested a parameter didn't show alpha bar properly on SqueezePlay devices.
-			</changes>
+    <plugin category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="141" link="http://wiki.lyrion.org/index.php/TrackStat_plugin" maxTarget="7.*" minTarget="7.6.0" sha="4ea036c7853d540c01589be8de7755b515ab42e9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip" version="3.3.602">
+      <changes lang="EN">- Available for free, no longer requires a license
+                        </changes>
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
@@ -588,14 +584,10 @@
       <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat</title>
     </plugin>
-    <plugin name="CustomBrowse" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="118" link="http://wiki.lyrion.org/index.php/Custom_Browse_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="7c67dc318c68d4b925d4d4fb5457297edc9d9e75" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-custombrowse&amp;filename=CustomBrowse-2.8.zip" version="2.8">
-      <changes lang="EN">- Added support for filtering &quot;Random Albums&quot; menu by genre
-			- Corrected so accelerated scrolling works in Tags menu on the Controller
-			- Corrected so track details menu works on the Controller if latest SqueezeCenter 7.4 is used
-			- Added support for showing duplicate text rows in album lists on the Controller (for example showing artists for an album)
-			- Corrected so &quot;Play all&quot; items isn't repeated and doesn't overwrite real items in long lists on Controller
-			- Added support for showing album arts in Tags menu
-			- Corrected some small bugs</changes>
+    <plugin category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="118" link="http://wiki.lyrion.org/index.php/Custom_Browse_plugin" maxTarget="7.*" minTarget="7.4.0" sha="209f65c1fac52a5abac98bd17b04c54c3132f4dc" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-custombrowse&amp;filename=CustomBrowse-2.15.676.zip" version="2.15.676">
+      <changes lang="EN">- Available for free, no longer requires a license
+			- Compatible with LMS 7.9
+			</changes>
       <desc lang="EN">Makes it possible to customize the structure, contents and sorting of the browse menus on the Squeezebox. A new browse menu is configured as a xml file containing the structure and SQL-statements. Please note that Custom Browse needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Browse</title>
     </plugin>
@@ -606,13 +598,10 @@
       <desc lang="EN">Makes it possible to customize the structure, contents and sorting of the browse menus on the Squeezebox. A new browse menu is configured as a xml file containing the structure and SQL-statements. Please note that Custom Browse needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Browse</title>
     </plugin>
-    <plugin name="CustomScan" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="68" link="http://wiki.lyrion.org/index.php/Custom_Scan_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="60e51583f832ebe6515f5481363b97cb51153785" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.6.zip" version="2.6">
-      <changes lang="EN">- Added support for numeric sorted tags in Dynamic Tags menu
-			- Added support for completely disable scanning modules to avoid refresh operation if only import/export modules are used
-			- Added support for virtual tags using regular expressions in Custom Tag scanning module (Tag mapping parameter)
-			- Added support for selecting to sort by number instead alphabetically in some custom tag menus
-			- Added support for showing duplicate text lines in album lists on Controller (for examples showing the artist for an album), requires Custom Browse 2.8 or later.
-			- Added support for showing album arts in Dyanmic Tags menu, requires Custom Browse 2.8 or later</changes>
+    <plugin category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="68" link="http://wiki.lyrion.org/index.php/Custom_Scan_plugin" maxTarget="7.*" minTarget="7.4.0" sha="9eaca05d640f42d5843f54a8280c8e1a5e85eac6" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.10.51.zip" version="2.10.51">
+      <changes lang="EN">- Available for free, no longer requires a license
+			- Compatible with LMS 7.9
+			</changes>
       <desc lang="EN">Make it easier to develop modules that retreive additional information about artist, album, tracks from somehere. If used together with Custom Browse plugin, the included scanning modules for LastFM and custom tags makes it possible to browse music by LastFM tags or by a custom tag. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Scan</title>
     </plugin>
@@ -623,8 +612,9 @@
       <desc lang="EN">Make it easier to develop modules that retreive additional information about artist, album, tracks from somehere. If used together with Custom Browse plugin, the included scanning modules for LastFM and custom tags makes it possible to browse music by LastFM tags or by a custom tag. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Scan</title>
     </plugin>
-    <plugin name="CustomSkip" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="41" link="http://wiki.lyrion.org/index.php/Custom_Skip_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="bebd6cad35a0e74ece1c3c9bf4040800bcad75e8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customskip&amp;filename=CustomSkip-2.3.5.zip" version="2.3.5">
-      <changes lang="EN">- Corrected so only local tracks can be skipped</changes>
+    <plugin category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="41" link="http://wiki.lyrion.org/index.php/Custom_Skip_plugin" maxTarget="7.*" minTarget="7.4.0" sha="d78f922da552d56e7a0f04ae603de01b76e68d18" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customskip&amp;filename=CustomSkip-2.5.83.zip" version="2.5.83">
+      <changes lang="EN">- Available for free, no longer requires a license
+			</changes>
       <desc lang="EN">Makes it possible to skip tracks automatically in dynamic playlists. Makes it possible to skip tracks with low ratings, zapped tracks, short tracks and much more. (Boom, Transporter, Classic, Receiver, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
@@ -634,9 +624,9 @@
       <desc lang="EN">Makes it possible to skip tracks automatically in dynamic playlists. Makes it possible to skip tracks with low ratings, zapped tracks, short tracks and much more. (Boom, Transporter, Classic, Receiver, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Custom Skip</title>
     </plugin>
-    <plugin name="DynamicPlayList" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="198" link="http://wiki.lyrion.org/index.php/Dynamic_Playlist_plugin" maxTarget="7.3.*" minTarget="7.2.0" sha="087471a37a44bfe6b2542b00ec4929581f8679ff" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-dynamicplaylist&amp;filename=DynamicPlayList-2.7.zip" version="2.7">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4
-			- Added support for custom tag based Dynamic Playlist mixers</changes>
+    <plugin category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="198" link="http://wiki.lyrion.org/index.php/Dynamic_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="0c8b9a0728a09dca35efe51e87a5a8f773236545" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-dynamicplaylist&amp;filename=DynamicPlayList-2.10.247.zip" version="2.10.247">
+      <changes lang="EN">- Available for free, no longer requires a license
+			</changes>
       <desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Dynamic Playlist</title>
     </plugin>
@@ -646,9 +636,8 @@
       <desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Dynamic Playlist</title>
     </plugin>
-    <plugin name="DatabaseQuery" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="116" link="http://wiki.lyrion.org/index.php/Database_Query_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="ef05d5f00298cf4c1a1e1426f9176567e12034f9" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.1.2.zip" version="2.1.2">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4
-			- Corrected some small bugs</changes>
+    <plugin category="information" creator="Mike Spertus, Erland Isaksson" email="mike@spertus.com" installations="116" link="http://wiki.lyrion.org/index.php/Database_Query_plugin" maxTarget="8.*" minTarget="8.0.0" sha="0e7848f3a6e25dc41e1ab38e17fdb5837641afad" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip" version="2.4.3923">
+      <changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
@@ -658,10 +647,9 @@
       <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Database Query</title>
     </plugin>
-    <plugin name="MultiLibrary" category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="66" link="http://wiki.lyrion.org/index.php/Multi_Library_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="4c18394463689af4a2ac9c68f77eb471274dc7ae" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-multilibrary&amp;filename=MultiLibrary-2.3.1.zip" version="2.3.1">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4
-			- Corrected so internet meta data is shown correctly on Now Playing screen if MULTILIBRARIES title format is used
-			- Corrected some small bugs</changes>
+    <plugin category="scanning" creator="Erland Isaksson" email="erland@isaksson.info" installations="66" link="http://wiki.lyrion.org/index.php/Multi_Library_plugin" maxTarget="7.*" minTarget="7.4.0" sha="d3ba9b0c40ca7893719939a3703425736759ab2d" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-multilibrary&amp;filename=MultiLibrary-2.8.168.zip" version="2.8.168">
+      <changes lang="EN">- Available for free, no longer requires a license
+			</changes>
       <desc lang="EN">Makes it possible to divide your SqueezeCenter library into different sub libraries, requires Custom Browse plugin to be able to browse the sub libraries. Please note that Multi Library needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Multi Library</title>
     </plugin>
@@ -671,11 +659,10 @@
       <desc lang="EN">Makes it possible to divide your SqueezeCenter library into different sub libraries, requires Custom Browse plugin to be able to browse the sub libraries. Please note that Multi Library needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Multi Library</title>
     </plugin>
-    <plugin name="SQLPlayList" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="81" link="http://wiki.lyrion.org/index.php/SQL_Playlist_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="78736678bb157d1d8b15a2c080173e845f2f2a55" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.4.zip" version="2.4">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4
-			- Added support for requesting parameters from random albums playlist templates
-			- Added predefined playlists for playing a random album in a genre, decade, artist, playlist or year
-			- Corrected some small bugs</changes>
+    <plugin category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="81" link="http://wiki.lyrion.org/index.php/SQL_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="33b402200260f4111d37235484e5d54fdbec7ae8" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip" version="2.6.272">
+      <changes lang="EN">- Available for free, no longer requires a license
+			- Compatible with LMS 7.9
+			</changes>
       <desc lang="EN">Creates smart playlists based on SQL queries, its possible to create playlists similar to iTunes smart playlists if used together with ratings set with the TrackStat plugin. It requires Dynamic Playlist plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">SQL Playlist</title>
     </plugin>
@@ -686,8 +673,9 @@
       <desc lang="EN">Creates smart playlists based on SQL queries, its possible to create playlists similar to iTunes smart playlists if used together with ratings set with the TrackStat plugin. It requires Dynamic Playlist plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">SQL Playlist</title>
     </plugin>
-    <plugin name="TitleSwitcher" category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="89" link="http://wiki.lyrion.org/index.php/Title_Switcher_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d25140b9bf9038bea7c6e4728e84f6d81f5c0b59" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.1.3.zip" version="1.1.3">
-      <changes lang="EN">- Corrected handling on SB1 devices with long texts</changes>
+    <plugin category="information" creator="Erland Isaksson" email="erland@isaksson.info" installations="89" link="http://wiki.lyrion.org/index.php/Title_Switcher_plugin" maxTarget="*" minTarget="7.4.0" sha="b593f6fec7c033762eec50381361f7369c96ac35" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.3.23.zip" version="1.3.23">
+      <changes lang="EN">- Available for free, no longer requires a license
+			</changes>
       <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
       <title lang="EN">Title Switcher</title>
     </plugin>
@@ -697,8 +685,8 @@
       <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
       <title lang="EN">Title Switcher</title>
     </plugin>
-    <plugin name="TrackStatPlaylist" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="20" link="http://wiki.lyrion.org/index.php/TrackStat_Playlist_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="d23167c3c3eb0388428e0484f4ecdfaeb3b13918" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstatplaylist&amp;filename=TrackStatPlaylist-1.0.1.zip" version="1.0.1">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4</changes>
+    <plugin category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="20" link="http://wiki.lyrion.org/index.php/TrackStat_Playlist_plugin" maxTarget="7.*" minTarget="7.4.0" sha="752663c7fbf465b286c86d69e30b33ea340596e5" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstatplaylist&amp;filename=TrackStatPlaylist-1.1.zip" version="1.1">
+      <changes lang="EN">- Same version as 1.1pre1</changes>
       <desc lang="EN">Makes it possible to export the TrackStat statistics such as ratings and played tracks to static playlists. This is useful when you like to manually update ratings in for example J River Media Center based on a playlist that contains all 4 rated tracks. Please note that this plugin requires you to install both TrackStat and Custom Scan plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat Playlist</title>
     </plugin>
@@ -707,8 +695,10 @@
       <desc lang="EN">Makes it possible to export the TrackStat statistics such as ratings and played tracks to static playlists. This is useful when you like to manually update ratings in for example J River Media Center based on a playlist that contains all 4 rated tracks. Please note that this plugin requires you to install both TrackStat and Custom Scan plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">TrackStat Playlist</title>
     </plugin>
-    <plugin name="PlaylistGenerator" category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="39" link="http://wiki.lyrion.org/index.php/Playlist_Generator_plugin" maxTarget="7.3.*" minTarget="7.1.0" sha="7ec594c94709065f0adbf9bdf5cf4513519911db" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-playlistgenerator&amp;filename=PlaylistGenerator-1.0.1.zip" version="1.0.1">
-      <changes lang="EN">- Added support for SqueezeCenter 7.4</changes>
+    <plugin category="playlists" creator="Erland Isaksson" email="erland@isaksson.info" installations="39" link="http://wiki.lyrion.org/index.php/Playlist_Generator_plugin" maxTarget="7.*" minTarget="7.4.0" sha="26d0aeb1f77bf5e893ec7a535832eee0791db70b" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-playlistgenerator&amp;filename=PlaylistGenerator-1.2.3739.zip" version="1.2.3739">
+      <changes lang="EN">- Corrected compatibility with 7.7.1 cache handling
+			- Corrected deprecated warnings at server startup
+			</changes>
       <desc lang="EN">Makes it possible to generate static playlists based on information in SqueezeCenter database, such as ratings and played tracks. This is useful when you like to have a playlist as a .m3u file which you can export to other tools. This plugin works by itself but if you also install Custom Scan you will be able to re-generate all playlists automatically when you perform a rescan in SqueezeCenter. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Playlist Generator</title>
     </plugin>
@@ -719,9 +709,8 @@
       <desc lang="EN">Makes it possible to generate static playlists based on information in SqueezeCenter database, such as ratings and played tracks. This is useful when you like to have a playlist as a .m3u file which you can export to other tools. This plugin works by itself but if you also install Custom Scan you will be able to re-generate all playlists automatically when you perform a rescan in SqueezeCenter. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
       <title lang="EN">Playlist Generator</title>
     </plugin>
-    <plugin name="CustomClockHelper" category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="295" link="http://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="7.*" minTarget="7.4.0" sha="3f0d6ea666b5d37e85899411ea65784f94b0021c" url="http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.11.94.zip" version="2.11.94">
-      <changes lang="EN">- Available for free, no longer requires a license
-			</changes>
+    <plugin category="tools" creator="Erland Isaksson" email="erland@isaksson.info" installations="295" link="https://wiki.lyrion.org/index.php/Custom_Clock_applet" maxTarget="*" minTarget="8.3.0" sha="ef685199861139b311254c3c1359bf5bea6d3c91" url="https://urknall.github.io/lms-repo/CustomClockHelper_2_29_4.zip" version="2.29.4">
+      <changes lang="EN">- Clock Styles Updates And Fixes</changes>
       <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
       <title lang="EN">Custom Clock Helper</title>
     </plugin>
@@ -1188,13 +1177,13 @@
       <desc lang="EN">Silence all players simply by holding the Sleep button; all players will display the name of the player that asked for silence, in case you need help. Also provides a CLI command to silence/pause all players and display a custom message. (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">AllQuiet</title>
     </plugin>
-    <plugin name="AutoDisplay" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="224" link="https://tuxreborn.netlify.app/slim/AutoDisplay.html" maxTarget="7.*" minTarget="7.0" sha="32673b4236087a814aa2eb4be0fd4f98f0b11b8b" url="https://tuxreborn.netlify.app/slim/slim7/AutoDisplay/AutoDisplay-2.1.7.zip" version="2.1.7">
-      <changes lang="EN">91p7: fix obscure restore bug; 91p6: fix for SC 7.4; 91p5: fix bug introduced in 91p4 w/ web UI; 91p4: update web settings template to use preferred &quot;pref_&quot; prefix</changes>
-      <desc lang="EN">Set automatic display dimming, as for making the display go dark at bedtime and become visible again in the morning. (modified version of code from Eric Koldinger, koldware.com). Will use FuzzyTime &quot;displayed time&quot; if FuzzyTime is installed (optional).</desc>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="224" link="https://tuxreborn.netlify.app/slim/AutoDisplay.html" maxTarget="9.*" minTarget="7.4" sha="d8420c2da796bd0ab48b15b1e5d1205f5c18912e" url="https://tuxreborn.netlify.app/slim/slim7/AutoDisplay/AutoDisplay-2.1.17.zip" version="2.1.17">
+      <changes lang="EN">2.1.17: updated URL and email in plugin info; 2.1.15: allow in LMS 9.x (untested); 2.1.13: allow running in LMS 8.0; 2.1.12: new repository URL; 2.1.9: squelch deprecation warnings in 7.4, work with --noweb; 2.1.8: respond to on/off time changes set by CLI;</changes>
+      <desc lang="EN">Set automatic display dimming, as for making the display go dark at bedtime and become visible again in the morning. (modified version of code from Eric Koldinger, koldware.com). Will use FuzzyTime &quot;displayed time&quot; if FuzzyTime is installed (optional). (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">Auto Dim Display</title>
     </plugin>
-    <plugin name="AutoDisplay" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="224" link="https://tuxreborn.netlify.app/slim/AutoDisplay.html" maxTarget="7.*" minTarget="7.3" sha="f183f006e7fa820bf8ae752e3581806c6f61162f" url="https://tuxreborn.netlify.app/slim/slim7/AutoDisplay/AutoDisplay-2.1.10.zip" version="2.1.10">
-      <changes lang="EN">2.1.9: squelch deprecation warnings in 7.4, work with --noweb; 2.1.8: respond to on/off time changes set by CLI; 91p7: fix obscure restore bug; 91p6: fix for SC 7.4; 91p5: fix bug introduced in 91p4 w/ web UI; 91p4: update web settings template to use preferred &quot;pref_&quot; prefix</changes>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="224" link="https://tuxreborn.netlify.app/slim/AutoDisplay.html" maxTarget="9.*" minTarget="7.4" sha="d8420c2da796bd0ab48b15b1e5d1205f5c18912e" url="https://tuxreborn.netlify.app/slim/slim7/AutoDisplay/AutoDisplay-2.1.17.zip" version="2.1.17">
+      <changes lang="EN">2.1.17: updated URL and email in plugin info; 2.1.15: allow in LMS 9.x (untested); 2.1.13: allow running in LMS 8.0; 2.1.12: new repository URL; 2.1.9: squelch deprecation warnings in 7.4, work with --noweb; 2.1.8: respond to on/off time changes set by CLI;</changes>
       <desc lang="EN">Set automatic display dimming, as for making the display go dark at bedtime and become visible again in the morning. (modified version of code from Eric Koldinger, koldware.com). Will use FuzzyTime &quot;displayed time&quot; if FuzzyTime is installed (optional). (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">Auto Dim Display</title>
     </plugin>
@@ -1212,8 +1201,8 @@
       <desc lang="EN">Control X-10 and Insteon modules. Use Insteon or X-10 to have a device turn on and off when a specific player is turned on or off.</desc>
       <title lang="EN">BottleRocket</title>
     </plugin>
-    <plugin name="ContextMenu" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="155" link="https://tuxreborn.netlify.app/slim/ContextMenu.html" maxTarget="7.*" minTarget="7.0" sha="c182627dd4e334b38677a68c34ed94b5a606e3ff" url="https://tuxreborn.netlify.app/slim/slim7/ContextMenu/ContextMenu-2.1.25.zip" version="2.1.25">
-      <changes lang="EN">2.1.25: more 7.4 fixes; 2.1.23: squelch deprecation warnings in 7.4, support --noweb; 2.1.22: remove CGI.pm dependency for newer releases; 7a21: better ensure mapping of hold-right key even in plugin modes registered after SC starts</changes>
+    <plugin category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="155" link="https://tuxreborn.netlify.app/slim/ContextMenu.html" maxTarget="9.*" minTarget="7.4" sha="3def887363eda29ed6608a6d20340f9a59d48f4e" url="https://tuxreborn.netlify.app/slim/slim7/ContextMenu/ContextMenu-2.1.29.zip" version="2.1.29">
+      <changes lang="EN">2.1.29: updated URL and email in plugin info; 2.1.28: allow use in LMS 9.* (untested); 2.1.27: allow use in LMS 8.* (untested); 2.1.25: more 7.4 fixes; 2.1.23: squelch deprecation warnings in 7.4, support --noweb; 2.1.22: remove CGI.pm dependency for newer releases; 7a21: better ensure mapping of hold-right key even in plugin modes registered after SC starts</changes>
       <desc lang="EN">ContextMenu provides a mechanism for context menus much like the right-click context menus provided by computer operating system desktop environments. Provides a way to use any regular Squeezebox remote control button, even on the Boom. Other plugins that provide ContextMenu options include AllQuiet, KitchenTimer, PlayLog, and SaverSwitcher. (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">ContextMenu</title>
     </plugin>
@@ -1227,8 +1216,8 @@
       <desc lang="EN">For Squeezeboxes connected to Denon receivers with RS232 or Ethernet interfaces, use your Squeezebox Controller, Squeezebox IR remote control, Web interface, etc. to control your Denon volume. (Transporter, Classic, Receiver)</desc>
       <title lang="EN">DenonSerial</title>
     </plugin>
-    <plugin name="FuzzyTime" category="information" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="65" link="https://tuxreborn.netlify.app/slim/FuzzyTime.html" maxTarget="7.*" minTarget="7.0" sha="5855c597b3443b00a5a362c8129e92721c89b575" url="https://tuxreborn.netlify.app/slim/slim7/FuzzyTime/FuzzyTime-2.1.11.zip" version="2.1.11">
-      <changes lang="EN">2.1.10: squelch deprecation warnings in 7.4; support --noweb</changes>
+    <plugin category="information" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="65" link="https://tuxreborn.netlify.app/slim/FuzzyTime.html" maxTarget="9.*" minTarget="7.4" sha="803ce4e5abfafb450834cdef3a9e2b200fc356c9" url="https://tuxreborn.netlify.app/slim/slim7/FuzzyTime/FuzzyTime-2.1.16.zip" version="2.1.16">
+      <changes lang="EN">2.1.16: updated URL and email in plugin info; 2.1.15: allow in LMS 9.* (untested); 2.1.14: allow use in LMS 8.* (untested); 2.1.13: remove clientGet call to work better in LMS 7.9; 2.1.10: squelch deprecation warnings in 7.4; support --noweb</changes>
       <desc lang="EN">Provides a &quot;date and time&quot; screensaver that can act like a clock set &quot;ahead&quot; of the real time, and allows other plugins to display such &quot;fast&quot; times and set timers based on such displayed time. (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">FuzzyTime</title>
     </plugin>
@@ -1237,13 +1226,13 @@
       <desc lang="EN">Provides a &quot;date and time&quot; screensaver that can act like a clock set &quot;ahead&quot; of the real time, and allows other plugins to display such &quot;fast&quot; times and set timers based on such displayed time. (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">FuzzyTime</title>
     </plugin>
-    <plugin name="KidsPlay" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="107" link="https://tuxreborn.netlify.app/slim/KidsPlay.html" maxTarget="7.*" minTarget="7.0" sha="d0c9a0c7ef59202aa3e5ecbf6066549c3591db14" url="https://tuxreborn.netlify.app/slim/slim7/KidsPlay/KidsPlay-2.6.2.zip" version="2.6.2">
-      <changes lang="EN">2.6.2: fixes for Boom with SBS 7.5.2; 2.6.1: kidsplayexec: allow commands without additional arguments; 2.6.0: kidsplayexec CLI command; 2.5.0: variables for better TrackStat integration, other uses; 2.4.0: per-player macros that override global defaults possible, better UI for setting macros; 2.3.0: support for remapping Radio buttons; 2.2.0: can specify a specific player to run a command on, or all players, or every *other* player</changes>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="107" link="https://tuxreborn.netlify.app/slim/KidsPlay.html" maxTarget="9.*" minTarget="7.9" sha="2f3696e2fbc6a3eb1f9a7168a2953e7fd183d665" url="https://tuxreborn.netlify.app/slim/slim7/KidsPlay/KidsPlay-2.6.8.zip" version="2.6.8">
+      <changes lang="EN">2.6.8: updated URL and email in plugin info; 2.6.7: allow in LMS 9.* (untested); 2.6.6: allow use in LMS 8.* (untested); 2.6.5: song title reference bug that likely affected few users; 2.6.3: remove code that logged harmless Perl warnings; 2.6.2: fixes for Boom with SBS 7.5.2; 2.6.1: kidsplayexec: allow commands without additional arguments; 2.6.0: kidsplayexec CLI command; 2.5.0: variables for better TrackStat integration, other uses</changes>
       <desc lang="EN">Have SqueezeCenter execute specific sets of commands for certain buttons, so you can give a child a remote control with limited function, or redefine Boom or Radio 1-6 preset buttons or the button on a Squeezebox Receiver. (Boom, Classic, Radio, Receiver, Slimp3, Squeezebox1, Transporter)</desc>
       <title lang="EN">KidsPlay</title>
     </plugin>
-    <plugin name="KidsPlay" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="107" link="https://tuxreborn.netlify.app/slim/KidsPlay.html" maxTarget="7.*" minTarget="7.4" sha="8073652b7bfa4ce4587bd042fc1412ce6ce5c430" url="https://tuxreborn.netlify.app/slim/slim7/KidsPlay/KidsPlay-2.6.4.zip" version="2.6.4">
-      <changes lang="EN">2.6.3: remove code that logged harmless Perl warnings; 2.6.2: fixes for Boom with SBS 7.5.2; 2.6.1: kidsplayexec: allow commands without additional arguments; 2.6.0: kidsplayexec CLI command; 2.5.0: variables for better TrackStat integration, other uses; 2.4.0: per-player macros that override global defaults possible, better UI for setting macros</changes>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="107" link="https://tuxreborn.netlify.app/slim/KidsPlay.html" maxTarget="9.*" minTarget="7.9" sha="2f3696e2fbc6a3eb1f9a7168a2953e7fd183d665" url="https://tuxreborn.netlify.app/slim/slim7/KidsPlay/KidsPlay-2.6.8.zip" version="2.6.8">
+      <changes lang="EN">2.6.8: updated URL and email in plugin info; 2.6.7: allow in LMS 9.* (untested); 2.6.6: allow use in LMS 8.* (untested); 2.6.5: song title reference bug that likely affected few users; 2.6.3: remove code that logged harmless Perl warnings; 2.6.2: fixes for Boom with SBS 7.5.2; 2.6.1: kidsplayexec: allow commands without additional arguments; 2.6.0: kidsplayexec CLI command; 2.5.0: variables for better TrackStat integration, other uses</changes>
       <desc lang="EN">Have SqueezeCenter execute specific sets of commands for certain buttons, so you can give a child a remote control with limited function, or redefine Boom or Radio 1-6 preset buttons or the button on a Squeezebox Receiver. (Boom, Classic, Radio, Receiver, Slimp3, Squeezebox1, Transporter)</desc>
       <title lang="EN">KidsPlay</title>
     </plugin>
@@ -1257,13 +1246,13 @@
       <desc lang="EN">This plugin allows you to set simple countdown timers. Timers can be given names and saved for later re-use. Timers can be shortened or extended if needed. Includes a countdown screensaver designed for use with SaverSwitcher (only displayed if there's an active timer). (Boom, Transporter, Classic, Squeezebox1, Slimp3, SoftSqueeze)</desc>
       <title lang="EN">KitchenTimer</title>
     </plugin>
-    <plugin name="PlayLog" category="information" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="159" link="https://tuxreborn.netlify.app/slim/PlayLog.html" maxTarget="7.*" minTarget="7.0" sha="1b9cc0d39f5cce344a418e266219e0cc59606897" url="https://tuxreborn.netlify.app/slim/slim7/PlayLog/PlayLog-2.1.44.zip" version="2.1.44">
-      <changes lang="EN">2.1.42: address deprecation warnings in newer Perl versions; 2.1.41: fix &quot;&amp;apos;&quot; display bug in IE8; 2.1.40: tested in 7.4; 2.1.38: fix gross logging errors in 7.4; 2.1.37: squelch deprecation warnings in 7.4, support --noweb; 2.1.34: attempt to fix ReadyNAS file I/O problems; 2.1.33: remove CGI.pm dependency for newer releases; 0.7a30: better detection of song changes, especially on Slacker stations</changes>
+    <plugin category="information" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="159" link="https://tuxreborn.netlify.app/slim/PlayLog.html" maxTarget="9.*" minTarget="7.9" sha="2f23c8eee700d3cfbc3fe25b3b9ff291c7529c0f" url="https://tuxreborn.netlify.app/slim/slim7/PlayLog/PlayLog-2.1.49.zip" version="2.1.49">
+      <changes lang="EN">2.1.49: updated URL and email in plugin info; 2.1.48: allow in LMS 9.* (untested); 2.1.47: allow use in LMS 8.* (untested); 2.1.46: fix bug detected with logging Don't Stop The Music; 2.1.45: fix URL truncation in list, update search URLs; 2.1.42: address deprecation warnings in newer Perl versions; 2.1.41: fix &quot;&amp;apos;&quot; display bug in IE8; 2.1.40: tested in 7.4; 2.1.38: fix gross logging errors in 7.4; 2.1.37: squelch deprecation warnings in 7.4, support --noweb; 2.1.34: attempt to fix ReadyNAS file I/O problems; 2.1.33: remove CGI.pm dependency for newer releases</changes>
       <desc lang="EN">This plugin allows you you to log the tracks you listen to, either automatically or by pressing a few remote control buttons. It provides a web interface for viewing its log, linking to the web for more information about what you've listened to, and downloading XML and M3U playlists of played songs. (Boom, Classic, Slimp3, SoftSqueeze, Squeezebox1, Transporter; limited support for Radio, Receiver, and Touch)</desc>
       <title lang="EN">PlayLog</title>
     </plugin>
-    <plugin name="PlayLog" category="information" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="159" link="https://tuxreborn.netlify.app/slim/PlayLog.html" maxTarget="7.*" minTarget="7.4" sha="ef66268b73c7aede8d1e44b3583bef2694257b8f" url="https://tuxreborn.netlify.app/slim/slim7/PlayLog/PlayLog-2.1.45.zip" version="2.1.45">
-      <changes lang="EN">2.1.45: fix URL truncation in list, update search URLs; 2.1.42: address deprecation warnings in newer Perl versions; 2.1.41: fix &quot;&amp;apos;&quot; display bug in IE8; 2.1.40: tested in 7.4; 2.1.38: fix gross logging errors in 7.4; 2.1.37: squelch deprecation warnings in 7.4, support --noweb; 2.1.34: attempt to fix ReadyNAS file I/O problems; 2.1.33: remove CGI.pm dependency for newer releases; 0.7a30: better detection of song changes, especially on Slacker stations</changes>
+    <plugin category="information" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="159" link="https://tuxreborn.netlify.app/slim/PlayLog.html" maxTarget="9.*" minTarget="7.9" sha="2f23c8eee700d3cfbc3fe25b3b9ff291c7529c0f" url="https://tuxreborn.netlify.app/slim/slim7/PlayLog/PlayLog-2.1.49.zip" version="2.1.49">
+      <changes lang="EN">2.1.49: updated URL and email in plugin info; 2.1.48: allow in LMS 9.* (untested); 2.1.47: allow use in LMS 8.* (untested); 2.1.46: fix bug detected with logging Don't Stop The Music; 2.1.45: fix URL truncation in list, update search URLs; 2.1.42: address deprecation warnings in newer Perl versions; 2.1.41: fix &quot;&amp;apos;&quot; display bug in IE8; 2.1.40: tested in 7.4; 2.1.38: fix gross logging errors in 7.4; 2.1.37: squelch deprecation warnings in 7.4, support --noweb; 2.1.34: attempt to fix ReadyNAS file I/O problems; 2.1.33: remove CGI.pm dependency for newer releases</changes>
       <desc lang="EN">This plugin allows you you to log the tracks you listen to, either automatically or by pressing a few remote control buttons. It provides a web interface for viewing its log, linking to the web for more information about what you've listened to, and downloading XML and M3U playlists of played songs. (Boom, Classic, Slimp3, SoftSqueeze, Squeezebox1, Transporter; limited support for Radio, Receiver, and Touch)</desc>
       <title lang="EN">PlayLog</title>
     </plugin>
@@ -1287,8 +1276,8 @@
       <desc lang="EN">Provides a Web interface for copying settings from one player to another, permanently &quot;linking&quot; settings on multiple Squeezeboxes, setting defaults for newly connected Squeezeboxes or remote /stream.mp3 clients, and importing/exporting client settings, to make it easier to manage multiple Squeezebox players. (Boom, Classic, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Transporter)</desc>
       <title lang="EN">SettingsManager</title>
     </plugin>
-    <plugin name="SleepFade" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="165" link="https://tuxreborn.netlify.app/slim/SleepFade.html" maxTarget="7.*" minTarget="7.0" sha="4ec8a4455d87b2ec3c3b07088cda539d44fffc06" url="https://tuxreborn.netlify.app/slim/slim7/SleepFade/SleepFade-2.2.1.zip" version="2.2.1">
-      <changes lang="EN">2.2.0: web settings page so it's now usable for Radio, Receiver, and Touch; 2.1.7: works in 7.4, but needs web settings page for Radio, Receiver, and Touch; 7a5: resolve failure to power off when decreasing volume bug</changes>
+    <plugin category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="165" link="https://tuxreborn.netlify.app/slim/SleepFade.html" maxTarget="9.*" minTarget="7.4" sha="7ca3092d61578617ef7c91bb18056cef423de89f" url="https://tuxreborn.netlify.app/slim/slim7/SleepFade/SleepFade-2.2.9.zip" version="2.2.9">
+      <changes lang="EN">2.2.9: updated URL and email in plugin info; 2.2.8: allow in LMS 9.* (untested); 2.2.7: allow use in LMS 8.* (untested); 2.2.0: web settings page so it's now usable for Radio, Receiver, and Touch; 2.1.7: works in 7.4, but needs web settings page for Radio, Receiver, and Touch; 7a5: resolve failure to power off when decreasing volume bug</changes>
       <desc lang="EN">Allows the &quot;sleep&quot; mode for any given player to fade the music out over the entire sleep period, rather than playing at a constant volume until the last minute. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">SleepFade</title>
     </plugin>
@@ -1307,18 +1296,18 @@
       <desc lang="EN">Allows you to configure each player so it will display the current setting when you use the Sleep, Shuffle, Repeat, or volume keys on its remote control once, and only change the setting on subsequent button presses. Volume key behavio change does not work on Radio or Touch. (Boom,  Classic, Radio, Slimp3, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">StatusFirst</title>
     </plugin>
-    <plugin name="SyncOptions" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="368" link="https://tuxreborn.netlify.app/slim/SyncOptions.html" maxTarget="7.*" minTarget="7.0" sha="0f4a4c8c4a12b67757fca588c7f230211e1aef55" url="https://tuxreborn.netlify.app/slim/slim7/SyncOptions/SyncOptions-2.1.28.zip" version="2.1.28">
-      <changes lang="EN">2.1.25: squelch deprecation warnings in 7.4, support --noweb; 2.1.24: treat &quot;attempt mid-song&quot; the same as &quot;default&quot; for SC 7.3+; 2.1.23/7a23: all music supports mid-track sync in SqueezeCenter 7.3; 7a21: wait for next track fix for SqueezeCenter 7.3</changes>
-      <desc lang="EN">Gives new settings for synchronizing players: &quot;wait for next track&quot; to avoid disruptions; &quot;unsync at power off&quot;; restore local playlist after leaving a sync group. (Boom, Classic, Radio, Receiver, Squeezebox1, Slimp3, SoftSqueeze, Touch, Transporter) </desc>
-      <title lang="EN">SyncOptions</title>
-    </plugin>
-    <plugin name="SyncOptions" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="368" link="https://tuxreborn.netlify.app/slim/SyncOptions.html" maxTarget="7.*" minTarget="7.3" sha="a342219652c3d9212c055e5d38f4a530e01c94c7" url="https://tuxreborn.netlify.app/slim/slim7/SyncOptions/SyncOptions-2.2.0.zip" version="2.2.0">
-      <changes lang="EN">2.2.0: relative player volume sync; 2.1.25: squelch deprecation warnings in 7.4, support --noweb; 2.1.24: treat &quot;attempt mid-song&quot; the same as &quot;default&quot; for SC 7.3+; 2.1.23/7a23: all music supports mid-track sync in SqueezeCenter 7.3; 7a21: wait for next track fix for SqueezeCenter 7.3</changes>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="368" link="https://tuxreborn.netlify.app/slim/SyncOptions.html" maxTarget="9.*" minTarget="7.9" sha="579813ff0ad7d19973bc97c3f07f2b37f32f36d6" url="https://tuxreborn.netlify.app/slim/slim7/SyncOptions/SyncOptions-2.2.6.zip" version="2.2.6">
+      <changes lang="EN">2.2.6: updated URL and email in plugin info; 2.2.5: allow in LMS 9.* (untested); 2.2.4: allow running in LMS 8.0; 2.2.3: fix song title API usage bug; 2.2.0: relative player volume sync; 2.1.25: squelch deprecation warnings in 7.4, support --noweb</changes>
       <desc lang="EN">Gives new settings for synchronizing players: relative volume sync; &quot;wait for next track&quot; to avoid disruptions; &quot;unsync at power off&quot;; restore local playlist after leaving a sync group. (Boom, Classic, Radio, Receiver, Squeezebox1, Slimp3, SoftSqueeze, Touch, Transporter) </desc>
       <title lang="EN">SyncOptions</title>
     </plugin>
-    <plugin name="SyncOptions" category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="368" link="https://tuxreborn.netlify.app/slim/SyncOptions.html" maxTarget="7.*" minTarget="7.4" sha="856e16ffb617c7c8e8880dfcaa35c988e1eb9425" url="https://tuxreborn.netlify.app/slim/slim7/SyncOptions/SyncOptions-2.2.1.zip" version="2.2.1">
-      <changes lang="EN">2.2.0: relative player volume sync; 2.1.25: squelch deprecation warnings in 7.4, support --noweb; 2.1.24: treat &quot;attempt mid-song&quot; the same as &quot;default&quot; for SC 7.3+; 2.1.23/7a23: all music supports mid-track sync in SqueezeCenter 7.3; 7a21: wait for next track fix for SqueezeCenter 7.3</changes>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="368" link="https://tuxreborn.netlify.app/slim/SyncOptions.html" maxTarget="9.*" minTarget="7.9" sha="579813ff0ad7d19973bc97c3f07f2b37f32f36d6" url="https://tuxreborn.netlify.app/slim/slim7/SyncOptions/SyncOptions-2.2.6.zip" version="2.2.6">
+      <changes lang="EN">2.2.6: updated URL and email in plugin info; 2.2.5: allow in LMS 9.* (untested); 2.2.4: allow running in LMS 8.0; 2.2.3: fix song title API usage bug; 2.2.0: relative player volume sync; 2.1.25: squelch deprecation warnings in 7.4, support --noweb</changes>
+      <desc lang="EN">Gives new settings for synchronizing players: relative volume sync; &quot;wait for next track&quot; to avoid disruptions; &quot;unsync at power off&quot;; restore local playlist after leaving a sync group. (Boom, Classic, Radio, Receiver, Squeezebox1, Slimp3, SoftSqueeze, Touch, Transporter) </desc>
+      <title lang="EN">SyncOptions</title>
+    </plugin>
+    <plugin category="tools" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="368" link="https://tuxreborn.netlify.app/slim/SyncOptions.html" maxTarget="9.*" minTarget="7.9" sha="579813ff0ad7d19973bc97c3f07f2b37f32f36d6" url="https://tuxreborn.netlify.app/slim/slim7/SyncOptions/SyncOptions-2.2.6.zip" version="2.2.6">
+      <changes lang="EN">2.2.6: updated URL and email in plugin info; 2.2.5: allow in LMS 9.* (untested); 2.2.4: allow running in LMS 8.0; 2.2.3: fix song title API usage bug; 2.2.0: relative player volume sync; 2.1.25: squelch deprecation warnings in 7.4, support --noweb</changes>
       <desc lang="EN">Gives new settings for synchronizing players: relative volume sync; &quot;wait for next track&quot; to avoid disruptions; &quot;unsync at power off&quot;; restore local playlist after leaving a sync group. (Boom, Classic, Radio, Receiver, Squeezebox1, Slimp3, SoftSqueeze, Touch, Transporter) </desc>
       <title lang="EN">SyncOptions</title>
     </plugin>
@@ -1327,8 +1316,8 @@
       <desc lang="EN">Gives new settings for synchronizing players: relative volume sync; &quot;wait for next track&quot; to avoid disruptions; &quot;unsync at power off&quot;; restore local playlist after leaving a sync group. (Boom, Classic, Radio, Receiver, Squeezebox1, Slimp3, SoftSqueeze, Touch, Transporter) </desc>
       <title lang="EN">SyncOptions</title>
     </plugin>
-    <plugin name="VolumeLock" category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="239" link="https://tuxreborn.netlify.app/slim/VolumeLock.html" maxTarget="7.*" minTarget="7.0" sha="144a84253a1e1dc7b97b06bc80cc7d831c0542e7" url="https://tuxreborn.netlify.app/slim/slim7/VolumeLock/VolumeLock-2.1.15.zip" version="2.1.15">
-      <changes lang="EN">2.1.15: fixed volume &amp; unmuting in 7.4/Radio; 2.1.14: more 7.4 fixes, new approach for Radio and Touch; 2.1.12: initial fixes for 7.4, but do NOT try to lock or cap the volume of a Touch or Radio (or Controller)!</changes>
+    <plugin category="misc" creator="Watkins, Peter" email="peter@townsendwatkins.com" installations="239" link="https://tuxreborn.netlify.app/slim/VolumeLock.html" maxTarget="9.*" minTarget="7.4" sha="ac050bc2c37288ffabcf56fb21757cd23752ecca" url="https://tuxreborn.netlify.app/slim/slim7/VolumeLock/VolumeLock-2.1.23.zip" version="2.1.23">
+      <changes lang="EN">2.1.23: updated URL and email in plugin info; 2.1.22: allow in LMS 9.* (untested); 2.1.20: allow use in LMS 8.* (untested); 2.1.17: no longer migrate very old prefs (fixes crash in LMS 7.9); 2.1.15: fixed volume &amp; unmuting in 7.4/Radio; 2.1.14: more 7.4 fixes, new approach for Radio and Touch; 2.1.12: initial fixes for 7.4, but do NOT try to lock or cap the volume of a Touch or Radio (or Controller)!</changes>
       <desc lang="EN">Allows you to lock the analog and digital output levels of any Squeezebox, Transporter, or SliMP3. Can either prevent any changes in volume, or simply set a maximum volume. (Boom, Classic, Radio, Receiver, Slimp3, SoftSqueeze, Squeezebox1, Touch, Transporter)</desc>
       <title lang="EN">VolumeLock</title>
     </plugin>
@@ -1351,8 +1340,8 @@
       <desc lang="EN">Fetches values from one or more JSON endpoints and makes them available to SuperDateTime/Custom Clock via sdtMacroString chaining.</desc>
       <title lang="EN">SuperDateTime Macro Extender</title>
     </plugin>
-    <plugin name="xAP" category="tools" creator="Edward Pearson" installations="48" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="375f8cabb786d80bc26bd9fe08c6fc5e53dda898" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.1.zip" version="2.4.1">
-      <changes lang="EN">Updates to work with Squeezebox Server v7.4.</changes>
+    <plugin category="tools" creator="Edward Pearson" installations="48" link="http://www.erspearson.com/xAP/Slim/slim_main.htm" maxTarget="*" minTarget="7.4" sha="b8ea619bda57e42fcfb462ab0d43e177db081ed6" url="http://www.erspearson.com/xAP/downloads/Squeezebox/xAP-2.4.3.zip" version="2.4.3">
+      <changes lang="EN">Reinstated messages to deal with server and player settings (preferences).</changes>
       <desc lang="EN">xAP Home Automation connects Squeezebox Server with other xAP-enabled services and devices around the home.</desc>
       <title lang="EN">xAP Home Automation</title>
     </plugin>
@@ -1473,23 +1462,23 @@
       <title lang="EN">Music Walk With Me</title>
       <title lang="DE">Musik marschier mit mir</title>
     </plugin>
-    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.3+" minTarget="7.3" sha="a45bb0ee7e80e0eb9f01560e2eed7ccc3c6f2dc0" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.2.zip" version="3.5.2">
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.4+" minTarget="7.4" sha="3f468de94ee53f8a7fc7e7ce52a4f05a10bd59fe" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.3.zip" version="3.5.3">
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.5+" minTarget="7.5" sha="ab731de74841aa968f27070fded15304512e82db" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.6.zip" version="3.5.6">
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="7.9+" minTarget="7.6" sha="2d1d47507ff55790374b5ac2af48f7a921996262" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.5.zip" version="3.6.5">
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="LazySearch2" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.0+" minTarget="7.6" sha="ca33644f5d6b3d58360f984e6e61e32cd3b4bd33" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.6.zip" version="3.6.6">
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="13" link="http://www.hickinbottom.com/lazysearch" maxTarget="8.1+" minTarget="7.6" sha="c4dbae85151895d8ff47544b35d7f4de4f76690f" target="windows|mac|unix" url="http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
@@ -1497,7 +1486,7 @@
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results &quot;as you type&quot;. This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <title lang="EN">LazySearch2</title>
     </plugin>
-    <plugin name="AutoRescan" category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="1128" link="http://www.hickinbottom.com/autorescan" maxTarget="7.5+" minTarget="7.3" sha="0216e7d946c5f9457301d56712b11476f68d84f3" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.1.zip" version="1.1">
+    <plugin category="scanning" creator="Stuart Hickinbottom" email="stuart@hickinbottom.com" installations="1128" link="http://www.hickinbottom.com/autorescan" maxTarget="7.9+" minTarget="7.7" sha="6e5449c5910f16af4fd55f9a59f379269e9da23b" target="windows|unix" url="http://www.hickinbottom.com/sc-plugins/AutoRescan-1.4.1.zip" version="1.4.1">
       <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of Squeezebox Server under ActivePerl - see the plugin website for further details.</desc>
       <title lang="EN">AutoRescan</title>
     </plugin>
