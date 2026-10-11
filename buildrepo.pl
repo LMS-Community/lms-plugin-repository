@@ -131,7 +131,7 @@ my $categoriesMap = {
 my %categories = map { $_ => 1 } values %$categoriesMap;
 
 my $includes;
-my $current;
+my $current = {};
 
 eval {
 	open my $fh, '<', INCLUDE_FILE;
@@ -173,7 +173,9 @@ my $out = {
 for my $url (sort @{$includes->{repositories}}) {
 
 	my $resp = $ua->get($url);
+	my $cache_file = cacheFileName($url);
 	my $content;
+	my $cachedRepo;
 
 	if (!$resp->is_success) {
 
@@ -186,13 +188,12 @@ for my $url (sort @{$includes->{repositories}}) {
 		}
 
 		if (!$content) {
-			my $cache_file = cacheFileName($url);
-
 			if (-f $cache_file) {
 				warn "using cached version $cache_file\n";
 				open(my $fh, '<:utf8', $cache_file) or warn "Could not read cache file: $!";
 				$content = <$fh>;
 				close($fh);
+				$cachedRepo = 1;
 			} else {
 				warn "no cached version available: $cache_file\n";
 			}
@@ -215,13 +216,6 @@ for my $url (sort @{$includes->{repositories}}) {
 		}
 
 		$content = $resp->decoded_content;
-
-		my $cache_file = cacheFileName($url);
-
-		# Write content to cache file
-		open(my $fh, '>:utf8', $cache_file) or warn "Could not write cache file $cache_file: $!";
-		print $fh $content;
-		close($fh);
 	}
 
 	if ($content) {
@@ -238,6 +232,13 @@ for my $url (sort @{$includes->{repositories}}) {
 		if ($@) {
 			print "bad xml ($url): $@\n\n$content\n";
 			die "bad xml ($url) $@";
+		}
+
+		# Write content to cache file if not cached already
+		if (!$cachedRepo) {
+			open(my $fh, '>:utf8', $cache_file) or warn "Could not write cache file $cache_file: $!";
+			print $fh $content;
+			close($fh);
 		}
 
 		for my $content (qw(applet wallpaper sound plugin patch)) {
@@ -269,10 +270,13 @@ for my $url (sort @{$includes->{repositories}}) {
 					}];
 				}
 
-				my $currentVersion = eval { $current->{$element}->{$content}->{$name}->{version}; };
-				if ($currentVersion && $item->{version} && compareVersions($currentVersion, $item->{version}) > 0) {
-					warn "do NOT downgrade - use data from latest committed merged repo file. Current: $currentVersion. 'new': " . $item->{version};
-					$item = $current->{$element}->{$content}->{$name};
+				# only run version check if we are using cached content
+				if ($cachedRepo) {
+					my $currentVersion = eval { $current->{$element}->{$content}->{$name}->{version}; };
+					if ($currentVersion && $item->{version} && compareVersions($currentVersion, $item->{version}) > 0) {
+						warn "do NOT downgrade - use data from latest committed merged repo file. Current: $currentVersion. 'new': " . $item->{version};
+						$item = $current->{$element}->{$content}->{$name};
+					}
 				}
 
 				print "  $content $name\n";
