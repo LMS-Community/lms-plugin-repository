@@ -276,6 +276,7 @@ for my $url (sort @{$includes->{repositories}}) {
 					if ($currentVersion && $item->{version} && compareVersions($currentVersion, $item->{version}) > 0) {
 						warn "do NOT downgrade - use data from latest committed merged repo file. Current: $currentVersion. 'new': " . $item->{version};
 						$item = $current->{$element}->{$content}->{$name};
+						$item->{name} ||= $name;
 					}
 				}
 
