@@ -56,7 +56,7 @@
 		"https://raw.githubusercontent.com/SamInPgh/denonavpcontrol/master/repo.xml",
 		"https://raw.githubusercontent.com/sle118/squeezelite-esp32/master-v4.3/plugin/repo.xml",
 		"https://raw.githubusercontent.com/stiefenm/spoton/main/repo.xml",
-		"https://raw.githubusercontent.com/toddmazierski/lms-wfmu-plugin/main/repo.xml",
+		"https://git.sr.ht/~toddmazierski/lms-wfmu-plugin/blob/main/repo.xml",
 		"https://raw.githubusercontent.com/upickartz/plugin-MyQobuz/main/repo/myqobuz.xml",
 		"https://server.vijge.net/static/squeezebox/repo.xml",
 		"https://simonarnold002.github.io/LMS-Eversolo-Screen-Control/repo.xml",
