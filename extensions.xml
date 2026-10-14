@@ -1426,7 +1426,7 @@
       <desc lang="EN">Read album reviews, artist biographies, related artists, song lyrics, see artist pictures and much more.</desc>
       <title lang="EN">Music and Artist Information</title>
     </plugin>
-    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1377" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0a" sha="03cc5f66b9efa2ce9a8c88f10a29314063347d10" url="https://www.herger.net/_data/MusicInfoSCR-4.5.1.zip" version="4.5.1">
+    <plugin name="MusicInfoSCR" category="information" creator="Michael Herger" email="slim@herger.net" installations="1377" link="https://www.herger.net/MusicInfoSCR/" maxTarget="*" minTarget="7.0aa" sha="5772a97cba27b727892b8b6fd4a08a143e6e8805" url="https://www.herger.net/_data/MusicInfoSCR-4.5.2.zip" version="4.5.2">
       <desc lang="EN">The Music Information Screen plugin allows customization of the player's Now Playing screen and other elements.</desc>
       <desc lang="DE">Das Musik-Informations Plugin erlaubt es, den Bildschirm weitgehend selber zu gestalten.</desc>
       <title lang="EN">Music Information Screen</title>
@@ -1449,7 +1449,7 @@
       <desc lang="EN">Keep track of what was playing while you were too busy to check the display.</desc>
       <title lang="EN">What Was That Tune?</title>
     </plugin>
-    <plugin name="RadioParadise" category="radio" changes="v3.6.0: add shortcut to play best quality stream of each mix. v3.6.5: fix redirect loop discovery. v3.6.6: fix displaying menu item in Radios on ip3k based players." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4436" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="65081d5863ff0fa2d07a8f9dfbf06afe5e97b266" url="https://www.herger.net/_data/RadioParadise-3.6.6.zip" version="3.6.6">
+    <plugin name="RadioParadise" category="radio" changes="v3.6.0: add shortcut to play best quality stream of each mix. v3.6.7: improve bitrate display (thanks SamInPgh!)." creator="Michael Herger" email="slim@herger.net" icon="https://raw.githubusercontent.com/michaelherger/RadioParadise/master/HTML/EN/plugins/RadioParadise/html/icon.png" installations="4436" link="https://www.herger.net/slim-plugins/" maxTarget="*" minTarget="7.9" sha="70066db10b498739071a67df19454c5d6254b9ba" url="https://www.herger.net/_data/RadioParadise-3.6.7.zip" version="3.6.7">
       <desc lang="EN">Play the lossless, interactive Radio Paradise streams!</desc>
       <title lang="EN">Radio Paradise</title>
     </plugin>
