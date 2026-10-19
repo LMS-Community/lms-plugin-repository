@@ -1065,7 +1065,7 @@
       <title lang="FR">Rendre du texte non-latin sur la famille Squeezebox Classic</title>
       <title lang="NL">Niet-Latijnse tekst weergeven op de Squeezebox Classic-familie</title>
     </plugin>
-    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="2568" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="1048fb5daaf5396c30440cd0af92a076db5a3501" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.7.2/Qobuz.zip" version="3.7.2">
+    <plugin name="Qobuz" category="musicservices" creator="Pierre Beck / Michael Herger / darrell / SamY / sveninndh" icon="https://raw.githubusercontent.com/LMS-Community/plugin-Qobuz/master/HTML/EN/plugins/Qobuz/html/images/icon.png" installations="2568" link="https://github.com/LMS-Community/plugin-Qobuz" maxTarget="*" minTarget="7.9" sha="1c58309147914f36d41f5c6cf9410ac91dda1947" url="https://github.com/LMS-Community/plugin-Qobuz/releases/download/3.7.3/Qobuz.zip" version="3.7.3">
       <desc lang="EN">Stream Qobuz to your Squeezebox.</desc>
       <title lang="EN">Qobuz</title>
     </plugin>
