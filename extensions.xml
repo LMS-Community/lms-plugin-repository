@@ -1114,8 +1114,8 @@
       <desc lang="EN">Build a saved playlist of an artist's actual hits from your own library. Uses Last.fm popularity data to pick the tracks, then matches them against the music you already own. Includes similar-artist expansion and a basket for combining several artists.</desc>
       <title lang="EN">Hits Playlist</title>
     </plugin>
-    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="123" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="7f516c558974f2003e9dad93e5e453fd8d8e65e0" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.3.0/MobileTranscode-1.3.0.zip" version="1.3.0">
-      <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables MP3 (320kbps), WAV, Opus and OGG Vorbis transcoding.</desc>
+    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="123" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="5f416942f882eb3efdd30f6d82311d7cea890150" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.4.1/MobileTranscode-1.4.1.zip" version="1.4.1">
+      <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables MP3 (320kbps), WAV, Opus and OGG Vorbis transcoding, and Opus/Ogg downloads for LyrPlay offline copies.</desc>
       <title lang="EN">Mobile Transcode Rules</title>
     </plugin>
     <plugin name="Fleck" category="misc" creator="nbeversl" installations="126" link="https://fleck-theme.org/" maxTarget="*" minTarget="7.9.0" sha="bc9e893745f910b2c2f758b9ce68c2295b5dcc44" url="https://github.com/nbeversl/fleck-lyrion/releases/download/0.0.75/FleckSkin-0.0.75.zip" version="0.0.75">
