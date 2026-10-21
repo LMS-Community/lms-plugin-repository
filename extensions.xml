@@ -1114,7 +1114,7 @@
       <desc lang="EN">Build a saved playlist of an artist's actual hits from your own library. Uses Last.fm popularity data to pick the tracks, then matches them against the music you already own. Includes similar-artist expansion and a basket for combining several artists.</desc>
       <title lang="EN">Hits Playlist</title>
     </plugin>
-    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="122" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="5f416942f882eb3efdd30f6d82311d7cea890150" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.4.1/MobileTranscode-1.4.1.zip" version="1.4.1">
+    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="122" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="f859c9a0c52f6c2ac27f6a1a4041cd17def54754" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.5.0/MobileTranscode-1.5.0.zip" version="1.5.0">
       <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables MP3 (320kbps), WAV, Opus and OGG Vorbis transcoding, and Opus/Ogg downloads for LyrPlay offline copies.</desc>
       <title lang="EN">Mobile Transcode Rules</title>
     </plugin>
