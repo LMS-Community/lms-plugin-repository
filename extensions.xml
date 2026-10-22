@@ -226,12 +226,12 @@
   <plugins>
     <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="371" link="http://forums.lyrion.org/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="9dbd38554ba46a69dbd3cc8efed85ab72b550adf" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.24.zip" version="1.2.24">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books.</desc>
-      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher.</desc>
+      <desc lang="DE">Lesezeichen fÃ¼r kÃ¼rzlich gehÃ¶rte Alben. NÃ¼tzlich fÃ¼r HÃ¶rspiele und HÃ¶rbÃ¼cher.</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="67" link="http://forums.lyrion.org/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">ErmÃ¶glicht es die Shuffle, Repeat und &quot;an Playliste anhÃ¤ngen&quot;-Modi fÃ¼r alle Clients zu sperren. Sie kÃ¶nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -267,15 +267,15 @@
 				- Radio France removed some of their APIs so change plugin to try to adapt
 			</changes>
       <changes lang="FR">
-				- Mettre ÃÂ  jour les logos des stations et certains noms de stations 'ici' 
-				- Pour Mouv - toutes les stations secondaires sont fermÃÂ©es
+				- Mettre Ã  jour les logos des stations et certains noms de stations 'ici' 
+				- Pour Mouv - toutes les stations secondaires sont fermÃ©es
 				- Ajouter Mon tout petit France Inter
-				- Pour France Info, utiliser des icÃÂ´nes spÃÂ©cifiques au programme
+				- Pour France Info, utiliser des icÃ´nes spÃ©cifiques au programme
 				- Merci @Atmis
-				- Radio France a supprimÃÂ© certaines de ses API, il faut donc changer de plugin pour tenter de s'adapter.
+				- Radio France a supprimÃ© certaines de ses API, il faut donc changer de plugin pour tenter de s'adapter.
 			</changes>
       <desc lang="EN">Radio France programme and track information plus on demand replay</desc>
-      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture ÃÂ  la demande</desc>
+      <desc lang="FR">Radio France - info sur le programme et morceau de musique, ainsi que la lecture Ã  la demande</desc>
       <title lang="EN">Radio France</title>
     </plugin>
     <plugin name="CBCCanadaFrancais" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/logo/CBCCanadaFrancais.png" installations="175" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/108893-announce-song-info-plugin-for-cbc-radio-canada-english-and-french-services#post108893" maxTarget="*" minTarget="7.5" sha="16bea13880068e925bbb6c04a71e441f3cacbc5e" url="http://radionowplaying.com/slimserver-rep/CBCCanadaFrancais-0.0.9.zip" version="0.0.9">
@@ -283,12 +283,12 @@
 				- One of the data sources changed with the result that some stations did not have their metadata fetched
 			</changes>
       <changes lang="FR">
-				- L'une des sources de donnÃÂ©es a changÃÂ©, ce qui a eu pour consÃÂ©quence que les mÃÂ©tadonnÃÂ©es de certaines stations n'ont pas pu ÃÂªtre rÃÂ©cupÃÂ©rÃÂ©es
+				- L'une des sources de donnÃ©es a changÃ©, ce qui a eu pour consÃ©quence que les mÃ©tadonnÃ©es de certaines stations n'ont pas pu Ãªtre rÃ©cupÃ©rÃ©es
 			</changes>
-      <desc lang="EN">CBC Radio-Canada FranÃÂ§ais programme and track information
+      <desc lang="EN">CBC Radio-Canada FranÃ§ais programme and track information
 			</desc>
-      <desc lang="FR">CBC Radio-Canada FranÃÂ§ais - info sur le programme et morceau de musique</desc>
-      <title lang="EN">CBC Radio-Canada FranÃÂ§ais</title>
+      <desc lang="FR">CBC Radio-Canada FranÃ§ais - info sur le programme et morceau de musique</desc>
+      <title lang="EN">CBC Radio-Canada FranÃ§ais</title>
     </plugin>
     <plugin name="PlanetRadio" category="radio" creator="Paul Webster" icon="http://radionowplaying.com/slimserver-rep/images/planetradio_svg.png" installations="412" link="https://forums.lyrion.org/forum/user-forums/3rd-party-software/111006-announce-planet-radio-bauer-media-plugin-planetrock-absolute-kiss-scala#post111006" maxTarget="*" minTarget="7.5" sha="ea36dc21bb0a6f920d08fe74b4940e28a0691e3c" url="http://radionowplaying.com/slimserver-rep/PlanetRadio-0.0.30.zip" version="0.0.30">
       <changes lang="EN">
@@ -318,10 +318,10 @@
 				- Add CKUT - Montreal, QC (ca) - artist, title, album and CoverSearch - programme title, synopsis and duration
 				- Add CKUW - Winnipeg, MB (ca) - programme title, subtitle and duration - sometimes artist, title, album, label and CoverSearch
 				- Add Cherry FM - Yakima, WA - artist, title, duration and cover art
-				- Add Cidade FM (pt) - artist, title, album and cover art (song timings variable) - programme name (except for MÃÂºsica NonStop), icon and duration - 4 stations
+				- Add Cidade FM (pt) - artist, title, album and cover art (song timings variable) - programme name (except for MÃºsica NonStop), icon and duration - 4 stations
 				- Add Classic Rock Hard Radio - artist, title, album and CoverSearch
 				- Add Colorado Public Radio - Centennial, CO - artist, title, album, label, composer (Classical station), duration and CoverSearch - programme title
-				- Add DistorsiÃÂ³n.FM - artist, title and CoverSarch - includes flac (but LMS does not like it much)
+				- Add DistorsiÃ³n.FM - artist, title and CoverSarch - includes flac (but LMS does not like it much)
 				- Add East Village Radio - New York, NY - artist, title and CoverSearch
 				- Add Europa FM (ro) - artist, title and cover art - programme title (and some fields that are not seen ... description, durationn and icon)
 				- Add Evropa 2 (cz) - artist, title, album, duration and cover art - programme title, subtitle (presenter), duration and icon
@@ -367,12 +367,12 @@
 				- Add Radio Energy (it) - artist, title and cover art - 4 stations
 				- Add Radio Italia (it) - artist, title and CoverSearch - programme name on primary station - 2 stations
 				- Add Radio Italo4you - artist, title, album and CoverSearch
-				- Add Radio RomÃÂ¢nia (ro) programme title and duration for many - artist, title and CoverSearch for small number of stations - 26 stations but many without any metadata
+				- Add Radio RomÃ¢nia (ro) programme title and duration for many - artist, title and CoverSearch for small number of stations - 26 stations but many without any metadata
 				- Add Radio Teddy (de) - artist, title and CoverSearch - 27 stations
 				- Add Radio Terminal (si) - artist, title and CoverSearch
 				- Add Radyo Eksen (tr) - artist, title and CoverSearch
 				- Add Radyo Modart (tr) - artist, title, duration (sometimes) and CoverSearch - programme title, description and subtitle
-				- Add Radyo ODTÃÂ (tr) - artist, title and CoverSearch - 9 stations (song metadata sourced in MessagePack format)
+				- Add Radyo ODTÃ (tr) - artist, title and CoverSearch - 9 stations (song metadata sourced in MessagePack format)
 				- Add Solar Radio - programme title, description, duration and icon
 				- Add Spokane Public Radio - Spokane, WA - programme title, subtitle, duration - artist, title, album, label, duration and cover art - song details not always available - 3 stations (NPR)
 				- Add Starpoint Radio - programme title, subtitle (DJ), duration and icon
@@ -423,7 +423,7 @@
 				- Add WYEP - Pittsburgh, PA - NPR station has programme info and sometimes song info. Jazzworks - artists, title, album and Coversearch - 3 stations (NPR)
 				- Add WYMS - Milwaukee, WI - artist, title, album and label - 3 stations but not same info on all
 				- Add WZBC - Newton, MA - artist, title, album, label, year and cover art - programme title, subtitle, duration and icon
-				- Add ZUN rÃÂ¡dio (cz) - artist, title and CoverSearch - programme title
+				- Add ZUN rÃ¡dio (cz) - artist, title and CoverSearch - programme title
 				- Add Zoe Gold (be) - artist, title, album, year, duration and CoverSearch
 				- Add lalala (gr) - artist, title, duration and cover art - 8 stations
 				- Add radio.co - autoregistration of stations that use radio.co as their streaming provider - 2 stations included as placeholders (ACRN and Folk'd Up Radio) - artist, title, album, duration and cover art. There are some others already included as stand-alone stations and might move them to here in the future.
@@ -449,12 +449,12 @@
 				- For Nova (fr) - metadata source changed
 				- For Organ Media (Positively Baroque station) - metadata source changed
 				- For Progressieve Rock (nl) - syntax of metadata changed
-				- For RTÃÂ (ie) - add &quot;RTE&quot; as a searchable name so the accented character does not have to be entered to find it
+				- For RTÃ (ie) - add &quot;RTE&quot; as a searchable name so the accented character does not have to be entered to find it
 				- For RTL (be) - update station list and icons - now 18 stations
 				- For Radio Brennpunkt - update stream match regex
-				- For Radio FrÃÂ©toise (fr) - metadata source changed
+				- For Radio FrÃ©toise (fr) - metadata source changed
 				- For Radio Jeunes Reims (fr) - metadata source changed
-				- For Radio KÃÂ¶ln (de) - add hidden redirected streams so that LMS 9.2 RadioArtwork plugin does not start a battle
+				- For Radio KÃ¶ln (de) - add hidden redirected streams so that LMS 9.2 RadioArtwork plugin does not start a battle
 				- For Radio La Belle Aventure - stream URLs and metadata source changed
 				- For Retrosquad Radio (id) - change some stream URLs (flac gone)
 				- For SWR (de) - extra stream URLs plus update station logos
@@ -478,7 +478,7 @@
 				- Update Broadcast Radio directory - now 192 stations
 				- Updated metadata URL for a few stations to try to make them more future proof - ISEKOI Radio, Radiobilly365.com, rundfunk.fm (ch), Starter FM (au)
 
-				- Add a hidden field that is used in search, primarily so that an alternative station name can be added - such as Melodia for ÃÂÃÂµÃÂ»ÃÂÃÂ´ÃÂ¯ÃÂ± (Greek)
+				- Add a hidden field that is used in search, primarily so that an alternative station name can be added - such as Melodia for ÎÎµÎ»ÏÎ´Î¯Î± (Greek)
 				- Add ability to test for recording type in source data to determine if song is from an album rather than just relying on a name being present in the checked title field
 				- Add duration to a few stations - (Inhailer (WGUC), Radio Artifact, The Christmas Station)
 				- Add optional conversion of underscore to space in song title to (was already available for artist) - done because of Radio Romania Vacanta Fresh
@@ -503,7 +503,7 @@
 			</changes>
       <desc lang="EN">Programme and track information including cover art for over 7900 radio stations</desc>
       <desc lang="FR">Titre, pochette et, occasionnellement, informations sur le programme pour plus de 7900 stations de radio</desc>
-      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen fÃÂ¼r mehr als 7900 Radiosender</desc>
+      <desc lang="DE">Titel, Cover und gelegentlich Programm-Informationen fÃ¼r mehr als 7900 Radiosender</desc>
       <desc lang="DA">Titler, forsider og lejlighedsvis programinformation for mere end 7900 radiostationer</desc>
       <title lang="EN">Radio Now Playing</title>
     </plugin>
@@ -997,7 +997,7 @@
       <desc lang="EN">A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracksâ¦ Complete feature list, screenshots and more information on the GitHub page.</desc>
       <title lang="EN">PotPourri</title>
     </plugin>
-    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="305" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="7a420d91299113cc4d64bbe5058b2140ec923eab" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.1.7/lms-ratingslight-3.1.7.zip" version="3.1.7">
+    <plugin name="RatingsLight" category="information" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-ratingslight/main/screenshots/rl_repo_icon.png" installations="305" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="4a0a1c7e3ccdfc5860544de5f6366a284c1aa8a1" url="https://github.com/AF-1/lms-ratingslight/releases/download/3.1.8/lms-ratingslight-3.1.8.zip" version="3.1.8">
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with optional LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
@@ -1077,8 +1077,8 @@
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="529" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="a857cc3a7d102671683b621853e5693bc38f72ac" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.19/SuperDateTime.zip" version="5.12.19">
-      <changes lang="EN">Improved retrieval and display of NCAA college football team logos.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="529" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="08906026dc98dc0b9b27dcc1af984bf743cb7800" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.20/SuperDateTime.zip" version="5.12.20">
+      <changes lang="EN">Fixed weather data retrieval for averages and personal weather stations.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
