@@ -1047,6 +1047,10 @@
       <desc lang="EN">DSP and EQ for Squeezebox server based off InguzDSP</desc>
       <title lang="EN">SqueezeboxEQ</title>
     </plugin>
+    <plugin name="LyrionJS" category="misc" creator="JameZUK" installations="44" link="https://github.com/JameZUK/LyrionJS" maxTarget="*" minTarget="8.0" sha="499bf137e14feac848ae3e50c92a09eec06527b0" url="https://github.com/JameZUK/LyrionJS/releases/download/v0.2.31/LyrionJS-0.2.31.zip" version="0.2.31">
+      <desc lang="EN">Play music in any web browser: the browser becomes a Slimproto player in LMS, with a full controller.</desc>
+      <title lang="EN">LyrionJS</title>
+    </plugin>
     <plugin name="DSDPlayer" category="hardware" creator="Kimmo, Triode, Ralphy" email="triode1@btinternet.com" installations="3492" link="" maxTarget="9.*" minTarget="7.9" sha="98388d8cad67646569ff4c7331870435099b6426" url="https://github.com/LMS-Community/plugin-DSDPlayer/releases/download/1.14/plugin-DSDPlayer-1.14.zip" version="1.14">
       <desc lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
       <title lang="EN">DSDPlayer</title>
