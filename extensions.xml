@@ -1081,8 +1081,8 @@
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="526" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="08906026dc98dc0b9b27dcc1af984bf743cb7800" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.20/SuperDateTime.zip" version="5.12.20">
-      <changes lang="EN">Fixed weather data retrieval for averages and personal weather stations.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="526" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="379f3e83ae306831cf945517748c343cafa1a2e9" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.21/SuperDateTime.zip" version="5.12.21">
+      <changes lang="EN">Allow for entry of personal WU API key.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
@@ -1118,7 +1118,7 @@
       <desc lang="EN">Build a saved playlist of an artist's actual hits from your own library. Uses Last.fm popularity data to pick the tracks, then matches them against the music you already own. Includes similar-artist expansion and a basket for combining several artists.</desc>
       <title lang="EN">Hits Playlist</title>
     </plugin>
-    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="122" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="f859c9a0c52f6c2ac27f6a1a4041cd17def54754" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.5.0/MobileTranscode-1.5.0.zip" version="1.5.0">
+    <plugin name="MobileTranscode" category="misc" creator="Eric Miller (mtxmiller)" email="ericlmiller@gmail.com" installations="122" link="https://github.com/mtxmiller/MobileTranscode" maxTarget="9.*" minTarget="7.9" sha="65789f3f66f0ac48ed229709393b9601cff90c88" url="https://github.com/mtxmiller/MobileTranscode/releases/download/v1.5.3/MobileTranscode-1.5.3.zip" version="1.5.3">
       <desc lang="EN">Optimized custom-convert.conf rules for mobile Lyrion clients (LyrPlay). Enables MP3 (320kbps), WAV, Opus and OGG Vorbis transcoding, and Opus/Ogg downloads for LyrPlay offline copies.</desc>
       <title lang="EN">Mobile Transcode Rules</title>
     </plugin>
