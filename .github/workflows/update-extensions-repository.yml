@@ -7,6 +7,8 @@ on:
 
 env:
   MAX_REMOVAL_DIFF: 3
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 
 jobs:
   merge:
@@ -15,7 +17,7 @@ jobs:
     steps:
       - name: Install depedencies
         if: ${{ !env.ACT }}
-        uses: awalsh128/cache-apt-pkgs-action@latest
+        uses: awalsh128/cache-apt-pkgs-action@v1.6.1
         with:
           packages: libjson-perl libxml-simple-perl libwww-perl
           version: 1
@@ -30,17 +32,23 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Cache downloads
-        uses: actions/cache@v5
+        uses: actions/cache/restore@v5
         with:
           path: .download-cache
           key: lms-extensions-repo-${{ hashFiles('extensions.xml') }}
-          restore-keys: lms-extensions-repo
+          restore-keys: lms-extensions-repo-
 
       - name: Merge repository files
         id: merge
         run: |
           perl buildrepo.pl
           echo "name=LMS_REPO_DIFF_VALUE::$(git diff --numstat | fgrep extensions.xml | awk '{ print $2-$1 }') >> $GITHUB_OUTPUT"
+
+      - name: Save downloads cache
+        uses: actions/cache/save@v5
+        with:
+          path: .download-cache
+          key: lms-extensions-repo-${{ hashFiles('extensions.xml') }}
 
       - name: Push Changes (if needed and reasonable)
         if: steps.merge.outputs.LMS_REPO_DIFF_VALUE < env.MAX_REMOVAL_DIFF
@@ -51,7 +59,7 @@ jobs:
             echo No changes to commit
           else
             git config user.name "LMS Extensions Repository Updater"
-            git config user.email "noreply-extensions-updater@logitech.com"
+            git config user.email "noreply-gitmaster@lms-community.org"
             git commit -a -m "Update Extensions Repository ${{ github.event.inputs.version }}"
             git push
           fi
