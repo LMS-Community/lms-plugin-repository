@@ -524,7 +524,7 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
-    <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="37" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="4e97ba19dc18309af6a61f2fc5d9896e874ea441" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.84/ym084.zip" version="0.84">
+    <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="37" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="9e568f855cce3b0f7132f7409b43a9958836bf12" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.85/ym085.zip" version="0.85">
       <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
       <title lang="EN">yandex</title>
     </plugin>
@@ -975,7 +975,7 @@
       <desc lang="EN">Dark-themed version of the LMS Logic Teal skin</desc>
       <title lang="EN">Dark Logic Skin</title>
     </plugin>
-    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="638" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="a938e1e2ae402816e8910e2bfdc9df2d8355ca27" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.7.6/lms-dynamicplaylists-4.7.6.zip" version="4.7.6">
+    <plugin name="DynamicPlaylists4" category="playlists" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-dynamicplaylists/main/screenshots/dpl_icon.png" installations="638" link="https://github.com/AF-1" maxTarget="*" minTarget="8.0" sha="8a44cfd1a4892c5e5189163a88ef9fddace70776" url="https://github.com/AF-1/lms-dynamicplaylists/releases/download/4.7.7/lms-dynamicplaylists-4.7.7.zip" version="4.7.7">
       <desc lang="EN">Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria.</desc>
       <desc lang="FR">Jouez des mix continus de musique basÃ©s sur des critÃ¨res de sÃ©lection dÃ©finis dans les listes de lecture dynamiques.</desc>
       <desc lang="DE">Nutze intelligente/dynamische Wiedergabelisten, um kontinuierliche Wiedergabelisten basierend auf deinen Selektionskriterien zu erstellen.</desc>
