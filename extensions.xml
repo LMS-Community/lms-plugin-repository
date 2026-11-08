@@ -523,6 +523,10 @@
       <desc lang="EN">Plugin to easily generate library views.</desc>
       <title lang="EN">Simple Library Views</title>
     </plugin>
+    <plugin name="RediscoverReleases" category="playlists" creator="arigit" icon="https://arigit.github.io/LMS-Rediscover-Your-Music/RediscoverReleases/HTML/EN/plugins/RediscoverReleases/html/images/icon_svg.png" installations="12" link="https://github.com/arigit/LMS-Rediscover-Your-Music" maxTarget="*" minTarget="8.0.0" sha="3806ae37946ac2a08c9fc0cadeaf669d486ff3f3" url="https://arigit.github.io/LMS-Rediscover-Your-Music/releases/RediscoverReleases-1.1.1.zip" version="1.1.1">
+      <desc lang="EN">A list of random releases that prefers albums with no recent plays: a Material skin home row, a My Music browse entry and a Don't Stop The Music mix.</desc>
+      <title lang="EN">Rediscover Releases</title>
+    </plugin>
     <plugin name="yandex" category="musicservices" creator="Alexander Chernysh" email="chernysh.a@gmail.com" icon="https://chernyshalexander.github.io/YandexMusicLMS/yandex.png" installations="36" link="https://github.com/chernyshalexander/YandexMusicLMS" maxTarget="*" minTarget="7.9" sha="9e568f855cce3b0f7132f7409b43a9958836bf12" url="https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.85/ym085.zip" version="0.85">
       <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
       <title lang="EN">yandex</title>
@@ -1125,6 +1129,12 @@
     <plugin name="TEFRadio" category="misc" creator="Kasper S Nielsen" creatorEmail="kasper@smsweb.dk" icon="https://raw.githubusercontent.com/macsatcom/Lyrion_TEF_FM_Radio/main/Plugins/TEFRadio/HTML/EN/plugins/TEFRadio/html/images/icon.png" link="https://github.com/macsatcom/Lyrion_TEF_FM_Radio" maxTarget="*" minTarget="8.0" sha="1cd8f5167abc9b3916efabf70d0cd7c8d18f28d3" url="https://github.com/macsatcom/Lyrion_TEF_FM_Radio/releases/download/plugin-v0.90.1/TEFRadio-0.90.1.zip" version="0.90.1">
       <desc lang="EN">FM and AM radio via TEF668X USB tuner — RDS metadata, FM scan, direct pipe into LMS</desc>
       <title lang="EN">TEF FM/AM Radio</title>
+    </plugin>
+    <plugin name="DKRadio" category="radio" creator="Kasper S Nielsen" creatorEmail="kasper@smsweb.dk" link="https://github.com/macsatcom/lyrion-dansk-radio" maxTarget="*" minTarget="8.0" sha="37dd925836f95eb7dac0598d39620d758037162f" url="https://github.com/macsatcom/lyrion-dansk-radio/releases/download/plugin-v0.1.2/DKRadio-0.1.2.zip" version="0.1.2">
+      <desc lang="EN">All Danish radio stations from radio.dk</desc>
+      <desc lang="DA">Alle danske radiostationer fra radio.dk</desc>
+      <title lang="EN">DK Radio</title>
+      <title lang="DA">DK Radio</title>
     </plugin>
     <plugin name="C3PO" category="tools" creator="marcoc1712" email="marcoc1712@gmail.com" installations="343" link="" maxTarget="*" minTarget="7.8.0" sha="3a4b64b122e1bcb6e223b67d16d7f8a3df57c3f8" url="https://github.com/marcoc1712/C-3PO/releases/download/2.03.02/C3PO-v2.03.02.zip" version="2.03.02">
       <desc lang="EN">Automate transcoding and resampling</desc>
