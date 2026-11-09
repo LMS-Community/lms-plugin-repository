@@ -226,12 +226,12 @@
   <plugins>
     <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="354" link="http://forums.lyrion.org/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="9dbd38554ba46a69dbd3cc8efed85ab72b550adf" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.24.zip" version="1.2.24">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books.</desc>
-      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher.</desc>
+      <desc lang="DE">Lesezeichen fÃ¼r kÃ¼rzlich gehÃ¶rte Alben. NÃ¼tzlich fÃ¼r HÃ¶rspiele und HÃ¶rbÃ¼cher.</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="72" link="http://forums.lyrion.org/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">ErmÃ¶glicht es die Shuffle, Repeat und &quot;an Playliste anhÃ¤ngen&quot;-Modi fÃ¼r alle Clients zu sperren. Sie kÃ¶nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -789,23 +789,6 @@
     <plugin name="BMPFonts" category="hardware" creator="Daniel Frein" email="daniel.frein@gmail.com" installations="128" link="https://forums.lyrion.org/forum/user-forums/general-discussion/111149-new-bitmap-fonts-for-transporter-and-sb2-sb3/" maxTarget="*" minTarget="7.0" sha="d3fa0bd48b4d014d88745bf62451887036a7e088" url="https://github.com/dfrein/lms-plugin-repository/raw/main/BMPFonts-1.0.zip" version="1.0">
       <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
       <title lang="EN">BMPFonts Plugin</title>
-    </plugin>
-    <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" installations="1014" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="7a1190b80d1aaf9eb908b1a8cccac59bd2400664" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.2.zip" version="1.3.2">
-      <changes lang="EN">v1.3.2: Bugfixes and increased image resolution.</changes>
-      <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
-      <title lang="EN">ARD Audiothek</title>
-    </plugin>
-    <plugin name="SiriusXM" catagory="musicservices" category="misc" creator="paul-1" icon="https://raw.githubusercontent.com/paul-1/plugin-SiriusXM/main/Plugins/SiriusXM/HTML/EN/plugins/SiriusXM/html/images/SiriusXMLogo.png" installations="166" link="https://github.com/paul-1/plugin-SiriusXM" maxTarget="*" minTarget="8.3" sha="57bb1e448857cf104760eda2b5e9a454c7e46cba" url="https://github.com/paul-1/plugin-SiriusXM/releases/download/v1.0.1/SiriusXM-1.0.1.zip" version="1.0.1">
-      <changes lang="EN">
-              - Add precaching of playlist and segmenets
-              - Track login cookies independantly of channel cookies.
-              - Cache cookies, channel data and retain between restarts(prevents login on every channel change)
-              - Download the smallest playlist size needed.
-              - Track Playing timestamp against xmplaylist.com play time for metadata sync.
-              - Make sure player is not a sync-slave when updating metadata (1.0.1)
-            </changes>
-      <desc lang="EN">Stream SiriusXM satellite radio through Lyrion Music Server</desc>
-      <title lang="EN">SiriusXM</title>
     </plugin>
     <plugin name="Pyrrha" category="musicservices" creator="sspiff" installations="443" link="" maxTarget="*" minTarget="8.3.0" sha="2d2a0dea28735b0da984df9d9a2b472ed72e9c7c" url="https://github.com/sspiff/lms-plugin-pyrrha/releases/download/0.6.0/lms-plugin-Pyrrha-0.6.0.zip" version="0.6.0">
       <desc lang="EN">Daughter of Pandora</desc>
