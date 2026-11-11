@@ -226,12 +226,12 @@
   <plugins>
     <plugin name="BookmarkHistory" category="tools" creator="Martin Johnen" email="m.johnen@gmail.com" installations="354" link="http://forums.lyrion.org/showthread.php?102859-New-plugin-for-audio-bookmarks/" maxTarget="9.*" minTarget="7.6" sha="9dbd38554ba46a69dbd3cc8efed85ab72b550adf" url="http://mjohnen.bplaced.net/repo/bookmarkhistory-1.2.24.zip" version="1.2.24">
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books.</desc>
-      <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher.</desc>
+      <desc lang="DE">Lesezeichen fÃ¼r kÃ¼rzlich gehÃ¶rte Alben. NÃ¼tzlich fÃ¼r HÃ¶rspiele und HÃ¶rbÃ¼cher.</desc>
       <title lang="EN">Bookmarks</title>
     </plugin>
     <plugin name="DisableShuffle" category="playlists" creator="Martin Johnen" email="m.johnen@gmail.com" installations="72" link="http://forums.lyrion.org/showthread.php?102851-Plugin-to-suppress-quot-Shuffle-quot-quot-Repeat-quot-and-quot-Add-to-Playlist-quot-Modes" maxTarget="9.*" minTarget="7.6" sha="4913d1a55fcafab0b8cf2c0b3b3c720ea8c31bf6" url="http://mjohnen.bplaced.net/repo/disableshuffle-1.0.1.zip" version="1.0.1">
       <desc lang="EN">Allows to disable shuffle, repeat and &quot;add to playlist&quot; mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
-      <desc lang="DE">Ermöglicht es die Shuffle, Repeat und &quot;an Playliste anhängen&quot;-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
+      <desc lang="DE">ErmÃ¶glicht es die Shuffle, Repeat und &quot;an Playliste anhÃ¤ngen&quot;-Modi fÃ¼r alle Clients zu sperren. Sie kÃ¶nnen jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
       <title lang="EN">Disable Shuffle</title>
     </plugin>
     <plugin name="iPeng" category="skin" creator="Joerg Schwieder" email="coolio@penguinlovesmusic.com" link="http://penguinlovesmusic.com" maxTarget="7.5+" minTarget="7.0a" sha="295a4d8e324a664fe5abd766e66ec85d371477b6" url="http://penguinlovesmusic.de/wp-content/uploads/2009/08/iPeng054.zip" version="0.5.4">
@@ -527,7 +527,7 @@
       <desc lang="EN">A list of random releases that prefers albums with no recent plays: a Material skin home row, a My Music browse entry and a Don't Stop The Music mix.</desc>
       <title lang="EN">Rediscover Releases</title>
     </plugin>
-    <plugin name="Zvuk" category="misc" creator="Alexander Chernysh" icon="https://chernyshalexander.github.io/lms-zvuk/zvuk_svg.png" link="https://github.com/chernyshalexander/lms-zvuk" maxTarget="*" minTarget="7.9" sha="61187dca3e5512579fbfd16a1a95e56dc43873e3" url="https://github.com/chernyshalexander/lms-zvuk/releases/download/v0.6.0/lms-zvuk.zip" version="0.6.0">
+    <plugin name="Zvuk" category="musicservices" creator="Alexander Chernysh" icon="https://chernyshalexander.github.io/lms-zvuk/zvuk_svg.png" link="https://github.com/chernyshalexander/lms-zvuk" maxTarget="*" minTarget="7.9" sha="61187dca3e5512579fbfd16a1a95e56dc43873e3" url="https://github.com/chernyshalexander/lms-zvuk/releases/download/v0.6.0/lms-zvuk.zip" version="0.6.0">
       <desc lang="EN">A plugin for LMS integrates the Russian streaming service Zvuk.com into your audio system, granting full access to your library, playlists, and customized radio streams in Hi-Fi quality directly on your connected players.
 </desc>
       <title lang="EN">Zvuk</title>
@@ -1005,7 +1005,7 @@
       <desc lang="EN">Set, display, import, export, log, backup and restore track ratings. Create virtual sublibraries / library views for rated tracks with optional LMS browse menus.</desc>
       <title lang="EN">Ratings Light</title>
     </plugin>
-    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="266" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="8194f908e36f64f1975a44d1b549d84a3dcd8671" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.6.2/lms-virtuallibrarycreator-1.6.2.zip" version="1.6.2">
+    <plugin name="VirtualLibraryCreator" category="scanning" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-virtuallibrarycreator/main/screenshots/vlc_icon.png" installations="266" link="https://github.com/AF-1" maxTarget="*" minTarget="8.4" sha="57264420e91558b1b97843f56b13a81828d66bb1" url="https://github.com/AF-1/lms-virtuallibrarycreator/releases/download/1.6.3/lms-virtuallibrarycreator-1.6.3.zip" version="1.6.3">
       <desc lang="EN">A quick and easy way to create and manage your own virtual sublibraries / library views.</desc>
       <title lang="EN">Virtual Library Creator</title>
     </plugin>
@@ -1176,6 +1176,10 @@
     <plugin name="UnifiedHiFi" category="misc" creator="Muness Castle" installations="64" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="3dfb867eec74c21cd2768d95c28cf190ac4c3324" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v3.6.0/lms-unified-hifi-control-3.6.0.zip" version="3.6.0">
       <desc lang="EN">Source-agnostic hi-fi control bridge for Roon, LMS, HQPlayer, and hardware knobs. Provides HTTP APIs, MQTT integration, and web UI for controlling your audio system from anywhere.</desc>
       <title lang="EN">Unified Hi-Fi Control</title>
+    </plugin>
+    <plugin name="NewShoutcast" category="misc" creator="oweitman" email="oweitman@users.noreply.github.com" installations="23" link="https://github.com/oweitman/LMS-shoutcast" maxTarget="*" minTarget="7.7" sha="20fb01c073579afa872b114d0f055efb6e795928" url="https://github.com/oweitman/LMS-shoutcast/releases/download/v1.0.1/SHOUTcast-Directory-1.0.1.zip" version="1.0.1">
+      <desc lang="EN">Play Shoutcast radio streams without a mysqueezebox.com account.</desc>
+      <title lang="EN">SHOUTcast Directory</title>
     </plugin>
     <plugin name="RadioHelsinki" category="musicservices" creator="Miska" installations="23" link="https://github.com/patapovich/rh-ondemand-lyrion" maxTarget="*" minTarget="8.2" sha="ed649061cfa22366ac6394a869a7844bc8fe881e" url="https://github.com/patapovich/rh-ondemand-lyrion/releases/download/v1.4.0/RadioHelsinki-1.4.0.zip" version="1.4.0">
       <desc lang="EN">Browse and play Radio Helsinki on-demand programs, podcasts and clips.</desc>
