@@ -1098,8 +1098,8 @@
       <desc lang="EN">This plugin allows a network-ready Denon or Marantz AVR connected to an LMS player to be controlled from any Lyrion client app via telnet. In addition to automatically turning the AVR on and off and changing/muting the volume, other AVR settings can be adjusted using a set of client menus.</desc>
       <title lang="EN">Denon/Marantz AVR Control</title>
     </plugin>
-    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="542" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="379f3e83ae306831cf945517748c343cafa1a2e9" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.21/SuperDateTime.zip" version="5.12.21">
-      <changes lang="EN">Allow for entry of personal WU API key.</changes>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png" installations="542" link="https://github.com/boom-X2/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="db49aeb21d83c0affc14ad75bc6c8ecb30d69389" url="https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.22/SuperDateTime.zip" version="5.12.22">
+      <changes lang="EN">Fixed Overtime game clock for CBB games.</changes>
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
       <title lang="EN">SuperDateTime</title>
     </plugin>
