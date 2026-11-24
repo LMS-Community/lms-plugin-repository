@@ -1094,7 +1094,7 @@
       <desc lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
       <title lang="EN">Signal Generator</title>
     </plugin>
-    <plugin name="HAScreenSaver" category="misc" creator="Nornode" icon="https://raw.githubusercontent.com/Nornode/lms-ha-screensaver/main/server-plugin/HAScreenSaver/HTML/EN/plugins/HAScreenSaver/html/images/icon.png" installations="8" link="https://github.com/Nornode/lms-ha-screensaver" maxTarget="*" minTarget="8.0" sha="b330ddef5e60ed26e1c02023c057405852625191" url="https://github.com/Nornode/lms-ha-screensaver/releases/download/v1.5.1/HAScreenSaver-plugin-v1.5.1.zip" version="1.5.1">
+    <plugin name="HAScreenSaver" category="misc" creator="Nornode" icon="https://raw.githubusercontent.com/Nornode/lms-ha-screensaver/main/server-plugin/HAScreenSaver/HTML/EN/plugins/HAScreenSaver/html/images/icon.png" installations="8" link="https://github.com/Nornode/lms-ha-screensaver" maxTarget="*" minTarget="8.0" sha="7eefb1b10c11e649f9f9b3cdfaa7655d6a641f82" url="https://github.com/Nornode/lms-ha-screensaver/releases/download/v2.0.0/HAScreenSaver-plugin-v2.0.0.zip" version="2.0.0">
       <desc lang="EN">Stateless live proxy serving Home Assistant sensor states, weather condition, door/alert status, and radio alarm status to the Home Assistant Clock screensaver applet on Squeezebox Radio, Squeezebox Controller, Squeezebox Touch, and Jivelite, with zero long-term caching. Automatically serves the applet over plain local HTTP to Applet Installer.</desc>
       <title lang="EN">Home Assistant Screensaver</title>
     </plugin>
@@ -1177,7 +1177,7 @@
       <desc lang="EN">A Lyrion Music Server plugin that bridges Plex metadata into LMS when tracks are streamed through the Squeeze Plex Hub application.</desc>
       <title lang="EN">Squeeze Plex Hub</title>
     </plugin>
-    <plugin name="UnifiedHiFi" category="misc" creator="Muness Castle" installations="61" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="3dfb867eec74c21cd2768d95c28cf190ac4c3324" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v3.6.0/lms-unified-hifi-control-3.6.0.zip" version="3.6.0">
+    <plugin name="UnifiedHiFi" category="misc" creator="Open Horizon Labs" installations="61" link="https://forums.lyrion.org/forum/user-forums/3rd-party-hardware/1804977-roon-knob-includes-lms-support" maxTarget="*" minTarget="8.0" sha="e76d1eda1a1014ceee7261588e2bea4707e2d7e5" url="https://github.com/open-horizon-labs/unified-hifi-control/releases/download/v4.0.2/lms-unified-hifi-control-4.0.2.zip" version="4.0.2">
       <desc lang="EN">Source-agnostic hi-fi control bridge for Roon, LMS, HQPlayer, and hardware knobs. Provides HTTP APIs, MQTT integration, and web UI for controlling your audio system from anywhere.</desc>
       <title lang="EN">Unified Hi-Fi Control</title>
     </plugin>
