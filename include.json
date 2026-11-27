@@ -19,6 +19,7 @@
 		"https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/stablerepo.xml",
 		"https://ftp.foobarjo.org/LMS/foobarjo-stable.xml",
 		"https://github.com/dfrein/lms-plugin-repository/raw/main/extensions.xml",
+		"https://github.com/macsatcom/Lyrion_MQTT/releases/latest/download/repo.xml",
 		"https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/repo.xml",
 		"https://github.com/paul-1/plugin-SiriusXM/releases/latest/download/repo.xml",
 		"https://github.com/sspiff/lms-plugin-pyrrha/releases/download/repo-stable/repo.xml",
